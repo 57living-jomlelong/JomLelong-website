@@ -138,6 +138,7 @@ export default function VideoCard({
         playsInline
         loop
         preload="metadata"
+        controlsList="nodownload"
       />
 
       {!isPlaying && (
