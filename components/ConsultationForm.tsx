@@ -10,7 +10,7 @@ import {
 } from "@/lib/constants";
 import { buildWhatsAppUrl } from "@/lib/utils";
 
-const BUDGET_UNSET = "-";
+const BUDGET_UNSET = "Any";
 const BUDGET_OPTIONS = [
   { label: BUDGET_UNSET },
   ...PRICE_RANGES.filter((r) => r.label !== "Any Price"),
@@ -260,7 +260,7 @@ export default function ConsultationForm({ onLead }: ConsultationFormProps = {})
                     <span className="text-red-700" aria-hidden="true">
                       *
                     </span>{" "}
-                    Mandatory fields
+                    Mandatory field(s)
                   </p>
 
                   <button
