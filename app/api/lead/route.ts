@@ -7,11 +7,14 @@ type SheetEvent = (typeof SHEET_EVENTS)[number];
 
 const LEAD_FIELDS = [
   "fullName",
+  "email",
   "whatsapp",
   "location",
   "budget",
   "propertyType",
 ] as const;
+
+const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 const TRACKING_FIELDS = [
   "visitorId",
@@ -63,9 +66,16 @@ export async function POST(request: NextRequest) {
     fields[key] = event === "Lead" ? pickString(body, key) : "";
   }
 
-  if (event === "Lead" && (!fields.fullName || !fields.whatsapp)) {
+  if (event === "Lead" && (!fields.fullName || !fields.email || !fields.whatsapp)) {
     return Response.json(
-      { ok: false, error: "Name and WhatsApp number are required" },
+      { ok: false, error: "Name, email, and WhatsApp number are required" },
+      { status: 400 }
+    );
+  }
+
+  if (event === "Lead" && !EMAIL_PATTERN.test(fields.email)) {
+    return Response.json(
+      { ok: false, error: "A valid email is required" },
       { status: 400 }
     );
   }

@@ -20,7 +20,7 @@ export function getMetaPixelId(): string | null {
   return id && PIXEL_ID_PATTERN.test(id) ? id : null;
 }
 
-/** Fires the standard Lead event. Name and phone are never sent to Meta. */
+/** Fires the standard Lead event. Name, email, and phone are never sent to Meta. */
 export function trackLead(lead: ConsultationLead): void {
   if (typeof window === "undefined" || !window.fbq) return;
 

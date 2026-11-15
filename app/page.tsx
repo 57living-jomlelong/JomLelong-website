@@ -7,7 +7,7 @@ import TrustBar from "@/components/TrustBar";
 import VideoCarousel from "@/components/VideoCarousel";
 import PropertyListings from "@/components/PropertyListings";
 import HowItWorks from "@/components/HowItWorks";
-import ConsultationForm from "@/components/ConsultationForm";
+import LandingLeadForm from "@/components/LandingLeadForm";
 import Footer from "@/components/Footer";
 import ChatbotWidget from "@/components/ChatbotWidget";
 import { filterProperties } from "@/lib/filters";
@@ -47,7 +47,7 @@ export default function HomePage() {
         <VideoCarousel />
         <PropertyListings />
         <HowItWorks />
-        <ConsultationForm />
+        <LandingLeadForm />
       </main>
       <Footer />
       <ChatbotWidget />

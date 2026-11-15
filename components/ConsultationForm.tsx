@@ -10,10 +10,26 @@ import {
 } from "@/lib/constants";
 import { buildWhatsAppUrl } from "@/lib/utils";
 
-const BUDGET_OPTIONS = PRICE_RANGES.filter((r) => r.label !== "Any Price");
+const BUDGET_UNSET = "-";
+const BUDGET_OPTIONS = [
+  { label: BUDGET_UNSET },
+  ...PRICE_RANGES.filter((r) => r.label !== "Any Price"),
+];
+
+function RequiredMark() {
+  return (
+    <>
+      <span className="text-red-700" aria-hidden="true">
+        *
+      </span>
+      <span className="sr-only"> mandatory</span>
+    </>
+  );
+}
 
 export interface ConsultationLead {
   fullName: string;
+  email: string;
   whatsapp: string;
   location: string;
   budget: string;
@@ -29,9 +45,10 @@ export default function ConsultationForm({ onLead }: ConsultationFormProps = {})
   const [submitted, setSubmitted] = useState(false);
   const [form, setForm] = useState<ConsultationLead>({
     fullName: "",
+    email: "",
     whatsapp: "",
     location: "All States",
-    budget: BUDGET_OPTIONS[0]?.label ?? "",
+    budget: BUDGET_UNSET,
     propertyType: "All Types",
   });
 
@@ -41,6 +58,7 @@ export default function ConsultationForm({ onLead }: ConsultationFormProps = {})
     const message = [
       "Hello! I would like to get a free Lelong consultation. Here are my details:",
       `- Name: ${form.fullName}`,
+      `- Email: ${form.email}`,
       `- Contact No: ${form.whatsapp}`,
       `- Preferred Location: ${form.location}`,
       `- Budget Range: ${form.budget}`,
@@ -111,7 +129,7 @@ export default function ConsultationForm({ onLead }: ConsultationFormProps = {})
                       htmlFor="fullName"
                       className="mb-1.5 block text-sm font-medium text-zinc-700"
                     >
-                      Full Name
+                      Full Name <RequiredMark />
                     </label>
                     <input
                       id="fullName"
@@ -128,10 +146,31 @@ export default function ConsultationForm({ onLead }: ConsultationFormProps = {})
 
                   <div>
                     <label
+                      htmlFor="email"
+                      className="mb-1.5 block text-sm font-medium text-zinc-700"
+                    >
+                      Email <RequiredMark />
+                    </label>
+                    <input
+                      id="email"
+                      type="email"
+                      required
+                      autoComplete="email"
+                      value={form.email}
+                      onChange={(e) =>
+                        setForm({ ...form, email: e.target.value })
+                      }
+                      placeholder="ahmad@email.com"
+                      className="w-full rounded-lg border border-zinc-300 px-4 py-2.5 text-sm focus:border-red-600 focus:outline-none focus:ring-2 focus:ring-red-600/20"
+                    />
+                  </div>
+
+                  <div>
+                    <label
                       htmlFor="whatsapp"
                       className="mb-1.5 block text-sm font-medium text-zinc-700"
                     >
-                      WhatsApp Number
+                      WhatsApp Number <RequiredMark />
                     </label>
                     <input
                       id="whatsapp"
@@ -216,6 +255,13 @@ export default function ConsultationForm({ onLead }: ConsultationFormProps = {})
                       ))}
                     </select>
                   </div>
+
+                  <p className="text-sm text-zinc-600">
+                    <span className="text-red-700" aria-hidden="true">
+                      *
+                    </span>{" "}
+                    Mandatory fields
+                  </p>
 
                   <button
                     type="submit"
