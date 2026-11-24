@@ -48988,6 +48988,108 @@ export const PROPERTIES: Property[] = [
   },
   {
     "id": "2811",
+    "title": "Service Apartment",
+    "address": "Unit No. B18-19, Block B, Residensi Begonia, Pusat Perniagaan & Residensi Mesa, Mesa Hill, Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 160000,
+    "auctionDate": "24th Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "355 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1pYsZ59lDLlJ1QGkS3V3P_ZrlhrhUeK5O&sz=w800"
+    ]
+  },
+  {
+    "id": "2812",
+    "title": "Town House",
+    "address": "No. 3, Jalan Nilai Perdana 2, Taman Nilai Perdana, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 320000,
+    "auctionDate": "24th Nov 2026 (Tue)",
+    "landArea": "1,033 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1c-tAh2LrPaf2jiNCDH-6rApHqhyPKnmy&sz=w800"
+    ]
+  },
+  {
+    "id": "2813",
+    "title": "Chalet",
+    "address": "Unit No. B131, Premium Pool Villa, Lexis Hibiscus, Pasir Panjang, 71250 Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 482000,
+    "auctionDate": "24th Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "915 sq.ft",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1D58FVcOeShg8Dvw3ILdzfqcxWsXIP0no&sz=w800"
+    ]
+  },
+  {
+    "id": "2814",
+    "title": "Chalet",
+    "address": "Unit No. A22, Executive Pool Villa, Lexis Hibiscus, Pasir Panjang, 71250 Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 428000,
+    "auctionDate": "24th Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "807 sq.ft",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1D58FVcOeShg8Dvw3ILdzfqcxWsXIP0no&sz=w800"
+    ]
+  },
+  {
+    "id": "2815",
+    "title": "Apartment",
+    "address": "Unit No. C-9-14, Block Calla, Pusat Perniagaan & Residensi Mesa, Persiaran Ilmu, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 169000,
+    "auctionDate": "24th Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1pYsZ59lDLlJ1QGkS3V3P_ZrlhrhUeK5O&sz=w800"
+    ]
+  },
+  {
+    "id": "2816",
+    "title": "Apartment",
+    "address": "Unit No. A-1-10, Pangsapuri Kalista 2, Jalan S2 G3, Seksyen G, Seremban 2, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 234000,
+    "auctionDate": "24th Nov 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "925 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jys-xVzfHL04UrXAVWHaWdCnnutx2edh&sz=w800"
+    ]
+  },
+  {
+    "id": "2817",
     "title": "2 Storey Terrace House",
     "address": "No. 290, Jalan Saujana Indah 6, Saujana Indah, S2 Heights, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49004,7 +49106,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2812",
+    "id": "2818",
     "title": "1 Storey Terrace House",
     "address": "No. 101, Jalan Rasa Sayang 4, Taman Rasa Sayang, 72000 Kuala Pilah, Negeri Sembilan",
     "postcode": "72000",
@@ -49024,7 +49126,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2813",
+    "id": "2819",
     "title": "2 Storey Terrace House",
     "address": "No. 719, Jalan Tiara Sendayan 2/10, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -49044,7 +49146,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2814",
+    "id": "2820",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Jalan Bakti YNS 1/2, Taman Bakti YNS, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -49061,7 +49163,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2815",
+    "id": "2821",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bakti YNS 1/2, Taman Bakti YNS, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -49078,7 +49180,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2816",
+    "id": "2822",
     "title": "Apartment",
     "address": "Unit No. B-5-10, Block B, Laman Villa, Taman Bandar Senawang, 70450 Taman Bandar Senawang, Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -49095,7 +49197,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2817",
+    "id": "2823",
     "title": "Service Apartment",
     "address": "Unit No. D-3-1, Blok Delphinium, Pusat Perniagaan & Residensi Mesa, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49112,7 +49214,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2818",
+    "id": "2824",
     "title": "Condominium",
     "address": "Unit No. A-23-02, Block A, Residensi Lili, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49131,7 +49233,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2819",
+    "id": "2825",
     "title": "2 Storey Terrace House",
     "address": "No. KC58, Jalan Kasia 7, Kasia Ville, TTJ Golf, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -49148,7 +49250,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2820",
+    "id": "2826",
     "title": "Town House",
     "address": "No. 72B, Cempaka Seri 1 Town Villas, Jalan Laman Cempaka 2 Kota Seriemas, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49165,7 +49267,303 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2821",
+    "id": "2827",
+    "title": "Service Apartment",
+    "address": "Unit No. A-14-9, Menara A, Pangsapuri Perkhidmatan Residensi KLIA, Jalan Pusat Niaga KLIA 6, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 251100,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "962 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1YPWJLTy_sagW94BHVTIYu0AWBHck0FpR&sz=w800"
+    ]
+  },
+  {
+    "id": "2828",
+    "title": "Condominium",
+    "address": "Block A, Residensi Lili, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 350000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2829",
+    "title": "Apartment",
+    "address": "Unit No. V3C-13-02A, Block 3, Sri Palma Villa, Bandar Universiti Teknologi Lagenda, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 67500,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "1,020 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1LPK-utlXj0kgbRorQy_N7EEgLqrpcJg0&sz=w800",
+      "https://drive.google.com/thumbnail?id=1qT7os76cr1NBsTfLyZDOmHikp-7HOYOY&sz=w800"
+    ]
+  },
+  {
+    "id": "2830",
+    "title": "Duplex Town House",
+    "address": "Unit No. F-2-01, Blok F, Pangsapuri Bayu 1, Desa Melati, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 370000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "1,894 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jj2MwbAg8BTFMtSTpXZFqH0St-DAef2M&sz=w800"
+    ]
+  },
+  {
+    "id": "2831",
+    "title": "Town House",
+    "address": "No. E-2-5, Block E, Bukit Citra Residensi, Jalan Bukit Citra 10/1, Taman Bukit Citra, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 275000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "1,303 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1DhLwJUFHBanbr7MLv1w9JF-2ndxLHDva&sz=w800"
+    ]
+  },
+  {
+    "id": "2832",
+    "title": "Service Apartment",
+    "address": "Unit No. B-9-32, Residensi Begonia, Pusat Perniagaan & Residensi Mesa, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 189000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "650 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1pYsZ59lDLlJ1QGkS3V3P_ZrlhrhUeK5O&sz=w800"
+    ]
+  },
+  {
+    "id": "2833",
+    "title": "Condominium",
+    "address": "Unit No. B-21-01, Block B, Residensi Lili, Taman Bucida Hijauan, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 430000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2834",
+    "title": "Service Apartment",
+    "address": "Unit No. A-17-1, Menara A, Pangsapuri Perkhidmatan Residensi KLIA, Jalan Pusat Niaga KLIA 6, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 405000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "1,300 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1YPWJLTy_sagW94BHVTIYu0AWBHck0FpR&sz=w800"
+    ]
+  },
+  {
+    "id": "2835",
+    "title": "Apartment",
+    "address": "Unit No. B-06-04, Blok B, Desajaya Villa, Jalan Desajaya 2, Taman Desa Jaya, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 260000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ybzjflGGUHpcOoDoSulGuAt1cGsEC8Q_&sz=w800"
+    ]
+  },
+  {
+    "id": "2836",
+    "title": "Apartment",
+    "address": "Unit No. C-2-10, Blok C, Tunas Residensi, Persiaran Nada Bidara 2, Taman Nada Bidara, 71950 Seremban, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 250000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "1,001 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1esBhw4wgp77vAD4dqlxPB78LUenPJots&sz=w800"
+    ]
+  },
+  {
+    "id": "2837",
+    "title": "Service Apartment",
+    "address": "Unit No. B-L29-16, Menara B (Begonia) @ Bandar Belia, Jalan Bandar Belia 1/1, Bandar Wawasan, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 350000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "735 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1l1kgmHppfdCLBHB_XMF8SfVfs8m2EF0p&sz=w800"
+    ]
+  },
+  {
+    "id": "2838",
+    "title": "Apartment",
+    "address": "Unit No. C-05-05, Block C, Desajaya Villa, Jalan Desajaya 2, Taman Desajaya, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 234000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "958 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ybzjflGGUHpcOoDoSulGuAt1cGsEC8Q_&sz=w800"
+    ]
+  },
+  {
+    "id": "2839",
+    "title": "Garden Villa Apartment",
+    "address": "Unit No. A-3-10, Laman Villa, Taman Bandar Senawang, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 165338,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "1,012 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1K2yLOU-a64_5JYgqD0aurcbPi00Bu3Il&sz=w800"
+    ]
+  },
+  {
+    "id": "2840",
+    "title": "2 Storey Terrace House",
+    "address": "No. 113, Jalan D'Latania 2, D'Latania, Taman Bandar Senawang, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 450000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "1,475 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1JZ1yNKG3yPGqpNKWe2lZzKvDQBcplbv9&sz=w800"
+    ]
+  },
+  {
+    "id": "2841",
+    "title": "Condominium",
+    "address": "Unit No. A-08-08, Block A, Residensi Lili, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 211410,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "775 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2842",
+    "title": "2 Storey Detached House",
+    "address": "No. 399, Jalan Senawang Perdana 14, Taman Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 770000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "5,899 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1owzwKvwzLNvAEFNSHril1YcvaCsuz6ml&sz=w800"
+    ]
+  },
+  {
+    "id": "2843",
+    "title": "Service Apartment",
+    "address": "Unit No. C-L19-15, Menara C (Camelia) @ Bandar Belia, Jalan Bandar Belia 1/2, Bandar Wawasan, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 306000,
+    "auctionDate": "25th Nov 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1l1kgmHppfdCLBHB_XMF8SfVfs8m2EF0p&sz=w800"
+    ]
+  },
+  {
+    "id": "2844",
     "title": "Service Apartment",
     "address": "Unit No. B004, Ocean View Resort, Batu 9, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
     "postcode": "71050",
@@ -49182,7 +49580,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2822",
+    "id": "2845",
     "title": "1 Storey Terrace House",
     "address": "No. 748, Jalan Iringan Bayu 45/1, Precint 11, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49200,7 +49598,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2823",
+    "id": "2846",
     "title": "2 Storey Terrace House",
     "address": "No. 159, Jalan Melati 5, Desa Melati 3, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49218,7 +49616,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2824",
+    "id": "2847",
     "title": "Service Apartment",
     "address": "Ocean View Resort, Batu 9, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
     "postcode": "71050",
@@ -49235,7 +49633,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2825",
+    "id": "2848",
     "title": "[7 min to Mambau Business Center] 1 Storey Terrace House [Close to AEON Mall Seremban 2]",
     "address": "No. 257, Jalan Seri Mambau A12, Taman Seri Mambau, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49252,7 +49650,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2826",
+    "id": "2849",
     "title": "1 Storey Terrace House",
     "address": "No. 109, Jalan Seri Mambau A4, Taman Seri Mambau, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49269,7 +49667,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2827",
+    "id": "2850",
     "title": "1 Storey Terrace House",
     "address": "No. 89, Lorong Sri Penaga 2/3, Taman Sri Penaga, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -49286,7 +49684,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2828",
+    "id": "2851",
     "title": "2 Storey Terrace House",
     "address": "No. 610, Lorong Iringan Bayu 35/10, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49304,7 +49702,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2829",
+    "id": "2852",
     "title": "2.5 Storey Detached House",
     "address": "No. 18, Jalan Laman Puteri 1, Taman Laman Puteri, 71770 Seremban, Negeri Sembilan",
     "postcode": "71770",
@@ -49321,7 +49719,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2830",
+    "id": "2853",
     "title": "Office Unit",
     "address": "Unit No. A-4-2, Jalan PPT 1, Pusat Perniagaan Templer, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -49338,7 +49736,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2831",
+    "id": "2854",
     "title": "Condominium",
     "address": "Unit No. C-03-16, Bayu Temiang Residensi, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -49355,7 +49753,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2832",
+    "id": "2855",
     "title": "Service Apartment",
     "address": "Unit No. A-L35-18, Menara A (Akasia) @ Bandar Belia, Jalan Bandar Belia 1/1, Bandar Wawasan, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49372,7 +49770,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2833",
+    "id": "2856",
     "title": "Condominium",
     "address": "Unit No. C-03-16, Blok Camelia, Bayu Temiang Residensi, Jalan Bayu, 70200. Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -49389,7 +49787,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2834",
+    "id": "2857",
     "title": "2 Storey Terrace House",
     "address": "No. 393, Jalan Bayu Sutera 2/1, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -49406,7 +49804,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2835",
+    "id": "2858",
     "title": "Apartment",
     "address": "Unit No. CC-G-09, Jalan Mekanikal 2, Apartment Nilai 3, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49423,7 +49821,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2836",
+    "id": "2859",
     "title": "Apartment",
     "address": "Unit No. A-4-25, Jalan Bukit Citra 10/2, Citra Embun, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -49441,7 +49839,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2837",
+    "id": "2860",
     "title": "2 Storey Terrace House",
     "address": "No. 2159, Jalan BSS 3/3E, Bandar Seremban Selatan, 71450 Sungai Gadut, Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -49458,7 +49856,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2838",
+    "id": "2861",
     "title": "Apartment",
     "address": "Unit No. A-7-1, Block A, Residensi Desa Saga, Taman Desa Saga, 71800, Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49475,7 +49873,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2839",
+    "id": "2862",
     "title": "[Located in the heart of the Nilai 3 Wholesale Centre] Retail Stall [Major commercial hub in Negeri Sembilan]",
     "address": "Unit No. D-42, Block D, Pasar Rakyat Nilai 3, Jalan Nilai 3/4, Nilai 3, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49492,7 +49890,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2840",
+    "id": "2863",
     "title": "Apartment",
     "address": "Unit No. C-9-11, Block C, Pangsapuri Bayu 2, Desa Melati, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49509,7 +49907,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2841",
+    "id": "2864",
     "title": "Apartment",
     "address": "Unit No. 1-07, Pangsapuri Tasik Villa, Jalan Taman Bandar Senawang 4, Taman Bandar Senawang, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -49526,7 +49924,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2842",
+    "id": "2865",
     "title": "Condominium",
     "address": "Unit No. C-05-04, Block C, Residensi Lili @ Taman Bucida Hijauan, Persiaran Perdana, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49545,7 +49943,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2843",
+    "id": "2866",
     "title": "Condominium",
     "address": "Unit No. C-03-16, Blok Camelia, Bayu Temiang, Jalan Bayu, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -49562,7 +49960,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2844",
+    "id": "2867",
     "title": "Condominium",
     "address": "Unit No. B-03-04, Block B, Jalan Bucida Hijauan 1/1, Taman Bucida Hijauan, 71800,  Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49580,7 +49978,184 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2847",
+    "id": "2868",
+    "title": "Upper Level Town House",
+    "address": "No. 168, Jalan Jasmin 3, Taman Jasmin, Senawang, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 130000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "750 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1mT7n5MQPCo6DFKXQueMTwp9LDAbtmolQ&sz=w800"
+    ]
+  },
+  {
+    "id": "2869",
+    "title": "Condominium",
+    "address": "Unit No. B-06-06, Block B, Residensi Lili@ Taman Bucide Hijauan, Persiaran Perdana, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 270000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1HbL0Dkjhch1hCkCW_wXBAlJdpUslXy84&sz=w800"
+    ]
+  },
+  {
+    "id": "2870",
+    "title": "1 Storey Terrace House",
+    "address": "Lorong Sri Penaga 2/3, Taman Sri Penaga, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 250000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "1,399 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1C87c6TKZVKzqQWDF1DycaA1Jx4Wd2IKf&sz=w800"
+    ]
+  },
+  {
+    "id": "2871",
+    "title": "Condominium",
+    "address": "Blok Camelia, Bayu Temiang, Jalan Bayu, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 330000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1-CwtV3_-nfpLdlAr5AAgXL76304k88TX&sz=w800"
+    ]
+  },
+  {
+    "id": "2872",
+    "title": "Apartment",
+    "address": "Jalan Mekanikal 2, Apartment Nilai 3, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 90000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "689 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xjusRZFYaoaxeaq9pqsSp9rC_AdGuq_C&sz=w800"
+    ]
+  },
+  {
+    "id": "2873",
+    "title": "Condominium",
+    "address": "Unit No. B-03-04, Block B, Jalan Bucida Hijauan 1/1, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 470000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "1,816 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1T-z7Wry0dev0Kft5PILe3iG2obZtiEbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=1DWEAEtvzdCDfE-V5tY257wDj2oY0LKFD&sz=w800"
+    ]
+  },
+  {
+    "id": "2874",
+    "title": "Condominium",
+    "address": "Unit No. B-06-06, Block B, Residensi Lili @ Taman Bucida Hijauan, Persiaran Perdana, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 270000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2875",
+    "title": "Condominium",
+    "address": "Unit No. C-20-06, Block C, Residensi Lili @ Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 297000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2876",
+    "title": "Condominium",
+    "address": "Unit No. C-3-8, Block Camelia, Bayu Temiang Residensi, Jalan Bayu, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 243000,
+    "auctionDate": "26th Nov 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "900 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1-CwtV3_-nfpLdlAr5AAgXL76304k88TX&sz=w800"
+    ]
+  },
+  {
+    "id": "2877",
+    "title": "Apartment",
+    "address": "Unit No. C-4-1, Tiara Beach Resort, Jalan Pantai, 71250 Pasir Panjang, Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 28000,
+    "auctionDate": "27th Nov 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "409 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19ZebStGyOtSnnEZZMosy0sVEe3VJD4RX&sz=w800",
+      "https://drive.google.com/thumbnail?id=18Ia_r1ryFB19mCz5DKzn3JEug3LuX00-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ukGrTZoQIqpeSkMMRXdey2y1WC5IqCpo&sz=w800"
+    ]
+  },
+  {
+    "id": "2878",
     "title": "2 Storey Terrace House",
     "address": "No. 437, Jalan Ara Sendayan 2/4, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49598,7 +50173,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2848",
+    "id": "2879",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Jalan Hijayu Aman 1/2, Hijayu Aman, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -49615,7 +50190,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2849",
+    "id": "2880",
     "title": "2 Storey Terrace House",
     "address": "No. 176, Jalan Desa Mayang Sari 2/1, Taman Desa Mayang Sari, Nilai, 71800 Seremban, Negeri Sembilan",
     "postcode": "71800",
@@ -49632,7 +50207,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2850",
+    "id": "2881",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Jalan Hijayu Aman 1/2, Hijayu Aman, 71950, Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -49649,7 +50224,24 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2852",
+    "id": "2882",
+    "title": "Land",
+    "address": "Lot 14184, Lukut, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "14184",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 2800000,
+    "auctionDate": "1st Dec 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1iQAwdD7SniJLgbhFmF2gKLPJFL7-w5gV&sz=w800"
+    ]
+  },
+  {
+    "id": "2883",
     "title": "2 Storey Terrace House",
     "address": "No. 176, Jalan Desa Mayang Sari 2/1, Taman Desa Mayang Sari, Nilai, 71800, Negeri Sembilan",
     "postcode": "71800",
@@ -49666,7 +50258,41 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2853",
+    "id": "2884",
+    "title": "2 Storey Terrace House",
+    "address": "No. 176, Jalan Desa Mayang Sari 2/1, Taman Desa Mayang Sari, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 650000,
+    "auctionDate": "1st Dec 2026 (Tue)",
+    "landArea": "2,012 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1SAByADtCFlNBc9AT3BLnqi7yb_Snx8cB&sz=w800"
+    ]
+  },
+  {
+    "id": "2885",
+    "title": "Apartment",
+    "address": "Unit No. C-5-4, Blok C, Tunas Residensi, Taman Nada Bidara, 71950 Seremban, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 170100,
+    "auctionDate": "1st Dec 2026 (Tue)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1esBhw4wgp77vAD4dqlxPB78LUenPJots&sz=w800"
+    ]
+  },
+  {
+    "id": "2886",
     "title": "1 Storey Terrace House",
     "address": "Jalan Cempaka Perdana 1, Taman Cempaka Perdana, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -49683,7 +50309,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2854",
+    "id": "2887",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bayu Sutera 4/15, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -49700,7 +50326,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2855",
+    "id": "2888",
     "title": "1 Storey Terrace House",
     "address": "No. 446, Jalan Sri Serting 5, Taman Sri Serting, 72120 Bandar Sri Jempol, Negeri Sembilan",
     "postcode": "72120",
@@ -49717,7 +50343,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2856",
+    "id": "2889",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Jalan Cempaka Perdana 1, Taman Cempaka Perdana, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -49734,7 +50360,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2857",
+    "id": "2890",
     "title": "2 Storey Terrace House",
     "address": "No. 1860, Jalan Bayu Sutera 4/15, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -49751,7 +50377,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2858",
+    "id": "2891",
     "title": "1 Storey Terrace House",
     "address": "No. 446 F(3A), Taman Sri Serting, 72120 Bandar Seri Jempol, Negeri Sembilan",
     "postcode": "72120",
@@ -49768,7 +50394,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2859",
+    "id": "2892",
     "title": "2 Storey Semi Detached House",
     "address": "No. 978, Jalan Nusa Intan 6/6, Taman Nusa Intan, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -49786,7 +50412,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2860",
+    "id": "2893",
     "title": "2 Storey Terrace House",
     "address": "No. 743, Jalan Ara Sendayan 3/8, Ara Sendayan, Bandar Sri Sendayan, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49804,7 +50430,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2861",
+    "id": "2894",
     "title": "2 Storey Terrace House",
     "address": "No. 188, Lorong Rimbun Harmoni 7/1, Rimbun Harmoni, S2 Heights, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49821,7 +50447,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2862",
+    "id": "2895",
     "title": "1 Storey Terrace House",
     "address": "Taman Pemarak, (also known as Rumah Rakyat Tanjong Ipoh), 71500, Tanjung Ipoh, Negeri Sembilan",
     "postcode": "71500",
@@ -49838,7 +50464,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2863",
+    "id": "2896",
     "title": "1 Storey Terrace House",
     "address": "No. 146, Jalan 6,Taman Harmoni 2, 72500 Juasseh, Negeri Sembilan",
     "postcode": "72500",
@@ -49855,7 +50481,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2864",
+    "id": "2897",
     "title": "2 Storey Terrace House",
     "address": "No. 10, Jalan Orkid 8, Taman Orkid, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -49872,7 +50498,77 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2866",
+    "id": "2898",
+    "title": "Apartment",
+    "address": "Block A, 3rd Floor, Taman Bahau Indah, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 73000,
+    "auctionDate": "9th Dec 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "710 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1jnB-2P28s8b4ccvToLAfY6J-BtTgtFXt&sz=w800"
+    ]
+  },
+  {
+    "id": "2899",
+    "title": "Condominium",
+    "address": "Unit No. B-GF-06, Block B, Residensi Lili @ Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 313200,
+    "auctionDate": "9th Dec 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "1,485 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2900",
+    "title": "1.5 Storey Terrace House",
+    "address": "No. 47, Jalan Murni 2, Taman Murni, Batang Benar, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 387000,
+    "auctionDate": "9th Dec 2026 (Wed)",
+    "landArea": "3,208 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1MCnsyk5l8q9diHZzBaeWmX_PID4Lxkx2&sz=w800"
+    ]
+  },
+  {
+    "id": "2901",
+    "title": "1 Storey Terrace House",
+    "address": "No. 18, Taman Pemarak, (also known as Rumah Rakyat Tanjong Ipoh), 71500, Tanjung Ipoh, Negeri Sembilan",
+    "postcode": "71500",
+    "state": "Negeri Sembilan",
+    "area": "Tanjung Ipoh",
+    "reservePrice": 81000,
+    "auctionDate": "9th Dec 2026 (Wed)",
+    "landArea": "1,022 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1eAAvn3qkApY4lvLN92H4RALlteFIXGPN&sz=w800"
+    ]
+  },
+  {
+    "id": "2902",
     "title": "2 Storey Detached House",
     "address": "No. 569, Jalan S2 H17, Park Avenue, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49889,7 +50585,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2867",
+    "id": "2903",
     "title": "1 Storey Terrace House",
     "address": "Jalan Persiaran Semarak 2, Taman Panchor Jaya, Paroi, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -49910,7 +50606,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2868",
+    "id": "2904",
     "title": "1 Storey Semi Detached House",
     "address": "Taman Rantau, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -49927,7 +50623,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2869",
+    "id": "2905",
     "title": "2 Storey Detached House",
     "address": "No. 569, Jalan S2 H17, Park Avenue, Seremban 2, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -49944,7 +50640,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2870",
+    "id": "2906",
     "title": "2 Storey Terrace House",
     "address": "No. 269, Jalan Springhill 5/5, Residence 5, Bandar Springhill, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -49961,7 +50657,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2871",
+    "id": "2907",
     "title": "2 Storey Terrace House",
     "address": "No. 480, Jalan Forest Heights 3/20, Precinct 3A, Forest Heights, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -49979,7 +50675,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2872",
+    "id": "2908",
     "title": "Apartment",
     "address": "Block A, Desa Palma Apartment, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -49997,7 +50693,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2873",
+    "id": "2909",
     "title": "Terrace House",
     "address": "Jalan Melia 1, Taman Melia, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -50014,7 +50710,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2874",
+    "id": "2910",
     "title": "1 Storey Terrace House",
     "address": "Jalan Nusa Intan 6/3, Taman Nusa Intan, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -50032,7 +50728,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2875",
+    "id": "2911",
     "title": "2 Storey Terrace House",
     "address": "Jalan Laman Sendayan 1A/5, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -50053,7 +50749,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2876",
+    "id": "2912",
     "title": "1 Storey Terrace House",
     "address": "No. 175, Lorong Sri Penaga 3/2, Taman Sri Penaga, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -50063,14 +50759,14 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "10th Dec 2026 (Thu)",
     "landArea": "990 sq.ft",
     "builtUp": "—",
-    "tenure": "—",
+    "tenure": "Freehold",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1C87c6TKZVKzqQWDF1DycaA1Jx4Wd2IKf&sz=w800"
     ]
   },
   {
-    "id": "2877",
+    "id": "2913",
     "title": "1 Storey Semi Detached House",
     "address": "No. 87, Lorong Iringan Bayu 38/3, Precint 8, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -50088,7 +50784,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2878",
+    "id": "2914",
     "title": "1 Storey Terrace House",
     "address": "Jalan BBN 5/3G, Desa Jasmin, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -50105,7 +50801,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2879",
+    "id": "2915",
     "title": "2 Storey Terrace House",
     "address": "No. 371, Jalan Tiara Sendayan 2/5, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -50125,7 +50821,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2880",
+    "id": "2916",
     "title": "1 Storey Terrace House",
     "address": "Jalan Mantau Indah 4, Taman Mantau Indah, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -50143,7 +50839,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2881",
+    "id": "2917",
     "title": "Apartment",
     "address": "Block B, Tunas Residensi, Taman Nada Bidara, 71950 Seremban, Negeri Sembilan",
     "postcode": "71950",
@@ -50160,7 +50856,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2882",
+    "id": "2918",
     "title": "1 Storey Terrace House",
     "address": "No. 18, Jalan Melia 1, Taman Melia, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -50177,7 +50873,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2883",
+    "id": "2919",
     "title": "2 Storey Terrace House",
     "address": "No. 140, Jalan Laman Sendayan 1A/5, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -50198,7 +50894,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2884",
+    "id": "2920",
     "title": "Apartment",
     "address": "Unit No. B-1-33, Apartment Cempaka Court, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -50215,7 +50911,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2885",
+    "id": "2921",
     "title": "2 Storey Semi Detached House",
     "address": "No. 46, Jalan Lukut Lagenda 1, Taman Lukut Lagenda, 71010 Lukut, Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -50232,7 +50928,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2886",
+    "id": "2922",
     "title": "2 Storey Terrace House",
     "address": "No. 2375, Jalan Tiara Sendayan 7/5, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -50252,7 +50948,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2887",
+    "id": "2923",
     "title": "1 Storey Terrace House",
     "address": "Premises No. 106, Jalan 3/7, Taman Intan Perdana, 71050 Telok Kemang, Negeri Sembilan",
     "postcode": "71050",
@@ -50269,7 +50965,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2888",
+    "id": "2924",
     "title": "Vacant Residential Detached Lot",
     "address": "Lot 21267, Persiaran Fakulti 2, College Heights Garden Resort, 71700 Mantin, Negeri Sembilan",
     "postcode": "21267",
@@ -50286,7 +50982,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2889",
+    "id": "2925",
     "title": "2 Storey Semi Detached House",
     "address": "No. 611, Jalan Kasih Putera 18, Taman Kasih Putera, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -50304,7 +51000,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2890",
+    "id": "2926",
     "title": "2 Storey Terrace House",
     "address": "Lorong Iringan Bayu 35/9, Precint 3, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -50322,7 +51018,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2891",
+    "id": "2927",
     "title": "1 Storey Terrace House",
     "address": "No. PT 7964, Jalan BBN 5/3G, Desa Jasmin, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -50339,7 +51035,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2892",
+    "id": "2928",
     "title": "1 Storey Terrace House",
     "address": "No. 72, Jalan Mantau Indah 4, Taman Mantau Indah, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -50357,7 +51053,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2893",
+    "id": "2929",
     "title": "1 Storey Terrace House",
     "address": "No. 1551, Jalan TTJ 2/11, Taman Tuanku Jaafar, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -50374,7 +51070,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2894",
+    "id": "2930",
     "title": "1 Storey Terrace House",
     "address": "No. 125, Jalan Persiaran Semarak 2, Taman Panchor Jaya, Paroi, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -50395,7 +51091,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2895",
+    "id": "2931",
     "title": "1 Storey Semi Detached House",
     "address": "No. 65, Taman Rantau, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -50412,7 +51108,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2896",
+    "id": "2932",
     "title": "Apartment",
     "address": "Unit No. A-2-02, Block A, Desa Palma Apartment, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -50430,7 +51126,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2897",
+    "id": "2933",
     "title": "2 Storey Semi Detached House",
     "address": "No. 195, Jalan Labu Jaya 7, Taman Labu Jaya, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -50447,7 +51143,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2898",
+    "id": "2934",
     "title": "1 Storey Terrace House",
     "address": "No. 164, Lorong Desa Kiara 1/3, Taman Desa Kiara, Sikamat, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -50464,7 +51160,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2899",
+    "id": "2935",
     "title": "1 Storey Terrace House",
     "address": "No. 410, Jalan Bukit Mutiara 10, Taman Bukit Mutiara, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -50481,7 +51177,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2900",
+    "id": "2936",
     "title": "Apartment",
     "address": "Unit No. B-6-6, Block B, Tunas Residensi, Taman Nada Bidara, 71950 Seremban, Negeri Sembilan",
     "postcode": "71950",
@@ -50498,7 +51194,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2901",
+    "id": "2937",
     "title": "Apartment",
     "address": "Unit No. C1-3-3, Ocean View Resort, Batu 9, Jalan Pantai, Teluk Kemang, 71050 Port Dickson, Negeri Sembilan",
     "postcode": "71050",
@@ -50515,7 +51211,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2902",
+    "id": "2938",
     "title": "Vacant Detached House Land",
     "address": "Lot No. 16839, Kampung Semarak, 70300 Seremban, Negeri Sembilan",
     "postcode": "16839",
@@ -50532,7 +51228,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2903",
+    "id": "2939",
     "title": "1 Storey Terrace House",
     "address": "No. 193, Jalan Pahlawan 2/10, Taman Pahlawan 2, 73400 Gemas, Negeri Sembilan",
     "postcode": "73400",
@@ -50549,7 +51245,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2904",
+    "id": "2940",
     "title": "1 Storey Terrace House",
     "address": "No. 771, Jalan Iringan Bayu 45/2, Taman Pertengahan Bayu Precint 11, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -50567,7 +51263,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2905",
+    "id": "2941",
     "title": "1 Storey Semi Detached House",
     "address": "No. 43, Jalan Garsenia 5, Taman Garsenia, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -50584,7 +51280,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2906",
+    "id": "2942",
     "title": "1 Storey Terrace House",
     "address": "No. 75, Jalan Seremban Batu 2, Taman Kiara 2, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -50601,7 +51297,202 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2907",
+    "id": "2943",
+    "title": "2 Storey Terrace House",
+    "address": "No. 569, Lorong Iringan Bayu 35/9, Precint 3, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 268000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,410 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800"
+    ]
+  },
+  {
+    "id": "2944",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1823, Jalan Tiara Sendayan 5/5, Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 414000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,302 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "2945",
+    "title": "2 Storey Semi Detached House",
+    "address": "Jalan Labu Jaya 7, Taman Labu Jaya, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 520000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "2,852 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1TfkdjipOrEPraqaUa2_jTf-4pTwGYkAr&sz=w800"
+    ]
+  },
+  {
+    "id": "2946",
+    "title": "1 Storey Terrace House",
+    "address": "No. 60, Jalan Rasa Sayang 4, Taman Rasa Sayang, 72000 Kuala Pilah, Negeri Sembilan",
+    "postcode": "72000",
+    "state": "Negeri Sembilan",
+    "area": "Kuala Pilah",
+    "reservePrice": 105300,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,194 sq.ft",
+    "builtUp": "—",
+    "tenure": "Leasehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17nTPS3fu19OJiElHGLTO64FjaLvBmLUZ&sz=w800",
+      "https://drive.google.com/thumbnail?id=1-LnxnlW_SQvzqC2B3CMAaCo-aPjmMCjO&sz=w800",
+      "https://drive.google.com/thumbnail?id=1qjJPmA7Q5S5KyDMRcvhx_ZWddYDBwVLn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hYADJkNyleGOtgrA8VcbHhxHQtvgR4Uw&sz=w800"
+    ]
+  },
+  {
+    "id": "2947",
+    "title": "2 Storey Terrace House",
+    "address": "No. 340, Jalan Melati 11, Desa Melati 3, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 430000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,539 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1oo8ZmXD_CWazNMKtO5FPKabO4YJTb0Nm&sz=w800",
+      "https://drive.google.com/thumbnail?id=1veLnfVsoCIzD60RmkkI5HU3JpzTaIz1c&sz=w800"
+    ]
+  },
+  {
+    "id": "2948",
+    "title": "1 Storey Terrace House",
+    "address": "No. 27, Lorong Dak 5/8, Taman D'ambang Kota, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 190000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,302 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19Plvwe_eoqHi4_8HyT4xf60ygI4ZsK_s&sz=w800"
+    ]
+  },
+  {
+    "id": "2949",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2456, Jalan KSNS 8, Taman KSNS, 71400 Pedas, Negeri Sembilan",
+    "postcode": "71400",
+    "state": "Negeri Sembilan",
+    "area": "Pedas",
+    "reservePrice": 80000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,195 sq.ft",
+    "builtUp": "—",
+    "tenure": "Leasehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1lvh_4N69hM6Ih0JYBW1Bdoxk9mrMbmFu&sz=w800"
+    ]
+  },
+  {
+    "id": "2950",
+    "title": "2 Storey Terrace House",
+    "address": "No. 16, Jalan Cempaka 17, Taman Ros Mewah, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 297000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,650 sq.ft",
+    "builtUp": "—",
+    "tenure": "Leasehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Y4zCvk_lqPjxlOW_R51AcNdPyPoSriaI&sz=w800"
+    ]
+  },
+  {
+    "id": "2951",
+    "title": "1 Storey Terrace House",
+    "address": "No. 171, Jalan Gunung Datok 2, Taman Angsamas, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 200000,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "1,119 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=13M1ScNyAunrXNn-r1zsjCYWVMsf7o0NO&sz=w800"
+    ]
+  },
+  {
+    "id": "2952",
+    "title": "Flat",
+    "address": "Unit No. 2.03, Block B, Jalan Mekanikal 2, Taman Nilai 3, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 72900,
+    "auctionDate": "10th Dec 2026 (Thu)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1KKPYg-gzv6gr26LOCg4aatacYu1Nlq6E&sz=w800"
+    ]
+  },
+  {
+    "id": "2953",
+    "title": "Apartment",
+    "address": "Unit No. C-3-03, Block C, Pangsapuri Laman Villa, Jalan Taman Bandar Senawang 4, Taman Bandar Senawang, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 320000,
+    "auctionDate": "11th Dec 2026 (Fri)",
+    "landArea": "—",
+    "builtUp": "980 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1K2yLOU-a64_5JYgqD0aurcbPi00Bu3Il&sz=w800"
+    ]
+  },
+  {
+    "id": "2954",
     "title": "Condominium",
     "address": "Block M, PD Perdana Condo Resort, Batu 5 1/2, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -50618,7 +51509,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2908",
+    "id": "2955",
     "title": "1 Storey Terrace House",
     "address": "No. 1810, Taman Jaya Lukut, 71010 Lukut, Negeri Sembilan",
     "postcode": "71010",
@@ -50635,7 +51526,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2909",
+    "id": "2956",
     "title": "Condominium",
     "address": "Unit No. M608, Block M, PD Perdana Condo Resort, Batu 5 1/2, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -50652,7 +51543,61 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2910",
+    "id": "2957",
+    "title": "2 Storey Terrace House",
+    "address": "No. 310, Jalan Sengkang 2, Taman Sengkang, 71250 Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 300000,
+    "auctionDate": "14th Dec 2026 (Mon)",
+    "landArea": "1,120 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18epZmpkxe20fhVw7Q2ilhaIJkZTrk-t4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1s1pEbzwnRVhOcMLNJt3-FyMdRFWEuelA&sz=w800",
+      "https://drive.google.com/thumbnail?id=1C87tHEIzNy3TWqZYGKLmm7ZKEpVWFct5&sz=w800"
+    ]
+  },
+  {
+    "id": "2958",
+    "title": "1 Storey Terrace House",
+    "address": "No. 665, Jalan Desa PD 9, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 117000,
+    "auctionDate": "14th Dec 2026 (Mon)",
+    "landArea": "1,474 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800"
+    ]
+  },
+  {
+    "id": "2959",
+    "title": "1 Storey Terrace House",
+    "address": "PT 11500, Jalan BBN 6/2C, Desa Cempaka, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "11500",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 350000,
+    "auctionDate": "14th Dec 2026 (Mon)",
+    "landArea": "1,650 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nDp77_y5oLMPP99tuotzyhzkWmanbIw7&sz=w800"
+    ]
+  },
+  {
+    "id": "2960",
     "title": "2 Storey Terrace House",
     "address": "No. 123, Jalan Arowana 4, Taman Arowana, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -50669,7 +51614,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2911",
+    "id": "2961",
     "title": "3 Storey Shop Office",
     "address": "PT. 7352, Jalan BBN 1/2K, Putra Point, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -50686,7 +51631,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2912",
+    "id": "2962",
     "title": "1 Storey Terrace House",
     "address": "No. 212, Jalan Kasih Putera 7, Taman Kasih Putera, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -50704,7 +51649,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2913",
+    "id": "2963",
     "title": "1 Storey Water Chalet",
     "address": "Unit No. 2111, Jalan BT 2, The Legend International Water Homes, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -50721,7 +51666,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2914",
+    "id": "2964",
     "title": "1 Storey Terrace House",
     "address": "No. 1096, Jalan Politeknik 21, Taman Politeknik, 71050 Port Dickson, Negeri Sembilan",
     "postcode": "71050",
@@ -50738,7 +51683,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2915",
+    "id": "2965",
     "title": "3 Storey Shop Office",
     "address": "Jalan BBN 1/2K, Putra Point, Putra Nilai, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -50755,7 +51700,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2916",
+    "id": "2966",
     "title": "1 Storey Terrace House",
     "address": "Jalan Mutiara 1, Taman Mutiara, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -50772,7 +51717,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2917",
+    "id": "2967",
     "title": "1 Storey Terrace House",
     "address": "Jalan PS 5/7, Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -50789,7 +51734,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2918",
+    "id": "2968",
     "title": "1 Storey Terrace House",
     "address": "No. 1343, Jalan Gadong Jaya 28/7, Taman Gadong Jaya, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -50799,7 +51744,7 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "16th Dec 2026 (Wed)",
     "landArea": "1,302 sq.ft",
     "builtUp": "—",
-    "tenure": "—",
+    "tenure": "Freehold",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=181-59r33y1BjXlo-BXkhONlxiV6LrAU_&sz=w800",
@@ -50807,7 +51752,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2919",
+    "id": "2969",
     "title": "1 Storey Terrace House",
     "address": "Jalan Jemapoh Murni 2, Taman Jemapoh Murni, 72000 Kuala Pilah, Negeri Sembilan",
     "postcode": "72000",
@@ -50824,7 +51769,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2920",
+    "id": "2970",
     "title": "1 Storey Terrace House",
     "address": "No. 21, Jalan Mutiara 1, Taman Mutiara, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -50841,7 +51786,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2921",
+    "id": "2971",
     "title": "Terrace House",
     "address": "Jalan Tiara Sendayan 2/14, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -50861,7 +51806,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2922",
+    "id": "2972",
     "title": "1 Storey Terrace House",
     "address": "No. 14, Jalan PS 5/7, Taman Pinggiran Senawang, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -50878,7 +51823,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2923",
+    "id": "2973",
     "title": "2 Storey Terrace House",
     "address": "No. 623, Jalan Tiara Sendayan 2/14, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -50898,7 +51843,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2924",
+    "id": "2974",
     "title": "2 Storey Terrace House",
     "address": "Jalan Irama Sendayan 1/2B, Taman Irama Sendayan 1, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -50919,7 +51864,26 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2925",
+    "id": "2975",
+    "title": "Condominium",
+    "address": "Unit No. A-01-01, Residensi Lili @ Taman Bucida Hijauan, Jalan Bucida Hijauan 1/1, Taman Bucida Hijauan, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 233280,
+    "auctionDate": "16th Dec 2026 (Wed)",
+    "landArea": "—",
+    "builtUp": "893 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1GACQEwSSkF_4cH0XRgPSqB5zkUEqd8yI&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hg-3Ysc61S1cCzGM56C_ep8nNeMzRRbC&sz=w800",
+      "https://drive.google.com/thumbnail?id=116gi1N_lwdtvIAt4QdveNCOBtih-a0DM&sz=w800"
+    ]
+  },
+  {
+    "id": "2976",
     "title": "2 Storey Terrace House",
     "address": "No. 208, Jalan Springhill 5/3A, Residence 5, Bandar Springhill, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -50936,7 +51900,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2926",
+    "id": "2977",
     "title": "2 Storey Semi Detached House",
     "address": "No. 227, Jalan Hijayu 2/31, Resort Homes, Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -50955,7 +51919,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2927",
+    "id": "2978",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tasik Senangin 16/3, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -50973,7 +51937,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2928",
+    "id": "2979",
     "title": "Flat",
     "address": "Flat Taman Andalas, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -50990,7 +51954,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2929",
+    "id": "2980",
     "title": "2 Storey Terrace House",
     "address": "No. 92, Jalan Tasik Senangin 16/3, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -51008,7 +51972,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2930",
+    "id": "2981",
     "title": "2 Storey Terrace House",
     "address": "Jalan RPPD 3, Residensi Prima Port Dickson, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51027,7 +51991,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2931",
+    "id": "2982",
     "title": "1 Storey Terrace House",
     "address": "Jalan BIL 43, Taman Indera Bayu Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51046,7 +52010,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2932",
+    "id": "2983",
     "title": "Terrace House",
     "address": "Jalan Iringan Bayu 44/12, Taman Iringan Bayu, Precint 11, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51064,7 +52028,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2933",
+    "id": "2984",
     "title": "Terrace House",
     "address": "Jalan Nibong 1, Taman Bukit Nibong, Sikamat 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -51081,7 +52045,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2934",
+    "id": "2985",
     "title": "2 Storey Terrace House",
     "address": "Taman Megah Baru within the Vicinity of Kampung Arab, Port Dickson, Negeri Sembilan",
     "postcode": "",
@@ -51098,7 +52062,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2935",
+    "id": "2986",
     "title": "2 Storey Terrace House",
     "address": "Taman Megah Baru, Kampung Arab, Port Dickson, Negeri Sembilan",
     "postcode": "",
@@ -51115,7 +52079,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2936",
+    "id": "2987",
     "title": "2 Storey Terrace House",
     "address": "No. 940, Jalan Ara Sendayan 5/4, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51133,7 +52097,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2937",
+    "id": "2988",
     "title": "Petrol Station",
     "address": "PT 2768, Jalan Bahau - Keratong (Laluan Persekutuan 11), 72120 Jempol, Negeri Sembilan",
     "postcode": "72120",
@@ -51150,7 +52114,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2938",
+    "id": "2989",
     "title": "2 Storey Terrace House",
     "address": "No. 650, Jalan Hijayu 2/50, Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -51169,7 +52133,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2939",
+    "id": "2990",
     "title": "2 Storey Terrace House",
     "address": "No. 280, Jalan RPPD 3, Residensi Prima Port Dickson, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51188,7 +52152,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2940",
+    "id": "2991",
     "title": "2 Storey Terrace House",
     "address": "Jalan Hijayu 3/14, Hijayu 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -51209,7 +52173,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2941",
+    "id": "2992",
     "title": "Uncompleted 2 Storey Terrace House",
     "address": "Taman Megah Baru, within the Vicinity of Kampung Arab, Port Dickson, Negeri Sembilan",
     "postcode": "",
@@ -51226,7 +52190,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2942",
+    "id": "2993",
     "title": "Uncompleted 2 Storey Terrace House",
     "address": "Lot 14256 (PT 690), Taman Megah Baru, Kampung Arab, Port Dickson, Negeri Sembilan",
     "postcode": "14256",
@@ -51243,7 +52207,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2943",
+    "id": "2994",
     "title": "2 Storey Terrace House",
     "address": "No. 724, Jalan Ara Sendayan 3/8, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51261,7 +52225,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2944",
+    "id": "2995",
     "title": "2 Storey Terrace House",
     "address": "Jalan Springhill 7/7, Residence 7, Bandar Springhill, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51278,7 +52242,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2945",
+    "id": "2996",
     "title": "1 Storey Terrace House",
     "address": "Jalan Anggerik 4, Taman PD Utama, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -51295,7 +52259,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2946",
+    "id": "2997",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Fasa 1, Taman Sengkang, 71250 Port Dickson, Negeri Sembilan",
     "postcode": "71250",
@@ -51314,7 +52278,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2947",
+    "id": "2998",
     "title": "2 Storey Terrace House",
     "address": "No. 122, Jalan Springhill 7/7, Residence 7, Bandar Springhill, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51331,7 +52295,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2948",
+    "id": "2999",
     "title": "2 Storey Terrace House",
     "address": "No. 301, Jalan Hijayu 3/14, Hijayu 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -51352,7 +52316,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2949",
+    "id": "3000",
     "title": "1 Storey Terrace House",
     "address": "No. 1250, Jalan BIL 43, Taman Indera Bayu Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51371,7 +52335,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2950",
+    "id": "3001",
     "title": "2 Storey Terrace House",
     "address": "No. 718, Lorong Iringan Bayu 44/12, Taman Iringan Bayu, Precint 11, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51389,7 +52353,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2951",
+    "id": "3002",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 32, Jalan Nibong 1, Taman Bukit Nibong, Sikamat, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -51406,7 +52370,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2952",
+    "id": "3003",
     "title": "1 Storey Terrace House",
     "address": "No. 2726, Jalan Anggerik 4, Taman PD Utama, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -51423,7 +52387,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2953",
+    "id": "3004",
     "title": "Vacant Residential Land",
     "address": "Lot 31238, Off Jalan Sikamat Pantai, Sikamat, 70400 Seremban, Negeri Sembilan",
     "postcode": "31238",
@@ -51440,7 +52404,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2954",
+    "id": "3005",
     "title": "Flat",
     "address": "Unit No. M2/5/10, Flat Taman Andalas, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -51457,7 +52421,24 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2955",
+    "id": "3006",
+    "title": "1 Storey Terrace House",
+    "address": "No. 576, Jalan Intan Duyung 9, Taman Intan Duyung, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 153000,
+    "auctionDate": "17th Dec 2026 (Thu)",
+    "landArea": "1,399 sq.ft",
+    "builtUp": "—",
+    "tenure": "Leasehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1duUI6QkWeW-91D7fWxHRaDyx0vZp6tLS&sz=w800"
+    ]
+  },
+  {
+    "id": "3007",
     "title": "1 Storey Terrace House",
     "address": "Jalan Desa Puteri 13 (Jalan Puteri 13), Taman Desa Puteri, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -51475,7 +52456,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2956",
+    "id": "3008",
     "title": "1 Storey Terrace House",
     "address": "Taman KSNS, 71300 Rembau, Negeri Sembilan",
     "postcode": "71300",
@@ -51492,7 +52473,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2957",
+    "id": "3009",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kasih Putera 6, Taman Kasih Putera, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -51510,7 +52491,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2958",
+    "id": "3010",
     "title": "1 Storey Terrace House",
     "address": "No. 533, Jalan BIL 17, Taman Bayu Indera Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51529,7 +52510,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2959",
+    "id": "3011",
     "title": "2 Storey Terrace House",
     "address": "No. 62, Jalan Seremban Tiga 2, Seremban 3, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51546,7 +52527,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2960",
+    "id": "3012",
     "title": "2 Storey Terrace House",
     "address": "No. 66, Jalan Tembaga 1/5, Taman Bukit Desa, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -51563,7 +52544,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2961",
+    "id": "3013",
     "title": "1 Storey Terrace House",
     "address": "No. 907, Jalan BIL 18, Taman Bayu Indera, Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51582,7 +52563,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2962",
+    "id": "3014",
     "title": "2 Storey Bungalow",
     "address": "No. 61, Sri Carcosa, Jalan S2 J3, Seremban 2, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51600,7 +52581,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2963",
+    "id": "3015",
     "title": "2 Storey Terrace House",
     "address": "No. 41, Jalan Bukit Sarimban 1, Taman Bukit Sarimban, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -51620,7 +52601,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2964",
+    "id": "3016",
     "title": "2 Storey Terrace House",
     "address": "No. 1277, Jalan Nusa Intan 1/11, Taman Nusa Intan, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -51638,7 +52619,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2965",
+    "id": "3017",
     "title": "Terrace House",
     "address": "Jalan Tiara Sendayan 4/3, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -51658,7 +52639,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2966",
+    "id": "3018",
     "title": "2 Storey Terrace House",
     "address": "No. 563, Lorongan Iringan Bayu 41/8, Precint 8, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51676,7 +52657,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2967",
+    "id": "3019",
     "title": "1 Storey Terrace House",
     "address": "No. 282, Jalan Matahari 11, Taman Matahari Heights Senawang, 70450, Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -51693,7 +52674,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2968",
+    "id": "3020",
     "title": "2 Storey Terrace House",
     "address": "No. 83, Jalan Sengkang 5, Taman Sengkang, 71250 Pasir Panjang, Negeri Sembilan",
     "postcode": "71250",
@@ -51712,7 +52693,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2969",
+    "id": "3021",
     "title": "2 Storey Terrace House",
     "address": "No.168, Jalan Laman Kenanga 3, Laman Kenanga, Nilai Impian, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -51729,7 +52710,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2970",
+    "id": "3022",
     "title": "2 Storey Terrace House",
     "address": "No. 107, Jalan BSS 1/3C, Bandar Seremban Selatan, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -51746,7 +52727,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2971",
+    "id": "3023",
     "title": "1 Storey Semi Detached House",
     "address": "No. 169, Lorong Iringan Bayu 38/6, Precint 8, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -51764,7 +52745,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2972",
+    "id": "3024",
     "title": "2 Storey Semi Detached House",
     "address": "No. 20, Jalan D'Palma 1, D'Palma @ Taman Pinang Gading, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -51781,7 +52762,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2973",
+    "id": "3025",
     "title": "2 Storey Terrace House",
     "address": "No. 456, Jalan RPPD 6, Residensi Prima Port Dickson, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -51798,7 +52779,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2974",
+    "id": "3026",
     "title": "1 Storey Terrace House",
     "address": "PT. 5274, Jalan Desa Puteri 13 (Jalan Puteri 13), Taman Desa Puteri, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -51816,7 +52797,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2975",
+    "id": "3027",
     "title": "1 Storey Terrace House",
     "address": "No. PT 2413, Taman KSNS, 71300 Rembau, Negeri Sembilan",
     "postcode": "71300",
@@ -51833,7 +52814,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2976",
+    "id": "3028",
     "title": "1 Storey Terrace House",
     "address": "No. 199, Jalan Kasih Putera 6, Taman Kasih Putera, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -51851,7 +52832,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2977",
+    "id": "3029",
     "title": "2 Storey Terrace House",
     "address": "No. 1443, Jalan Tiara Sendayan 4/3, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -51871,7 +52852,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2978",
+    "id": "3030",
     "title": "1 Storey Terrace House",
     "address": "No. 149 (PT 2673), Jalan Musytari 10, Taman Musytari, 72200 Batu Kikir, Negeri Sembilan",
     "postcode": "72200",
@@ -51890,7 +52871,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2979",
+    "id": "3031",
     "title": "2 Storey Terrace House",
     "address": "Jalan Ainsdale 7/9, Bandar Ainsdale, 70200 Labu, Negeri Sembilan",
     "postcode": "70200",
@@ -51908,7 +52889,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2980",
+    "id": "3032",
     "title": "2 Storey Terrace House with Extra Land",
     "address": "No. 315, Jalan Suriaman 2/6, Suriaman 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -51927,7 +52908,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2981",
+    "id": "3033",
     "title": "2 Storey Terrace House",
     "address": "No. 20, Jalan Suriaman 1/1, Suriaman 1, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -51945,7 +52926,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2982",
+    "id": "3034",
     "title": "1 Storey Terrace House",
     "address": "No. 8, Jalan TRP 4, Taman Rembau Permata, 71300 Rembau, Negeri Sembilan",
     "postcode": "71300",
@@ -51962,7 +52943,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2983",
+    "id": "3035",
     "title": "2 Storey Terrace House",
     "address": "No. 1067, Jalan Bukit Eka 3/9, Taman Bukit Eka, 71760 Seremban, Negeri Sembilan",
     "postcode": "71760",
@@ -51979,7 +52960,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2984",
+    "id": "3036",
     "title": "2.5 Storey Semi Detached House",
     "address": "Premises No. 1520, Jalan TBK 7/10, Kepayang Heights, Taman Bukit Kepayang, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -51997,7 +52978,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2985",
+    "id": "3037",
     "title": "2 Storey Terrace House",
     "address": "No. 53, Jalan Nusari Bayu 6/1E, Nusari Bayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52014,7 +52995,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2986",
+    "id": "3038",
     "title": "2 Storey Terrace House",
     "address": "No 1763, Jalan Tiara Sendayan 5/6, Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -52034,7 +53015,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2987",
+    "id": "3039",
     "title": "2.5 Storey Semi Detached House",
     "address": "No. 119, Jalan TTJS 3/10, Taman Tuanku Jaafar, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -52051,7 +53032,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2988",
+    "id": "3040",
     "title": "2 Storey Terrace House",
     "address": "Jalan Nada Alam 3/1, Taman Nada Alam, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -52068,7 +53049,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2989",
+    "id": "3041",
     "title": "Residential Land",
     "address": "PT 12983, Lorong Makmal 5, College Heights, Garden Resort, 71700 Mantin, Negeri Sembilan",
     "postcode": "12983",
@@ -52085,7 +53066,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2990",
+    "id": "3042",
     "title": "2 Storey Terrace House",
     "address": "No. 1970, Jalan Tiara Sendayan 6/5, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -52105,7 +53086,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2991",
+    "id": "3043",
     "title": "1 Storey Terrace House",
     "address": "No. 255, Jalan Desa Beringin 6, Taman Desa Beringin, Sikamat, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -52122,7 +53103,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2992",
+    "id": "3044",
     "title": "Condominium",
     "address": "PD Perdana, Batu 5, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -52139,7 +53120,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2993",
+    "id": "3045",
     "title": "2 Storey Semi Detached House",
     "address": "No. 57, Jalan Desa Saga 3, Taman Desa Saga, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -52156,7 +53137,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2994",
+    "id": "3046",
     "title": "1 Storey Detached House",
     "address": "Jalan Tasik Senangin 8/2, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -52174,7 +53155,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2995",
+    "id": "3047",
     "title": "1 Storey Detached House",
     "address": "No. 90, Jalan Tasik Senangin 8/2, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -52192,7 +53173,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2996",
+    "id": "3048",
     "title": "2 Storey Terrace House",
     "address": "No. 585, Jalan Bayu Sutera 2/5, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -52209,7 +53190,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2997",
+    "id": "3049",
     "title": "2 Storey Terrace House",
     "address": "No. 62, Jalan Suriaman 1/4, Suriaman 1, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52227,7 +53208,27 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2998",
+    "id": "3050",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Tiara Sendayan 14/11, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 432000,
+    "auctionDate": "13th Jan 2027 (Wed)",
+    "landArea": "1,400 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "3051",
     "title": "2 Storey Terrace House",
     "address": "No. 991, Jalan Hijayu 2/62, Resort Residence, Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52246,7 +53247,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "2999",
+    "id": "3052",
     "title": "2 Storey Terrace House",
     "address": "No. 482, Jalan Hijayu 1/17, Hijayu 1, Bandar Sri Sendayan, 71950 Seremban, Negeri Sembilan",
     "postcode": "71950",
@@ -52265,7 +53266,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3000",
+    "id": "3053",
     "title": "2 Storey Semi Detached House",
     "address": "No. 78, Jalan Laman Bakawali E/2, Laman Bakawali, Kota Seriemas, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -52282,7 +53283,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3001",
+    "id": "3054",
     "title": "1 Storey Terrace House",
     "address": "No. 2201, Lorong Awana Indah 8, Taman Awana Indah, 72100 Bahau, Negeri Sembilan",
     "postcode": "72100",
@@ -52299,7 +53300,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3002",
+    "id": "3055",
     "title": "2 Storey Terrace House",
     "address": "No. 44, Jalan Seri Rahang 2, Taman Seri Rahang, 70100 Seremban, Negeri Sembilan",
     "postcode": "70100",
@@ -52316,7 +53317,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3003",
+    "id": "3056",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bukit Sendayan 3, Taman Bukit Sendayan, 71950 Seremban, Negeri Sembilan",
     "postcode": "71950",
@@ -52333,7 +53334,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3004",
+    "id": "3057",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bukit Citra 2/4, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -52350,7 +53351,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3005",
+    "id": "3058",
     "title": "Detached House Plot",
     "address": "Lot No. 12047, Jalan Utama Emville, Emville Golf Resort (Taman Emville), 71800 Nilai, Negeri Sembilan",
     "postcode": "12047",
@@ -52367,7 +53368,24 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3006",
+    "id": "3059",
+    "title": "1 Storey Terrace House",
+    "address": "No. 83, Jalan Bukit Citra 2/4, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 250000,
+    "auctionDate": "19th Jan 2027 (Tue)",
+    "landArea": "1,540 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uwizljoS-YXIUpqAQIHP029Ju_DtxZtb&sz=w800"
+    ]
+  },
+  {
+    "id": "3060",
     "title": "2 Storey Terrace House",
     "address": "No. 882, Jalan Tiara Sendayan 14/16, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -52387,7 +53405,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3007",
+    "id": "3061",
     "title": "Terrace House",
     "address": "Jalan Bukit Belian 3, Taman Bukit Belian, 71700, Negeri Sembilan",
     "postcode": "71700",
@@ -52404,7 +53422,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3008",
+    "id": "3062",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tasik Senangin 16/5, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -52422,7 +53440,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3009",
+    "id": "3063",
     "title": "Apartment",
     "address": "Unit No. F-L1-1, Block F, Corus Paradise Resort, Lot 290, KM 3.5, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -52439,7 +53457,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3010",
+    "id": "3064",
     "title": "1 Storey Terrace House",
     "address": "Lorong Zamrud 1/1, Taman Bukit Zamrud (Taman Temiang), 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -52456,7 +53474,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3011",
+    "id": "3065",
     "title": "Apartment",
     "address": "Blok D, Taman Semarak 2, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -52475,7 +53493,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3012",
+    "id": "3066",
     "title": "1 Storey Terrace House",
     "address": "Jalan BIL 41, Taman Bayu Indera Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -52494,7 +53512,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3013",
+    "id": "3067",
     "title": "1 Storey Terrace House",
     "address": "No. 268, Jalan Ekar 1/6, Taman Bandar Ekar, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -52511,7 +53529,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3014",
+    "id": "3068",
     "title": "2 Storey Terrace House",
     "address": "No. 58, Jalan Tasik Senangin 16/7, Persiaran Tasik Senangin 1, 71750 Bandar Tasik Senangin, Negeri Sembilan",
     "postcode": "71750",
@@ -52529,7 +53547,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3015",
+    "id": "3069",
     "title": "1 Storey Terrace House",
     "address": "No. 1245, Jalan BIL 41, Taman Bayu Indera Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -52548,7 +53566,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3016",
+    "id": "3070",
     "title": "1 Storey Terrace House",
     "address": "No. 719, Jalan Gunung Angsi 11, Taman Kelab Tuanku, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -52565,7 +53583,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3017",
+    "id": "3071",
     "title": "Shop Office",
     "address": "No. 277, Jalan Pusat Dagangan Sendayan 3/5, Pusat Dagangan Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52582,7 +53600,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3018",
+    "id": "3072",
     "title": "Terrace House",
     "address": "No. 561, Jalan Nusa Intan 5/3, Taman Nusa Intan, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -52600,7 +53618,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3019",
+    "id": "3073",
     "title": "Terrace House",
     "address": "No. 191, Jalan Kasturi 6, Taman Kasturi, 73200 Gemencheh, Negeri Sembilan",
     "postcode": "73200",
@@ -52617,7 +53635,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3020",
+    "id": "3074",
     "title": "Terrace House",
     "address": "No. 876, Jalan Suriaman 2/37, Suriaman 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52636,7 +53654,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3021",
+    "id": "3075",
     "title": "1 Storey Terrace House",
     "address": "Premises No. 6, Jalan Bagan Kurnia 6, Taman Bagan Kurnia Chuah, 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -52653,7 +53671,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3022",
+    "id": "3076",
     "title": "2 Storey Terrace House",
     "address": "Premises No. 376, Lorong Iringan Bayu 41/2, Precint 8, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -52671,7 +53689,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3023",
+    "id": "3077",
     "title": "1 Storey Terrace House",
     "address": "No. 1334, Jalan Politeknik 25, Taman Politeknik, 71050 Port Dickson, Negeri Sembilan",
     "postcode": "71050",
@@ -52688,7 +53706,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3024",
+    "id": "3078",
     "title": "2 Storey Terrace House",
     "address": "No. 409, Lorong Iringan Bayu 35/4, Precint 3, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -52706,7 +53724,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3025",
+    "id": "3079",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Jalan Cempaka 6, Taman Cempaka, Senawang, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -52723,7 +53741,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3026",
+    "id": "3080",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Lorong Zamrud 1/1, Taman Bukit Zamrud (Taman Temiang), 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -52740,7 +53758,118 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3027",
+    "id": "3081",
+    "title": "Apartment",
+    "address": "Unit No. D-1-13, Blok D, Taman Semarak 2, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 105300,
+    "auctionDate": "20th Jan 2027 (Wed)",
+    "landArea": "—",
+    "builtUp": "721 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1pwy_t-wqVncP8oO3d63boqBDgH52jaMn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ZMVpTUQnbtbHafXwaVVz_p47y3Aeo7-l&sz=w800",
+      "https://drive.google.com/thumbnail?id=19L2QFOlYwihDglXGqKHMb9XU4NHHOsw3&sz=w800"
+    ]
+  },
+  {
+    "id": "3082",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1355, Jalan Hijayu 2/72, Resort Residence 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 486000,
+    "auctionDate": "20th Jan 2027 (Wed)",
+    "landArea": "1,647 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "3083",
+    "title": "1 Storey Terrace House",
+    "address": "No. 176, Jalan Zamrud 12, Taman Zamrud, 72200 Batu Kikir, Negeri Sembilan",
+    "postcode": "72200",
+    "state": "Negeri Sembilan",
+    "area": "Batu Kikir",
+    "reservePrice": 178200,
+    "auctionDate": "20th Jan 2027 (Wed)",
+    "landArea": "1,302 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dxBG-GAllJ9WPE5N33TB011vHa5pjkvb&sz=w800",
+      "https://drive.google.com/thumbnail?id=1iRiC797din_sWG9ahsfThxHF3IXR6o-J&sz=w800"
+    ]
+  },
+  {
+    "id": "3084",
+    "title": "Residential Land",
+    "address": "Lot No. 11573, Jalan Tasik Senangin 1/6A, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "11573",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 121500,
+    "auctionDate": "20th Jan 2027 (Wed)",
+    "landArea": "4,004 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Land",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1OtMQNgbHvKsmcOcWxoEzErwWqOYE2da_&sz=w800",
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
+    ]
+  },
+  {
+    "id": "3085",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1145, Jalan Bukit Galena 20, Taman Bukit Galena, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 324000,
+    "auctionDate": "20th Jan 2027 (Wed)",
+    "landArea": "1,539 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1YvbcQ1XBMo1V6uKgXdJSboFfBJsT_5GS&sz=w800",
+      "https://drive.google.com/thumbnail?id=1zmMHjhtkQDd4OHkotRhrltEHTJfIC5OY&sz=w800"
+    ]
+  },
+  {
+    "id": "3086",
+    "title": "2 Storey Semi Detached House",
+    "address": "No. 43, Jalan Bukit Kemayan 2, Taman Bukit Kemayan, 70300, Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 855000,
+    "auctionDate": "20th Jan 2027 (Wed)",
+    "landArea": "3,389 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=11bBXiOB8WAe15kF1BCRXQSV6J-rb8xPR&sz=w800",
+      "https://drive.google.com/thumbnail?id=1xA8GOTDiSOtM-vsR3LpVCrOVZbpssnqn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1JfUY3PfTiURg3qMuhDPJi0dj70id9Mz1&sz=w800"
+    ]
+  },
+  {
+    "id": "3087",
     "title": "2 Storey Terrace House",
     "address": "Lot 14260, Jalan Shell Gate, Taman Megah Baru (Kampung Gelam), 71000 Port Dickson, Negeri Sembilan",
     "postcode": "14260",
@@ -52757,7 +53886,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3028",
+    "id": "3088",
     "title": "2 Storey Terrace House",
     "address": "No. 1951, Persiaran Bayu Sutera 4, Taman Bayu Sutera (Fasa 4A1), 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -52774,7 +53903,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3029",
+    "id": "3089",
     "title": "2 Storey Terrace House",
     "address": "Jalan Suriaman 2/14, Suriaman 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52793,7 +53922,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3030",
+    "id": "3090",
     "title": "2 Storey Terrace House",
     "address": "Jalan Ekar 4/7, Residensi Prima Bandar Ekar, Bandar Ekar, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -52810,7 +53939,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3031",
+    "id": "3091",
     "title": "Terrace House",
     "address": "Jalan BM 3, Taman Bukit Mahogani, 71600 Kuala Klawang, Negeri Sembilan",
     "postcode": "71600",
@@ -52827,7 +53956,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3032",
+    "id": "3092",
     "title": "1 Storey Terrace House",
     "address": "PT. 4510 (Lot 13272), Taman Sri Intan, 73200 Gemencheh, Negeri Sembilan",
     "postcode": "13272",
@@ -52844,7 +53973,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3033",
+    "id": "3093",
     "title": "2 Storey Terrace House",
     "address": "No. 585, Jalan Bayu Sutera 2/5, Taman Bayu Sutera, 71960 Port Dickson, Negeri Sembilan",
     "postcode": "71960",
@@ -52861,7 +53990,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3034",
+    "id": "3094",
     "title": "1 Storey Terrace House",
     "address": "No. 144, Jalan Kirby 8, Taman Kirby, Batu 9, Jalan Labu, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -52871,14 +54000,14 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "25th Jan 2027 (Mon)",
     "landArea": "1,200 sq.ft",
     "builtUp": "—",
-    "tenure": "Freehold",
+    "tenure": "—",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1TgfpFhdB1WimLHQUMdieTQ8Si2f7iid5&sz=w800"
     ]
   },
   {
-    "id": "3035",
+    "id": "3095",
     "title": "2 Storey Terrace House",
     "address": "No. PT 2832, Jalan Indah 4/4, Taman Indah Baru, 73000 Tampin, Negeri Sembilan",
     "postcode": "73000",
@@ -52895,7 +54024,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3036",
+    "id": "3096",
     "title": "Terrace House",
     "address": "No. 261, Lorong Iringan Bayu 34/10, Precint 3, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -52913,7 +54042,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3037",
+    "id": "3097",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tasik Senangin 16/5, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
     "postcode": "71750",
@@ -52931,7 +54060,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3038",
+    "id": "3098",
     "title": "2 Storey Terrace House",
     "address": "No. 487, Jalan Suriaman 2/14, Suriaman 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52950,7 +54079,79 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3039",
+    "id": "3099",
+    "title": "2 Storey Terrace House",
+    "address": "No. 66, Jalan Tasik Senangin 16/5, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "71750",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 328050,
+    "auctionDate": "25th Jan 2027 (Mon)",
+    "landArea": "1,647 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1OtMQNgbHvKsmcOcWxoEzErwWqOYE2da_&sz=w800",
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
+    ]
+  },
+  {
+    "id": "3100",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Indah 4/4, Taman Indah Baru, 73000 Tampin, Negeri Sembilan",
+    "postcode": "73000",
+    "state": "Negeri Sembilan",
+    "area": "Tampin",
+    "reservePrice": 190000,
+    "auctionDate": "25th Jan 2027 (Mon)",
+    "landArea": "1,416 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1AN0jexWfnpXJrqFw7kpiYCE-RcZLgxdt&sz=w800"
+    ]
+  },
+  {
+    "id": "3101",
+    "title": "1 Storey Terrace House",
+    "address": "No. 2141, Jalan Ekar 4/23, Bandar Ekar Rantau, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 207000,
+    "auctionDate": "25th Jan 2027 (Mon)",
+    "landArea": "1,301 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ZdVhvCUiOQ83VngigICZpwGsg30uuIwk&sz=w800"
+    ]
+  },
+  {
+    "id": "3102",
+    "title": "1 Storey Terrace House",
+    "address": "No. 112, Jalan Rasa Sayang 5, Taman Rasa Sayang, 72000 Kuala Pilah, Negeri Sembilan",
+    "postcode": "72000",
+    "state": "Negeri Sembilan",
+    "area": "Kuala Pilah",
+    "reservePrice": 110000,
+    "auctionDate": "25th Jan 2027 (Mon)",
+    "landArea": "1,194 sq.ft",
+    "builtUp": "—",
+    "tenure": "Leasehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17nTPS3fu19OJiElHGLTO64FjaLvBmLUZ&sz=w800",
+      "https://drive.google.com/thumbnail?id=1-LnxnlW_SQvzqC2B3CMAaCo-aPjmMCjO&sz=w800",
+      "https://drive.google.com/thumbnail?id=1qjJPmA7Q5S5KyDMRcvhx_ZWddYDBwVLn&sz=w800",
+      "https://drive.google.com/thumbnail?id=1hYADJkNyleGOtgrA8VcbHhxHQtvgR4Uw&sz=w800"
+    ]
+  },
+  {
+    "id": "3103",
     "title": "Apartment",
     "address": "Unit No. D-5-2/S9, PD Tiara Bay Apartment, 71250 Port Dickson, Negeri Sembilan",
     "postcode": "71250",
@@ -52969,7 +54170,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3040",
+    "id": "3104",
     "title": "2 Storey Terrace House",
     "address": "Jalan Suriaman 3/4, Suriaman 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -52987,7 +54188,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3041",
+    "id": "3105",
     "title": "1 Storey Terrace House",
     "address": "No. 25, Jalan Ros Merah 5, Taman Kobena, Senawang, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -53005,7 +54206,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3042",
+    "id": "3106",
     "title": "2 Storey Terrace House",
     "address": "Jalan Laman Sendayan 4/4, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -53026,7 +54227,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3043",
+    "id": "3107",
     "title": "2 Storey Terrace House",
     "address": "No. 936, Jalan Suriaman 3/4, Suriaman 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -53044,7 +54245,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3044",
+    "id": "3108",
     "title": "1 Storey Terrace House",
     "address": "No. 1355, Jalan BIL 46, Taman Indera Bayu Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -53054,7 +54255,7 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "26th Jan 2027 (Tue)",
     "landArea": "1,227 sq.ft",
     "builtUp": "—",
-    "tenure": "Freehold",
+    "tenure": "—",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1NzpokR03hf6GtJzT9qg1JXRIIEsGfG-Y&sz=w800",
@@ -53063,7 +54264,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3045",
+    "id": "3109",
     "title": "2 Storey Terrace House",
     "address": "No. 404, Jalan Forest Heights 3/14, Precinct 3A, Forest Heights, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -53081,7 +54282,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3046",
+    "id": "3110",
     "title": "2 Storey Terrace House",
     "address": "No. 474, Jalan Forest Heights 3/19, Precinct 3A, Forest Heights, 70450 Seremban, Negeri Sembilan",
     "postcode": "70450",
@@ -53091,7 +54292,7 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "26th Jan 2027 (Tue)",
     "landArea": "2,304 sq.ft",
     "builtUp": "—",
-    "tenure": "Freehold",
+    "tenure": "—",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1wEkJGISHjuGxEuDK8uvWrD0uXjQRURRy&sz=w800",
@@ -53099,7 +54300,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3047",
+    "id": "3111",
     "title": "1 Storey Detached House with a Lower Ground Floor",
     "address": "No. 854, Taman Nee Yan, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -53117,7 +54318,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3048",
+    "id": "3112",
     "title": "1 Storey Terrace House",
     "address": "No. 278, Jalan BSS 2/1, Taman Bukit Sri Senawang, 71450 Sungai Gadut, Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -53134,7 +54335,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3049",
+    "id": "3113",
     "title": "1 Storey Terrace House",
     "address": "No. 262, Lorong Iringan Bayu 34/10, Precint 3, Taman Iringan Bayu, Mambau, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53144,7 +54345,7 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "26th Jan 2027 (Tue)",
     "landArea": "1,410 sq.ft",
     "builtUp": "—",
-    "tenure": "Freehold",
+    "tenure": "—",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
@@ -53152,7 +54353,81 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3051",
+    "id": "3114",
+    "title": "1 Storey Terrace House",
+    "address": "No. 44, Jalan Indah 22, Desa Indah, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "state": "Negeri Sembilan",
+    "area": "Nilai",
+    "reservePrice": 310000,
+    "auctionDate": "26th Jan 2027 (Tue)",
+    "landArea": "1,539 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNFEkSSPzKMu7moYdrbnkeOEY45Kau1L&sz=w800"
+    ]
+  },
+  {
+    "id": "3115",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1142, Jalan Laman Sendayan 4/4, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 344250,
+    "auctionDate": "26th Jan 2027 (Tue)",
+    "landArea": "1,302 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1uVO2yvswetVDr-gTjSnqrvXPazX4Za5A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1khMGYJroUxQUe8q1n_rzrs37RIMoXs8A&sz=w800",
+      "https://drive.google.com/thumbnail?id=1gzLFHXLzHSzuvRqdsGZYa51c8fzI_2yS&sz=w800",
+      "https://drive.google.com/thumbnail?id=1zp1StLmpLuGE4noKGTTUQsQjucvsvOkt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1a0hHZhTTqBvz2RtxNFSW1DNhrhSWqS4r&sz=w800"
+    ]
+  },
+  {
+    "id": "3116",
+    "title": "1 Storey Terrace House",
+    "address": "No. 626, Jalan Desa PD 14, Taman Desa PD, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 97200,
+    "auctionDate": "26th Jan 2027 (Tue)",
+    "landArea": "1,302 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800"
+    ]
+  },
+  {
+    "id": "3117",
+    "title": "1 Storey Terrace House",
+    "address": "No. 295, Jalan Desa PO 2/5, Taman Desa PO, 71200 Rantau, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Rantau",
+    "reservePrice": 200000,
+    "auctionDate": "26th Jan 2027 (Tue)",
+    "landArea": "1,399 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800"
+    ]
+  },
+  {
+    "id": "3118",
     "title": "Terrace House",
     "address": "Jalan PCH 11/1, Perdana College Heights, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -53171,7 +54446,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3052",
+    "id": "3119",
     "title": "Terrace House",
     "address": "No. 1536, Jalan Tiara Sendayan 4/6, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -53191,7 +54466,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3053",
+    "id": "3120",
     "title": "1 Storey Terrace House",
     "address": "No. 226, Jalan Mantau Indah 2/7, Taman Mantau Indah 2, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53209,7 +54484,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3054",
+    "id": "3121",
     "title": "2 Storey Terrace House",
     "address": "Lot 14258, Jalan Shell Gate, Taman Megah Baru, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "14258",
@@ -53226,7 +54501,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3055",
+    "id": "3122",
     "title": "2 Storey Terrace House",
     "address": "No. 648, Jalan BSS 1/3P, Bandar Seremban Selatan, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -53243,7 +54518,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3056",
+    "id": "3123",
     "title": "Apartment",
     "address": "Unit No. 3-3-3A, Block Cempaka C, Jalan S2 G5, Garden Avenue, Seremban 2, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53260,7 +54535,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3057",
+    "id": "3124",
     "title": "2 Storey Terrace House",
     "address": "No. 20, Jalan Taman Sri Bandar, Taman PD Sutera, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -53277,7 +54552,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3058",
+    "id": "3125",
     "title": "2 Storey Semi Detached House",
     "address": "No. 22, Park Residences, Jalan Springhill 3/2, Bandar Springhill, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -53294,7 +54569,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3059",
+    "id": "3126",
     "title": "1 Storey Terrace House",
     "address": "No. 268, Jalan Indah 5, Taman Serting Indah, 72120 Bandar Seri Jempol, Negeri Sembilan",
     "postcode": "72120",
@@ -53311,7 +54586,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3060",
+    "id": "3127",
     "title": "2 Storey Terrace House",
     "address": "No. 352, Jalan Laman Bakawali B/5, Kota Seriemas, Labu, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -53328,7 +54603,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3061",
+    "id": "3128",
     "title": "Terrace House",
     "address": "No. 5212, Jalan Orkid 10, Taman Rasa Sayang, Tampin 73000, Negeri Sembilan",
     "postcode": "73000",
@@ -53348,7 +54623,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3062",
+    "id": "3129",
     "title": "2 Storey Terrace House",
     "address": "No. 26, Jalan Desa Saga 2, Taman Desa Saga, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -53365,7 +54640,97 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3063",
+    "id": "3130",
+    "title": "1 Storey Detached House",
+    "address": "No. 22, Jalan Tasik Senangin 11/2, Seksyen 11, Bandar Tasik Senangin, 71750 Lenggeng, Negeri Sembilan",
+    "postcode": "71750",
+    "state": "Negeri Sembilan",
+    "area": "Lenggeng",
+    "reservePrice": 387000,
+    "auctionDate": "28th Jan 2027 (Thu)",
+    "landArea": "4,004 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1OtMQNgbHvKsmcOcWxoEzErwWqOYE2da_&sz=w800",
+      "https://drive.google.com/thumbnail?id=1nhM7zphX0EDYJFO8UzKHHxWvVT-1ie63&sz=w800"
+    ]
+  },
+  {
+    "id": "3131",
+    "title": "2 Storey Terrace House",
+    "address": "No. 358, Jalan PCH 11/1, Perdana College Heights, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 580000,
+    "auctionDate": "28th Jan 2027 (Thu)",
+    "landArea": "3,453 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ORzys4Uc_lrOzLOgGLfSFmv-IVSvtgOt&sz=w800",
+      "https://drive.google.com/thumbnail?id=1GFR977foOKPSmXLs7lxPXgKbNLvLf30J&sz=w800",
+      "https://drive.google.com/thumbnail?id=1o8rpi40tcUwJ2Lcn2AnLaJA752UcraLd&sz=w800"
+    ]
+  },
+  {
+    "id": "3132",
+    "title": "1 Storey Terrace House",
+    "address": "No. 527, Jalan Taman Bahau (Previously Known as TB), Taman Bahau, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 126000,
+    "auctionDate": "28th Jan 2027 (Thu)",
+    "landArea": "1,001 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=18jSFxmdMKRwc31fa0qRlKjvfOrob3xhS&sz=w800"
+    ]
+  },
+  {
+    "id": "3133",
+    "title": "1 Storey Terrace House",
+    "address": "No. 83, Jalan Desa PD 2/2, Taman Desa PD 2, 71200 Port Dickson, Negeri Sembilan",
+    "postcode": "71200",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 117000,
+    "auctionDate": "28th Jan 2027 (Thu)",
+    "landArea": "1,399 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=17Dc93rKtf4cUtlxOVvgQtMNIK0I1tK_L&sz=w800",
+      "https://drive.google.com/thumbnail?id=1_VgjMs_3X9aXEwqqsYe1aWqT3tvzEVHp&sz=w800"
+    ]
+  },
+  {
+    "id": "3134",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Ara Sendayan 2/2, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 500000,
+    "auctionDate": "28th Jan 2027 (Thu)",
+    "landArea": "1,496 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Nom0Qy-H63zOkykopvsYilfaLhU1gEX9&sz=w800",
+      "https://drive.google.com/thumbnail?id=1Hs0Vm8hq9vSIoKWOz4DWFTnPNZzO4hrV&sz=w800"
+    ]
+  },
+  {
+    "id": "3135",
     "title": "2 Storey Terrace House",
     "address": "Jalan Sena 1/8, Taman Sena, Sungai Gadut, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -53382,7 +54747,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3064",
+    "id": "3136",
     "title": "1 Storey Terrace House",
     "address": "No. 427, Jalan Timur 5/10, Timur @ Enstek, 71760 Bandar Enstek, Negeri Sembilan",
     "postcode": "71760",
@@ -53399,7 +54764,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3065",
+    "id": "3137",
     "title": "Land",
     "address": "PT. 4926, Jalan NSV 3, Nilai Spring Villas, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -53416,7 +54781,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3066",
+    "id": "3138",
     "title": "Terrace House",
     "address": "No. 271, Jalan Indah 5, Taman Serting Indah, Bandar Seri Jempol, 72120, Negeri Sembilan",
     "postcode": "72120",
@@ -53433,7 +54798,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3067",
+    "id": "3139",
     "title": "2 Storey Terrace House",
     "address": "Jalan Orkid 2/2, Taman Orkid 2, 73200 Gemencheh, Negeri Sembilan",
     "postcode": "73200",
@@ -53450,7 +54815,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3068",
+    "id": "3140",
     "title": "2 Storey Terrace House",
     "address": "No. 606, Jalan Ara Sendayan 3/6, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53468,7 +54833,59 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3069",
+    "id": "3141",
+    "title": "2 Storey Terrace House",
+    "address": "No. 25, Jalan Orkid 2/2, Taman Orkid 2, 73200 Gemencheh, Negeri Sembilan",
+    "postcode": "73200",
+    "state": "Negeri Sembilan",
+    "area": "Gemencheh",
+    "reservePrice": 198830,
+    "auctionDate": "2nd Feb 2027 (Tue)",
+    "landArea": "2,832 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Crmo647AwGv11vjvCpfjSofU_BlRQplu&sz=w800"
+    ]
+  },
+  {
+    "id": "3142",
+    "title": "2 Storey Terrace House",
+    "address": "No. 60, Jalan Sena 1/8, Taman Sena, Sungai Gadut, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 405000,
+    "auctionDate": "2nd Feb 2027 (Tue)",
+    "landArea": "1,982 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1nXuwn_C-I0lvxOSuiHmfzzKkaIK4cswS&sz=w800"
+    ]
+  },
+  {
+    "id": "3143",
+    "title": "1 Storey Terrace House",
+    "address": "No. 4905, Jalan Desa Puteri 32, Taman Desa Puteri, 72100 Bahau, Negeri Sembilan",
+    "postcode": "72100",
+    "state": "Negeri Sembilan",
+    "area": "Bahau",
+    "reservePrice": 243000,
+    "auctionDate": "2nd Feb 2027 (Tue)",
+    "landArea": "1,431 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1tcOtChOQOvyWJeHh3BdebnbKjH7DKDun&sz=w800",
+      "https://drive.google.com/thumbnail?id=1VBG8stbNv-BIiUKyX137dZVc7fIgMYc-&sz=w800"
+    ]
+  },
+  {
+    "id": "3144",
     "title": "2 Storey Terrace House",
     "address": "No. 356, Jalan Lazuli 14, Taman Lazuli 2, Off Jalan Labu, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -53478,14 +54895,14 @@ export const PROPERTIES: Property[] = [
     "auctionDate": "3rd Feb 2027 (Wed)",
     "landArea": "2,357 sq.ft",
     "builtUp": "—",
-    "tenure": "Freehold",
+    "tenure": "—",
     "type": "Terrace",
     "images": [
       "https://drive.google.com/thumbnail?id=1SqWO3gH0s75f1l9imlQyXXCrwm_T5dy4&sz=w800"
     ]
   },
   {
-    "id": "3070",
+    "id": "3145",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tiara Sendayan 2/13, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -53505,7 +54922,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3071",
+    "id": "3146",
     "title": "2 Storey Terrace House",
     "address": "No. 701, Jalan Tiara Sendayan 2/9, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -53525,7 +54942,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3072",
+    "id": "3147",
     "title": "2 Storey Terrace House",
     "address": "Jalan Anggerik 3, Laman Anggerik, Nilai Impian, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -53542,7 +54959,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3073",
+    "id": "3148",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tiara Sendayan 6/3, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
     "postcode": "71900",
@@ -53562,7 +54979,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3074",
+    "id": "3149",
     "title": "2 Storey Terrace House",
     "address": "Jalan Ara Sendayan 5/11, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53580,7 +54997,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3075",
+    "id": "3150",
     "title": "2 Storey Terrace House",
     "address": "Jalan Suriaman 3/2, Suriaman 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -53598,7 +55015,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3076",
+    "id": "3151",
     "title": "2 Storey Terrace House",
     "address": "Jalan Ekar 4/6, Residensi Prima Bandar Ekar, Bandar Ekar, 71200 Rantau, Negeri Sembilan",
     "postcode": "71200",
@@ -53615,18 +55032,18 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3077",
-    "title": "Terrace House",
+    "id": "3152",
+    "title": "2 Storey Semi Detached House",
     "address": "No. 237, Jalan Hijayu 2/30, Resort Homes, Hijayu 2, Bandar Sri Sendayan, 71950, Negeri Sembilan",
     "postcode": "71950",
     "state": "Negeri Sembilan",
     "area": "Negeri Sembilan",
     "reservePrice": 1400000,
     "auctionDate": "3rd Feb 2027 (Wed)",
-    "landArea": "—",
+    "landArea": "5,005 sq.ft",
     "builtUp": "—",
-    "tenure": "—",
-    "type": "Terrace",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
     "images": [
       "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
       "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
@@ -53634,7 +55051,79 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3079",
+    "id": "3153",
+    "title": "Terrace House",
+    "address": "Jalan Belian 1, Taman Belian, Batu 9, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 490000,
+    "auctionDate": "3rd Feb 2027 (Wed)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1y_10Gzw2vfCoBTZAanQj8NldOVFIh6nG&sz=w800"
+    ]
+  },
+  {
+    "id": "3154",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2089, Jalan Tiara Sendayan 6/3, Taman Tiara Sendayan, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 372600,
+    "auctionDate": "3rd Feb 2027 (Wed)",
+    "landArea": "2,086 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dWvAsqXzRvOX2zKHvWmLszrByHvTgHuP&sz=w800",
+      "https://drive.google.com/thumbnail?id=1lVEv20L3kzoeM4jMZURlWzs8cLIue4WV&sz=w800",
+      "https://drive.google.com/thumbnail?id=1d6GT_sfmTSyzP2XRqrJ5QQYpdF7CJK3Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=119gdkLu5-aEz7kIoFelNL9q0A0KTJy6C&sz=w800"
+    ]
+  },
+  {
+    "id": "3155",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1251, Jalan Ara Sendayan 5/11, Ara Sendayan, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 380700,
+    "auctionDate": "3rd Feb 2027 (Wed)",
+    "landArea": "1,650 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1Nom0Qy-H63zOkykopvsYilfaLhU1gEX9&sz=w800",
+      "https://drive.google.com/thumbnail?id=1Hs0Vm8hq9vSIoKWOz4DWFTnPNZzO4hrV&sz=w800"
+    ]
+  },
+  {
+    "id": "3156",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 18, Jalan Belian 1, Taman Belian, Batu 9, Jalan Pantai, 71050 Port Dickson, Negeri Sembilan",
+    "postcode": "71050",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 490000,
+    "auctionDate": "3rd Feb 2027 (Wed)",
+    "landArea": "2,016 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1y_10Gzw2vfCoBTZAanQj8NldOVFIh6nG&sz=w800"
+    ]
+  },
+  {
+    "id": "3157",
     "title": "1 Storey Terrace House",
     "address": "Taman Jaya Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -53651,7 +55140,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3080",
+    "id": "3158",
     "title": "2 Storey Terrace House",
     "address": "Jalan Laman Sendayan 1A/4, Laman Sendayan, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -53672,7 +55161,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3081",
+    "id": "3159",
     "title": "1 Storey Terrace House",
     "address": "Taman Tiong Seng Block, 71000 Port Dickson, Negeri Sembilan",
     "postcode": "71000",
@@ -53689,7 +55178,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3082",
+    "id": "3160",
     "title": "2 Storey Terrace House",
     "address": "No. 279, Jalan Duyung 11, Taman Duyung, 70200 Seremban, Negeri Sembilan",
     "postcode": "70200",
@@ -53697,7 +55186,7 @@ export const PROPERTIES: Property[] = [
     "area": "Seremban",
     "reservePrice": 324000,
     "auctionDate": "4th Feb 2027 (Thu)",
-    "landArea": "1,194 sq.ft",
+    "landArea": "1,900 sq.ft",
     "builtUp": "—",
     "tenure": "Freehold",
     "type": "Terrace",
@@ -53706,7 +55195,43 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3083",
+    "id": "3161",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Cempaka 21, Taman Cempaka Heights, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 320760,
+    "auctionDate": "4th Feb 2027 (Thu)",
+    "landArea": "1,500 sq.ft",
+    "builtUp": "—",
+    "tenure": "Leasehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1O1AWFu_HmS2EfRSyeZlCA70Qsrml3yHl&sz=w800"
+    ]
+  },
+  {
+    "id": "3162",
+    "title": "1 Storey Terrace House",
+    "address": "No. 120, Jalan Musytari 9, Taman Musytari, 72200 Batu Kikir, Negeri Sembilan",
+    "postcode": "72200",
+    "state": "Negeri Sembilan",
+    "area": "Batu Kikir",
+    "reservePrice": 180000,
+    "auctionDate": "4th Feb 2027 (Thu)",
+    "landArea": "1,937 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=14q3SPpH7bPDc4SBhHAT1KLIb6HVUZhpZ&sz=w800",
+      "https://drive.google.com/thumbnail?id=1wTFc4_wrnMkP5iF5G1zp9DBz7kVcRopg&sz=w800",
+      "https://drive.google.com/thumbnail?id=1LAawNF63WUamkHgG6rDz6NrlPRSuLc2h&sz=w800"
+    ]
+  },
+  {
+    "id": "3163",
     "title": "1 Storey Terrace House",
     "address": "No. 250, Jalan BIL 1, Taman Bayu Indera Lukut, 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -53725,7 +55250,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3084",
+    "id": "3164",
     "title": "2 Storey Terrace House",
     "address": "Jalan Iringan Bayu 19, Precint 2, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53743,7 +55268,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3085",
+    "id": "3165",
     "title": "2 Storey Terrace House",
     "address": "Jalan Warisan Puteri A69, Precint 6, Taman Warisan Puteri, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -53764,7 +55289,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3086",
+    "id": "3166",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Bukit Senawang Perdana 41, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -53781,7 +55306,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3087",
+    "id": "3167",
     "title": "Apartment",
     "address": "Pangsapuri Kalista 1, Persiaran S2 G1, Seksyen G, Seremban 2, 70300 Seremban, Negeri Sembilan",
     "postcode": "70300",
@@ -53798,7 +55323,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3088",
+    "id": "3168",
     "title": "2 Storey Terrace House",
     "address": "No. 623, Jalan Nada Alam 4/4, Taman Nada Alam, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -53806,7 +55331,7 @@ export const PROPERTIES: Property[] = [
     "area": "Mantin",
     "reservePrice": 450000,
     "auctionDate": "8th Feb 2027 (Mon)",
-    "landArea": "1,539 sq.ft",
+    "landArea": "2,808 sq.ft",
     "builtUp": "—",
     "tenure": "Freehold",
     "type": "Terrace",
@@ -53815,7 +55340,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3089",
+    "id": "3169",
     "title": "1 Storey Terrace House",
     "address": "No. 305, Jalan Bil 1, Taman Bayu Indera Lukut (Bayu 1), 71010 Port Dickson, Negeri Sembilan",
     "postcode": "71010",
@@ -53834,7 +55359,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3090",
+    "id": "3170",
     "title": "2 Storey Terrace House",
     "address": "No. 142, Jalan Hijayu Aman 1/4, Hijayu Aman, 71950 Bandar Sri Sendayan, Negeri Sembilan",
     "postcode": "71950",
@@ -53851,7 +55376,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3091",
+    "id": "3171",
     "title": "Terrace House",
     "address": "No. 1009, Jalan Tiara Sendayan 3/1, Taman Tiara Sendayan, Labu 71900, Negeri Sembilan",
     "postcode": "71900",
@@ -53871,7 +55396,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3092",
+    "id": "3172",
     "title": "Terrace House",
     "address": "No. 520, Lorong Anggerik 23, Bandar Sunggala, Port Dickson 71050, Negeri Sembilan",
     "postcode": "71050",
@@ -53888,7 +55413,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3093",
+    "id": "3173",
     "title": "Vacant Land",
     "address": "Lot 23790, Jalan Palma Jaya 9, Taman Palma Jaya, 70400 Seremban, Negeri Sembilan",
     "postcode": "23790",
@@ -53905,7 +55430,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3094",
+    "id": "3174",
     "title": "1 Storey Semi Detached House",
     "address": "No. 248, Jalan Palma 8 (Jalan Palma Jaya 8), Taman PJ Perdana, 70400 Seremban, Negeri Sembilan",
     "postcode": "70400",
@@ -53922,7 +55447,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3095",
+    "id": "3175",
     "title": "2 Storey Terrace House",
     "address": "No. 23, Jalan GV 17, Taman Green View, 71250 Port Dickson, Negeri Sembilan",
     "postcode": "71250",
@@ -53939,7 +55464,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3096",
+    "id": "3176",
     "title": "Terrace House",
     "address": "Jalan BSS 3/1B, Bandar Seremban Selatan, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -53956,7 +55481,214 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3097",
+    "id": "3177",
+    "title": "2 Storey Terrace House",
+    "address": "No. 22, Jalan Iringan Bayu 19, Precint 2, Taman Iringan Bayu, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 269100,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "1,920 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1bNqnqXq_7mnG9qQeo1ZlyrXtz5hLCPFG&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YRQpJ-xxWr3y_uPDdpt7RH90NqQws_fo&sz=w800"
+    ]
+  },
+  {
+    "id": "3178",
+    "title": "1 Storey Semi Detached House",
+    "address": "No. 232, Jalan Bukit Senawang Perdana 41, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 421200,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "4,155 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
+    ]
+  },
+  {
+    "id": "3179",
+    "title": "Apartment",
+    "address": "Unit No. 1-13-06, Pangsapuri Kalista 1, Persiaran S2 G1, Seksyen G, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 261000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "914 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1vpFX0UrTK_TPf5zyutpBO_Qxjj3HEs1z&sz=w800"
+    ]
+  },
+  {
+    "id": "3180",
+    "title": "2 Storey Terrace House",
+    "address": "No. 2661, Jalan BSS 3/1B, Bandar Seremban Selatan, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 200000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "916 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VHEketmllxMqadBCasUBK2muf245MLcj&sz=w800"
+    ]
+  },
+  {
+    "id": "3181",
+    "title": "Terrace House",
+    "address": "Jalan Jasper Jaya 7, Taman Jasper Jaya, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 320000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=11QVhMAYUsPaIWfuVSs6DpYWGhVX5s8Um&sz=w800"
+    ]
+  },
+  {
+    "id": "3182",
+    "title": "Terrace House",
+    "address": "Lorong Molek 1, Taman Rashidah Indah, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 350000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1r7XeWkJJYxqU-_eM30W8NZY0aznIyjFT&sz=w800"
+    ]
+  },
+  {
+    "id": "3183",
+    "title": "Terrace House",
+    "address": "Jalan Rimbun Aman 2, Taman Rimbun Aman, Seremban 2 Heights, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 350000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1AEHCIPk9c9r7aVgKYJkyWcLAF5HOFuEZ&sz=w800"
+    ]
+  },
+  {
+    "id": "3184",
+    "title": "Terrace House",
+    "address": "Jalan NSC 2/4, Taman Nusa Seri Cengal, 71700 Mantin, Negeri Sembilan",
+    "postcode": "71700",
+    "state": "Negeri Sembilan",
+    "area": "Mantin",
+    "reservePrice": 290000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1aENyYWxoCI24z0B_2aqqVnBPsuEuVlUV&sz=w800"
+    ]
+  },
+  {
+    "id": "3185",
+    "title": "2 Storey Terrace Shop Office",
+    "address": "No. 39, Jalan Seruling Jaya 2, Taman Seruling Jaya, Off Jalan Labu, 70200 Seremban, Negeri Sembilan",
+    "postcode": "70200",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 700000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "2,897 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Commercial",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1WZAiQSwCR6sDEXDXwrxAEzp2njYwEBpR&sz=w800"
+    ]
+  },
+  {
+    "id": "3186",
+    "title": "1 Storey Terrace House",
+    "address": "No. 292, Jalan Permai Impian 8, Taman Permai Impian, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 250000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "1,300 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1L53Ga6fFAskdHpnWsEK_fFu6zdNblHx3&sz=w800"
+    ]
+  },
+  {
+    "id": "3187",
+    "title": "1 Storey Terrace House",
+    "address": "No. 112, Jalan Kemuning 3, Taman Kemuning, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 210600,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "1,539 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1osneQPRuGo9AqYlstHf16fS78Jffc4r2&sz=w800"
+    ]
+  },
+  {
+    "id": "3188",
+    "title": "1 Storey Terrace House",
+    "address": "Jalan BIL 24, Taman Bayu Indera, Lukut, 71010 Port Dickson, Negeri Sembilan",
+    "postcode": "71010",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 350000,
+    "auctionDate": "8th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1NzpokR03hf6GtJzT9qg1JXRIIEsGfG-Y&sz=w800",
+      "https://drive.google.com/thumbnail?id=1TtdFr94rJc4mdli1Wt7YH_5IzeMu3_0g&sz=w800",
+      "https://drive.google.com/thumbnail?id=1gkZdKabziqlIzawraO6beVPwcUJa_d3f&sz=w800"
+    ]
+  },
+  {
+    "id": "3189",
     "title": "2 Storey Detached House",
     "address": "Lorong Laman Kemboja 1/2, Kota Seriemas, Labu, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -53973,7 +55705,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3098",
+    "id": "3190",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bukit Citra 8/2, Taman Bukit Citra, 71700 Mantin, Negeri Sembilan",
     "postcode": "71700",
@@ -53990,7 +55722,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3099",
+    "id": "3191",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bukit Senawang Perdana 48, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -54007,7 +55739,294 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3100",
+    "id": "3192",
+    "title": "Condominium",
+    "address": "Block N, PD Perdana Condo Resort, Batu 5 1/2, Jalan Pantai, 71000 Port Dickson, Negeri Sembilan",
+    "postcode": "71000",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 50250,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "753 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ZyvyDEIXOeZGf86JkhgoJ2Sm6VKP0KfL&sz=w800"
+    ]
+  },
+  {
+    "id": "3193",
+    "title": "2 Storey Detached House",
+    "address": "Jalan RK 3/3, Rasah Kemayan, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 1530000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "8,938 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Semi-D/Bungalow",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1tF5qr0lfBePPAIwqzKX-l6u23D6HCDa9&sz=w800"
+    ]
+  },
+  {
+    "id": "3194",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan SJ 2/3A, Taman Seremban Jaya, 70450 Seremban, Negeri Sembilan",
+    "postcode": "70450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 202500,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "2,917 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1x5qa4tzadNrbPLYnuJqAQEvFsK_-kiB6&sz=w800",
+      "https://drive.google.com/thumbnail?id=1kkx413dPRxjPpbzMsTOPGBu8s2Fq743R&sz=w800"
+    ]
+  },
+  {
+    "id": "3195",
+    "title": "2 Storey Terrace House",
+    "address": "No. 551, Jalan Hijayu 1/19, Hijayu 1, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 519000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "2,561 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1DtxiHPjHw9-Gi87fBkpl_lVfgLWL4Eyl&sz=w800",
+      "https://drive.google.com/thumbnail?id=1-Mkp_uz6aNHKQ73WGRDMbgB2MXxfEmu3&sz=w800",
+      "https://drive.google.com/thumbnail?id=1sPowbW900Nar5MRcSD9tNOh4tjU2Uj6D&sz=w800"
+    ]
+  },
+  {
+    "id": "3196",
+    "title": "2 Storey Terrace House",
+    "address": "No. 83, Jalan Bukit Senawang Perdana 48, Taman Bukit Senawang Perdana, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 348300,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "2,178 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1xtVyA6ukYJTTJBRoj35RH5RiN9VUa9r-&sz=w800"
+    ]
+  },
+  {
+    "id": "3197",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan RJ 2/18, Taman Rasah Jaya, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 145800,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "1,396 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1kZv29DthQRe4BUjXdxzICN1lMGumEs0E&sz=w800",
+      "https://drive.google.com/thumbnail?id=1yYW_v03nncFf9JgzSwZkWbYANWmuckgo&sz=w800",
+      "https://drive.google.com/thumbnail?id=1aGaxR4gvFRn2O_-qqMdaFnbZmU96v3kp&sz=w800"
+    ]
+  },
+  {
+    "id": "3198",
+    "title": "Apartment",
+    "address": "Block D, PD Tiara Bay Apartment, Batu 13, Jalan Pantai, 71250 Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 40000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "355 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19ZebStGyOtSnnEZZMosy0sVEe3VJD4RX&sz=w800",
+      "https://drive.google.com/thumbnail?id=18Ia_r1ryFB19mCz5DKzn3JEug3LuX00-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ukGrTZoQIqpeSkMMRXdey2y1WC5IqCpo&sz=w800"
+    ]
+  },
+  {
+    "id": "3199",
+    "title": "Terrace House",
+    "address": "Jalan Suriaman 2/35, Suriaman 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 520000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1yk8-nBkuW2Yzmp2OmhJmbQVWQlYURH1w&sz=w800",
+      "https://drive.google.com/thumbnail?id=1sc6hXTW_VBGGiVfp7u4RiJpHdop3Sg7i&sz=w800",
+      "https://drive.google.com/thumbnail?id=1VamGpec3-jLfUtz9BaIPoo4IgSIaw606&sz=w800"
+    ]
+  },
+  {
+    "id": "3200",
+    "title": "Terrace House",
+    "address": "Jalan Miel 27/S1, Taman Pedas Perdana, 71400 Pedas, Negeri Sembilan",
+    "postcode": "71400",
+    "state": "Negeri Sembilan",
+    "area": "Pedas",
+    "reservePrice": 260000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1dK8edbJUhT4FDGRJymAA1JlQDi4zagot&sz=w800"
+    ]
+  },
+  {
+    "id": "3201",
+    "title": "1 Storey Terrace House",
+    "address": "No. 246, Jalan Merak 8, Taman Thivy Jaya, 70100 Seremban, Negeri Sembilan",
+    "postcode": "70100",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 220000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "1,195 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1gKP_WyR-haRq748rwJMVlSPetR1yIQ7l&sz=w800"
+    ]
+  },
+  {
+    "id": "3202",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan Nusari Aman 8/4, Nusari Aman 3, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 360000,
+    "auctionDate": "15th Feb 2027 (Mon)",
+    "landArea": "1,399 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1S1LGIKQlHmZWhpUuoia6O98e-q0sX-zw&sz=w800",
+      "https://drive.google.com/thumbnail?id=1xRp5EtHoOBkZcU9YmJu8kjYVos-b5lRB&sz=w800",
+      "https://drive.google.com/thumbnail?id=1S1LvJLEvz0W0DQmfiG7UKxn-CjhBEamr&sz=w800"
+    ]
+  },
+  {
+    "id": "3203",
+    "title": "2 Storey Terrace House",
+    "address": "Jalan TAN 5/10, Taman Tuanku Ampuan Najihah, Sungai Gadut, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 133650,
+    "auctionDate": "16th Feb 2027 (Tue)",
+    "landArea": "880 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=10JdKOGoFIGYoPUfRU6VsDYwIUlG_Pkem&sz=w800"
+    ]
+  },
+  {
+    "id": "3204",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1088, Resort Residence, Jalan Hijayu 2/65, Hijayu 2, 71950 Bandar Sri Sendayan, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Bandar Sri Sendayan",
+    "reservePrice": 540000,
+    "auctionDate": "16th Feb 2027 (Tue)",
+    "landArea": "1,539 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "3205",
+    "title": "2 Storey Terrace House",
+    "address": "Taman Mok Sum, Jalan Rasah, 70300 Seremban, Negeri Sembilan",
+    "postcode": "70300",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 229635,
+    "auctionDate": "16th Feb 2027 (Tue)",
+    "landArea": "1,600 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1c10sjz3p-zdM8YrBhPR_veuqNW4JWczV&sz=w800"
+    ]
+  },
+  {
+    "id": "3206",
+    "title": "2 Storey Terrace House",
+    "address": "No.1414, Jalan Hijayu 2/75, Resort Residence 2, Hijayu 2, 71950 Bandar Sri Sendayan, Seremban, Negeri Sembilan",
+    "postcode": "71950",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 620000,
+    "auctionDate": "16th Feb 2027 (Tue)",
+    "landArea": "2,838 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1cHhxddEgKVbkOtmAOBBJ6XuxtBG5ktl4&sz=w800",
+      "https://drive.google.com/thumbnail?id=1dxAoaW9t-UGvzLPoMTTnxFeYgUuZsHme&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AS-fvrbSl6eV2ov6BR9lFgo4X6WygOzD&sz=w800"
+    ]
+  },
+  {
+    "id": "3207",
+    "title": "1 Storey Terrace House",
+    "address": "No. 218, Jalan Cengal 5, Taman Ampangan, Jalan Kuala Pilah, 70400 Seremban, Negeri Sembilan",
+    "postcode": "70400",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 290000,
+    "auctionDate": "16th Feb 2027 (Tue)",
+    "landArea": "1,195 sq.ft",
+    "builtUp": "—",
+    "tenure": "Freehold",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1fnyr5Mzi2BHdY5qWEeREPVGvUzlRPfnx&sz=w800"
+    ]
+  },
+  {
+    "id": "3208",
     "title": "2 Storey Terrace House",
     "address": "Lorong BSS 2/2A, Bandar Seremban Selatan, 71450 Seremban, Negeri Sembilan",
     "postcode": "71450",
@@ -54024,7 +56043,43 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3101",
+    "id": "3209",
+    "title": "Apartment",
+    "address": "PD Tiara Bay Apartments (Formerly Tiara Beach Resort), 71250 Pasir Panjang, Port Dickson, Negeri Sembilan",
+    "postcode": "71250",
+    "state": "Negeri Sembilan",
+    "area": "Port Dickson",
+    "reservePrice": 45000,
+    "auctionDate": "22nd Feb 2027 (Mon)",
+    "landArea": "—",
+    "builtUp": "355 sq.ft",
+    "tenure": "Freehold",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=19ZebStGyOtSnnEZZMosy0sVEe3VJD4RX&sz=w800",
+      "https://drive.google.com/thumbnail?id=18Ia_r1ryFB19mCz5DKzn3JEug3LuX00-&sz=w800",
+      "https://drive.google.com/thumbnail?id=1ukGrTZoQIqpeSkMMRXdey2y1WC5IqCpo&sz=w800"
+    ]
+  },
+  {
+    "id": "3210",
+    "title": "2 Storey Terrace House",
+    "address": "No. 1815, Lorong BSS 2/2A, Bandar Seremban Selatan, 71450 Seremban, Negeri Sembilan",
+    "postcode": "71450",
+    "state": "Negeri Sembilan",
+    "area": "Seremban",
+    "reservePrice": 350000,
+    "auctionDate": "22nd Feb 2027 (Mon)",
+    "landArea": "2,207 sq.ft",
+    "builtUp": "—",
+    "tenure": "—",
+    "type": "Terrace",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1VHEketmllxMqadBCasUBK2muf245MLcj&sz=w800"
+    ]
+  },
+  {
+    "id": "3211",
     "title": "2 Storey Bungalow",
     "address": "No. 57, Jalan Cempaka C/4, Laman Cempaka, Kota Seriemas, 71800 Nilai, Negeri Sembilan",
     "postcode": "71800",
@@ -54041,7 +56096,24 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3102",
+    "id": "3212",
+    "title": "Apartment",
+    "address": "Unit No. C-8-13, Blok C, Tunas Residensi, Taman Nada Bidara, 71900 Labu, Negeri Sembilan",
+    "postcode": "71900",
+    "state": "Negeri Sembilan",
+    "area": "Labu",
+    "reservePrice": 270000,
+    "auctionDate": "12th May 2027 (Wed)",
+    "landArea": "—",
+    "builtUp": "936 sq.ft",
+    "tenure": "—",
+    "type": "Condo/Apartment",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1esBhw4wgp77vAD4dqlxPB78LUenPJots&sz=w800"
+    ]
+  },
+  {
+    "id": "3213",
     "title": "1 Storey Cluster House",
     "address": "No. 602, Jalan Residen 2/15, Residen 2, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54058,7 +56130,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3103",
+    "id": "3214",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 8/7, Residen 8, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54075,7 +56147,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3104",
+    "id": "3215",
     "title": "1 Storey Terrace House",
     "address": "Lorong Lagenda 41, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -54092,7 +56164,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3105",
+    "id": "3216",
     "title": "Apartment",
     "address": "Jalan Pusat Perniagaan Falim, Residensi PR1MA Falim, 30200 Ipoh, Perak",
     "postcode": "30200",
@@ -54109,7 +56181,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3106",
+    "id": "3217",
     "title": "2 Storey Cluster Semi Detached House",
     "address": "No. 44, Jalan Lahat Mines 17, Bandar Lahat Mines, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -54126,7 +56198,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3107",
+    "id": "3218",
     "title": "1 Storey Terrace House",
     "address": "No. 56, Jalan Raja Perempuan Muzwin, Taman Rishah, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -54143,7 +56215,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3108",
+    "id": "3219",
     "title": "2 Storey Terrace House",
     "address": "No. 11, Persiaran Kledang 10, Taman Sepakat, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -54160,7 +56232,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3109",
+    "id": "3220",
     "title": "1 Storey Linked House",
     "address": "Jalan Kledang Raya 25, Taman Malcop, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -54177,7 +56249,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3110",
+    "id": "3221",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Jalan Klebang Delima 4, Taman Klebang Delima, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -54194,7 +56266,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3111",
+    "id": "3222",
     "title": "Terrace House",
     "address": "Jalan Chemor Megah 7, Desa Chemor Megah, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -54211,7 +56283,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3112",
+    "id": "3223",
     "title": "1 Storey Semi Detached House",
     "address": "No. 13, Pengkalan Bandaraya 27, Desa Pengkalan Bandaraya, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -54228,7 +56300,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3113",
+    "id": "3224",
     "title": "2.5 Storey Detached House",
     "address": "No.118, Persiaran Setia 5, Setia Residence, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54245,7 +56317,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3114",
+    "id": "3225",
     "title": "2 Storey Terrace House",
     "address": "Lorong Pahlawan M4/1, Taman Cicely Jaya, Teluk Intan, 36000 , Perak",
     "postcode": "36000",
@@ -54262,7 +56334,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3115",
+    "id": "3226",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Pegoh Aman 2, Taman Desa Aman, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -54279,7 +56351,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3116",
+    "id": "3227",
     "title": "Flat",
     "address": "Unit No. 16-13-6, Lorong Bukit Kukus, Grandview Heights, 11060 Paya Terubong, Penang",
     "postcode": "11060",
@@ -54296,7 +56368,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3117",
+    "id": "3228",
     "title": "Apartment",
     "address": "Unit No. 1-3-7, Lebuh Relau 6, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -54313,7 +56385,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3118",
+    "id": "3229",
     "title": "Flat",
     "address": "Unit No. 1-16-19, Persiaran Paya Terubong 3, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -54330,7 +56402,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3119",
+    "id": "3230",
     "title": "Apartment",
     "address": "Unit No. A-26-07, Pangsapuri Casa Prima, Jalan Sutera Prima, 13700 Perai, Penang",
     "postcode": "13700",
@@ -54347,7 +56419,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3120",
+    "id": "3231",
     "title": "Apartment",
     "address": "Unit No. 8K-04-08, Lebuhraya Thean Tek, Tanjong Court, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -54364,7 +56436,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3121",
+    "id": "3232",
     "title": "Flat",
     "address": "Unit No. 316-5-6, Taman Jade, Jalan Bukit Gambir, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -54381,7 +56453,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3122",
+    "id": "3233",
     "title": "1 Storey Cluster House",
     "address": "Jalan Residen 2/15, Residen 2, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54398,7 +56470,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3123",
+    "id": "3234",
     "title": "1 Storey Terrace House",
     "address": "Jalan Raja Perempuan Muzwin, Taman Rishah, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -54415,7 +56487,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3124",
+    "id": "3235",
     "title": "1 Storey Terrace House",
     "address": "Jalan Klebang Delima 4, Taman Klebang Delima, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -54432,7 +56504,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3125",
+    "id": "3236",
     "title": "Apartment",
     "address": "Lebuh Relau 6, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -54449,7 +56521,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3126",
+    "id": "3237",
     "title": "1 Storey Terrace House",
     "address": "No. 216, Jalan Residen 8/7, Residen 8, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54466,7 +56538,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3127",
+    "id": "3238",
     "title": "1 Storey Terrace House",
     "address": "No. 35, Lorong Lagenda 41, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -54483,7 +56555,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3128",
+    "id": "3239",
     "title": "Apartment",
     "address": "Unit No. A-9-15, Jalan Pusat Perniagaan Falim, Residensi PR1MA Falim, 30200 Ipoh, Perak",
     "postcode": "30200",
@@ -54500,7 +56572,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3129",
+    "id": "3240",
     "title": "2 Storey Terrace House",
     "address": "Persiaran Kledang 10, Taman Sepakat, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -54517,7 +56589,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3130",
+    "id": "3241",
     "title": "1 Storey Linked House",
     "address": "No. 29, Jalan Kledang Raya 25, Taman Malcop, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -54534,7 +56606,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3131",
+    "id": "3242",
     "title": "1 Storey Terrace House",
     "address": "No. 33, Jalan Chemor Megah 7, Desa Chemor Megah, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -54551,7 +56623,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3132",
+    "id": "3243",
     "title": "2.5 Storey Detached House",
     "address": "No. 118, Persiaran Setia 5, Setia Residence, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54568,7 +56640,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3133",
+    "id": "3244",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Lorong Pahlawan M4/1, Taman Cicely Jaya, Teluk Intan, 36000 , Perak",
     "postcode": "36000",
@@ -54585,7 +56657,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3134",
+    "id": "3245",
     "title": "1 Storey Terrace House",
     "address": "No. 32, Persiaran Pegoh Aman 2, Taman Desa Aman, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -54602,7 +56674,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3135",
+    "id": "3246",
     "title": "4 Storey Terrace Shop Office",
     "address": "No. 55, Taman Setia, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54619,7 +56691,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3136",
+    "id": "3247",
     "title": "2 Storey Terrace House",
     "address": "No. 24, Lorong Ayer Tawar 4/2, Taman Ayer Tawar, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -54636,7 +56708,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3137",
+    "id": "3248",
     "title": "1 Storey Terrace House",
     "address": "No. 1275, Jalan Residen 4/16, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -54653,7 +56725,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3138",
+    "id": "3249",
     "title": "1 Storey Terrace House",
     "address": "No. 72, Persiaran Zarib 9, Taman Pinji Mewah, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -54670,7 +56742,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3139",
+    "id": "3250",
     "title": "Town House",
     "address": "Unit No. 9A, Laluan Bemban Iris 7, Taman Bemban Iris, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -54687,7 +56759,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3140",
+    "id": "3251",
     "title": "2 Storey Shop Office",
     "address": "Unit No. 38 & 38A, Jalan Meru Aman 2, Halaman Meru Aman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -54704,7 +56776,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3141",
+    "id": "3252",
     "title": "1 Storey Terrace House",
     "address": "No. 36, Jalan Kinding Perdana 14, Taman Kinding Perdana, 31200 Tanjong Rambutan, Perak",
     "postcode": "31200",
@@ -54721,7 +56793,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3142",
+    "id": "3253",
     "title": "2 Storey Shop Office",
     "address": "Unit No. 42 & 42A, Jalan Meru Aman 2, Halaman Meru Aman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -54738,7 +56810,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3143",
+    "id": "3254",
     "title": "2 Storey Terrace House",
     "address": "No. 61, Persiaran Kledang Timur 3, Bandar Baru Menglembu, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -54755,7 +56827,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3144",
+    "id": "3255",
     "title": "1 Storey Semi Detached House",
     "address": "No. 27, Lorong Melintang 4, Taman Desa Intan, 36400 Hutan Melintang, Perak",
     "postcode": "36400",
@@ -54772,7 +56844,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3145",
+    "id": "3256",
     "title": "1 Storey Semi Detached House",
     "address": "No. 11, Lorong Qaseh Bahagia, Taman Qaseh Bahagia, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -54789,7 +56861,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3146",
+    "id": "3257",
     "title": "1 Storey Terrace House",
     "address": "No. 36, Chemor Impian 1, Desa Chemor Impian, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -54806,7 +56878,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3147",
+    "id": "3258",
     "title": "2 Storey Terrace House",
     "address": "No. 35, Taman Desa Jaya, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -54823,7 +56895,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3148",
+    "id": "3259",
     "title": "1 Storey Terrace House",
     "address": "No. 60, Hala Rapat Baru 15, Taman Seri Rapat, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -54840,7 +56912,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3149",
+    "id": "3260",
     "title": "1 Storey Terrace House",
     "address": "No. 36, Lorong Lagenda 71, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -54857,7 +56929,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3150",
+    "id": "3261",
     "title": "2 Storey Terrace Shop Office",
     "address": "No. 103, Persiaran PM/4, Pusat Bandar Seri Manjung, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -54874,7 +56946,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3151",
+    "id": "3262",
     "title": "2 Storey Shop Office",
     "address": "Unit No. 18 & 18A, Jalan Meru Aman 2, Halaman Meru Aman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -54891,7 +56963,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3152",
+    "id": "3263",
     "title": "2 Storey Shop Office",
     "address": "Unit No. 48 & 48A, Jalan Meru Aman 2, Halaman Meru Aman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -54908,7 +56980,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3153",
+    "id": "3264",
     "title": "2 Storey Terrace House",
     "address": "No.537, Jalan Silibin, Taman Silibin, 30100, Ipoh, Perak",
     "postcode": "30100",
@@ -54925,7 +56997,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3154",
+    "id": "3265",
     "title": "2 Storey Shop Office",
     "address": "Unit No. 36 & 36A, Jalan Meru Aman 2, Halaman Meru Aman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -54942,7 +57014,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3155",
+    "id": "3266",
     "title": "1 Storey Semi Detached House",
     "address": "No. 81, Jalan Dahlia 3, Taman Dahlia Permai, 33100, Pengkalan Hulu, Perak",
     "postcode": "33100",
@@ -54959,7 +57031,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3156",
+    "id": "3267",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Jalan Permai 1, Taman Desa Permai Fasa 1, 33300, Gerik, Perak",
     "postcode": "33300",
@@ -54976,7 +57048,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3157",
+    "id": "3268",
     "title": "Condominium",
     "address": "Unit No. 02-02, Second Floor, Ocean View Residences, Jalan Harbour Place, 12100 Butterworth, Penang",
     "postcode": "12100",
@@ -54993,7 +57065,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3158",
+    "id": "3269",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Lorong Bistari 7, Taman Bistari, 14300 Nibong Tebal, Penang",
     "postcode": "14300",
@@ -55010,7 +57082,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3159",
+    "id": "3270",
     "title": "2 Storey Terrace House",
     "address": "No. 24, Lorong Alma Jaya 34, Taman Alma Jaya, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -55027,7 +57099,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3160",
+    "id": "3271",
     "title": "Apartment",
     "address": "Lebuhraya Thean Tek, Tanjong Court, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -55044,7 +57116,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3161",
+    "id": "3272",
     "title": "Apartment",
     "address": "Unit No. 33-14-12, Desa Indah, Persiaran Paya Terubong 1, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -55061,7 +57133,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3162",
+    "id": "3273",
     "title": "1 Storey Terrace House",
     "address": "No. 35, Lorong 5, Taman Seri Bintong Maju, 01000 Kangar, Perlis",
     "postcode": "01000",
@@ -55078,7 +57150,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3163",
+    "id": "3274",
     "title": "Semi Detached House",
     "address": "No. 4, Jalan Desa Saujana Tujuh, Taman Desa Saujana, 02600 Arau, Perlis",
     "postcode": "02600",
@@ -55095,7 +57167,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3164",
+    "id": "3275",
     "title": "2 Storey Terrace House",
     "address": "No. 537, Jalan Silibin, Taman Silibin, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -55112,7 +57184,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3165",
+    "id": "3276",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Jalan Putra Berlian 9, Kampar Putra, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -55129,7 +57201,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3166",
+    "id": "3277",
     "title": "Flat",
     "address": "Unit No. 21-4-14, Flat Sri Abadi, Lintang Sungai Ara 2, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -55146,7 +57218,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3167",
+    "id": "3278",
     "title": "1 Storey Detached House",
     "address": "No. 77, Jalan Bukit Kulim 1, Bukit Kulim, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -55163,7 +57235,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3168",
+    "id": "3279",
     "title": "1 Storey Terrace House",
     "address": "Lorong Bunga Raya 4, Taman Bunga Raya, Padang Serai, Kedah",
     "postcode": "",
@@ -55180,7 +57252,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3169",
+    "id": "3280",
     "title": "1 Storey Semi Detached House",
     "address": "No. 82, Lorong Kenanga 2C, Taman Desa Impian, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -55197,7 +57269,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3170",
+    "id": "3281",
     "title": "1 Storey Terrace House",
     "address": "No. 410, Lorong Tiram 3/5, Taman Tiram, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -55214,7 +57286,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3171",
+    "id": "3282",
     "title": "1 Storey Semi Detached House",
     "address": "No. 43, Lintang Perdana 4, Taman Lintang Perdana, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -55231,7 +57303,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3172",
+    "id": "3283",
     "title": "2 Storey Terrace House",
     "address": "Lorong 1, Taman Mawar, 36700 Langkap, Perak",
     "postcode": "36700",
@@ -55248,7 +57320,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3173",
+    "id": "3284",
     "title": "1 Storey Terrace House",
     "address": "Jalan LB 1/9, Lembah Beriah 1, 34310 Bagan Serai, Perak",
     "postcode": "34310",
@@ -55265,7 +57337,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3174",
+    "id": "3285",
     "title": "Terrace House",
     "address": "Lorong Aman 9, Residensi PR1MA Kamunting, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -55282,7 +57354,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3175",
+    "id": "3286",
     "title": "Factory",
     "address": "Lot 3862, Jalan Perusahaan 1, Kawasan Perusahaan Kamunting, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -55299,7 +57371,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3176",
+    "id": "3287",
     "title": "1 Storey Terrace House",
     "address": "No. 685, Laluan Kledang 3/5, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -55316,7 +57388,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3177",
+    "id": "3288",
     "title": "Flat",
     "address": "Unit No. 4-12A, Blok B, Lorong Machang Bubok 20, Taman Machang Bubok, 14020 Bukit Mertajam, Penang",
     "postcode": "14020",
@@ -55333,7 +57405,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3178",
+    "id": "3289",
     "title": "1 Storey Terrace House",
     "address": "No. 40, Lorong Bunga Raya 4, Taman Bunga Raya, Padang Serai, Kedah",
     "postcode": "",
@@ -55350,7 +57422,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3179",
+    "id": "3290",
     "title": "2 Storey Terrace House",
     "address": "No. 21, Lorong Aman 9, Residensi PR1MA Kamunting, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -55367,7 +57439,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3180",
+    "id": "3291",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Taman Damai, 33000 Kuala Kangsar, Perak",
     "postcode": "33000",
@@ -55384,7 +57456,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3181",
+    "id": "3292",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Jalan Putra Berlian 9, Kampar Putra, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -55401,7 +57473,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3182",
+    "id": "3293",
     "title": "Apartment",
     "address": "Unit No. 7-20-08, Jalan Gangsa, 11600, Penang",
     "postcode": "11600",
@@ -55418,7 +57490,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3183",
+    "id": "3294",
     "title": "2 Storey Terrace House",
     "address": "No. 15, Lorong 1, Taman Mawar, 36700 Langkap, Perak",
     "postcode": "36700",
@@ -55435,7 +57507,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3184",
+    "id": "3295",
     "title": "1 Storey Terrace House",
     "address": "No. 132, Jalan Puyu, Taman Seluang, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -55452,7 +57524,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3185",
+    "id": "3296",
     "title": "Shop Lot",
     "address": "Plaza Bukit Mertajam, Jalan Arumugam Pillai, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -55469,7 +57541,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3186",
+    "id": "3297",
     "title": "2 Storey Terrace House",
     "address": "No. 80, Jalan Anggerik 4/17, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -55486,7 +57558,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3187",
+    "id": "3298",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Lorong Bunga Tanjung 2/1, Taman Bunga Tanjung, Mahang, Kedah",
     "postcode": "",
@@ -55503,7 +57575,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3188",
+    "id": "3299",
     "title": "Condominium",
     "address": "Unit No. 9B-25-06, Lilitan Sungai Ara, Skycube Residence, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -55520,7 +57592,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3189",
+    "id": "3300",
     "title": "2 Storey Terraced Shop House",
     "address": "Unit No. 27 & 27A, Jalan PP3, Bandar Universiti, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -55537,7 +57609,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3190",
+    "id": "3301",
     "title": "1 Storey Semi Detached Factory",
     "address": "No. 21, Laluan Industri Lahat 6, Kawasan Perindustrian Rima, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -55554,7 +57626,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3191",
+    "id": "3302",
     "title": "1 Storey Terrace House",
     "address": "No. 4, Lorong Aman 17, Taman Kamunting Aman, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -55571,7 +57643,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3192",
+    "id": "3303",
     "title": "Condominium",
     "address": "Unit No. A-3-6, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -55588,7 +57660,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3193",
+    "id": "3304",
     "title": "Service Apartment",
     "address": "Unit No. A-9-945 (Room No. 7808), Block A, Suria Laketown, Bukit Merah Laketown, 34400 Simpang Ampat Semanggol, Perak",
     "postcode": "34400",
@@ -55605,7 +57677,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3194",
+    "id": "3305",
     "title": "Condominium",
     "address": "No. 04-02, (Type C) Kondo Istana (Formerly known as Wistana Suteramas Resort Condominium), Jalan Penarak, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -55622,7 +57694,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3195",
+    "id": "3306",
     "title": "Semi Detached House",
     "address": "Jalan Merbau 1, Taman Merbau Jaya, Merbau Pulas, 09410 Padang Meha, Kedah",
     "postcode": "09410",
@@ -55639,7 +57711,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3196",
+    "id": "3307",
     "title": "2 Storey Terrace House",
     "address": "No. 8, Lorong 11, Taman Melati, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -55656,7 +57728,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3197",
+    "id": "3308",
     "title": "1 Storey Semi Detached House",
     "address": "No. 33, Lorong Sepakat 1, Taman Berjaya II, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -55673,7 +57745,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3198",
+    "id": "3309",
     "title": "Flat",
     "address": "Unit No. F-2-08, Blok F, Rumah Pangsa Taman Jati, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -55690,7 +57762,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3199",
+    "id": "3310",
     "title": "2 Storey Terrace House",
     "address": "No. 4, Laluan Menglembu 9, Taman Menglembu Berlian, 31450 Ipoh, Perak",
     "postcode": "31450",
@@ -55707,7 +57779,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3200",
+    "id": "3311",
     "title": "Condominium",
     "address": "Unit No. A-18-3, Jalan Medan Ipoh 1H, Kediaman D'Festivo, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -55724,7 +57796,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3201",
+    "id": "3312",
     "title": "1 Storey Terrace House",
     "address": "No. 321, Jalan Bidor Bistari 14, Taman Bidor Bistari, 35500 Bidor, Perak",
     "postcode": "35500",
@@ -55741,7 +57813,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3202",
+    "id": "3313",
     "title": "Retail Unit",
     "address": "Unit No. 1-55, Plaza Bukit Mertajam, Jalan Arumugam Pillai, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -55758,7 +57830,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3203",
+    "id": "3314",
     "title": "Condominium",
     "address": "Unit No. 1D-07-01, Jalan Sungai Tiram 8, Summerskye Residences, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -55775,7 +57847,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3204",
+    "id": "3315",
     "title": "Service Suite",
     "address": "Unit No. 1A-17-5, Jalan Mayang Pasir 3, Elit Heights, 11950 Bayan Lepas, Penang",
     "postcode": "11950",
@@ -55792,7 +57864,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3205",
+    "id": "3316",
     "title": "Apartment",
     "address": "Unit No. 35-12-12, Jalan Dato' Ismail Hashim, Golden Triangle 2, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -55809,7 +57881,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3206",
+    "id": "3317",
     "title": "Terrace House",
     "address": "Lorong Melor 1/2, Taman Melor & Melor Indah, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -55826,7 +57898,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3207",
+    "id": "3318",
     "title": "1 Storey Terrace House",
     "address": "No. 289, Taman Sri Putra, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -55843,7 +57915,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3208",
+    "id": "3319",
     "title": "Service Apartment",
     "address": "Unit No. A-3-347 (No. 7206), Suria Laketown, Block A, Bukit Merah Laketown, 34400 Semanggol, Perak",
     "postcode": "34400",
@@ -55860,7 +57932,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3209",
+    "id": "3320",
     "title": "1 Storey Terrace House",
     "address": "No. 594, Jalan Residen 3/16, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -55877,7 +57949,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3210",
+    "id": "3321",
     "title": "1 Storey Terrace House",
     "address": "No. 632, Laluan Kledang 5/8, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -55894,7 +57966,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3211",
+    "id": "3322",
     "title": "1 Storey Terrace House",
     "address": "No. 113, Persiaran Sri Damai 8, Taman Sri Damai, 35000 Tapah, Perak",
     "postcode": "35000",
@@ -55911,7 +57983,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3212",
+    "id": "3323",
     "title": "1 Storey Terrace House",
     "address": "No. 926, Laluan Kledang 4/1, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -55928,7 +58000,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3213",
+    "id": "3324",
     "title": "Shop Lot",
     "address": "No. 1-32, 1st Floor, Plaza Bukit Mertajam (The Summit), Jalan Arumugam Pillai, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -55945,7 +58017,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3214",
+    "id": "3325",
     "title": "Shop Lot",
     "address": "No. 1-33, 1st Floor, Plaza Bukit Mertajam (The Summit), Jalan Arumugam Pillai, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -55962,7 +58034,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3215",
+    "id": "3326",
     "title": "Retail Unit",
     "address": "Unit No. LG 10, The Summit Plaza, Jalan Arumugam Pillai, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -55979,7 +58051,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3216",
+    "id": "3327",
     "title": "Service Apartment",
     "address": "No. 77-12A-17, Birch The Plaza, Jalan Dato Keramat, 10150 George Town, Penang",
     "postcode": "10150",
@@ -55996,7 +58068,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3217",
+    "id": "3328",
     "title": "Service Apartment",
     "address": "Unit No. B-38-07, Woodsbury Suites @ Harbour Place, Jalan Chain Ferry, 12100, Butterworth, Penang",
     "postcode": "12100",
@@ -56013,7 +58085,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3218",
+    "id": "3329",
     "title": "2 Storey Semi Detached House",
     "address": "No. 86, Jalan Saujana 3/8, Bandar SP Saujana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56030,7 +58102,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3219",
+    "id": "3330",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Kenanga 3, Persiaran Amanjaya 5, Bandar Amanjaya, 08000 Sungai Lalang, Kedah",
     "postcode": "08000",
@@ -56047,7 +58119,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3220",
+    "id": "3331",
     "title": "2 Storey Bungalow House",
     "address": "No. 10A (Lot 1201), Batu 5 1/2, Jalan Langgar, 06500 Langgar, Kedah",
     "postcode": "06500",
@@ -56064,7 +58136,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3221",
+    "id": "3332",
     "title": "1 Storey Bungalow House",
     "address": "No. 10A (Lot 1199), Batu 5 1/2, Jalan Langgar, 06500 Alor Setar, Kedah",
     "postcode": "06500",
@@ -56081,7 +58153,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3222",
+    "id": "3333",
     "title": "1 Storey Terrace House",
     "address": "No. 1338, Jalan Mahsuri 9/D, Taman Mahsuri, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -56098,7 +58170,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3223",
+    "id": "3334",
     "title": "2 Storey Terrace House",
     "address": "No. 167, Jalan Bintang Maya 2/6, Bintang Maya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56115,7 +58187,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3224",
+    "id": "3335",
     "title": "1 Storey Terrace House",
     "address": "Taman Dindings, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -56132,7 +58204,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3225",
+    "id": "3336",
     "title": "Apartment",
     "address": "Unit No. A3-5-2, Block A3, Pangsapuri Samudera 1, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -56149,7 +58221,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3226",
+    "id": "3337",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 4/18, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -56166,7 +58238,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3227",
+    "id": "3338",
     "title": "1 Storey Detached House",
     "address": "No. 271, Hala Jati Meru 12, RPT Jelapang Jaya, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -56183,7 +58255,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3228",
+    "id": "3339",
     "title": "2 Storey Terrace House",
     "address": "No. 15, Persiaran Desa Rishah 11A, Taman Rishah Permai, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -56200,7 +58272,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3229",
+    "id": "3340",
     "title": "1 Storey Terrace House",
     "address": "No. 1025, Jalan Residen 3/23, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -56217,7 +58289,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3230",
+    "id": "3341",
     "title": "1 Storey Terrace House",
     "address": "No. 58, Persiaran Jelapang 7, Taman Silibin, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -56234,7 +58306,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3231",
+    "id": "3342",
     "title": "2 Storey Terrace House",
     "address": "Persiatan Wira Jaya Barat 28, Taman Ampang, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -56251,7 +58323,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3232",
+    "id": "3343",
     "title": "1 Storey Terrace House",
     "address": "Lorong 17, Taman Damai, 34700 Simpang, Perak",
     "postcode": "34700",
@@ -56268,7 +58340,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3233",
+    "id": "3344",
     "title": "1 Storey Terrace House",
     "address": "No. 8, Lorong Kamunting Bakti 5/15, Taman Kamunting Bakti, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -56285,7 +58357,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3234",
+    "id": "3345",
     "title": "1 Storey Terrace House",
     "address": "No 24, Lorong Bunga Kantan 8, Taman Kerian, 34200 Parit Buntar, Perak",
     "postcode": "34200",
@@ -56302,7 +58374,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3235",
+    "id": "3346",
     "title": "2 Storey Terrace House",
     "address": "No. 35, Jalan Klebang Emas 2, Taman Klebang Emas, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -56319,7 +58391,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3236",
+    "id": "3347",
     "title": "2 Storey Terrace House",
     "address": "Jalan Burung Bangau, Taman Sri Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -56336,7 +58408,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3237",
+    "id": "3348",
     "title": "1 Storey Terrace House",
     "address": "Taman Malaysia, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -56353,7 +58425,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3238",
+    "id": "3349",
     "title": "1 Storey Shop",
     "address": "No. 1, Medan Simpang, 34700 Simpang, Perak",
     "postcode": "34700",
@@ -56370,7 +58442,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3239",
+    "id": "3350",
     "title": "Service Apartment",
     "address": "Unit No. 9-15, Pangsapuri Luminari, Jalan Harbour Place 1, 12100 Butterworth, Penang",
     "postcode": "12100",
@@ -56387,7 +58459,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3240",
+    "id": "3351",
     "title": "Flat",
     "address": "Unit No. 5-25-10, Lengkok Angsana, Mukim 13, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -56404,7 +58476,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3241",
+    "id": "3352",
     "title": "Flat",
     "address": "Unit No. 15-4, Blok Akasia, Mutiara Perdana, Lengkok Kelicap, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -56421,7 +58493,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3242",
+    "id": "3353",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Sungai Nipah 9, Palmyra Residence, 11020 Balik Pulau, Penang",
     "postcode": "11020",
@@ -56438,7 +58510,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3243",
+    "id": "3354",
     "title": "Apartment",
     "address": "Unit No. 6E-11-13, Lebuhraya Thean Tek, Melody Homes, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -56455,7 +58527,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3244",
+    "id": "3355",
     "title": "Apartment",
     "address": "Tingkat Paya Terubong 2, Paya Terubong, 11060, Penang",
     "postcode": "11060",
@@ -56472,7 +58544,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3245",
+    "id": "3356",
     "title": "Apartment",
     "address": "Block A3, Pangsapuri Samudera 1, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -56489,7 +58561,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3246",
+    "id": "3357",
     "title": "1 Storey Semi Detached House",
     "address": "No. 61, Jalan Mewah 1, Taman Mewah, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -56506,7 +58578,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3247",
+    "id": "3358",
     "title": "1 Storey Terrace House",
     "address": "No. 1381, Jalan Residen 4/18, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -56523,7 +58595,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3248",
+    "id": "3359",
     "title": "1 Storey Terrace House",
     "address": "No. 400, Lorong 17, Taman Damai, 34700 Simpang, Perak",
     "postcode": "34700",
@@ -56540,7 +58612,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3249",
+    "id": "3360",
     "title": "Apartment",
     "address": "Jalan Batu Uban, Mukim 13, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -56557,7 +58629,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3250",
+    "id": "3361",
     "title": "Apartment",
     "address": "Unit No. 3C-09-02, Jalan Batu Uban, Mukim 13, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -56574,7 +58646,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3251",
+    "id": "3362",
     "title": "Apartment",
     "address": "Unit No. 84-9-6, Medan Fettes, Kayangan Puri Mutiara, 10470 Tanjung Tokong, Penang",
     "postcode": "10470",
@@ -56591,7 +58663,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3252",
+    "id": "3363",
     "title": "Apartment",
     "address": "Melody Homes, Lebuhraya Thean Teik, 11500, Air Itam, Penang",
     "postcode": "11500",
@@ -56608,7 +58680,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3253",
+    "id": "3364",
     "title": "Flat",
     "address": "Unit No. 14-7-4, Tingkat Paya Terubong 2, Paya Terubong, 11060, Penang",
     "postcode": "11060",
@@ -56625,7 +58697,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3254",
+    "id": "3365",
     "title": "Condominium",
     "address": "Unit No. 109-3A-12A (109-4-13), Gold Coast Resort, Persiaran Bayan Indah, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -56642,7 +58714,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3255",
+    "id": "3366",
     "title": "Service Apartment",
     "address": "Unit No. 7-12, Laguna Service Apartment 1, Marina Island, KM 1, Teluk Muroh, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -56659,7 +58731,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3256",
+    "id": "3367",
     "title": "1 Storey Terrace House",
     "address": "No. 308, Lorong Yayasan 18, Taman Yayasan, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -56676,7 +58748,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3257",
+    "id": "3368",
     "title": "1 Storey Terrace House",
     "address": "No. 2A, Jalan Serai Permai 16, Taman Serai Permai, 34300 Bagan Serai, Perak",
     "postcode": "34300",
@@ -56693,7 +58765,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3258",
+    "id": "3369",
     "title": "2 Storey Semi Detached House",
     "address": "No. 441, Jalan Kenanga 3, Persiaran Amanjaya 5, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56710,7 +58782,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3259",
+    "id": "3370",
     "title": "2 Storey Terrace House",
     "address": "No. 810, Jalan Pr1ma 27, Pr1ma Residensi Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56727,7 +58799,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3260",
+    "id": "3371",
     "title": "Apartment",
     "address": "Cangkat Bukit Gambir, Mukim 13, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -56744,7 +58816,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3261",
+    "id": "3372",
     "title": "2 Storey Semi Detached Light Industrial Factory",
     "address": "No. 2A, Lorong Industri Impian 1, Taman Industri Impian, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -56761,7 +58833,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3262",
+    "id": "3373",
     "title": "Apartment",
     "address": "Unit No. Block Akasia 5-3, Mutiara Perdana, Lengkok Kelicap, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -56778,7 +58850,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3263",
+    "id": "3374",
     "title": "Apartment",
     "address": "Unit No. 1062-15-17, Green Garden, Jalan Paya Terubong, 11060 Air Itam, Penang",
     "postcode": "11060",
@@ -56795,7 +58867,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3264",
+    "id": "3375",
     "title": "Flat",
     "address": "Unit No. G-08, Block E, Apartment Permata, Jalan Perda Utama, Bandar Perda, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -56812,7 +58884,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3265",
+    "id": "3376",
     "title": "Terrace House",
     "address": "Jalan Yarra 7/3, Bandar Baru Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56829,7 +58901,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3266",
+    "id": "3377",
     "title": "Terrace House",
     "address": "Lorong PH B/4, Bandar Seri Astana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56846,7 +58918,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3267",
+    "id": "3378",
     "title": "2 Storey Detached House",
     "address": "No. 2, Lorong Bandar Utama 1, Bandar Utama, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56863,7 +58935,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3268",
+    "id": "3379",
     "title": "2 Storey Terrace Shop House",
     "address": "No. 4, Lorong BLM 1/7, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -56880,7 +58952,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3269",
+    "id": "3380",
     "title": "1 Storey Terrace House",
     "address": "No. 110, Lorong Cempaka 4, Taman Cempaka, 08010 Bukit Selambau, Kedah",
     "postcode": "08010",
@@ -56897,7 +58969,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3270",
+    "id": "3381",
     "title": "Condominium",
     "address": "Unit No. 2-5-8, Relau Indah Condominium, Persiaran Bukit Jambul 1, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -56914,7 +58986,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3271",
+    "id": "3382",
     "title": "Flat",
     "address": "Unit No. 2-G-20, Ground Floor, Block 2, Tingkat Teluk Kumbar, Bandar Baru Teluk Kumbar, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -56931,7 +59003,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3272",
+    "id": "3383",
     "title": "Office Suite",
     "address": "Unit No. 106-02-03, By The Sea, Jalan Batu Ferringgi, 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -56948,7 +59020,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3273",
+    "id": "3384",
     "title": "Apartment",
     "address": "Unit No. 52-9-4, Cangkat Bukit Gambir, Mukim 13, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -56965,7 +59037,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3274",
+    "id": "3385",
     "title": "Condominium",
     "address": "Unit No. 121B-8-8, Persiaran Bayan Indah, Tropicana Bay Residences, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -56982,7 +59054,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3275",
+    "id": "3386",
     "title": "Condominium",
     "address": "Unit No. P1-18-17, Prai Inai Condominium, 13000 Bandar Perai, Penang",
     "postcode": "13000",
@@ -56999,7 +59071,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3276",
+    "id": "3387",
     "title": "Condominium",
     "address": "Second Floor, Block J, Vista Condominum, Lebuh Relau 2, MK 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -57016,7 +59088,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3277",
+    "id": "3388",
     "title": "Shop Lot",
     "address": "Unit No. B-5-248, Blok B (Battani), SOHO Lestari IUS 1, SOHO Lestari IUS, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -57033,7 +59105,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3278",
+    "id": "3389",
     "title": "Apartment",
     "address": "Unit No. 83C, Bulatan Cherry, Cherry Apartment, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -57050,7 +59122,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3279",
+    "id": "3390",
     "title": "1 Storey Terrace House",
     "address": "No. 354, Taman Dindings, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -57067,7 +59139,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3280",
+    "id": "3391",
     "title": "Flat",
     "address": "Unit No. 12C, Blok B, Taman Hijau Kampung Koh (Rumah Pangsa (Kos Rendah)), 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -57084,7 +59156,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3281",
+    "id": "3392",
     "title": "Apartment",
     "address": "Unit No. CN-5-26, Block CN, Unisuites @ Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -57101,7 +59173,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3282",
+    "id": "3393",
     "title": "2 Storey Semi Detached House",
     "address": "No. 3, Jalan Puncak Kampar 2, Taman Puncak Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -57118,7 +59190,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3283",
+    "id": "3394",
     "title": "Service Apartment",
     "address": "Unit No. DT-3-23A, Block D, Uni Suites, Off Jalan Batu Karang, Bandar Baru Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -57135,7 +59207,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3284",
+    "id": "3395",
     "title": "Apartment",
     "address": "Unit No. 144-2A, Jalan Putra Berlian 11, Kampar Putra, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -57152,7 +59224,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3285",
+    "id": "3396",
     "title": "1 Storey Terrace House",
     "address": "No. 58, Persiaran Jelapang 7, Taman Silibin, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -57169,7 +59241,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3286",
+    "id": "3397",
     "title": "1 Storey Terrace House",
     "address": "No. 24, Lorong Bunga Kantan 8, Taman Kerian, 34200 Parit Buntar, Perak",
     "postcode": "34200",
@@ -57186,7 +59258,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3287",
+    "id": "3398",
     "title": "2 Storey Terrace House",
     "address": "No. 40, Jalan Burung Bangau, Taman Sri Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -57203,7 +59275,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3288",
+    "id": "3399",
     "title": "2 Storey Terrace House",
     "address": "No. 37, Jalan Tawas Impiana 2, Anjung Tawas Impiana, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -57220,7 +59292,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3289",
+    "id": "3400",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Jalan Bemban Indah 9, Taman Bemban Indah, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -57237,7 +59309,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3290",
+    "id": "3401",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Lorong Setia 7, Taman Kamunting Setia, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -57254,7 +59326,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3291",
+    "id": "3402",
     "title": "1 Storey Terrace House",
     "address": "No. 102, Lorong Emas 2/3, Taman Emas II, Kampung China, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -57271,7 +59343,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3292",
+    "id": "3403",
     "title": "2 Storey Terrace House",
     "address": "No. 19, Haluan Tasek Timur 6, Anjung Bercham Megah, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -57288,7 +59360,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3293",
+    "id": "3404",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Jalan JH 19, Taman Jana Harmoni, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -57305,7 +59377,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3294",
+    "id": "3405",
     "title": "Terrace House",
     "address": "No. 386A, Persiaran Kledang 8, Taman Kledang, 3110 Sungai Siput (U), Perak",
     "postcode": "",
@@ -57322,7 +59394,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3295",
+    "id": "3406",
     "title": "1 Storey Terrace House",
     "address": "No. 718, Jalan Diawan 6, Taman Permai, 31950 Mambang Di Awan, Perak",
     "postcode": "31950",
@@ -57339,7 +59411,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3296",
+    "id": "3407",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Lorong SS 2, Taman Simpang Setia, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -57356,7 +59428,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3297",
+    "id": "3408",
     "title": "1 Storey Terrace House",
     "address": "No. 1046, Laluan Kledang 4/4, Taman Kledang, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -57373,7 +59445,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3298",
+    "id": "3409",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Persiaran Jerlun 3, Taman Jerlun, 33000 Kuala Kangsar, Perak",
     "postcode": "33000",
@@ -57390,7 +59462,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3299",
+    "id": "3410",
     "title": "Town House",
     "address": "No. 369B, Persiaran Kledang 6, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -57407,7 +59479,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3300",
+    "id": "3411",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Jalan Yarra 7/3, Bandar Baru Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57424,7 +59496,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3301",
+    "id": "3412",
     "title": "2 Storey Terrace House",
     "address": "No. 608D, Lorong PH B/4, Bandar Seri Astana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57441,7 +59513,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3302",
+    "id": "3413",
     "title": "1 Storey Terrace House",
     "address": "No. 1060, Jalan Kelisa Ria 6/17, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57458,7 +59530,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3303",
+    "id": "3414",
     "title": "2 Storey Shop House",
     "address": "No. 277, Lorong Kangkong 1/1, Taman Kangkong & Seri Kangkong, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -57475,7 +59547,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3304",
+    "id": "3415",
     "title": "1 Storey Terrace House",
     "address": "No. 406, Lorong Residensi B14, Taman Residensi Mesra, 08300, Gurun, Kedah",
     "postcode": "08300",
@@ -57492,7 +59564,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3305",
+    "id": "3416",
     "title": "2 Storey Terrace House",
     "address": "No. 614, Jalan PR1MA 16, PR1MA Residensi Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57509,7 +59581,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3306",
+    "id": "3417",
     "title": "Retail Lot",
     "address": "Unit No. F12, First Floor, Kompleks SP Plaza, Jalan Ibrahim, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57526,7 +59598,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3307",
+    "id": "3418",
     "title": "Terrace House",
     "address": "No. 654, Taman Darulaman Lagenda, Jalan DL 2/10, 08000, Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57543,7 +59615,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3308",
+    "id": "3419",
     "title": "1 Storey Terrace House",
     "address": "Lorong Bunga Kantan 8, Taman Kerian, 34200 Parit Buntar, Perak",
     "postcode": "34200",
@@ -57560,7 +59632,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3309",
+    "id": "3420",
     "title": "Town House",
     "address": "No. 369B, Persiaran Kledang 6, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -57577,7 +59649,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3310",
+    "id": "3421",
     "title": "Condominium",
     "address": "Unit No. B-7-23, Kondo Kampar Barat, Taman Kampar Barat, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -57594,7 +59666,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3311",
+    "id": "3422",
     "title": "Apartment",
     "address": "Unit No. M1-T5-104, Pangsapuri Putra Bercham, Bandar Baru Putra, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -57611,7 +59683,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3312",
+    "id": "3423",
     "title": "[Ideally Located Just Behind the BHPetrol Station] Service Apartment [5 min to Bukit Tengah KTM Station]",
     "address": "Unit No. 33A-07, Pangsapuri Servis Meritus, Jalan Laguna 1, 13700 Perai, Penang",
     "postcode": "13700",
@@ -57628,7 +59700,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3313",
+    "id": "3424",
     "title": "Condominium",
     "address": "Unit No. 10B-07-02, Solok Batu Ferringgi, Island Resort, 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -57645,7 +59717,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3314",
+    "id": "3425",
     "title": "Apartment",
     "address": "Unit No. P1-18-17, Pangsapuri Prima Aman, Lorong Perai Utama 8, Taman Perai Utama, 13600 Perai, Penang",
     "postcode": "13600",
@@ -57662,7 +59734,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3315",
+    "id": "3426",
     "title": "Condominium",
     "address": "Unit No. J-2-06, Second Floor, Block J, Vista Condominum, Lebuh Relau 2, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -57679,7 +59751,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3316",
+    "id": "3427",
     "title": "Condominium",
     "address": "Unit No. 1A-20-02, Tower 1A, Tree Sparina @ Ideal Vision Park, Jalan Sungai Tiram 11, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -57696,7 +59768,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3317",
+    "id": "3428",
     "title": "Condominium",
     "address": "Unit No. A-02-15, Cangkat Bukit Belah 4, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -57713,7 +59785,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3318",
+    "id": "3429",
     "title": "Flat",
     "address": "Unit No. 10-10-24, Jalan Sungai Satu, Taman Pinang Emas, Batu Ferringgi, 11000, Penang",
     "postcode": "11000",
@@ -57730,7 +59802,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3319",
+    "id": "3430",
     "title": "Flat",
     "address": "Unit No. 4-19, Block E, Rumah Pangsa Seri Pauh, Lorong Pauh 2, Taman Pauh, 13500 Permatang Pauh, Penang",
     "postcode": "13500",
@@ -57747,7 +59819,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3320",
+    "id": "3431",
     "title": "Apartment",
     "address": "Unit No. 30-16, Pangsapuri Eco Bloom, Tingkat Eco Meadows 1, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -57764,7 +59836,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3321",
+    "id": "3432",
     "title": "Condominium",
     "address": "Unit No. B-2-4, The Breeza, Jalan Desiran Tanjung, Seksyen 1, Tankung Tokong, 10470, Penang",
     "postcode": "10470",
@@ -57781,7 +59853,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3322",
+    "id": "3433",
     "title": "Condominium",
     "address": "Unit No. 1A1-21-01, The Zen, Persiaran Bayan Mutiara 1, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -57798,7 +59870,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3323",
+    "id": "3434",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Lorong Seri Pinang 8, Taman Seri Pinang, 13020 Butterworth, Penang",
     "postcode": "13020",
@@ -57815,7 +59887,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3324",
+    "id": "3435",
     "title": "Condominium",
     "address": "Unit No. 1B-09-07, Lucerne Residences, Jalan Sungai Tiram 6, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -57832,7 +59904,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3325",
+    "id": "3436",
     "title": "Service Apartment",
     "address": "Unit No. B-16-03, Persiaran Cassia Utropolis, Pangsapuri Perkhidmatan Sinaran, 14110 Bandar Cassia, Penang",
     "postcode": "14110",
@@ -57849,7 +59921,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3326",
+    "id": "3437",
     "title": "Condominium",
     "address": "Unit No. A-07-16, Cangkat Bukit Belah 4, D'Starlingtton, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -57866,7 +59938,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3327",
+    "id": "3438",
     "title": "Flat",
     "address": "Unit No. 39-12-57, Lintang Delima 14, Krystal Heights, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -57883,7 +59955,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3328",
+    "id": "3439",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Lorong Desa Ara Permai 25, Taman Desa Ara Permai, 13310 Tasek Gelugor, Penang",
     "postcode": "13310",
@@ -57900,7 +59972,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3329",
+    "id": "3440",
     "title": "Apartment",
     "address": "Unit No. 2B1-15-12, Ideal Venice Residency, Lorong Lembah 3, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -57917,7 +59989,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3330",
+    "id": "3441",
     "title": "Condominium",
     "address": "Unit No. B-8-5, Amansuri Residences, No. 99, Lebuhraya Darulaman, 05100 Alor Setar, Kedah",
     "postcode": "05100",
@@ -57934,7 +60006,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3331",
+    "id": "3442",
     "title": "2 Storey Terrace House",
     "address": "No. 80, Jalan Arowana Emas 4, Taman Arowana Emas, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -57951,7 +60023,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3332",
+    "id": "3443",
     "title": "[4 min to Bukit Merah Laketown Resort] Service Apartment [Short drive to North–South Expressway (Bukit Merah Interchange)]",
     "address": "Unit No. 6250 (G-0-013), LS Block B (G), Bukit Merah Laketown, 34400 Simpang Ampat Semanggol, Perak",
     "postcode": "34400",
@@ -57968,7 +60040,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3333",
+    "id": "3444",
     "title": "Condominium",
     "address": "Unit No. A-5-11, Kediaman D' Festivo, Medan Ipoh 1H, Festival Walk @ Ipoh, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -57985,7 +60057,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3334",
+    "id": "3445",
     "title": "Small Office Home Office (SOHO)",
     "address": "Unit No. 01-09, Jalan Sultan Nazrin Shah, Residensi Lagenda Ipoh, 30250 Ipoh, Perak",
     "postcode": "30250",
@@ -58002,7 +60074,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3335",
+    "id": "3446",
     "title": "Small Office Home Office (SOHO)",
     "address": "Unit No. 3A-40, Level 4, Jalan Sultan Nazrin Shah, Residensi Lagenda Ipoh, 30250 Ipoh, Perak",
     "postcode": "30250",
@@ -58019,7 +60091,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3336",
+    "id": "3447",
     "title": "Service Suite",
     "address": "Unit No. BU-6-15 (BN-6-15), Storey No. 6, Uni Suites @ Kampar, 31900, Kampar, Perak",
     "postcode": "31900",
@@ -58036,7 +60108,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3337",
+    "id": "3448",
     "title": "Flat",
     "address": "Unit No. AJ-3-2, Rumah Pangsa Taman Tun Sardon, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -58053,7 +60125,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3338",
+    "id": "3449",
     "title": "Condominium",
     "address": "Unit No. D-19-01, Vertu Resort, Persiaran Cassia Barat 6, 14110 Bandar Cassia, Penang",
     "postcode": "14110",
@@ -58070,7 +60142,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3339",
+    "id": "3450",
     "title": "Apartment",
     "address": "Unit No. 31-10, Pangsapuri Eco Bloom, Tingkat Eco Meadows 1, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -58087,7 +60159,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3341",
+    "id": "3452",
     "title": "Flat",
     "address": "Unit No. 1B-13-12, Mutiara Idaman 1, Solok Tengku, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -58104,7 +60176,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3342",
+    "id": "3453",
     "title": "Condominium",
     "address": "Unit No. B-2-4, The Breeza, Jalan Desiran Tanjung, Seksyen 1, Tanjung Tokong, 10470, Penang",
     "postcode": "10470",
@@ -58121,7 +60193,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3343",
+    "id": "3454",
     "title": "Condominium",
     "address": "Unit No. 1B-19-07, Lucerne Residences, Jalan Sungai Tiram 6, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58138,7 +60210,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3344",
+    "id": "3455",
     "title": "Town House (Lower Floor)",
     "address": "No. 38, Lorong Sena Emas 2, Taman Sena Emas,13300 Tasek Gelugor, Penang",
     "postcode": "13300",
@@ -58155,7 +60227,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3345",
+    "id": "3456",
     "title": "Flat",
     "address": "Unit No. 7-G-3, Lorong Kekabu 1, Desa Wangsa, 11960 Bayan Lepas, Penang",
     "postcode": "11960",
@@ -58172,7 +60244,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3346",
+    "id": "3457",
     "title": "Flat",
     "address": "Unit No. 1-9-3, Taman Sri Pinang, Jalan Veterinary, 10150, Penang",
     "postcode": "10150",
@@ -58189,7 +60261,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3347",
+    "id": "3458",
     "title": "Apartment",
     "address": "Unit No. 18B-14-01, Jalan Kampung Bukit, Pangsapuri Bayu Tiara, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58206,7 +60278,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3348",
+    "id": "3459",
     "title": "Duplex Penthouse",
     "address": "Unit No. 73C-PH-2, Central Park, Lebuhraya Jelutong, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -58223,7 +60295,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3349",
+    "id": "3460",
     "title": "Condominium",
     "address": "Unit No. 1B-21-07, Imperial Grande, Persiaran Relau, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58240,7 +60312,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3350",
+    "id": "3461",
     "title": "Service Apartment",
     "address": "Unit No. 36-11, Pangsapuri Servis Meritus, Jalan Laguna 1, 13700 Perai, Penang",
     "postcode": "13700",
@@ -58257,7 +60329,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3351",
+    "id": "3462",
     "title": "Condominium",
     "address": "Unit No. C-1-1, Persiaran Lembah Perpaduan (Jalan Haven), 31150 Ulu Kinta, Perak",
     "postcode": "31150",
@@ -58274,7 +60346,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3352",
+    "id": "3463",
     "title": "Condominium",
     "address": "Unit No. 2C-07-08, Lintang Sungai Ara 14, Imperial Residences, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58291,7 +60363,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3353",
+    "id": "3464",
     "title": "Condominium",
     "address": "Unit No. 1C-26-03, Lengkok Merbah 3, The Clovers, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58308,7 +60380,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3354",
+    "id": "3465",
     "title": "Apartment",
     "address": "Unit No. B-19-3A, Pangsapuri Palma Laguna, Jalan Laguna 3, 13700, Perai, Penang",
     "postcode": "13700",
@@ -58325,7 +60397,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3355",
+    "id": "3466",
     "title": "Condominium",
     "address": "Unit No. C-1-1, The Haven Lakeside Residences, Persiaran Lembah Perpaduan (Jalan Haven), 31150 Ulu Kinta, Perak",
     "postcode": "31150",
@@ -58342,7 +60414,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3356",
+    "id": "3467",
     "title": "2 Storey Shop House",
     "address": "No. 8, Kedai Pejabat Desa Seri Iskandar Fasa 1A, Taman Changkat Sodang, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -58359,7 +60431,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3357",
+    "id": "3468",
     "title": "Apartment",
     "address": "Unit No. 15-06, Residensi Damai, Jalan Pauh Permai, 13500, Permatang Pauh, Penang",
     "postcode": "13500",
@@ -58376,7 +60448,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3358",
+    "id": "3469",
     "title": "2 Storey Terrace House",
     "address": "Jalan Seri Bayu 2/11, Taman Seri Bayu, Sungai Lalang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58393,7 +60465,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3359",
+    "id": "3470",
     "title": "1 Storey Terrace House",
     "address": "Jalan Seroja 1/4, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58410,7 +60482,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3360",
+    "id": "3471",
     "title": "2 Storey Terrace House",
     "address": "No. 553A, Lorong Bestari Permai 4/7, Bandar Bestari Permai, 09300 Kuala Ketil, Kedah",
     "postcode": "09300",
@@ -58427,7 +60499,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3361",
+    "id": "3472",
     "title": "1 Storey Semi Detached House",
     "address": "No. 445, Lorong Permata 3/1, Bandar Permata Lunas, 09600 Kulim, Kedah",
     "postcode": "09600",
@@ -58444,7 +60516,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3362",
+    "id": "3473",
     "title": "Terrace House",
     "address": "Jalan Darulaman Lagenda 2/2, Taman Darulaman Lagenda, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58461,7 +60533,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3363",
+    "id": "3474",
     "title": "2 Storey Terrace House",
     "address": "No. 47, Hala Keledang Emas 6, Taman Keledang Emas, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -58478,7 +60550,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3364",
+    "id": "3475",
     "title": "1 Storey Cluster House",
     "address": "Jalan Tropika 13, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -58495,7 +60567,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3365",
+    "id": "3476",
     "title": "1 Storey Terrace House",
     "address": "Lorong AM 7, Taman Aor Mesra, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -58512,7 +60584,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3366",
+    "id": "3477",
     "title": "1 Storey Terrace House",
     "address": "Taman Desa Salak, 31050 Sungai Siput (U), Perak",
     "postcode": "31050",
@@ -58529,7 +60601,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3367",
+    "id": "3478",
     "title": "2 Storey Terrace House",
     "address": "No. 47, Laluan Pakatan Jaya 2, Taman Pakatan Jaya, 31150 Ulu Kinta, Perak",
     "postcode": "31150",
@@ -58546,7 +60618,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3368",
+    "id": "3479",
     "title": "2 Storey Shop House",
     "address": "No. 41, Persiaran PM 3/5, Seksyen III, 32040 Pusat Bandar Sri Manjung, Perak",
     "postcode": "32040",
@@ -58563,7 +60635,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3369",
+    "id": "3480",
     "title": "Condominium",
     "address": "Unit No. B-6-3, Block B, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -58580,7 +60652,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3370",
+    "id": "3481",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Sri Klebang D/4, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -58597,7 +60669,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3371",
+    "id": "3482",
     "title": "1 Storey Terrace House",
     "address": "Taman Desa Salak, 31050 Sungai Siput, Perak",
     "postcode": "31050",
@@ -58614,7 +60686,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3372",
+    "id": "3483",
     "title": "Flat",
     "address": "Unit No. 31-03-02, Persiaran Sungai Emas, Ferringhi Delima, 11100 Batu Ferringhi, Penang",
     "postcode": "11100",
@@ -58631,7 +60703,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3373",
+    "id": "3484",
     "title": "Condominium",
     "address": "Unit No. 1-E-28-1, Lebuh Minden 1, Mukim 13, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -58648,7 +60720,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3374",
+    "id": "3485",
     "title": "Apartment",
     "address": "Unit No. 5-10-07, Lebuh Relau 4, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58665,7 +60737,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3375",
+    "id": "3486",
     "title": "Apartment",
     "address": "Unit No. 1-07-7, Lebuh Relau, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -58682,7 +60754,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3376",
+    "id": "3487",
     "title": "Terrace House",
     "address": "No. 41, Lorong Seri Putera 6, Taman Seri Putera, 14300 Nibong Tebal, Penang",
     "postcode": "14300",
@@ -58699,7 +60771,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3377",
+    "id": "3488",
     "title": "1 Storey Terrace House",
     "address": "No. 1, Jalan Seroja 1/4, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58716,7 +60788,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3378",
+    "id": "3489",
     "title": "1 Storey Terrace House",
     "address": "No. 181, Jalan Darulaman Lagenda 2/2, Taman Darulaman Lagenda, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58733,7 +60805,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3379",
+    "id": "3490",
     "title": "1 Storey Semi Detached House",
     "address": "Lorong Permata 6/1, Bandar Permata Lunas, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -58750,7 +60822,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3380",
+    "id": "3491",
     "title": "1 Storey Semi Detached House",
     "address": "No. 138, Jalan Yarra 1/11, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58767,7 +60839,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3381",
+    "id": "3492",
     "title": "Terrace House",
     "address": "No. 634, Lorong Angsana 17, Taman Keladi, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58784,7 +60856,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3382",
+    "id": "3493",
     "title": "1 Storey Terrace House",
     "address": "No. 492, Lorong Ria 3/1, Taman Ria, 09400, Padang Serai, Kedah",
     "postcode": "09400",
@@ -58801,7 +60873,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3383",
+    "id": "3494",
     "title": "1 Storey Terrace House",
     "address": "No. 505, Jalan Bandar Puteri Jaya 2/13, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58818,7 +60890,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3384",
+    "id": "3495",
     "title": "1 Storey Terrace House",
     "address": "No. 679, Lorong Permai Utama 22, Taman Permai Utama, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -58835,7 +60907,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3385",
+    "id": "3496",
     "title": "1 Storey Terrace House",
     "address": "No. B-263, Jalan Tembusu 8, Taman Bandar Baru 2, 06400 Pokok Sena, Kedah",
     "postcode": "06400",
@@ -58852,7 +60924,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3386",
+    "id": "3497",
     "title": "1 Storey Semi Detached House",
     "address": "No. 261, Jalan SP Heights 7, SP Heights, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -58869,7 +60941,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3387",
+    "id": "3498",
     "title": "1 Storey Terrace House",
     "address": "No. 121, Jalan Bentara 1, Taman Indera, 32600 Bota, Perak",
     "postcode": "32600",
@@ -58886,7 +60958,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3388",
+    "id": "3499",
     "title": "1 Storey Terrace House",
     "address": "No. 11, Jalan LB 1/4, Lembah Beriah 1, 34310, Bagan Serai, Perak",
     "postcode": "34310",
@@ -58903,7 +60975,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3389",
+    "id": "3500",
     "title": "1 Storey Terrace House",
     "address": "No. 374, Persiaran Desa Manjung 2/18, Desa Manjung Point II, 32000 Lumut, Perak",
     "postcode": "32000",
@@ -58920,7 +60992,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3390",
+    "id": "3501",
     "title": "1 Storey Semi Detached House",
     "address": "No. 164, Lorong Emas L2/3, Pekan Baru, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -58937,7 +61009,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3391",
+    "id": "3502",
     "title": "1 Storey Terrace House",
     "address": "No. 1396, Jalan Residen 4/19, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -58954,7 +61026,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3392",
+    "id": "3503",
     "title": "1 Storey Terrace House",
     "address": "No. 132, Laluan Kledang 1/1, Taman Kledang, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -58971,7 +61043,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3393",
+    "id": "3504",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Persiaran Jerlun 5, Taman Jerlun, 33000 Kuala Kangsar, Perak",
     "postcode": "33000",
@@ -58988,7 +61060,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3394",
+    "id": "3505",
     "title": "Terrace House",
     "address": "No. 44, Jalan Ketoyong, Taman Cempaka Sari, 35900 Tanjung Malim, Perak",
     "postcode": "35900",
@@ -59005,7 +61077,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3395",
+    "id": "3506",
     "title": "2 Storey Shop House",
     "address": "No. 8 & 8A, Jalan PP 4, Bandar Universiti, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -59022,7 +61094,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3396",
+    "id": "3507",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Jalan Puyuh, Taman Pekan Baru, 34200 Parit Buntar, Perak",
     "postcode": "34200",
@@ -59039,7 +61111,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3397",
+    "id": "3508",
     "title": "2 Storey Detached House",
     "address": "PT 2129, Lorong 2, Taman Selamat, 33300, Gerik, Perak",
     "postcode": "33300",
@@ -59056,7 +61128,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3398",
+    "id": "3509",
     "title": "1 Storey Terrace House",
     "address": "No. 1392, Jalan Residen 4/18, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -59073,7 +61145,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3399",
+    "id": "3510",
     "title": "Condominium",
     "address": "Unit No. 7-7-3, Tower 7, Twin Towers, Persiaran Tanjung Bungah, 11200 Tanjong Bungah, Penang",
     "postcode": "11200",
@@ -59090,7 +61162,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3400",
+    "id": "3511",
     "title": "Flat",
     "address": "Unit No. 1-1-8, Tingkat Teluk Kumbar, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -59107,7 +61179,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3401",
+    "id": "3512",
     "title": "Flat",
     "address": "Unit No. G1-29, Lorong Helang 3, Mukim 13, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -59124,7 +61196,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3402",
+    "id": "3513",
     "title": "2 Storey Terrace House",
     "address": "No. 86, Lorong Murni 20, Taman Desa Murni, 13800 Butterworth, Penang",
     "postcode": "13800",
@@ -59141,7 +61213,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3403",
+    "id": "3514",
     "title": "2 Storey Semi Detached House",
     "address": "No. 28, Solok Kampung Jawa 3, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -59158,7 +61230,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3404",
+    "id": "3515",
     "title": "Flat",
     "address": "Unit No. 37-3-1, Tingkat Paya Terubong 3, Mukim 13, 11060 Paya Terubong, Penang",
     "postcode": "11060",
@@ -59175,7 +61247,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3405",
+    "id": "3516",
     "title": "Flat",
     "address": "Unit No. 111B-2-17, 2nd Floor, Jalan Bukit Penara, Taman Balik Pulau (Lily Flat), 11000 Balik Pulau, Penang",
     "postcode": "11000",
@@ -59192,7 +61264,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3406",
+    "id": "3517",
     "title": "2 Storey Semi Detached House",
     "address": "No. 2, Lintang Tembaga, Taman Guan Joo Seng, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -59209,7 +61281,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3407",
+    "id": "3518",
     "title": "Flat",
     "address": "Unit No. 3-05, Blok C, Pangsapuri Pauh Damai, Jalan Pauh 1, 13500 Permatang Pauh, Penang",
     "postcode": "13500",
@@ -59226,7 +61298,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3408",
+    "id": "3519",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Solok Temenggong 3, Taman Koskam, 13200, Kepala Batas, Penang",
     "postcode": "13200",
@@ -59243,7 +61315,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3409",
+    "id": "3520",
     "title": "Flat",
     "address": "Unit No. 2-3-6, Jalan Haji Ahmad, Taman Pusaka, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -59260,7 +61332,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3410",
+    "id": "3521",
     "title": "Service Apartment",
     "address": "Unit No. B-10-10, Persiaran Mutiara 8, Pangsapuri Perkhidmatan Palma, 14120 Simpang Ampat, Penang",
     "postcode": "14120",
@@ -59277,7 +61349,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3411",
+    "id": "3522",
     "title": "Service Apartment",
     "address": "Unit No. 28-13, Pangsapuri Luminari, Jalan Harbour Place 1, 12100, Butterworth, Penang",
     "postcode": "12100",
@@ -59294,7 +61366,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3412",
+    "id": "3523",
     "title": "Service Suite",
     "address": "Unit No. 22-7, Menara Agacia @ Kampar (Champs Elysees), Lingkaran Agacia, Bandar Agacia, 31910 Kampar, Perak",
     "postcode": "31910",
@@ -59311,7 +61383,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3413",
+    "id": "3524",
     "title": "2 Storey Terrace House",
     "address": "PT 1452, Taman Ibu Fasa 2, 33300 Gerik, Perak",
     "postcode": "33300",
@@ -59328,7 +61400,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3414",
+    "id": "3525",
     "title": "1 Storey Cluster House",
     "address": "No. 680, Jalan Tropika 13, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -59345,7 +61417,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3415",
+    "id": "3526",
     "title": "2 Storey Terrace House",
     "address": "No. 10, Jalan Tawas Impiana 1, Anjung Tawas Impiana, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -59362,7 +61434,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3416",
+    "id": "3527",
     "title": "1 Storey Terrace House",
     "address": "No. 47, Taman Desa Salak, 31050 Sungai Siput, Perak",
     "postcode": "31050",
@@ -59379,7 +61451,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3417",
+    "id": "3528",
     "title": "1 Storey Detached House",
     "address": "No. 19, Jalan Segari Damai 4, Taman Segari Damai, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -59396,7 +61468,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3418",
+    "id": "3529",
     "title": "3 Storey Shop Office",
     "address": "No. 48, Jalan AU 4, Medan Aulong Utama, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -59413,7 +61485,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3419",
+    "id": "3530",
     "title": "1 Storey Terrace House",
     "address": "No. 69, Lorong 2, Taman Kaya, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -59430,7 +61502,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3420",
+    "id": "3531",
     "title": "2 Storey Terrace House",
     "address": "No. 343A, Jalan Seri Bayu 2/11, Taman Seri Bayu, Sungai Lalang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59447,7 +61519,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3421",
+    "id": "3532",
     "title": "2 Storey Terrace House",
     "address": "No. 921, Lorong Harmoni 8, Bandar Utama, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59464,7 +61536,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3422",
+    "id": "3533",
     "title": "2 Storey Shop House",
     "address": "No. 3, Jalan Peruda, Taman Berlian, 08000, Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59481,7 +61553,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3423",
+    "id": "3534",
     "title": "1 Storey Semi Detached House",
     "address": "No. 12, Jalan Kenari Biru 2, Taman Kenari Biru, 08000, Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59498,7 +61570,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3424",
+    "id": "3535",
     "title": "1 Storey Terrace House",
     "address": "No. 309C, Lorong Astana 10/12, Bandar Seri Astana, 08000, Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59515,7 +61587,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3425",
+    "id": "3536",
     "title": "Semi Detached House",
     "address": "No. 10, Jalan Perdana Heights 3/4, Perdana Heights, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59532,7 +61604,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3426",
+    "id": "3537",
     "title": "1 Storey Terrace House",
     "address": "No. 81, Jalan Tanjung 1/2, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59549,7 +61621,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3427",
+    "id": "3538",
     "title": "1 Storey Terrace House",
     "address": "No. 3083, Jalan Mutiara Hijau, Taman Mutiara, 09700 Karangan, Kedah",
     "postcode": "09700",
@@ -59566,7 +61638,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3428",
+    "id": "3539",
     "title": "1 Storey Terrace House",
     "address": "No. 57, Jalan Taman Bandar Baru, Taman Bandar Baru, 08100, Sungai Lalang, Kedah",
     "postcode": "08100",
@@ -59583,7 +61655,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3429",
+    "id": "3540",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Jalan Mawar 6, Bandar Amanjaya, 08000, Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59600,7 +61672,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3430",
+    "id": "3541",
     "title": "1 Storey Terrace House",
     "address": "No. 143, Jalan Universiti Bestari 6, Taman Universiti Bestari, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -59617,7 +61689,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3431",
+    "id": "3542",
     "title": "1 Storey Terrace House",
     "address": "No. 4, Lorong Jati 43B, Taman Bandar Baru, 08100, Sungai Lalang, Kedah",
     "postcode": "08100",
@@ -59634,7 +61706,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3432",
+    "id": "3543",
     "title": "Commercial Lot",
     "address": "Lot A10, Perak IT Mall, Jalan Tawas Idaman 2, Taman Tawas Idaman, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -59651,7 +61723,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3433",
+    "id": "3544",
     "title": "2 Storey Detached House",
     "address": "Lorong 2, Taman Selamat, 33300, Gerik, Perak",
     "postcode": "33300",
@@ -59668,7 +61740,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3434",
+    "id": "3545",
     "title": "1 Storey Detached House",
     "address": "No. 27, Laluan Tronoh Jaya 7, Desa Tronoh Jaya, 31750 Tronoh, Perak",
     "postcode": "31750",
@@ -59685,7 +61757,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3435",
+    "id": "3546",
     "title": "1 Storey Terrace House",
     "address": "No. 373, Jalan Nilam 14, Taman Nilam, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -59702,7 +61774,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3436",
+    "id": "3547",
     "title": "1 Storey Terrace House",
     "address": "No. 691, Lorong 97, Taman Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59719,7 +61791,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3437",
+    "id": "3548",
     "title": "2 Storey Terrace House",
     "address": "Lorong Bakti 2, Taman Bakti Kampung Koh, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -59736,7 +61808,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3438",
+    "id": "3549",
     "title": "2 Storey Terrace House",
     "address": "No. 30, Jalan Tawas Impiana 1, Anjung Tawas Impiana, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -59753,7 +61825,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3439",
+    "id": "3550",
     "title": "1 Storey Terrace Shop",
     "address": "No. 14, Jalan Fettes, 10470, Penang",
     "postcode": "10470",
@@ -59770,7 +61842,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3440",
+    "id": "3551",
     "title": "Condominium",
     "address": "Unit No. 5-01-01, Persiaran Tanjung Bungah, Twin Tower, 11200 Tanjong Bungah, Penang",
     "postcode": "11200",
@@ -59787,7 +61859,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3441",
+    "id": "3552",
     "title": "Apartment",
     "address": "Lebuh Relau 6, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -59804,7 +61876,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3442",
+    "id": "3553",
     "title": "Apartment",
     "address": "Unit No. 18-9-1, Halaman Tembaga, 11600 Georgetown, Penang",
     "postcode": "11600",
@@ -59821,7 +61893,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3443",
+    "id": "3554",
     "title": "2.5 Storey Terrace House",
     "address": "No. 23, Lorong Seri Murni 3, Taman Seri Murni, 13800 Butterworth, Penang",
     "postcode": "13800",
@@ -59838,7 +61910,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3444",
+    "id": "3555",
     "title": "Condominium",
     "address": "Cangkat Kenari, Mukim 12, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -59855,7 +61927,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3445",
+    "id": "3556",
     "title": "Apartment",
     "address": "Unit No. 8B-06-10, Lorong Semarak Api 3, Mukim 13, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -59872,7 +61944,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3446",
+    "id": "3557",
     "title": "1 Storey Terrace House",
     "address": "Lorong 97, Taman Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -59889,7 +61961,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3447",
+    "id": "3558",
     "title": "Condominium",
     "address": "Persiaran Tanjung Bungah, Twin Tower, 11200 Tanjong Bungah, Penang",
     "postcode": "11200",
@@ -59906,7 +61978,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3448",
+    "id": "3559",
     "title": "Condominium",
     "address": "Unit No. A-7-3, Jalan Medan Ipoh 1H, Kediaman D'Festivo, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -59923,7 +61995,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3449",
+    "id": "3560",
     "title": "Vacant Residential Land",
     "address": "Lot 138761, Jalan Raja Udang, Taman Anggerik, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -59940,7 +62012,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3450",
+    "id": "3561",
     "title": "2 Storey Terrace House with Extra Land",
     "address": "No. 20, Jalan Irawadi, 10050 Georgetown, Penang",
     "postcode": "10050",
@@ -59957,7 +62029,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3451",
+    "id": "3562",
     "title": "Apartment",
     "address": "Unit No. 9-11-7, Block 9, Taman Sri Angsana, Lebuh Relau 3, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -59974,7 +62046,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3452",
+    "id": "3563",
     "title": "Condominium",
     "address": "Unit No. 2C-5-8, Cangkat Kenari, Mukim 12, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -59991,7 +62063,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3453",
+    "id": "3564",
     "title": "Apartment",
     "address": "Unit No. 3-14-12, Lebuh Relau 6, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -60008,7 +62080,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3454",
+    "id": "3565",
     "title": "1 Storey Terrace House",
     "address": "No. 8, Jalan Dungun, 11600 Georgetown, Penang",
     "postcode": "11600",
@@ -60025,7 +62097,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3455",
+    "id": "3566",
     "title": "2 Storey Terrace House",
     "address": "No. 6, Lorong Bakti 2, Taman Bakti Kampung Koh, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -60042,7 +62114,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3456",
+    "id": "3567",
     "title": "1 Storey Terrace House",
     "address": "No. 1108, Laluan Kledang 4/5, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -60059,7 +62131,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3457",
+    "id": "3568",
     "title": "Flat",
     "address": "Unit No. 524D, Block B-4, Solok Tuna, Seberang Jaya, 13700 Perai, Penang",
     "postcode": "13700",
@@ -60076,7 +62148,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3458",
+    "id": "3569",
     "title": "1 Storey Terrace House",
     "address": "Jalan Yarra 7/7, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -60093,7 +62165,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3459",
+    "id": "3570",
     "title": "1 Storey Terrace House",
     "address": "Taman Cermai, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -60110,7 +62182,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3460",
+    "id": "3571",
     "title": "Shop Office",
     "address": "Pusat Dagangan Kelana Mas, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -60127,7 +62199,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3461",
+    "id": "3572",
     "title": "1 Storey Terrace House",
     "address": "Lorong Lagenda 37, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -60144,7 +62216,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3462",
+    "id": "3573",
     "title": "2 Storey Semi Detached Cluster House",
     "address": "Tingkat Lahat Mines 3, Bandar Lahat Mines, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -60161,7 +62233,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3463",
+    "id": "3574",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 4/12, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -60178,7 +62250,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3464",
+    "id": "3575",
     "title": "2 Storey Semi Detached House",
     "address": "No. 13, Margosa E/6, Bandar Seri Botani, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -60195,7 +62267,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3465",
+    "id": "3576",
     "title": "1.5 Storey Terrace House",
     "address": "Taman Bukit Maju, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -60212,7 +62284,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3466",
+    "id": "3577",
     "title": "2 Storey Terrace House",
     "address": "No. 40, Persiaran Botanika 3, Taman Botanika Residen, 32000, Sitiawan, Perak",
     "postcode": "32000",
@@ -60229,7 +62301,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3467",
+    "id": "3578",
     "title": "1 Storey Terrace House",
     "address": "Jalan LB 1/8, Lembah Beriah 1, 34310 Bagan Serai, Perak",
     "postcode": "34310",
@@ -60246,7 +62318,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3468",
+    "id": "3579",
     "title": "1 Storey Terrace House",
     "address": "No. 34, Laluan Klebang Jaya 31 (Laluan Kelebang Jaya 31), Taman Klebang Jaya, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -60263,7 +62335,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3469",
+    "id": "3580",
     "title": "2 Storey Terrace House",
     "address": "Lorong Saujana 2, Taman Saujana Bakti, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -60280,7 +62352,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3470",
+    "id": "3581",
     "title": "3 Storey Shop Office",
     "address": "No. 158, 158A & 158B, Persiaran SIBC 6, Seri Iskandar Business Centre, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -60297,7 +62369,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3471",
+    "id": "3582",
     "title": "Terrace House",
     "address": "Jalan Residen 8/29, Residen 8, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -60314,7 +62386,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3472",
+    "id": "3583",
     "title": "Apartment",
     "address": "The Rise Collection II (Taman Harapan), Jalan Dr. Wu Lien Teh, 10150 George Town, Penang",
     "postcode": "10150",
@@ -60331,7 +62403,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3473",
+    "id": "3584",
     "title": "Apartment",
     "address": "Unit No. 33-09-3A, Lakeside Towers, Tingkat Bukit Jambul Satu, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -60348,7 +62420,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3474",
+    "id": "3585",
     "title": "1 Storey Terrace House",
     "address": "No. 299, Jalan Cermai 6, Taman Cermai, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -60365,7 +62437,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3475",
+    "id": "3586",
     "title": "1 Storey Terrace House",
     "address": "No. 356, Jalan Yarra 5/13, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -60382,7 +62454,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3476",
+    "id": "3587",
     "title": "1 Storey Terrace House",
     "address": "No. 181, Jalan Bidara 10, Residensi Bidara, 06700 Pendang, Kedah",
     "postcode": "06700",
@@ -60399,7 +62471,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3477",
+    "id": "3588",
     "title": "2 Storey Semi Detached House",
     "address": "No. 13, Taman Johan, Jalan Kuala Kedah, 06600 Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -60416,7 +62488,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3478",
+    "id": "3589",
     "title": "1 Storey Semi Detached House",
     "address": "No. 62, Jalan Bukit Puteri 3A/3A, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -60433,7 +62505,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3479",
+    "id": "3590",
     "title": "1 Storey Terrace House",
     "address": "No. 58, Lorong Lagenda 37, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -60450,7 +62522,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3480",
+    "id": "3591",
     "title": "Apartment",
     "address": "Unit No. 1-37-12, The Rise Collection II (Taman Harapan), Jalan Dr. Wu Lien Teh, 10150 George Town, Penang",
     "postcode": "10150",
@@ -60467,7 +62539,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3481",
+    "id": "3592",
     "title": "Service Apartment",
     "address": "Unit No. B-07-02, Pangsapuri Perkhidmatan Palma, Persiaran Mutiara 8, 14120 Simpang Ampat, Penang",
     "postcode": "14120",
@@ -60484,7 +62556,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3482",
+    "id": "3593",
     "title": "Town House",
     "address": "Unit No. C-1-04, Lorong Indera Putera 4, Kondominium Villa Putera, Kepala Batas, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -60501,7 +62573,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3483",
+    "id": "3594",
     "title": "Apartment",
     "address": "Unit No. 46-2-22, Jalan Van Praagh, Desa Green, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -60518,7 +62590,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3484",
+    "id": "3595",
     "title": "1 Storey Terrace House",
     "address": "No. 831, Jalan Residen 4/12, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -60535,7 +62607,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3485",
+    "id": "3596",
     "title": "2 Storey Terrace House",
     "address": "No. 6, Laluan Meru Perdana 21, Taman Meru Perdana 2, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -60552,7 +62624,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3486",
+    "id": "3597",
     "title": "Apartment",
     "address": "Unit No. F-5-4, Apartment Casa Klebang 2, M6, Jalan Casa Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -60569,7 +62641,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3487",
+    "id": "3598",
     "title": "2 Storey Semi Detached Cluster House",
     "address": "No. 36, Laluan Tasek Pertama 1, Arena Tasek Pertama, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -60586,7 +62658,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3488",
+    "id": "3599",
     "title": "2 Storey Shop House",
     "address": "No. 40, Kelana Mas, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -60603,7 +62675,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3489",
+    "id": "3600",
     "title": "2 Storey Terrace House",
     "address": "Jalan Anggerik 4/20, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -60620,7 +62692,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3490",
+    "id": "3601",
     "title": "Town House",
     "address": "Lorong Indera Putera 4, Kondominium Villa Putera, Kepala Batas, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -60637,7 +62709,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3491",
+    "id": "3602",
     "title": "1 Storey Terrace House",
     "address": "No. 302, Jalan Yarra 7/7, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -60654,7 +62726,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3492",
+    "id": "3603",
     "title": "Condominium",
     "address": "Unit No. 31-9-1, Block 31, Ferringhi Delima Condominium, Persiaran Sungai Emas, 11100 Batu Ferringhi, Penang",
     "postcode": "11100",
@@ -60671,7 +62743,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3493",
+    "id": "3604",
     "title": "Apartment",
     "address": "Unit No. 7-25-08, Sri Impian, Lengkok Angsana, Mukim 13, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -60688,7 +62760,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3494",
+    "id": "3605",
     "title": "2 Storey Terrace House",
     "address": "No. 26, Lorong Murni 5, Taman Desa Murni, 13800 Butterworth, Penang",
     "postcode": "13800",
@@ -60705,7 +62777,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3495",
+    "id": "3606",
     "title": "Town House",
     "address": "Lorong Indera Putera 4, Kondominium Villa Putera, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -60722,7 +62794,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3496",
+    "id": "3607",
     "title": "Cluster House",
     "address": "No. 21, Lorong Sembilang 7, Bandar Seberang Jaya, 13700, Perai, Penang",
     "postcode": "13700",
@@ -60739,7 +62811,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3497",
+    "id": "3608",
     "title": "Flat",
     "address": "Unit No. 6-5-6, Solok Sungai Ara 1, Mukim 12, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -60756,7 +62828,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3498",
+    "id": "3609",
     "title": "Flat",
     "address": "Unit No. 88-03-56, Jalan Fettes, Puncak Erskine, 10470 Tanjung Tokong, Penang",
     "postcode": "10470",
@@ -60773,7 +62845,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3499",
+    "id": "3610",
     "title": "2 Storey Semi Detached Cluster House",
     "address": "No. 8, Tingkat Lahat Mines 3, Bandar Lahat Mines, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -60790,7 +62862,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3500",
+    "id": "3611",
     "title": "1.5 Storey Terrace House",
     "address": "No. 299, Taman Bukit Maju, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -60807,7 +62879,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3501",
+    "id": "3612",
     "title": "2 Storey Terrace House",
     "address": "Persiaran Botanika 3, Taman Botanika Residen, 32000, Sitiawan, Perak",
     "postcode": "32000",
@@ -60824,7 +62896,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3502",
+    "id": "3613",
     "title": "1 Storey Terrace House",
     "address": "No. 23, Jalan LB 1/8, Lembah Beriah 1, 34310 Bagan Serai, Perak",
     "postcode": "34310",
@@ -60841,7 +62913,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3503",
+    "id": "3614",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 1418, Jalan Residen 8/29, Residen 8, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -60858,7 +62930,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3504",
+    "id": "3615",
     "title": "1 Storey Terrace House",
     "address": "No. 882, Jalan Lagenda 19, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -60875,7 +62947,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3505",
+    "id": "3616",
     "title": "1 Storey Terrace House",
     "address": "No. 47, Persiaran Iskandar Perdana 30, Seksyen 5, Taman Iskandar Perdana, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -60892,7 +62964,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3506",
+    "id": "3617",
     "title": "1 Storey Terrace House",
     "address": "No. 23, Laluan Pinji Perdana 14, Taman Pinji Perdana, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -60909,7 +62981,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3507",
+    "id": "3618",
     "title": "Town House (Upper Unit)",
     "address": "No. 350B, Persiaran Kledang 5, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -60926,7 +62998,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3508",
+    "id": "3619",
     "title": "1 Storey Terrace House",
     "address": "No. 20, Jalan Bemban Indah 3, Taman Bemban Indah, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -60943,7 +63015,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3509",
+    "id": "3620",
     "title": "2 Storey Terrace House",
     "address": "No. 87, Kampung Koh, Taman Singa Baru, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -60960,7 +63032,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3510",
+    "id": "3621",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Jalan Gopeng Perdana 4, Taman Gopeng Perdana, 31600 Gopeng, Perak",
     "postcode": "31600",
@@ -60977,7 +63049,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3511",
+    "id": "3622",
     "title": "1 Storey Terrace House",
     "address": "No. 44, Jalan Gelung Permai 2, Taman Gelung Permai, 32600 Gelung Pepuyu, Perak",
     "postcode": "32600",
@@ -60994,7 +63066,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3512",
+    "id": "3623",
     "title": "1 Storey Terrace House",
     "address": "Jalan Cermai 6, Taman Cermai, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -61011,7 +63083,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3513",
+    "id": "3624",
     "title": "2 Storey Terrace Shop Office",
     "address": "No. 62, Pusat Dagangan Kelana Mas, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -61028,7 +63100,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3514",
+    "id": "3625",
     "title": "1 Storey Terrace House",
     "address": "No. 187, Lorong Residensi A5, Taman Residensi Mesra, 08300, Gurun, Kedah",
     "postcode": "08300",
@@ -61045,7 +63117,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3515",
+    "id": "3626",
     "title": "1 Storey Terrace House",
     "address": "No. 878, Taman Tunku Sarina (Lydia), 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -61062,7 +63134,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3516",
+    "id": "3627",
     "title": "1 Storey Terrace House",
     "address": "No. 187, Lorong Residensi A5, Taman Residensi Mesra, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -61079,7 +63151,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3517",
+    "id": "3628",
     "title": "1 Storey Terrace House",
     "address": "No. 34, Lorong Lagenda 62, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -61096,7 +63168,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3518",
+    "id": "3629",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 5, Lorong Lagenda 9, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -61113,7 +63185,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3519",
+    "id": "3630",
     "title": "1 Storey Terrace House",
     "address": "Lorong 5/10, Taman Sri Wang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61130,7 +63202,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3520",
+    "id": "3631",
     "title": "1 Storey Cluster House with Extra land",
     "address": "Jalan Residen 6/8, Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -61147,7 +63219,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3521",
+    "id": "3632",
     "title": "2 Storey Terrace Shop Office",
     "address": "Persiaran Seri Iskandar Prima 4, Taman Iskandar Prima, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -61164,7 +63236,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3522",
+    "id": "3633",
     "title": "1 Storey Cluster House",
     "address": "Jalan Residen 7/14, Residen 7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -61181,7 +63253,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3523",
+    "id": "3634",
     "title": "2 Storey Terrace House",
     "address": "No. 82, Taman Bersatu, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -61198,7 +63270,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3524",
+    "id": "3635",
     "title": "Terrace House",
     "address": "Jalan Gemilang 5/5, Taman Gemilang, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -61215,7 +63287,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3525",
+    "id": "3636",
     "title": "Flat",
     "address": "Unit No. 2B-2-19, Mukim G, Jalan Pulau Betong, 11000 Balik Pulau, Penang",
     "postcode": "11000",
@@ -61232,7 +63304,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3526",
+    "id": "3637",
     "title": "Condominium",
     "address": "Unit No. 109-07-15, Gold Coast Resort Condominium, Persiaran Bayan Indah, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -61249,7 +63321,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3527",
+    "id": "3638",
     "title": "Apartment",
     "address": "Unit No. 5-02-3, Lorong Gangsa, Taman Lembah Hijau, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -61266,7 +63338,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3528",
+    "id": "3639",
     "title": "Apartment",
     "address": "Pangsapuri Luminari, Jalan Harbour Place 1, 12100 Butterworth, Penang",
     "postcode": "12100",
@@ -61283,7 +63355,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3529",
+    "id": "3640",
     "title": "Flat",
     "address": "Unit No. 6-13-03, Lintang Kampung Melayu 2, Mukim 13, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -61300,7 +63372,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3530",
+    "id": "3641",
     "title": "Residential Land",
     "address": "Lot 10958 (GRN 97278), Mukim 13, District Of Timor Laut, Penang",
     "postcode": "10958",
@@ -61317,7 +63389,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3531",
+    "id": "3642",
     "title": "Apartment",
     "address": "Desa Indah, Block 1, Halaman Paya Terubong 2, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -61334,7 +63406,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3532",
+    "id": "3643",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Permata 3/7, Bandar Permata Lunas, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -61351,7 +63423,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3533",
+    "id": "3644",
     "title": "Apartment",
     "address": "Centrio Avenue, Jalan Permai, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -61368,7 +63440,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3534",
+    "id": "3645",
     "title": "Apartment",
     "address": "Unit No. 360-4-1, Gat Lebuh Macallum, 10300, George Town, Penang",
     "postcode": "10300",
@@ -61385,7 +63457,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3535",
+    "id": "3646",
     "title": "Apartment",
     "address": "Unit No. 11-13, Pangsapuri Luminari, Jalan Harbour Place 1, 12100 Butterworth, Penang",
     "postcode": "12100",
@@ -61402,7 +63474,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3536",
+    "id": "3647",
     "title": "Apartment",
     "address": "Unit No. 163B-31-01, Centrio Avenue, Jalan Permai, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -61419,7 +63491,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3537",
+    "id": "3648",
     "title": "Residential Land",
     "address": "Lot 10958 (GRN 97278), Cangkat Bukit Gambir 3, 11700 Gelugor, Penang",
     "postcode": "10958",
@@ -61436,7 +63508,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3538",
+    "id": "3649",
     "title": "2 Storey Terrace Shop Office",
     "address": "No. 7, Persiaran Seri Iskandar Prima 4, Taman Iskandar Prima, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -61453,7 +63525,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3539",
+    "id": "3650",
     "title": "1 Storey Cluster House with Extra land",
     "address": "No. 387, Jalan Residen 6/8, Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -61470,7 +63542,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3540",
+    "id": "3651",
     "title": "1 Storey Cluster House",
     "address": "No. 850, Jalan Residen 7/14, Residen 7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -61487,7 +63559,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3541",
+    "id": "3652",
     "title": "2 Storey Terrace House",
     "address": "No. 74, Jalan Suasa 2, Taman Bandar Baru Utama, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -61504,7 +63576,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3542",
+    "id": "3653",
     "title": "1 Storey Terrace House",
     "address": "No. 174, Lorong 5/10, Taman Sri Wang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61521,7 +63593,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3543",
+    "id": "3654",
     "title": "1 Storey Semi Detached House",
     "address": "No. 1980, Jalan Permata 3/7, Bandar Permata Lunas, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -61538,7 +63610,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3544",
+    "id": "3655",
     "title": "Freehold Apartment",
     "address": "Unit No. 4-07-B, Lorong Sintuk 3, Taman Permatang Sintuk, 13100 Penaga, Penang",
     "postcode": "13100",
@@ -61555,7 +63627,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3545",
+    "id": "3656",
     "title": "Flat",
     "address": "Unit No. 1-12-13, Desa Indah, Block 1, Halaman Paya Terubong 2, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -61572,7 +63644,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3546",
+    "id": "3657",
     "title": "Flat",
     "address": "Unit No. 15-3-13, Tingkat Paya Terubong 3, Taman Terubong Jaya, 11060 Paya Terubong, Penang",
     "postcode": "11060",
@@ -61589,7 +63661,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3547",
+    "id": "3658",
     "title": "Condominium",
     "address": "Unit No. 23A-37-02, Setia V Residences, Lorong Burma, 10250 George Town, Penang",
     "postcode": "10250",
@@ -61606,7 +63678,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3548",
+    "id": "3659",
     "title": "2 Storey Terrace House",
     "address": "No. 54, Lorong Rusa 6, Taman Selamat, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -61623,7 +63695,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3549",
+    "id": "3660",
     "title": "Shop Lot",
     "address": "Unit No. 1-01-06, Lintang Slim, Harmony View, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -61640,7 +63712,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3550",
+    "id": "3661",
     "title": "Apartment",
     "address": "Unit No. 1-08, Pangsapuri Blok B, Jalan Mewah 2, 12100, Butterworth, Penang",
     "postcode": "12100",
@@ -61657,7 +63729,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3551",
+    "id": "3662",
     "title": "Flat",
     "address": "Unit No. 8-4-6, Persiaran Mayang Pasir 5, MK 12, 11950 Bandar Bayan Baru, Penang",
     "postcode": "11950",
@@ -61674,7 +63746,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3552",
+    "id": "3663",
     "title": "Condominium",
     "address": "Unit No. 2- 01-01, Jalan Sungai Satu, Ferringhi Emas Resort (Eden Seaview), 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -61691,7 +63763,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3553",
+    "id": "3664",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Lorong Bentara 13, Bertam Perdana 3, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -61708,7 +63780,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3554",
+    "id": "3665",
     "title": "1 Storey Terrace House",
     "address": "No. 552, Laluan Kledang 5/5, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -61725,7 +63797,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3555",
+    "id": "3666",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 770, Jalan Residen 6/25, Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -61742,7 +63814,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3556",
+    "id": "3667",
     "title": "2 Storey Terrace House",
     "address": "No. 56, Lapangan Perdana 5A, Panorama Lapangan Perdana, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -61759,7 +63831,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3557",
+    "id": "3668",
     "title": "1 Storey Semi Detached House",
     "address": "No. 1112, Jalan Bandar Puteri Jaya 3/27, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61776,7 +63848,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3558",
+    "id": "3669",
     "title": "1 Storey Terrace House",
     "address": "No. 273A, Jalan Bistari Jaya 17, Taman Bistari Utama, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -61793,7 +63865,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3559",
+    "id": "3670",
     "title": "Apartment",
     "address": "Pangsapuri Blok B, Jalan Mewah 2, 12100, Butterworth, Penang",
     "postcode": "12100",
@@ -61810,7 +63882,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3560",
+    "id": "3671",
     "title": "1 Storey Semi Detached House",
     "address": "Lorong Cendana 1/1, Taman Cendana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61827,7 +63899,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3561",
+    "id": "3672",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Lorong 32, Taman Petani Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61844,7 +63916,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3562",
+    "id": "3673",
     "title": "1 Storey Terrace House",
     "address": "No. 168, Lorong Makmur 4/3, Taman Makmur, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -61861,7 +63933,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3563",
+    "id": "3674",
     "title": "2 Storey Terrace House",
     "address": "Laluan Metro Maya 7, Taman Metro Maya, 31550 Pusing, Perak",
     "postcode": "31550",
@@ -61878,7 +63950,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3564",
+    "id": "3675",
     "title": "1 Storey Terrace House",
     "address": "Jalan Wong Kwong Nam, Taman Pertama, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -61895,7 +63967,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3565",
+    "id": "3676",
     "title": "Terrace House",
     "address": "Jalan Sungai Wangi, Medan Sungai Wangi, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -61912,7 +63984,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3566",
+    "id": "3677",
     "title": "Terrace House",
     "address": "Jalan Tropika 1, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -61929,7 +64001,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3567",
+    "id": "3678",
     "title": "Flat",
     "address": "Unit No. 7-22-07, Jalan Gangsa, Greenlane Heights, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -61946,7 +64018,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3568",
+    "id": "3679",
     "title": "Flat",
     "address": "Unit No. I-2-1, Lebuh Relau 2, MK 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -61963,7 +64035,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3569",
+    "id": "3680",
     "title": "2 Storey Terrace House",
     "address": "Jalan Arowana 8, Taman Arowana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61980,7 +64052,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3570",
+    "id": "3681",
     "title": "2 Storey Terrace House",
     "address": "No. 60, Jalan Bintang Maya 1/3, Bintang Maya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -61997,7 +64069,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3571",
+    "id": "3682",
     "title": "2 Storey Terrace House",
     "address": "No. 1107, Jalan Emas, Taman Bandar Baru, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -62014,7 +64086,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3572",
+    "id": "3683",
     "title": "2 Storey Terrace House",
     "address": "No. 58, Sri Klebang E/9, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -62031,7 +64103,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3573",
+    "id": "3684",
     "title": "Condominium",
     "address": "Unit No. B-5-6, Block B, Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -62048,7 +64120,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3574",
+    "id": "3685",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 21, Lorong Lagenda 31, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -62065,7 +64137,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3575",
+    "id": "3686",
     "title": "1 Storey Terrace House",
     "address": "No. 31, Jalan Bidor Bistari 3, Taman Bidor Bistari, 35500, Bidor, Perak",
     "postcode": "35500",
@@ -62082,7 +64154,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3576",
+    "id": "3687",
     "title": "Agricultural Land",
     "address": "Lot 22930 & Lot 22928, Felcra Nasaruddin (B), 32600 Bota, Perak",
     "postcode": "22930",
@@ -62099,7 +64171,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3577",
+    "id": "3688",
     "title": "Apartment",
     "address": "Taman Jade View, Jalan Bukit Gambir, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -62116,7 +64188,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3578",
+    "id": "3689",
     "title": "Flat",
     "address": "Unit No. P-4-8, Jalan Tanjong Tokong, Pangsapuri Uda, 10470, Penang",
     "postcode": "10470",
@@ -62133,7 +64205,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3579",
+    "id": "3690",
     "title": "1 Storey Terrace House",
     "address": "Lorong Seri Indah 6/1, Taman Seri Indah, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -62150,7 +64222,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3580",
+    "id": "3691",
     "title": "Town House",
     "address": "Lorong Indera Putera 3, Kondo Villa Putera, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -62167,7 +64239,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3581",
+    "id": "3692",
     "title": "Apartment",
     "address": "Unit No. 310-10-02, Taman Jade View, Jalan Bukit Gambir, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -62184,7 +64256,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3582",
+    "id": "3693",
     "title": "Flat",
     "address": "Solok Mahsuri 3, Bandar Bayan Baru, 11950 Bayan Lepas, Penang",
     "postcode": "11950",
@@ -62201,7 +64273,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3583",
+    "id": "3694",
     "title": "1 Storey Terrace House",
     "address": "No. 17, Tingkat Kledang 21, Taman Kledang Sentosa, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -62218,7 +64290,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3584",
+    "id": "3695",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Lorong Jati 68-D, Taman Bandar Baru, 08100 Sungai Lalang, Kedah",
     "postcode": "08100",
@@ -62235,7 +64307,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3585",
+    "id": "3696",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kenanga 2/6, Bandar Aman Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62252,7 +64324,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3586",
+    "id": "3697",
     "title": "1 Storey Semi Detached House",
     "address": "No. A166, Lorong Cendana 1/1, Taman Cendana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62269,7 +64341,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3587",
+    "id": "3698",
     "title": "2 Storey Terrace House",
     "address": "No. 593, Jalan Arowana 8, Taman Arowana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62286,7 +64358,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3588",
+    "id": "3699",
     "title": "1 Storey Terrace House",
     "address": "No. 2296, Jalan Mutiara 9/4, Taman Mutiara, 09700 Karangan, Kedah",
     "postcode": "09700",
@@ -62303,7 +64375,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3589",
+    "id": "3700",
     "title": "1 Storey Terrace House",
     "address": "Jalan Seroja 2/3, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62320,7 +64392,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3590",
+    "id": "3701",
     "title": "1 Storey Terrace House",
     "address": "No. 22, Lorong Seri Indah 6/1, Taman Seri Indah, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -62337,7 +64409,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3591",
+    "id": "3702",
     "title": "1 Storey Terrace House",
     "address": "Lintang Nibong, Bayan Baru, 11900, Bayan Lepas, Penang",
     "postcode": "11900",
@@ -62354,7 +64426,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3592",
+    "id": "3703",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Jalan Wong Kwong Nam, Taman Pertama, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -62371,7 +64443,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3593",
+    "id": "3704",
     "title": "2 Storey Terrace House",
     "address": "No. 18, Jalan Sungai Wangi, Medan Sungai Wangi, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -62388,7 +64460,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3594",
+    "id": "3705",
     "title": "Town House",
     "address": "Unit No. 65-3, Blok 65, Aras 3, Persiaran Residensi, Bandar Agacia, 31910 Kampar, Perak",
     "postcode": "31910",
@@ -62405,7 +64477,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3595",
+    "id": "3706",
     "title": "1 Storey Terrace House",
     "address": "No. 261, Persiaran Yakin Mesra 13, Taman Yakin Mesra, Sungai Buloh, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -62422,7 +64494,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3596",
+    "id": "3707",
     "title": "1 Storey Cluster House",
     "address": "No. 225, Jalan Residen 7/5, Residen 7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -62439,7 +64511,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3597",
+    "id": "3708",
     "title": "1 Storey Terrace House",
     "address": "Lorong Jati 23-A, Taman Bandar Baru, Sungai Lalang, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -62456,7 +64528,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3598",
+    "id": "3709",
     "title": "1 Storey Terrace House",
     "address": "No. 28, Lorong Jati 23-A, Taman Bandar Baru, Sungai Lalang, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -62473,7 +64545,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3599",
+    "id": "3710",
     "title": "2 Storey Shop House",
     "address": "No. 256, Fasa 1, Taman Mergong Jaya, 06250 Alor Setar, Kedah",
     "postcode": "06250",
@@ -62490,7 +64562,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3600",
+    "id": "3711",
     "title": "1 Storey Terrace House",
     "address": "No. 483, Taman Desa Bayanmas, 06050 Bukit Kayu Hitam, Kedah",
     "postcode": "06050",
@@ -62507,7 +64579,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3601",
+    "id": "3712",
     "title": "Terrace House",
     "address": "No. 22, Jalan Serai Wangi 3/1, Taman Serai Wangi, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -62524,7 +64596,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3602",
+    "id": "3713",
     "title": "2 Storey Terrace House",
     "address": "No. 24, Laluan Metro Maya 7, Taman Metro Maya, 31550 Pusing, Perak",
     "postcode": "31550",
@@ -62541,7 +64613,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3603",
+    "id": "3714",
     "title": "1 Storey Terrace House",
     "address": "No. 535, Lorong Residensi A16, Taman Residensi Mesra, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -62558,7 +64630,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3604",
+    "id": "3715",
     "title": "1 Storey Terrace House",
     "address": "Jalan Klebang Aman 2, Taman Klebang Tropika, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -62575,7 +64647,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3605",
+    "id": "3716",
     "title": "1 Storey Terrace House",
     "address": "Laluan Sri Klebang 2, Taman Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -62592,7 +64664,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3606",
+    "id": "3717",
     "title": "Terrace House",
     "address": "Lorong Setia Jaya 1, Taman Setia Jaya, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -62609,7 +64681,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3607",
+    "id": "3718",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Jalan Jelutong, Taman Bersatu, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -62626,7 +64698,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3608",
+    "id": "3719",
     "title": "2 Storey Terrace House",
     "address": "Jalan Seri Bayu 2/8, Taman Seri Bayu, Sungai Lalang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62643,7 +64715,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3609",
+    "id": "3720",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kelisa Ria 6/30, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62660,7 +64732,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3610",
+    "id": "3721",
     "title": "1 Storey Terrace House",
     "address": "Lorong Cekur Manis 2/2, Taman Cekur Manis, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -62677,7 +64749,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3611",
+    "id": "3722",
     "title": "1 Storey Terrace House",
     "address": "No. 710, Jalan Kelisa Ria 1/24, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62694,7 +64766,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3612",
+    "id": "3723",
     "title": "2 Storey Cluster House",
     "address": "No. 562, Jalan Melor 5/1A, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62711,7 +64783,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3613",
+    "id": "3724",
     "title": "Semi Detached House",
     "address": "No. 203, Jalan Cempaka Indah 9, Taman Cempaka Indah, 08010 Bukit Selambau, Kedah",
     "postcode": "08010",
@@ -62728,7 +64800,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3614",
+    "id": "3725",
     "title": "1 Storey Semi Detached House",
     "address": "No. 207, Persiaran SP Heights, SP Heights, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -62745,7 +64817,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3615",
+    "id": "3726",
     "title": "1 Storey Semi Detached House",
     "address": "No. 74, Lorong Permai Utama 4, Taman Permai Utama, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -62762,7 +64834,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3616",
+    "id": "3727",
     "title": "2 Storey Semi Detached House",
     "address": "Taman Hijau I, Kampung Koh, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -62779,7 +64851,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3617",
+    "id": "3728",
     "title": "1 Storey Semi Detached House",
     "address": "Taman Berpadu, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -62796,7 +64868,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3618",
+    "id": "3729",
     "title": "1 Storey Terrace House",
     "address": "No. 12A, Jalan Mahkota Kampar 2, Taman Mahkota Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -62813,7 +64885,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3619",
+    "id": "3730",
     "title": "2 Storey Shop",
     "address": "No. 7 & 7A, Persiaran Bagan Perdana 1, Taman Batu Gajah Perdana, 31550 Pusing, Perak",
     "postcode": "31550",
@@ -62830,7 +64902,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3620",
+    "id": "3731",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 28, Lorong Lagenda 8, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -62847,7 +64919,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3621",
+    "id": "3732",
     "title": "2 Storey Terrace House",
     "address": "No. 6, Jalan Chemor Aman 6, Desa Chemor Aman, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -62864,7 +64936,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3622",
+    "id": "3733",
     "title": "Condominium",
     "address": "Unit No. 26B-18-3A, Lintang Sungai Ara 6, Zan Pavillion, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -62881,7 +64953,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3623",
+    "id": "3734",
     "title": "2 Storey Detached House",
     "address": "Laluan Desa Chemor 1, Taman Chemor Indah, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -62898,7 +64970,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3624",
+    "id": "3735",
     "title": "Terrace House",
     "address": "Jalan PJ 5, Taman Perwira Jaya, 35400, Perak",
     "postcode": "35400",
@@ -62915,7 +64987,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3625",
+    "id": "3736",
     "title": "1 Storey Terrace House",
     "address": "No. 18, Laluan Wawasan 2, Taman Tronoh Wawasan, 31750 Tronoh, Perak",
     "postcode": "31750",
@@ -62932,7 +65004,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3626",
+    "id": "3737",
     "title": "1 Storey Semi Detached House",
     "address": "No. 576, Lorong Manjung Point 2/5, Taman Manjung Point, Seksyen 11, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -62949,7 +65021,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3627",
+    "id": "3738",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Jalan Sri Klebang 33, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -62966,7 +65038,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3628",
+    "id": "3739",
     "title": "1 Storey Terrace House",
     "address": "No. 8, Taman Cantik II, Pasir Panjang Laut, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -62983,7 +65055,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3629",
+    "id": "3740",
     "title": "2 Storey Detached House of Individual Design Erected on 2 Adjoining Lands",
     "address": "No. 1493 - 1494, Jalan Kulim Height 3/1, Persiaran Kulim Golf, Kulim Golf & Resort, Kulim Hi-Tech Park, 09090 Kulim, Kedah",
     "postcode": "09090",
@@ -63000,7 +65072,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3630",
+    "id": "3741",
     "title": "2 Storey Terrace House",
     "address": "No. 317, Jalan Seri Bayu 2/8, Taman Seri Bayu, Sungai Lalang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63017,7 +65089,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3631",
+    "id": "3742",
     "title": "1 Storey Terrace House",
     "address": "No. 1348, Jalan Kelisa Ria 6/30, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63034,7 +65106,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3632",
+    "id": "3743",
     "title": "1 Storey Semi Detached House",
     "address": "No. 7, Lorong 4, Taman Sutera, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63051,7 +65123,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3633",
+    "id": "3744",
     "title": "1 Storey Terrace House",
     "address": "No. 32, Lorong Jati 28-B, Taman Bandar Baru, 08100 Sungai Lalang, Kedah",
     "postcode": "08100",
@@ -63068,7 +65140,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3634",
+    "id": "3745",
     "title": "1 Storey Terrace House",
     "address": "Jalan Universiti Bestari 3, Taman Universiti Bestari, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -63085,7 +65157,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3635",
+    "id": "3746",
     "title": "1 Storey Terrace House",
     "address": "No. 255, Jalan Kemboja 23, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63102,7 +65174,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3636",
+    "id": "3747",
     "title": "1 Storey Terrace House",
     "address": "No. 1426, Jalan Mutiara 1/6, Taman Mutiara, 09700 Karangan, Kedah",
     "postcode": "09700",
@@ -63119,7 +65191,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3637",
+    "id": "3748",
     "title": "1 Storey Terrace House",
     "address": "No. 201A, Jalan Bujang Utama 2, Taman Lembah Bujang Utama, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -63136,7 +65208,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3638",
+    "id": "3749",
     "title": "1 Storey Terrace House",
     "address": "No. 39, Jalan Tasek Mutiara 2, Bandar Tasek Mutiara, 14120 Simpang Ampat, Penang",
     "postcode": "14120",
@@ -63153,7 +65225,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3639",
+    "id": "3750",
     "title": "2 Storey Semi Detached House",
     "address": "No. 6, Jalan Bertam Indah 4, Taman Bertam Indah, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -63170,7 +65242,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3640",
+    "id": "3751",
     "title": "Flat",
     "address": "Unit No. 1-04-14, Jalan Veterinary, Taman Sri Pinang, 10150, Penang",
     "postcode": "10150",
@@ -63187,7 +65259,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3641",
+    "id": "3752",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Lorong Telok Air Tawar 10, Taman Air Tawar Indah, 13050 Butterworth, Penang",
     "postcode": "13050",
@@ -63204,7 +65276,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3642",
+    "id": "3753",
     "title": "2 Storey Cluster House",
     "address": "No. 12, Lorong Sembilang 12, Seberang Jaya, 13700 Perai, Penang",
     "postcode": "13700",
@@ -63221,7 +65293,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3643",
+    "id": "3754",
     "title": "2 Storey Semi Detached House",
     "address": "No. 339 (Lot 41482), Taman Hijau I, Kampung Koh, 32000 Sitiawan, Perak",
     "postcode": "41482",
@@ -63238,7 +65310,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3644",
+    "id": "3755",
     "title": "1 Storey Terrace House",
     "address": "No. 40, Jalan Klebang Aman 2, Taman Klebang Tropika, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -63255,7 +65327,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3645",
+    "id": "3756",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Laluan Sri Klebang 2, Taman Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -63272,7 +65344,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3646",
+    "id": "3757",
     "title": "2 Storey Detached House",
     "address": "No. 20, Laluan Desa Chemor 1, Taman Chemor Indah, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -63289,7 +65361,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3647",
+    "id": "3758",
     "title": "2 Storey Semi Detached House",
     "address": "No. 33A, Lorong Setia Jaya 1, Taman Setia Jaya, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -63306,7 +65378,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3648",
+    "id": "3759",
     "title": "2 Storey Semi Detached House",
     "address": "No. 162, Jalan Labrooy, Taman Merdeka, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -63323,7 +65395,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3649",
+    "id": "3760",
     "title": "1 Storey Terrace House",
     "address": "No. 216, Jalan PJ 5, Taman Perwira Jaya, 35400, Perak",
     "postcode": "35400",
@@ -63340,7 +65412,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3650",
+    "id": "3761",
     "title": "Service Apartment",
     "address": "Unit No. B-6-9, Kampar Unilodge, Jalan Siswa 3, Taman Kampar Siswa, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -63357,7 +65429,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3651",
+    "id": "3762",
     "title": "1 Storey Terrace House",
     "address": "No. 31, Jalan Putra Mutiara 3, Kampar Putra, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -63374,7 +65446,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3652",
+    "id": "3763",
     "title": "2 Storey Shop Office",
     "address": "No. 10 & 10-A, Medan Stesen 19/7, Station 18, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -63391,7 +65463,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3653",
+    "id": "3764",
     "title": "4 Storey Shop House",
     "address": "No. 103A, Lorong 5, Taman Muhibbah, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -63408,7 +65480,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3654",
+    "id": "3765",
     "title": "1 Storey Terrace House",
     "address": "No. 51, Jalan Gelung Permai 2, Taman Gelung Permai, 32600 Bota, Perak",
     "postcode": "32600",
@@ -63425,7 +65497,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3655",
+    "id": "3766",
     "title": "1 Storey Terrace House",
     "address": "No. 67, Taman Raja Muda Musa, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -63442,7 +65514,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3656",
+    "id": "3767",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 369, Jalan Residen 2/3, Residen 2, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -63459,7 +65531,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3657",
+    "id": "3768",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 813, Jalan Residen 6/27, Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -63476,7 +65548,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3658",
+    "id": "3769",
     "title": "Land",
     "address": "Lot 2462, Along Sungai Dendang New Road, 34100 Selama, Perak",
     "postcode": "34100",
@@ -63493,7 +65565,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3659",
+    "id": "3770",
     "title": "1 Storey Terrace House",
     "address": "No. 73, Jalan Gelung Permai 2, Taman Gelung Permai, 32600 Bota, Perak",
     "postcode": "32600",
@@ -63510,7 +65582,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3660",
+    "id": "3771",
     "title": "1 Storey Terrace House",
     "address": "No. 22, Jalan Tanjung Andaman 4, Taman Tanjung Andaman, 31250 Tanjung Rambutan, Perak",
     "postcode": "31250",
@@ -63527,7 +65599,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3661",
+    "id": "3772",
     "title": "1 Storey Terrace House",
     "address": "No. 954, Laluan Kledang 4/1, Taman Kledang, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -63544,7 +65616,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3662",
+    "id": "3773",
     "title": "1 Storey Terrace House",
     "address": "No. 56, Jalan Pantai Wang 1, Taman Pantai Wang, Kampung Sungai Batu, 34900, Pantai Remis, Perak",
     "postcode": "34900",
@@ -63561,7 +65633,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3663",
+    "id": "3774",
     "title": "1 Storey Terrace House",
     "address": "No. 195, Jalan Residen 8/7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -63578,7 +65650,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3664",
+    "id": "3775",
     "title": "1 Storey Terrace House",
     "address": "No. 423, Jalan Residen 1/7, Bandar Baru Setia Awan Perdana, 32000, Sitiawan, Perak",
     "postcode": "32000",
@@ -63595,7 +65667,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3665",
+    "id": "3776",
     "title": "1 Storey Terrace House",
     "address": "No. 73, Jalan Seri Rubiah 4, Taman Seri Rubiah, 32040, Seri Manjung, Perak",
     "postcode": "32040",
@@ -63612,7 +65684,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3666",
+    "id": "3777",
     "title": "3 Storey Terrace Shop Office",
     "address": "No. 218, Jalan PPMP 3/4, Pusat Perniagaan Manjung Point III, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -63629,7 +65701,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3667",
+    "id": "3778",
     "title": "2.5 Storey Semi Detached House",
     "address": "No. 12, Hala Bandar Baru Tambun 19, Taman Ipoh Perdana, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -63646,7 +65718,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3668",
+    "id": "3779",
     "title": "1 Storey Terrace House",
     "address": "No. 264, Persiaran Presint 2/12, Taman Alamanda Presint 2, 32200 Bandar Baru Segari, Lumut, Perak",
     "postcode": "32200",
@@ -63663,7 +65735,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3669",
+    "id": "3780",
     "title": "1 Storey Terrace House",
     "address": "No. 106, Persiaran Pulai Timur 3, Taman Chandan Desa, 31300 Simpang Pulai, Perak",
     "postcode": "31300",
@@ -63680,7 +65752,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3670",
+    "id": "3781",
     "title": "1 Storey Terrace House",
     "address": "No. 149, Taman Samudera, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -63697,7 +65769,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3671",
+    "id": "3782",
     "title": "1 Storey Terrace House",
     "address": "No. 51, Jalan Universiti Bestari 3, Taman Universiti Bestari, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -63714,7 +65786,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3672",
+    "id": "3783",
     "title": "1 Storey Terrace House",
     "address": "No. 100, Lorong Cekur Manis 2/2, Taman Cekur Manis, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -63731,7 +65803,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3673",
+    "id": "3784",
     "title": "1.5 Storey Semi Detached Factory",
     "address": "No. 44, Jalan Sungai Tukang 2, Kawasan Perusahaan Ringan Sungai Tukang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63748,7 +65820,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3674",
+    "id": "3785",
     "title": "1 Storey Terrace House",
     "address": "No. 403, Lorong Putih 2, Taman Rakyat Mergong, 05150 Alor Setar, Kedah",
     "postcode": "05150",
@@ -63765,7 +65837,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3675",
+    "id": "3786",
     "title": "1 Storey Terrace House",
     "address": "No. 411, Jalan Seroja 2/9, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63782,7 +65854,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3676",
+    "id": "3787",
     "title": "1.5 Storey Semi Detached House",
     "address": "No. 245, Lorong Seri Wangi 2, Taman Sri Wangi, 09300 Kuala Ketil, Kedah",
     "postcode": "09300",
@@ -63799,7 +65871,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3677",
+    "id": "3788",
     "title": "1 Storey Semi Detached House",
     "address": "No. 262, Jalan SP Heights 7, SP Heights, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63816,7 +65888,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3678",
+    "id": "3789",
     "title": "2 Storey Terrace House",
     "address": "No. 1224, Jalan PR1MA 37, PR1MA Residensi Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -63833,7 +65905,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3679",
+    "id": "3790",
     "title": "1 Storey Semi Detached House",
     "address": "No. 86, Taman Delima, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -63850,7 +65922,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3680",
+    "id": "3791",
     "title": "2 Storey Terrace House",
     "address": "No. 1097, Taman Bersatu, Off Jalan Batas Paip, 06600, Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -63867,7 +65939,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3681",
+    "id": "3792",
     "title": "1 Storey Terrace House",
     "address": "No. 100, Lorong Cekur Manis 2/2, Taman Cekur Manis, 09600 Kulim, Kedah",
     "postcode": "09600",
@@ -63884,7 +65956,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3682",
+    "id": "3793",
     "title": "2 Storey Detached House",
     "address": "Solok Pantai Jerjak, 11950 Bayan Lepas, Penang",
     "postcode": "11950",
@@ -63901,7 +65973,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3683",
+    "id": "3794",
     "title": "Flat",
     "address": "Unit No. 5-3-1, Lintang Relau 1, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -63918,7 +65990,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3684",
+    "id": "3795",
     "title": "Flat",
     "address": "Unit No. 10-G-10, Taman Teluk Kumbar, Lintang Sungai Batu, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -63935,7 +66007,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3685",
+    "id": "3796",
     "title": "Detached House",
     "address": "Tempat Kampong Lalang, Mukim Siong, Daerah Baling, Kedah",
     "postcode": "",
@@ -63952,7 +66024,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3686",
+    "id": "3797",
     "title": "2 Storey Terrace House",
     "address": "No. 41, Laluan Desa Pengkalan, Taman Desa Pengkalan, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -63969,7 +66041,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3687",
+    "id": "3798",
     "title": "Agricultural Land",
     "address": "Locality of Batu Teguh, Mukim Tupai, Daerah Larut Matang, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -63986,7 +66058,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3688",
+    "id": "3799",
     "title": "Agricultural Land",
     "address": "Locality of Batu Teguh, Mukim Tupai, Daerah Larut Matang, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -64003,7 +66075,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3689",
+    "id": "3800",
     "title": "Agricultural Land",
     "address": "Locality of Batu Teguh, Mukim Tupai, Daerah Larut Matang, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -64020,7 +66092,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3690",
+    "id": "3801",
     "title": "Agricultural Land",
     "address": "Locality of Batu Teguh, Mukim Tupai, Daerah Larut Matang, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -64037,7 +66109,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3691",
+    "id": "3802",
     "title": "Flat",
     "address": "Unit No. 2-04, Block C1, Lorong Sejahtera 12, Taman Seri Janggus, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -64054,7 +66126,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3692",
+    "id": "3803",
     "title": "1.5 Storey Bungalow House",
     "address": "No. 125, Jalan 9/5, Darulaman Perdana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -64071,7 +66143,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3693",
+    "id": "3804",
     "title": "Terrace House",
     "address": "Jalan Delima 4, Taman Pusing Delima, 31550 Pusing, Perak",
     "postcode": "31550",
@@ -64088,7 +66160,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3694",
+    "id": "3805",
     "title": "2 Storey Terrace House",
     "address": "No. 471, Jalan Pahang, Taman Rakyat, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -64105,7 +66177,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3695",
+    "id": "3806",
     "title": "2 Storey Semi Detached House",
     "address": "No. 68, Lorong Raz Intan 3, Taman Raz Intan Cassia, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -64122,7 +66194,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3696",
+    "id": "3807",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Jalan Tawas Mewah 13, Taman Tawas Mewah, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -64139,7 +66211,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3697",
+    "id": "3808",
     "title": "1 Storey Terrace House",
     "address": "No. 311, Jalan 2C/13, Fasa 2C, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -64156,7 +66228,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3698",
+    "id": "3809",
     "title": "Apartment",
     "address": "Unit No. 863-3A, Jalan Baru, Taman Tasik Emas, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -64173,7 +66245,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3699",
+    "id": "3810",
     "title": "2 Storey Terrace House",
     "address": "No. 185, Jalan Melur 13, Taman Melur, Bandar Darul Aman, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -64190,7 +66262,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3700",
+    "id": "3811",
     "title": "Duplex Condominium (Penthouse)",
     "address": "Unit No. B-11-01 (7-11-1), Penhill Perdana Condominium, Taman Lintang, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -64207,7 +66279,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3701",
+    "id": "3812",
     "title": "1 Storey Terrace House",
     "address": "No. 5, Jalan Delima 4, Taman Pusing Delima, 31550 Pusing, Perak",
     "postcode": "31550",
@@ -64224,7 +66296,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3702",
+    "id": "3813",
     "title": "2 Storey Terrace House",
     "address": "Jalan Melur 13, Taman Melur, Bandar Darul Aman, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -64241,7 +66313,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3703",
+    "id": "3814",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Lorong Permaipura Murni 6, Taman Permaipura, Bedong, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -64258,7 +66330,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3704",
+    "id": "3815",
     "title": "1 Storey Semi Detached House",
     "address": "No. 3794, Jalan Lagenda 17/6, Taman Lagenda, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -64275,7 +66347,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3705",
+    "id": "3816",
     "title": "3 Storey Terrace House",
     "address": "No. 7, Lorong Desa Oren 1, Taman Desa Oren, 13020 Butterworth, Penang",
     "postcode": "13020",
@@ -64292,7 +66364,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3706",
+    "id": "3817",
     "title": "Flat",
     "address": "Unit No. 18-2-08, Tingkat Batu Uban 2, Taman Utara, Mukim 13, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -64309,7 +66381,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3707",
+    "id": "3818",
     "title": "Apartment",
     "address": "Sri Sayang, Jalan Batu Ferringgi, 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -64326,7 +66398,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3708",
+    "id": "3819",
     "title": "Apartment",
     "address": "Unit No. 2-3A, Block C (Ruby), Pangsapuri Ria, Lebuh Kampung Benggali, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -64343,7 +66415,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3709",
+    "id": "3820",
     "title": "Condominium",
     "address": "Unit No. 28D-11-1, Block 28D, Jalan Pantai Miami, Miami Green, 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -64360,7 +66432,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3710",
+    "id": "3821",
     "title": "Apartment",
     "address": "Unit No. 5-09-07, Villa Kejora, Hilir Paya Terubong 2, Mukim 13, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -64377,7 +66449,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3711",
+    "id": "3822",
     "title": "Apartment",
     "address": "Unit No. 6-01, Pangsapuri Seri Pelangi, Jalan Usahaniaga 1, Taman Niaga Jaya, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -64394,7 +66466,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3712",
+    "id": "3823",
     "title": "2 Storey Terrace House",
     "address": "Lorong Bukit Juru 3, Taman Bukit Juru, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -64411,7 +66483,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3713",
+    "id": "3824",
     "title": "Apartment",
     "address": "Unit No. 4-18, Block B, Vista Perdana, Jalan Kampung Gajah, Taman Bagan Jermal, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -64428,7 +66500,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3714",
+    "id": "3825",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Seksyen 3/9, Bandar Putra Bertam, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -64445,7 +66517,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3715",
+    "id": "3826",
     "title": "2 Storey Terrace House",
     "address": "Lorong Machang Bubok 1, Taman Machang Bubok, 14020 Bukit Mertajam, Penang",
     "postcode": "14020",
@@ -64462,7 +66534,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3716",
+    "id": "3827",
     "title": "2 Storey Terrace House",
     "address": "No. 30, Jalan Sena Permai, Taman Sena Permai, 13300 Tasek Gelugor, Penang",
     "postcode": "13300",
@@ -64479,7 +66551,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3717",
+    "id": "3828",
     "title": "Terrace House",
     "address": "Lorong Ara Suria 4, Taman Ara Suria, 13310 Tasek Gelugor, Penang",
     "postcode": "13310",
@@ -64496,7 +66568,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3718",
+    "id": "3829",
     "title": "Flat",
     "address": "Unit No. 10-12-13, Jalan Sungai Satu, Taman Pinang Emas, 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -64513,7 +66585,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3719",
+    "id": "3830",
     "title": "Flat",
     "address": "Unit No. 1B-15-6, Desa Baiduri, Jalan RU 1, Bandar Baru Ayer Itam, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -64530,7 +66602,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3720",
+    "id": "3831",
     "title": "2 Storey Terrace House",
     "address": "No. 39, Lorong Sintar Indah 13, Taman Sintar Indah, 14300 Nibong Tebal, Penang",
     "postcode": "14300",
@@ -64547,7 +66619,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3721",
+    "id": "3832",
     "title": "Apartment",
     "address": "Unit No. 188-2-1, Sri Sayang, Jalan Batu Ferringgi, 11100 Batu Ferringgi, Penang",
     "postcode": "11100",
@@ -64564,7 +66636,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3722",
+    "id": "3833",
     "title": "Shop Lot",
     "address": "Unit No. 1-2-41, Jalan Veterinary, Taman Sri Pinang, 10150 Georgetown, Penang",
     "postcode": "10150",
@@ -64581,7 +66653,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3723",
+    "id": "3834",
     "title": "1 Storey Terrace House",
     "address": "No. 33, Persiaran Seksyen 3/9, Bandar Putra Bertam, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -64598,7 +66670,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3724",
+    "id": "3835",
     "title": "2 Storey Terrace House",
     "address": "No. 9, Lorong Bukit Juru 3, Taman Bukit Juru, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -64615,7 +66687,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3725",
+    "id": "3836",
     "title": "Apartment",
     "address": "Block C (Ruby), Pangsapuri Ria, Lebuh Kampung Benggali, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -64632,7 +66704,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3726",
+    "id": "3837",
     "title": "1 Storey Terrace House",
     "address": "No. 5, Lorong Ara Suria 4, Taman Ara Suria, 13310 Tasek Gelugor, Penang",
     "postcode": "13310",
@@ -64649,7 +66721,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3727",
+    "id": "3838",
     "title": "Apartment",
     "address": "Unit No. 8B-19-11, Asia Heights, Lorong Semarak Api 3, MK 13, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -64666,7 +66738,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3728",
+    "id": "3839",
     "title": "Flat",
     "address": "Unit No. 1D-15-08, Desa Bayan, Jalan Merbah, Mukim 12, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -64683,7 +66755,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3729",
+    "id": "3840",
     "title": "3 Storey Semi Detached Shop Office",
     "address": "No. 59, Jalan Icon City, Icon City, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -64700,7 +66772,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3730",
+    "id": "3841",
     "title": "1.5 Storey Terrace House",
     "address": "No. 89, Taman Sri Murni, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -64717,7 +66789,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3731",
+    "id": "3842",
     "title": "1 Storey Terrace House",
     "address": "Laluan Sri Kuang 21, Desa Chemor Sejahtera, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -64734,7 +66806,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3732",
+    "id": "3843",
     "title": "1 Storey Terrace House",
     "address": "No. 112, Jajaran Anggerik Permai 4, Taman Anggerik Permai, 32700 Bruas, Perak",
     "postcode": "32700",
@@ -64751,7 +66823,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3733",
+    "id": "3844",
     "title": "1 Storey Terrace House",
     "address": "Jalan Pantai Damai 2/5, Taman Pantai Damai II, 34900 Pantai Remis, Perak",
     "postcode": "34900",
@@ -64768,7 +66840,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3734",
+    "id": "3845",
     "title": "1 Storey Terrace House",
     "address": "No. 33, Jalan Mahkota Kampar 5, Taman Mahkota Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -64785,7 +66857,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3735",
+    "id": "3846",
     "title": "2 Storey Terrace House",
     "address": "No. 63, Lebuh Batu Maung 8, Taman Seri Mewah, 11960 Bayan Lepas, Penang",
     "postcode": "11960",
@@ -64802,7 +66874,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3736",
+    "id": "3847",
     "title": "Condominium",
     "address": "Unit No. 353-09-06, Block 353, Straits Garden Condominium, Jalan Tokong Batu, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -64819,7 +66891,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3737",
+    "id": "3848",
     "title": "Condominium",
     "address": "Unit No. B-3A-3A, Kondominium Lembah Indah, Lorong Lembah Indah 1, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -64836,7 +66908,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3738",
+    "id": "3849",
     "title": "Apartment",
     "address": "Tingkat Paya Terubong 2, MK 13, 11060, Penang",
     "postcode": "11060",
@@ -64853,7 +66925,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3739",
+    "id": "3850",
     "title": "1 Storey Terrace House",
     "address": "No. 23, Jalan Kinding Perdana 11, Taman Kinding Perdana, 31250 Tanjung Rambutan, Perak",
     "postcode": "31250",
@@ -64870,7 +66942,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3740",
+    "id": "3851",
     "title": "1 Storey Semi Detached House",
     "address": "No. 536, Jalan Residen 3/14, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -64887,7 +66959,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3741",
+    "id": "3852",
     "title": "1 Storey Cluster Semi Detached House",
     "address": "No. 10, Jalan Residen 6/6, Residen 6, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -64904,7 +66976,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3742",
+    "id": "3853",
     "title": "1 Storey Terrace House",
     "address": "No. 50, Persiaran Indah 6, Taman Bukit Indah, 35000 Tapah, Perak",
     "postcode": "35000",
@@ -64921,7 +66993,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3743",
+    "id": "3854",
     "title": "1 Storey Terrace House",
     "address": "Taman Sri Nyior, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -64938,7 +67010,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3744",
+    "id": "3855",
     "title": "3 Storey Semi Detached House",
     "address": "No. 8, Lengkok Relau 1, Taman Seri Relau, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -64955,7 +67027,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3745",
+    "id": "3856",
     "title": "Condominium",
     "address": "Block 353, Straits Garden Condominium, Jalan Tokong Batu, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -64972,7 +67044,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3746",
+    "id": "3857",
     "title": "Apartment",
     "address": "Unit No. 9-16-8, Tingkat Paya Terubong 2, MK 13, 11060, Penang",
     "postcode": "11060",
@@ -64989,7 +67061,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3747",
+    "id": "3858",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Jalan Bertam Indah 41, Taman Bertam Indah, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -65006,7 +67078,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3748",
+    "id": "3859",
     "title": "Terrace House",
     "address": "No. 17, Persiaran Gading 6, Taman Gading, 31000, Batu Gajah, Perak",
     "postcode": "31000",
@@ -65023,7 +67095,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3749",
+    "id": "3860",
     "title": "1 Storey Terrace House",
     "address": "No. 491, Taman Tun Sambanthan, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -65040,7 +67112,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3750",
+    "id": "3861",
     "title": "1 Storey Terrace House",
     "address": "No. 39, Laluan Sri Kuang 21, Desa Chemor Sejahtera, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -65057,7 +67129,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3751",
+    "id": "3862",
     "title": "1 Storey Terrace House",
     "address": "No. 35, Jalan Seri Rubiah 3, Taman Seri Rubiah, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -65074,7 +67146,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3752",
+    "id": "3863",
     "title": "1 Storey Terrace House",
     "address": "No. 106, Jalan Pantai Damai 2/5, Taman Pantai Damai II, 34900 Pantai Remis, Perak",
     "postcode": "34900",
@@ -65091,7 +67163,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3753",
+    "id": "3864",
     "title": "1 Storey Terrace House",
     "address": "No. 48, Lebuh Wing Onn 1, Taman Wing Onn, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -65108,7 +67180,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3754",
+    "id": "3865",
     "title": "2 Storey Detached House",
     "address": "Lorong Empat, Taman Julaiha, 36400 Hutan Melintang, Perak",
     "postcode": "36400",
@@ -65125,7 +67197,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3755",
+    "id": "3866",
     "title": "2 Storey Terrace House",
     "address": "Jalan Selatan 6, Taman Bandar Baru Selatan, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -65142,7 +67214,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3756",
+    "id": "3867",
     "title": "2 Storey Detached House",
     "address": "No. 252, Lorong Empat, Taman Julaiha, 36400 Hutan Melintang, Perak",
     "postcode": "36400",
@@ -65159,7 +67231,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3757",
+    "id": "3868",
     "title": "2 Storey Terrace House",
     "address": "No. 137, Jalan Selatan 6, Taman Bandar Baru Selatan, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -65176,7 +67248,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3758",
+    "id": "3869",
     "title": "1 Storey Terrace House",
     "address": "No. 200, Lorong 6, Taman Intan Mas, 36000, Teluk Intan, Perak",
     "postcode": "36000",
@@ -65193,7 +67265,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3759",
+    "id": "3870",
     "title": "Terrace House",
     "address": "No. 1107, Bandar Puncak Sena, 06400 Pokok Sena, Kedah",
     "postcode": "06400",
@@ -65210,7 +67282,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3760",
+    "id": "3871",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Jalan Mewah 1, Taman Sungkai Mewah, 35600 Sungkai, Perak",
     "postcode": "35600",
@@ -65227,7 +67299,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3761",
+    "id": "3872",
     "title": "1 Storey Shop House",
     "address": "No. 2, Susuran Awana, Taman Awana, Jalan Langgar, 06500 Alor Setar, Kedah",
     "postcode": "06500",
@@ -65244,7 +67316,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3762",
+    "id": "3873",
     "title": "Terrace House",
     "address": "Taman Pulasan, Off Jalan Alor Mengkudu, 05400 Alor Setar, Kedah",
     "postcode": "05400",
@@ -65261,7 +67333,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3763",
+    "id": "3874",
     "title": "Shop Office",
     "address": "Susuran Awana, Taman Awana, Jalan Langgar, 06500 Alor Setar, Kedah",
     "postcode": "06500",
@@ -65278,7 +67350,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3764",
+    "id": "3875",
     "title": "1 Storey Terrace House",
     "address": "No. 111, Lorong Emas 6, Taman Emas Suria, Sungai Petani, 08000 Kuala Muda, Kedah",
     "postcode": "08000",
@@ -65295,7 +67367,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3765",
+    "id": "3876",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Songket 1, Taman Songket, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65312,7 +67384,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3766",
+    "id": "3877",
     "title": "1 Storey Semi Detached House",
     "address": "Lorong Permata 5/3, Bandar Permata Lunas, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -65329,7 +67401,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3767",
+    "id": "3878",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Sungai Chemor 3, Taman Bunga Raya, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -65346,7 +67418,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3768",
+    "id": "3879",
     "title": "2 Storey Terrace House",
     "address": "No. 23, Lorong Sungai Puyu, Sungai Puyu, 13020 Butterworth, Penang",
     "postcode": "13020",
@@ -65363,7 +67435,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3769",
+    "id": "3880",
     "title": "1 Storey Terrace House",
     "address": "Lorong Merak 41, Taman Merak, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -65380,7 +67452,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3770",
+    "id": "3881",
     "title": "Apartment",
     "address": "Unit No. 7C-11-11, Pangsapuri Palm Court, Jalan Seri Tanjung Pinang, 10470 Tanjung Tokong, Penang",
     "postcode": "10470",
@@ -65397,7 +67469,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3771",
+    "id": "3882",
     "title": "Terrace House",
     "address": "Jalan Tropika 13, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -65414,7 +67486,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3772",
+    "id": "3883",
     "title": "1 Storey Terrace House",
     "address": "No. 454, Jalan Aman 19, Taman Aman, 31950 Mambang Di Awan, Perak",
     "postcode": "31950",
@@ -65431,7 +67503,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3773",
+    "id": "3884",
     "title": "Agricultural Land",
     "address": "Lot 15130, Raja Hitam II Tambahan, Kampong Baru Raja Hitam, 32400 Ayer Tawar, Perak",
     "postcode": "15130",
@@ -65448,7 +67520,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3774",
+    "id": "3885",
     "title": "1 Storey Semi Detached House",
     "address": "No. 8, Laluan Seri Raia 6B, Taman Seri Raia, 31300 Kampong Kepayang, Perak",
     "postcode": "31300",
@@ -65465,7 +67537,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3775",
+    "id": "3886",
     "title": "1 Storey Terrace Shop",
     "address": "No. 3171, Jalan Mahsuri 7/J, Taman Mahsuri, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -65482,7 +67554,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3776",
+    "id": "3887",
     "title": "1 Storey Terrace House",
     "address": "Lorong 8, Taman Sungai Lalang II, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -65499,7 +67571,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3777",
+    "id": "3888",
     "title": "1 Storey Terrace House",
     "address": "No. 2119, Lorong Serai Wangi 5/4, Taman Serai Wangi, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -65516,7 +67588,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3778",
+    "id": "3889",
     "title": "1.5 Storey Terrace House",
     "address": "Jalan Mutiara BPJ 1, Mutiara Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65533,7 +67605,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3779",
+    "id": "3890",
     "title": "1 Storey Semi Detached House",
     "address": "No. 22, Jalan Songket 1, Taman Songket, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65550,7 +67622,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3780",
+    "id": "3891",
     "title": "1 Storey Terrace House",
     "address": "Lorong 6, Taman Emas, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -65567,7 +67639,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3781",
+    "id": "3892",
     "title": "Agricultural Land",
     "address": "Mukim of Bohor, Kedah",
     "postcode": "",
@@ -65584,7 +67656,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3782",
+    "id": "3893",
     "title": "1 Storey Terrace House",
     "address": "No. 113A, Jalan Bukit Puteri 1/13A, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65601,7 +67673,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3783",
+    "id": "3894",
     "title": "2 Storey Terrace House",
     "address": "No. 407, Jalan Bukit Puteri 12/12, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65618,7 +67690,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3784",
+    "id": "3895",
     "title": "1 Storey Terrace House",
     "address": "No. 11, Lorong Merak 41, Taman Merak, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -65635,7 +67707,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3785",
+    "id": "3896",
     "title": "2 Storey Cluster House",
     "address": "No. 66, Lorong Jeliti 3, RPA Kangar 5 (Taman Jeliti), 01000 Kangar, Perlis",
     "postcode": "01000",
@@ -65652,7 +67724,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3786",
+    "id": "3897",
     "title": "1 Storey Terrace House",
     "address": "No. 11, Jalan Sebelas, Taman Santan II, 01000 Kangar, Perlis",
     "postcode": "01000",
@@ -65669,7 +67741,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3787",
+    "id": "3898",
     "title": "Terrace House",
     "address": "No. 82, Jalan 7, Taman Pauh Indah, 02600 Arau, Perlis",
     "postcode": "02600",
@@ -65686,7 +67758,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3788",
+    "id": "3899",
     "title": "1 Storey Terrace House",
     "address": "No. 198, Lorong 6, Taman Emas, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -65703,7 +67775,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3789",
+    "id": "3900",
     "title": "1 Storey Terrace House",
     "address": "No. 734, Jalan Tropika 13, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -65720,7 +67792,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3790",
+    "id": "3901",
     "title": "2 Storey Terrace House",
     "address": "No. 49, Laluan Klebang Perdana 36, Klebang Perdana, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -65737,7 +67809,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3791",
+    "id": "3902",
     "title": "1 Storey Cluster Semi Detached House",
     "address": "No. 50, Lorong Lagenda 20, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -65754,7 +67826,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3792",
+    "id": "3903",
     "title": "1 Storey Terrace House",
     "address": "Jalan Desa Aman S8/7, Seksyen 8, Desa Aman, 09410 Padang Serai, Kedah",
     "postcode": "09410",
@@ -65771,7 +67843,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3793",
+    "id": "3904",
     "title": "1 Storey Semi Detached House",
     "address": "No. 1154, Lorong Permata 5/3, Bandar Permata Lunas, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -65788,7 +67860,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3794",
+    "id": "3905",
     "title": "1.5 Storey Terrace House",
     "address": "No. 104, Jalan Mutiara BPJ 1, Mutiara Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65805,7 +67877,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3795",
+    "id": "3906",
     "title": "1 Storey Terrace House",
     "address": "No. 269, Jalan Desa Aman S8/7, Seksyen 8, Desa Aman, 09410 Padang Serai, Kedah",
     "postcode": "09410",
@@ -65822,7 +67894,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3796",
+    "id": "3907",
     "title": "Agricultural Land",
     "address": "Lot 2125, Jalan Jeneri, Mukim Jeneri, Daerah Sik, 08700 Sik, Kedah",
     "postcode": "08700",
@@ -65839,7 +67911,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3797",
+    "id": "3908",
     "title": "2 Storey Terrace House",
     "address": "No. 332, Jalan PR1MA 8, Residensi PR1MA, Bandar Puteri Jaya 1, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65856,7 +67928,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3798",
+    "id": "3909",
     "title": "Agricultural Land",
     "address": "Lot No. 226 (GM 550), Yoi, Ulu Melaka, Mukim of Bohor, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -65873,7 +67945,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3799",
+    "id": "3910",
     "title": "1 Storey Semi Detached House",
     "address": "No. 9, Jalan Melati 1, Taman Selinsing Melati, 34400 Simpang Ampat Semanggol, Perak",
     "postcode": "34400",
@@ -65890,7 +67962,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3800",
+    "id": "3911",
     "title": "1 Storey Terrace House",
     "address": "Laluan Perpaduan Selatan 3, Taman Malar, 31150 Ulu Kinta, Perak",
     "postcode": "31150",
@@ -65907,7 +67979,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3801",
+    "id": "3912",
     "title": "1 Storey Terrace House",
     "address": "Lorong Angsana 48, Taman Keladi, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -65924,7 +67996,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3802",
+    "id": "3913",
     "title": "1 Storey Semi Detached House",
     "address": "No. 9, Jalan Melati 1, Taman Selinsing Melati, 34400 Simpang Ampat Semanggol, Perak",
     "postcode": "34400",
@@ -65941,7 +68013,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3803",
+    "id": "3914",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Seri Palma C/3, Bandar Seri Botani, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -65958,7 +68030,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3804",
+    "id": "3915",
     "title": "1 Storey Cluster House",
     "address": "Lorong Lagenda 18, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -65975,7 +68047,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3805",
+    "id": "3916",
     "title": "1 Storey Terrace House",
     "address": "Dataran Bemban 3, Anjung Bemban Maju, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -65992,7 +68064,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3806",
+    "id": "3917",
     "title": "1 Storey Cluster House",
     "address": "No. 6, Lorong Lagenda 18, Seksyen 1, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -66009,7 +68081,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3807",
+    "id": "3918",
     "title": "2 Storey Terrace House",
     "address": "Lebuh Kledang Utara 22, Taman Arkid, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -66026,7 +68098,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3808",
+    "id": "3919",
     "title": "Detached House",
     "address": "Jalan Tropika Diawan 6, Taman Tropika, 31950 Mambang Di Awan, Perak",
     "postcode": "31950",
@@ -66043,7 +68115,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3809",
+    "id": "3920",
     "title": "1 Storey Terrace House",
     "address": "No. 11-C, Lorong Desa Aman 6, Taman Desa Aman, 08100 Sungai Lalang, Kedah",
     "postcode": "08100",
@@ -66060,7 +68132,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3810",
+    "id": "3921",
     "title": "Agricultural Land",
     "address": "Mukim of Bohor, Kedah",
     "postcode": "",
@@ -66077,7 +68149,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3811",
+    "id": "3922",
     "title": "1 Storey Semi Detached House",
     "address": "No. 779, Jalan Bandar Puteri Jaya 3/13, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66094,7 +68166,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3812",
+    "id": "3923",
     "title": "2 Storey Detached House",
     "address": "No. 27, Jalan Tropika Diawan 6, Taman Tropika, 31950 Mambang Di Awan, Perak",
     "postcode": "31950",
@@ -66111,7 +68183,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3813",
+    "id": "3924",
     "title": "2 Storey Terrace Shop",
     "address": "No, 52, Taman Teratai, 32000, Sitiawan, Perak",
     "postcode": "32000",
@@ -66128,7 +68200,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3814",
+    "id": "3925",
     "title": "3 Storey Terrace Shop",
     "address": "No. 66, Taman Setia, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -66145,7 +68217,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3815",
+    "id": "3926",
     "title": "Agricultural Land",
     "address": "Lot No. 228 (GM 551), Yoi, Ulu Melaka, Mukim of Bohor, 07000 Langkawi, Kedah",
     "postcode": "07000",
@@ -66162,7 +68234,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3816",
+    "id": "3927",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Dataran Bemban 3, Anjung Bemban Maju, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -66179,7 +68251,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3817",
+    "id": "3928",
     "title": "1 Storey Terrace House",
     "address": "No. 16, Laluan Perpaduan Selatan 3, Taman Malar, 31150 Ulu Kinta, Perak",
     "postcode": "31150",
@@ -66196,7 +68268,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3818",
+    "id": "3929",
     "title": "1 Storey Terrace House",
     "address": "No. 16, Taman Kelasi, Off Jalan Kuala Kedah, 06600, Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -66213,7 +68285,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3819",
+    "id": "3930",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Pinang Emas 2, Taman Pinang Emas, Bukit Pinang, 06200, Kedah",
     "postcode": "06200",
@@ -66230,7 +68302,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3820",
+    "id": "3931",
     "title": "2 Storey Semi Detached House",
     "address": "Lorong Santuari 4, Taman Santuari, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -66247,7 +68319,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3821",
+    "id": "3932",
     "title": "2 Storey Semi Detached House",
     "address": "No. 12, Lorong Santuari 4, Taman Santuari, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -66264,7 +68336,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3822",
+    "id": "3933",
     "title": "Semi Detached House",
     "address": "Jalan Karisma Suria 1, Taman Karisma Suria, Kampung China, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -66281,7 +68353,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3823",
+    "id": "3934",
     "title": "1 Storey Terrace House",
     "address": "Taman Kelasi, Off Jalan Kuala Kedah, 06600, Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -66298,7 +68370,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3824",
+    "id": "3935",
     "title": "1 Storey Detached House",
     "address": "No. 28, Laluan Tronoh Jaya 9, Desa Tronoh Jaya, 31750 Tronoh, Perak",
     "postcode": "31750",
@@ -66315,7 +68387,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3825",
+    "id": "3936",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Raya Murni 2, Taman Raya Murni, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -66332,7 +68404,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3826",
+    "id": "3937",
     "title": "Detached House",
     "address": "Lorong Kedidi 1/1, Taman Kedidi, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -66349,7 +68421,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3827",
+    "id": "3938",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Jalan Sawi 1, Taman Sawi, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -66366,7 +68438,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3828",
+    "id": "3939",
     "title": "[Freehold] 2 Storey Semi Detached House",
     "address": "No. 34, Lorong Seroja 9A, Taman Dahlia, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -66383,7 +68455,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3829",
+    "id": "3940",
     "title": "2 Storey Semi Detached House",
     "address": "No. 18, Jalan Nilam Sari 1, Taman Nilam Sari, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66400,7 +68472,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3830",
+    "id": "3941",
     "title": "1 Storey Terrace House",
     "address": "Jalan Sawi 1, Taman Sawi, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -66417,7 +68489,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3831",
+    "id": "3942",
     "title": "[Freehold] 2 Storey Semi Detached House",
     "address": "Lorong Seroja 9A, Taman Dahlia, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -66434,7 +68506,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3832",
+    "id": "3943",
     "title": "Terrace House",
     "address": "Lorong Sari 2/1, Taman Sari, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66451,7 +68523,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3833",
+    "id": "3944",
     "title": "1 Storey Terrace House",
     "address": "No. 298, Lorong Lembah Permai 1/12, Taman Lembah Permai, Sungai Lalang, 08100 Kuala Muda, Kedah",
     "postcode": "08100",
@@ -66468,7 +68540,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3834",
+    "id": "3945",
     "title": "2 Storey Terrace House",
     "address": "No. 1, Tingkat Tasek Jaya 2, Taman Tasek Mutiara, 31430 Ipoh, Perak",
     "postcode": "31430",
@@ -66485,7 +68557,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3835",
+    "id": "3946",
     "title": "Apartment",
     "address": "Unit No. 330-15-03, Jalan Bukit Gambir, Taman Gambir, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -66502,7 +68574,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3836",
+    "id": "3947",
     "title": "2 Storey Terrace House",
     "address": "No. 53, Lorong Tasek Gelugor Utama 3/11, Taman Tasek Gelugor Utama, 13300 Tasek Gelugor, Penang",
     "postcode": "13300",
@@ -66519,7 +68591,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3837",
+    "id": "3948",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Hulu Bercham 2, Bandar Baru Putra, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -66536,7 +68608,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3838",
+    "id": "3949",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 1/19, Residen 1, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -66553,7 +68625,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3839",
+    "id": "3950",
     "title": "1 Storey Terrace House",
     "address": "Lorong Biru 7, Taman Biru, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -66570,7 +68642,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3840",
+    "id": "3951",
     "title": "2 Storey Terrace House",
     "address": "Jalan Burung Camar, Taman Sri Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -66587,7 +68659,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3841",
+    "id": "3952",
     "title": "Terrace House",
     "address": "Jalan Klebang Aman 5, Taman Klebang Aman, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -66604,7 +68676,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3842",
+    "id": "3953",
     "title": "2 Storey Terrace House",
     "address": "Lorong 3, Taman Bakar Arang, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66621,7 +68693,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3843",
+    "id": "3954",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bandar Puteri Jaya 1/23, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66638,7 +68710,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3844",
+    "id": "3955",
     "title": "Apartment",
     "address": "Unit No. 2-10, Blok B, Pangsa Ria, Lebuh Kampung Benggali, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -66655,7 +68727,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3845",
+    "id": "3956",
     "title": "1 Storey Terrace House",
     "address": "No. 64, Persiaran Hulu Bercham 2, Bandar Baru Putra, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -66672,7 +68744,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3846",
+    "id": "3957",
     "title": "2 Storey Terrace House",
     "address": "No. 258, Jalan Burung Camar, Taman Sri Kampar, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -66689,7 +68761,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3847",
+    "id": "3958",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Regat Kacang Tanah, Taman Menglembu, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -66706,7 +68778,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3848",
+    "id": "3959",
     "title": "1 Storey Terrace House",
     "address": "No. 1511, Persiaran Putri 3/16, Taman Chandan Putri Fasa 3, 33000 Kuala Kangsar, Perak",
     "postcode": "33000",
@@ -66723,7 +68795,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3849",
+    "id": "3960",
     "title": "2 Storey Terrace House",
     "address": "No. 50, Persiaran Rapat Baru 18, Taman Lapangan Permai, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -66740,7 +68812,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3850",
+    "id": "3961",
     "title": "2 Storey Terrace House",
     "address": "No. 48, Hala Pulai Timur 3, Taman Chandan Desa, 31300 Simpang Pulai, Perak",
     "postcode": "31300",
@@ -66757,7 +68829,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3851",
+    "id": "3962",
     "title": "1 Storey Terrace House",
     "address": "No. 189, Jalan Mulia 7, Taman Mulia, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -66774,7 +68846,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3852",
+    "id": "3963",
     "title": "1 Storey Terrace House",
     "address": "No. 86, Jalan Putra Emas, Kampar Putra, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -66791,7 +68863,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3853",
+    "id": "3964",
     "title": "Terrace House",
     "address": "No. 95, Jalan Tiong 4, Taman Tiong, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -66808,7 +68880,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3854",
+    "id": "3965",
     "title": "1 Storey Terrace House",
     "address": "No. 99, Jalan Seri Wangsa 2/6, Taman Seri Wangsa II, 32040, Seri Manjung, Perak",
     "postcode": "32040",
@@ -66825,7 +68897,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3855",
+    "id": "3966",
     "title": "1 Storey Terrace House",
     "address": "No. 107A, Fasa 1A, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -66842,7 +68914,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3856",
+    "id": "3967",
     "title": "2 Storey Terrace House",
     "address": "No. 18, Lorong Saujana 3, Taman Saujana Bakti, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -66859,7 +68931,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3857",
+    "id": "3968",
     "title": "1 Storey Terrace House",
     "address": "Jalan Tropika 1, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -66876,7 +68948,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3858",
+    "id": "3969",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Pegoh Aman 2, Taman Desa Aman, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -66893,7 +68965,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3859",
+    "id": "3970",
     "title": "Terrace House",
     "address": "Bercham Suria 4, Taman Bercham Suria, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -66910,7 +68982,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3860",
+    "id": "3971",
     "title": "2 Storey Terrace House",
     "address": "No. 74, Jalan Melati 2/2, Taman Melati, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -66927,7 +68999,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3861",
+    "id": "3972",
     "title": "2 Storey Terrace House",
     "address": "No. 22, Taman Cempaka, Kampung Koh, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -66944,7 +69016,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3862",
+    "id": "3973",
     "title": "2 Storey Shop House",
     "address": "Lorong BLM 1/7, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66961,7 +69033,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3863",
+    "id": "3974",
     "title": "1 Storey Terrace House",
     "address": "Jalan Anggerik 4/12, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -66978,7 +69050,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3864",
+    "id": "3975",
     "title": "Semi Detached House",
     "address": "Jalan Restu 15, Taman Restu, Jalan Batas Paip, 06600 Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -66995,7 +69067,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3865",
+    "id": "3976",
     "title": "Flat",
     "address": "Unit No. A-4-24, Block A, Jalan Gertak Sanggul, Taman Gertak Sanggul, 11920 Teluk Kumbar, Penang",
     "postcode": "11920",
@@ -67012,7 +69084,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3866",
+    "id": "3977",
     "title": "1 Storey Terrace House",
     "address": "No. 14, Lorong Seri Kijang 26, Taman Seri Kijang, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -67029,7 +69101,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3867",
+    "id": "3978",
     "title": "Flat",
     "address": "Jalan Permatang Damar Laut MK 12, Pangsapuri Sri Bayan Mas, 11960 Bayan Lepas, Penang",
     "postcode": "11960",
@@ -67046,7 +69118,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3868",
+    "id": "3979",
     "title": "1 Storey Terrace House",
     "address": "No. 378, Persiaran Yakin Mesra 17, Taman Yakin Mesra, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -67063,7 +69135,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3869",
+    "id": "3980",
     "title": "1.5 Storey Semi Detached Factory",
     "address": "PT. 115341 (also known as No. 32), Laluan Perusahaan Kledang 3, Kawasan Perindustrian Chandan Raya, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -67080,7 +69152,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3870",
+    "id": "3981",
     "title": "1 Storey Semi Detached House",
     "address": "No. 1 (Lot 1035), Kampung Kemunting Baru, Jalan Changloon, 06000 Kubang Pasu, Kedah",
     "postcode": "06000",
@@ -67097,7 +69169,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3871",
+    "id": "3982",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Perdana 16, Taman Pinji Perdana, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -67114,7 +69186,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3872",
+    "id": "3983",
     "title": "Flat",
     "address": "Unit No. 1115-4-17, Jalan Permatang Damar Laut MK 12, Pangsapuri Sri Bayan Mas, 11960 Bayan Lepas, Penang",
     "postcode": "11960",
@@ -67131,7 +69203,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3873",
+    "id": "3984",
     "title": "1 Storey Terrace House",
     "address": "No. 128, Persiaran Pegoh Aman 2, Taman Desa Aman, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -67148,7 +69220,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3874",
+    "id": "3985",
     "title": "2 Storey Terrace House",
     "address": "No. 4, Bercham Suria 4, Taman Bercham Suria, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -67165,7 +69237,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3875",
+    "id": "3986",
     "title": "Terrace House",
     "address": "No. 295, Jalan Lagenda 21, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -67182,7 +69254,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3876",
+    "id": "3987",
     "title": "Flat",
     "address": "Unit No. 2-3-4, Tingkat Teluk Kumbar, MK. 9, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -67199,7 +69271,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3877",
+    "id": "3988",
     "title": "2 Storey Terrace House",
     "address": "Jalan Klebang Rima 2, Taman Klebang Rima, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -67216,7 +69288,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3878",
+    "id": "3989",
     "title": "2 Storey Terrace House",
     "address": "Jalan B.M. 2/14, Bandar Mutiara, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67233,7 +69305,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3879",
+    "id": "3990",
     "title": "Terrace House",
     "address": "Lorong Bangau 4, Taman Tunku Putra, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -67250,7 +69322,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3880",
+    "id": "3991",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Kelisa Ria 5/3, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67267,7 +69339,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3881",
+    "id": "3992",
     "title": "Terrace House",
     "address": "Jalan Ridge Elit 2, Bukit Banyan, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67284,7 +69356,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3882",
+    "id": "3993",
     "title": "Flat",
     "address": "Unit No. 20-11-1, Bukit Saujana, Lorong Bukit Kukus, 11060 Paya Terubong, Penang",
     "postcode": "11060",
@@ -67301,7 +69373,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3883",
+    "id": "3994",
     "title": "2 Storey Semi Detached House",
     "address": "No. 30, Lorong Bertam Indah 1/8, Taman Bertam Indah, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -67318,7 +69390,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3884",
+    "id": "3995",
     "title": "Condominium",
     "address": "Unit No. 2A-3A-1, Lintang Sungai Ara 14, Imperial Residences, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -67335,7 +69407,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3885",
+    "id": "3996",
     "title": "Flat",
     "address": "Unit No. 5-13-6, Lorong Kelicap, Mukim 12, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -67352,7 +69424,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3886",
+    "id": "3997",
     "title": "Apartment",
     "address": "Unit No. 1-4-9 (N-2-09), Desa Medura, Lebuh Relau 6, Taman Desa Relau 2, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -67369,7 +69441,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3887",
+    "id": "3998",
     "title": "Service Apartment",
     "address": "Unit No. 16-12, Pangsapuri Luminari, Jalan Harbour Place 1, 12100 Butterworth, Penang",
     "postcode": "12100",
@@ -67386,7 +69458,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3888",
+    "id": "3999",
     "title": "2 Storey Cluster House",
     "address": "No. 38, Lorong Sembilang 3, Bandar Seberang Jaya, 13700, Perai, Penang",
     "postcode": "13700",
@@ -67403,7 +69475,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3889",
+    "id": "4000",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Persiaran Putra 2, Taman Tasek Putra, 31750 Tronoh, Perak",
     "postcode": "31750",
@@ -67420,7 +69492,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3890",
+    "id": "4001",
     "title": "2 Storey Terrace House",
     "address": "Laluan Chepor Permai 3, Taman Chepor Permai, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -67437,7 +69509,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3891",
+    "id": "4002",
     "title": "1 Storey Terrace House",
     "address": "No. 636, Lorong Tun Sambanthan 12, Taman Tun Sambanthan, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -67454,7 +69526,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3892",
+    "id": "4003",
     "title": "1 Storey Terrace House",
     "address": "No. 212, Laluan Kledang 1/5, Taman Kledang, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -67471,7 +69543,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3893",
+    "id": "4004",
     "title": "1 Storey Linked House",
     "address": "No. 758, Persiaran Tun Sambanthan 6, Taman Tun Sambanthan, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -67488,7 +69560,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3894",
+    "id": "4005",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Kenanga 6/6, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67505,7 +69577,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3895",
+    "id": "4006",
     "title": "2 Storey Semi Detached House",
     "address": "No. 16, Jalan Ridge Elit 2, Bukit Banyan, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67522,7 +69594,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3896",
+    "id": "4007",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kelisa Ria 6/30, Taman Kelisa Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67539,7 +69611,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3897",
+    "id": "4008",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Jalan Puteri 3, Taman Desa Puteri, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67556,7 +69628,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3898",
+    "id": "4009",
     "title": "1 Storey Semi Detached House",
     "address": "No. 205, Lorong Penaga 6, Taman Sri Penaga, Penaga Indah, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -67573,7 +69645,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3899",
+    "id": "4010",
     "title": "Flat",
     "address": "Unit No. 4-12, Block A3, Lorong Pauh Indah 3, Taman Pauh Indah, 13500 Permatang Pauh, Penang",
     "postcode": "13500",
@@ -67590,7 +69662,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3900",
+    "id": "4011",
     "title": "1 Storey Semi Detached House",
     "address": "No. A-405, Jalan Sinar Mentari A19, Taman Sinar Mentari, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -67607,7 +69679,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3901",
+    "id": "4012",
     "title": "Terrace House",
     "address": "No. 87B, Jalan Bujang Utama 6, Taman Lembah Bujang Utama, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -67624,7 +69696,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3902",
+    "id": "4013",
     "title": "2 Storey Terrace House",
     "address": "No. 5, Jalan Klebang Rima 2, Taman Klebang Rima, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -67641,7 +69713,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3903",
+    "id": "4014",
     "title": "Flat",
     "address": "Lorong Kelicap, Mukim 12, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -67658,7 +69730,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3904",
+    "id": "4015",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Makmur 2, Taman Makmur, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -67675,7 +69747,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3905",
+    "id": "4016",
     "title": "2 Storey Terrace House",
     "address": "Jalan Laguna 5, Polo Laguna Tambun, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -67692,7 +69764,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3906",
+    "id": "4017",
     "title": "2 Storey Terrace House",
     "address": "Lorong Matahari 6, Taman Bunga Matahari, 32400 Ayer Tawar, Perak",
     "postcode": "32400",
@@ -67709,7 +69781,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3907",
+    "id": "4018",
     "title": "Terrace House",
     "address": "Hala Klebang Ria 9, Taman Klebang Rima, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -67726,7 +69798,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3908",
+    "id": "4019",
     "title": "2 Storey Terrace House",
     "address": "Jalan Damai 3/4, Taman Damai, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -67743,7 +69815,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3909",
+    "id": "4020",
     "title": "Semi Detached House",
     "address": "Jalan Songket 2, Taman Songket, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67760,7 +69832,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3910",
+    "id": "4021",
     "title": "Apartment",
     "address": "Unit No. 17-12A-3A, Hilir Sungai Pinang, Serina Bay, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -67777,7 +69849,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3911",
+    "id": "4022",
     "title": "2 Storey Terrace Cluster House",
     "address": "No. 32A, Persiaran Seksyen 6/14, Bandar Putra Bertam, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -67794,7 +69866,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3912",
+    "id": "4023",
     "title": "2 Storey Terrace House",
     "address": "No. 16, Lorong Cendana 19, Taman Cendana, 14100 Simpang Ampat, Penang",
     "postcode": "14100",
@@ -67811,7 +69883,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3913",
+    "id": "4024",
     "title": "Flat",
     "address": "Unit No. B-4-16, Jalan Gertak Sanggul, MK 12, Taman Gertak Sanggul, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -67828,7 +69900,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3914",
+    "id": "4025",
     "title": "Apartment",
     "address": "Unit No. 10-14-5, Lintang Kampung Rawa 1, Halaman Damai, 10150 Georgetown, Penang",
     "postcode": "10150",
@@ -67845,7 +69917,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3915",
+    "id": "4026",
     "title": "Apartment",
     "address": "Unit No. 3D-12-07, Jalan Batu Uban, Mukim 13, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -67862,7 +69934,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3916",
+    "id": "4027",
     "title": "1 Storey Terrace House",
     "address": "No. 110, Jajaran Anggerik Permai 4, Taman Anggerik Permai, 32700 Bruas, Perak",
     "postcode": "32700",
@@ -67879,7 +69951,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3917",
+    "id": "4028",
     "title": "1 Storey Terrace House",
     "address": "No. 217, Laluan Kledang 1/6, Taman Kledang, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -67896,7 +69968,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3918",
+    "id": "4029",
     "title": "1 Storey Terrace House",
     "address": "No. 56, Laluan Pengkalan Sentosa 11, Halaman Pengkalan Sentosa, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -67913,7 +69985,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3919",
+    "id": "4030",
     "title": "1 Storey Semi Detached House",
     "address": "No. 1987, Jalan Permata 3/7, Bandar Permata Lunas, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -67930,7 +70002,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3920",
+    "id": "4031",
     "title": "2 Storey Semi Detached House",
     "address": "No. 7, Jalan Yarra 1/2, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67947,7 +70019,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3921",
+    "id": "4032",
     "title": "1 Storey Terrace House",
     "address": "No. 856, Jalan DL 2/13, Taman Darulaman Lagenda, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67964,7 +70036,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3922",
+    "id": "4033",
     "title": "1 Storey Semi Detached House",
     "address": "No. 70, Jalan Songket 2, Taman Songket, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -67981,7 +70053,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3923",
+    "id": "4034",
     "title": "Apartment",
     "address": "Unit No. 1115-4-15, Jalan Permatang Damar Laut, Pangsapuri Sri Bayan, 11960 Bayan Lepas, Penang",
     "postcode": "11960",
@@ -67998,7 +70070,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3924",
+    "id": "4035",
     "title": "2 Storey Terrace House",
     "address": "No. 881, Jalan Damai 3/4, Taman Damai, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -68015,7 +70087,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3925",
+    "id": "4036",
     "title": "2 Storey Terrace House",
     "address": "No. 33, Jalan Laguna 5, Polo Laguna Tambun, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -68032,7 +70104,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3926",
+    "id": "4037",
     "title": "1 Storey Terrace House",
     "address": "Lorong Lagenda 60, Seksyen 3, Bandar Lagenda, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -68049,7 +70121,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3927",
+    "id": "4038",
     "title": "2 Storey Terrace House",
     "address": "No. 28, Hala Klebang Ria 9, Taman Klebang Rima, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68066,7 +70138,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3928",
+    "id": "4039",
     "title": "Apartment",
     "address": "Unit No. 3C-27-04, Jalan Batu Uban, Mukim 13, 11700 Glugor, Penang",
     "postcode": "11700",
@@ -68083,7 +70155,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3929",
+    "id": "4040",
     "title": "Flat",
     "address": "Unit No. 3-23-3, Tingkat Paya Terubong 5, Mukim 13, 11060 Paya Terubong, Penang",
     "postcode": "11060",
@@ -68100,7 +70172,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3930",
+    "id": "4041",
     "title": "2 Storey Terrace House",
     "address": "No. 78, Lorong Impian Indah 1, Taman Impian Indah, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -68117,7 +70189,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3931",
+    "id": "4042",
     "title": "2 Storey Terrace House",
     "address": "Hala Bercham Timur 1, Taman Pakatan, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -68134,7 +70206,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3932",
+    "id": "4043",
     "title": "2 Storey Semi Detached House",
     "address": "Taman Melur, Bandar Darulaman, 06000, Jitra, Kedah",
     "postcode": "06000",
@@ -68151,7 +70223,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3933",
+    "id": "4044",
     "title": "2 Storey Terrace House",
     "address": "Persiaran Halia 1, 10470 Tanjung Tokong, Penang",
     "postcode": "10470",
@@ -68168,7 +70240,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3934",
+    "id": "4045",
     "title": "Apartment",
     "address": "Unit No. 1-A-4-8, Taman Kilangin, Jalan Sungai, 10150 Georgetown, Penang",
     "postcode": "10150",
@@ -68185,7 +70257,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3935",
+    "id": "4046",
     "title": "Apartment",
     "address": "Unit No. 1-15, Blok C, Jalan Kampung Gajah, Taman Bagan Jermal, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -68202,7 +70274,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3936",
+    "id": "4047",
     "title": "Big & Spacious 2 Storey Detached House with Gym Room",
     "address": "Lorong Desa Bayu 3/B, Kampung Tersusun Pundut II, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -68219,7 +70291,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3937",
+    "id": "4048",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 4/15, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -68236,7 +70308,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3938",
+    "id": "4049",
     "title": "Town House",
     "address": "Block 39, Aras 2, Persiaran Residensi, Bandar Agacia, 31910 Kampar, Perak",
     "postcode": "31910",
@@ -68253,7 +70325,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3939",
+    "id": "4050",
     "title": "2 Storey Bungalow",
     "address": "Jalan Sri Klebang 2, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68270,7 +70342,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3940",
+    "id": "4051",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Laluan Desa Tasek 2, Desa Tasek Bakti, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -68287,7 +70359,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3941",
+    "id": "4052",
     "title": "2 Storey Semi Detached House",
     "address": "No. 82, Off Jalan Wang Tepus, Taman Melur, Bandar Darulaman, 06000, Jitra, Kedah",
     "postcode": "06000",
@@ -68304,7 +70376,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3942",
+    "id": "4053",
     "title": "Big & Spacious 2 Storey Detached House with Gym Room",
     "address": "PT 898, Lorong Desa Bayu 3/B, Kampung Tersusun Pundut II, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -68321,7 +70393,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3943",
+    "id": "4054",
     "title": "1 Storey Terrace House",
     "address": "No. 1021, Jalan Residen 4/15, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -68338,7 +70410,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3944",
+    "id": "4055",
     "title": "2 Storey Bungalow",
     "address": "No. 61A, Jalan Sri Klebang 2, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68355,7 +70427,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3945",
+    "id": "4056",
     "title": "Flat",
     "address": "Unit No. 1-2-12, Lorong Teluk Bahang 2, 11050, Penang",
     "postcode": "11050",
@@ -68372,7 +70444,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3946",
+    "id": "4057",
     "title": "Terrace House",
     "address": "Taman Saujana, 06300 Kuala Nerang, Kedah",
     "postcode": "06300",
@@ -68389,7 +70461,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3947",
+    "id": "4058",
     "title": "2 Storey Terrace House",
     "address": "Jalan Nilam Sari 6, Taman Nilam Sari, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -68406,7 +70478,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3948",
+    "id": "4059",
     "title": "2 Storey Semi Detached House",
     "address": "Sri Klebang A/11, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68423,7 +70495,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3949",
+    "id": "4060",
     "title": "Apartment",
     "address": "Cinta Sayang Sky Residences, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -68440,7 +70512,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3950",
+    "id": "4061",
     "title": "Flat",
     "address": "Unit No. 1-6-27, Persiaran Bayan Indah 3, Desa Putra, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -68457,7 +70529,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3951",
+    "id": "4062",
     "title": "[7 min to Amanjaya Mall] Freehold 1 Storey Terrace House",
     "address": "No. 2419, Lorong 68, Taman Ria, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -68474,7 +70546,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3952",
+    "id": "4063",
     "title": "Apartment",
     "address": "Unit No. 2-17, Lorong Dedap 6, Rumah Pangsa Taman Dedap, 13400 Butterworth, Penang",
     "postcode": "13400",
@@ -68491,7 +70563,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3953",
+    "id": "4064",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 3/21, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -68508,7 +70580,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3954",
+    "id": "4065",
     "title": "1 Storey Terrace House",
     "address": "No. 51, Persiaran Putera 5, Bandar Baru Putra, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -68525,7 +70597,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3955",
+    "id": "4066",
     "title": "1 Storey Terrace House",
     "address": "Laluan Pengkalan Timah 5, Desa Pengkalan Timah, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -68542,7 +70614,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3956",
+    "id": "4067",
     "title": "Terrace House",
     "address": "Jalan RB 2, Residensi Bidoria, 35500 Bidor, Perak",
     "postcode": "35500",
@@ -68559,7 +70631,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3957",
+    "id": "4068",
     "title": "Industrial Premises",
     "address": "Lot 10507, Jalan Perusahaan 7, Kawasan Perindustrian Kamunting, 34600 Kamunting, Perak",
     "postcode": "10507",
@@ -68576,7 +70648,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3958",
+    "id": "4069",
     "title": "2 Storey Terrace House",
     "address": "Lorong Residensi A8, Taman Residensi Mesra, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -68593,7 +70665,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3959",
+    "id": "4070",
     "title": "2 Storey Cluster House",
     "address": "No. 8, Laman Cindai 3A, Taman Cindai Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -68610,7 +70682,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3960",
+    "id": "4071",
     "title": "2 Storey Semi Detached House",
     "address": "No. 2, Persiaran BLM 2, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -68627,7 +70699,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3961",
+    "id": "4072",
     "title": "1 Storey Terrace House",
     "address": "No. 899, Jalan Residen 3/21, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -68644,7 +70716,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3962",
+    "id": "4073",
     "title": "2 Storey Semi Detached House",
     "address": "No. 33, Sri Klebang A/11, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68661,7 +70733,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3963",
+    "id": "4074",
     "title": "1 Storey Terrace House",
     "address": "No. 118 (PT 3120), Lorong 8, Perumahan Awam III, 36400 Hutan Melintang, Perak",
     "postcode": "36400",
@@ -68678,7 +70750,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3964",
+    "id": "4075",
     "title": "3 Storey Terrace House",
     "address": "No. 23, Tingkat Titi Teras 7, Taman Titi Height, 11000 Balik Pulau, Penang",
     "postcode": "11000",
@@ -68695,7 +70767,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3965",
+    "id": "4076",
     "title": "2 Storey Terrace House",
     "address": "No. 44, Lorong Perda Timur 9, Bandar Perda, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -68712,7 +70784,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3966",
+    "id": "4077",
     "title": "1 Storey Terrace House",
     "address": "No. 24, Lorong Seri Desa 11, Taman Seri Desa, 13300 Tasek Gelugor, Penang",
     "postcode": "13300",
@@ -68729,7 +70801,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3967",
+    "id": "4078",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 3/4, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -68746,7 +70818,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3968",
+    "id": "4079",
     "title": "1 Storey Semi Detached House",
     "address": "No. 12, Persiaran Tebing Tinggi 1, Kampung Temiang, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -68763,7 +70835,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3969",
+    "id": "4080",
     "title": "1 Storey Linked House",
     "address": "No. 6, Jalan Seri Wangsa 8, Taman Seri Wangsa, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -68780,7 +70852,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3970",
+    "id": "4081",
     "title": "Terrace House",
     "address": "Lorong Lagenda 62, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -68797,7 +70869,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3971",
+    "id": "4082",
     "title": "1 Storey Terrace House",
     "address": "No. 11, Laluan Wawasan 6, Taman Tronoh Wawasan , 31750 Tronoh, Perak",
     "postcode": "31750",
@@ -68814,7 +70886,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3972",
+    "id": "4083",
     "title": "2 Storey Terrace House",
     "address": "Laluan Chepor Permai 7, Taman Chepor Permai, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68831,7 +70903,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3973",
+    "id": "4084",
     "title": "Terrace House",
     "address": "Lorong Angsana 44, Taman Keladi, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -68848,7 +70920,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3974",
+    "id": "4085",
     "title": "Terrace House",
     "address": "Lorong Ria Mesra 64, Taman Ria Mesra II, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -68865,7 +70937,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3975",
+    "id": "4086",
     "title": "Apartment",
     "address": "Tingkat Paya Terubong 5, Mukim 13, 11060, Penang",
     "postcode": "11060",
@@ -68882,7 +70954,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3976",
+    "id": "4087",
     "title": "2 Storey Terrace House",
     "address": "Jalan Putra D/7A, Taman Klebang Putra, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -68899,7 +70971,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3977",
+    "id": "4088",
     "title": "2 Storey Terrace House",
     "address": "Persiaran Cempaka Sari 28, Taman Cempaka, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -68916,7 +70988,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3978",
+    "id": "4089",
     "title": "Condominium",
     "address": "Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -68933,7 +71005,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3979",
+    "id": "4090",
     "title": "Condominium",
     "address": "Unit No. 3-11-10, Kondominium Timur Perdana, Jalan Kolej, Taman Bandar Baru, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -68950,7 +71022,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3980",
+    "id": "4091",
     "title": "1 Storey Terrace House",
     "address": "No. 45, Taman Rasa Sayang, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -68967,7 +71039,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3981",
+    "id": "4092",
     "title": "2 Storey Cluster House",
     "address": "Jalan Lapangan Bayu 3, Taman Lapangan Bayu, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -68984,7 +71056,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3982",
+    "id": "4093",
     "title": "2 Storey Terrace House",
     "address": "No. 380, Persiaran Makmur 19, Taman Makmur, 31100 Sungai Siput Utara, Perak",
     "postcode": "31100",
@@ -69001,7 +71073,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3983",
+    "id": "4094",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Jalan Taman Saujana Indah 3, Taman Saujana Indah, 35400 Tapah Road, Perak",
     "postcode": "35400",
@@ -69018,7 +71090,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3984",
+    "id": "4095",
     "title": "Vacant Detached Industrial Land",
     "address": "Lot 401389, Jalan Degong, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -69035,7 +71107,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3985",
+    "id": "4096",
     "title": "1 Storey Terrace House",
     "address": "No. 817, Jalan Residen 3/20, Residen 3, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -69052,7 +71124,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3986",
+    "id": "4097",
     "title": "Terrace House",
     "address": "Lorong Lagenda 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -69069,7 +71141,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3987",
+    "id": "4098",
     "title": "2.5 Storey Semi Detached House",
     "address": "No. 1, Laluan Kledang 3, Bukit Kledang Indah, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -69086,7 +71158,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3988",
+    "id": "4099",
     "title": "2 Storey Terrace House",
     "address": "No. 45, Lorong Saujana 1, Taman Saujana Bakti, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -69103,7 +71175,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3989",
+    "id": "4100",
     "title": "Industrial Land",
     "address": "Lot 2286, Lorong Jalan Raja Sulong, 34000, Taiping, Perak",
     "postcode": "34000",
@@ -69120,7 +71192,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3990",
+    "id": "4101",
     "title": "2 Storey Terrace House",
     "address": "No. 201, Taman Seri Ampang, Jalan Kilang Tebu, 05050 Alor Setar, Kedah",
     "postcode": "05050",
@@ -69137,7 +71209,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3991",
+    "id": "4102",
     "title": "1 Storey Terrace House",
     "address": "No. 1570, Lorong Angsana 44, Taman Keladi, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69154,7 +71226,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3992",
+    "id": "4103",
     "title": "1 Storey Terrace House",
     "address": "No. 1617, Lorong Ria Mesra 64, Taman Ria Mesra II, 08300 Gurun, Kedah",
     "postcode": "08300",
@@ -69171,7 +71243,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3993",
+    "id": "4104",
     "title": "2 Storey Terrace House",
     "address": "No. 815, Jalan PR1MA 27, PR1MA Residensi Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69188,7 +71260,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3994",
+    "id": "4105",
     "title": "1 Storey Detached House",
     "address": "No. 73, Jalan Yarra 3/7, 08000 Bandar Puteri Jaya, Kedah",
     "postcode": "08000",
@@ -69205,7 +71277,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3995",
+    "id": "4106",
     "title": "1 Storey Terrace House",
     "address": "No. 60, Jalan Natura 1/4, Bandar Seri Astana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69222,7 +71294,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3996",
+    "id": "4107",
     "title": "1 Storey Semi Detached House",
     "address": "No. 728, Jalan BPJ 3/10, Section 3, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69239,7 +71311,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3997",
+    "id": "4108",
     "title": "1 Storey Semi Detached House",
     "address": "No. 73, Taman Jalai Jaya, 06200 Kepala Batas, Kedah",
     "postcode": "06200",
@@ -69256,7 +71328,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3998",
+    "id": "4109",
     "title": "1 Storey Terrace House",
     "address": "No. 64, Lorong Desa Seni 2/1, Taman Desa Seni, 09600 Lunas, Kedah",
     "postcode": "09600",
@@ -69273,7 +71345,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "3999",
+    "id": "4110",
     "title": "1 Storey Terrace House",
     "address": "No. 8, Laluan Pinggiran Saujana 5, Taman Pinggiran Saujana, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -69290,7 +71362,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4000",
+    "id": "4111",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Laluan Chepor Permai 7, Taman Chepor Permai, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -69307,7 +71379,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4001",
+    "id": "4112",
     "title": "1 Storey Terrace House",
     "address": "Jalan Aman 3, Taman Larah Aman, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -69324,7 +71396,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4002",
+    "id": "4113",
     "title": "Flat",
     "address": "Unit No. 1-4-1, Lebuh Padang Tembak, Taman Air Itam, 11400 Georgetown, Penang",
     "postcode": "11400",
@@ -69341,7 +71413,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4003",
+    "id": "4114",
     "title": "Flat",
     "address": "Unit No. 46-11-17, Jalan Van Praagh, Desa Green, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -69358,7 +71430,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4004",
+    "id": "4115",
     "title": "Condominium",
     "address": "Unit No. 22A-7-4, Greenlane Park Condominium, Solok Tembaga, 11600, Penang",
     "postcode": "11600",
@@ -69375,7 +71447,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4005",
+    "id": "4116",
     "title": "2 Storey Terrace House",
     "address": "Jalan Jelapang Ria 1, Taman Jelapang Ria, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -69392,7 +71464,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4006",
+    "id": "4117",
     "title": "1 Storey Terrace House",
     "address": "Jalan RB 9, Residensi Bidoria, 35500 Bidor, Perak",
     "postcode": "35500",
@@ -69409,7 +71481,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4007",
+    "id": "4118",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bandar U56, Bandar Universiti, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -69426,7 +71498,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4008",
+    "id": "4119",
     "title": "1.5 Storey Terrace House",
     "address": "No. 35, Jalan Menglembu Impiana 15, Taman Menglembu Impiana Adril, 31450 Menglembu, Perak",
     "postcode": "31450",
@@ -69443,7 +71515,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4009",
+    "id": "4120",
     "title": "Shop Office",
     "address": "Taman Samudera, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -69460,7 +71532,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4010",
+    "id": "4121",
     "title": "1 Storey Detached House",
     "address": "No. 8, Jalan Wan Mohammad Salleh, 30450 Ipoh, Perak",
     "postcode": "30450",
@@ -69477,7 +71549,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4011",
+    "id": "4122",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Laluan Pengkalan Timur 4, Desa Pakatan, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -69494,7 +71566,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4012",
+    "id": "4123",
     "title": "1 Storey Terrace House",
     "address": "Jalan Sungai Pari, Taman Pertama, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -69511,7 +71583,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4013",
+    "id": "4124",
     "title": "1 Storey Terrace House",
     "address": "No. 45, Persiaran Tawas Baru 14, Taman Tasek Mewah, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -69528,7 +71600,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4014",
+    "id": "4125",
     "title": "2 Storey Terrace House",
     "address": "No. 91, Lebuh Rapat Baru 16, Taman Song Choon, 31350 Ipoh, Perak",
     "postcode": "31350",
@@ -69545,7 +71617,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4015",
+    "id": "4126",
     "title": "1 Storey Terrace House",
     "address": "No. 51, Lorong Tiga (Lorong Samudera Baru 3), Taman Samudera Baru, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -69562,7 +71634,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4016",
+    "id": "4127",
     "title": "Condominium",
     "address": "Unit No. 22A-7-4, Greenlane Park Condominium, Solok Tembaga, 11600 Georgetown, Penang",
     "postcode": "11600",
@@ -69579,7 +71651,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4017",
+    "id": "4128",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Jalan Bandar U56, Bandar Universiti, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -69596,7 +71668,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4018",
+    "id": "4129",
     "title": "1 Storey Terrace House",
     "address": "No. 220, Jalan Sutra Jaya 3/1, Taman Sutera Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69613,7 +71685,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4019",
+    "id": "4130",
     "title": "2.5 Storey Cluster House",
     "address": "Lorong Sejati 3/4, Taman Sejati III, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -69630,7 +71702,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4020",
+    "id": "4131",
     "title": "1 Storey Terrace House",
     "address": "Laluan Klebang Jaya 32, Taman Klebang Jaya, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -69647,7 +71719,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4021",
+    "id": "4132",
     "title": "2 Storey Terrace House",
     "address": "No. 53, Laluan Pengkalan Indah 8, Taman Pengkalan Indah, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -69664,7 +71736,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4022",
+    "id": "4133",
     "title": "2 Storey Terrace House",
     "address": "No. 31, Lorong Bidara 5, Taman Bidara, 14020 Bukit Mertajam, Penang",
     "postcode": "14020",
@@ -69681,7 +71753,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4023",
+    "id": "4134",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Desa Manjung 2, Taman Desa Manjung, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -69698,7 +71770,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4024",
+    "id": "4135",
     "title": "1 Storey Terrace House",
     "address": "No. 35, Taman Bahagia, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -69715,7 +71787,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4025",
+    "id": "4136",
     "title": "1 Storey Semi Detached House",
     "address": "No. 86, Jalan Sungai Kelian, 11200 Tanjong Bungah, Penang",
     "postcode": "11200",
@@ -69732,7 +71804,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4026",
+    "id": "4137",
     "title": "2 Storey Terrace House",
     "address": "No. 58, Lorong Tasek Gelugor Utama 3/6, Taman Tasek Gelugor Utama, 13300 Tasek Gelugor, Penang",
     "postcode": "13300",
@@ -69749,7 +71821,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4027",
+    "id": "4138",
     "title": "1 Storey Terrace House",
     "address": "Lorong Ara Suria 2, Taman Ara Suria, 13310 Tasek Gelugor, Penang",
     "postcode": "13310",
@@ -69766,7 +71838,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4028",
+    "id": "4139",
     "title": "Flat",
     "address": "Unit No. 7D-3-24, Desa Intan, Lebuhraya Thean Teik, 11500 Ayer Itam, Penang",
     "postcode": "11500",
@@ -69783,7 +71855,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4029",
+    "id": "4140",
     "title": "Flat",
     "address": "Unit No. A-4-3, Jalan Gertak Sanggul, Taman Gertak Sanggul, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -69800,7 +71872,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4030",
+    "id": "4141",
     "title": "Town House",
     "address": "Unit No. F-1-11, Lorong Indera Putera 10, Kondo Villa Putera, Bandar Putera Bertam, 13200 Kepala Batas, Penang",
     "postcode": "13200",
@@ -69817,7 +71889,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4031",
+    "id": "4142",
     "title": "Apartment",
     "address": "Unit No. 35-05-3A, Century Park, Persiaran Batu Uban, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -69834,7 +71906,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4032",
+    "id": "4143",
     "title": "Flat",
     "address": "Unit No. A3-06, Jalan Helang, 11700 Gelugor, Penang",
     "postcode": "11700",
@@ -69851,7 +71923,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4033",
+    "id": "4144",
     "title": "2 Storey Terrace House",
     "address": "Laluan BTI 1/23A, Bandar Tasik Idaman, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -69868,7 +71940,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4034",
+    "id": "4145",
     "title": "Terrace House",
     "address": "Jalan Residen 4/23, Residen 4, Bandar Baru Setia Awan Perdana, Sitiawan, 32000, Perak",
     "postcode": "32000",
@@ -69885,7 +71957,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4035",
+    "id": "4146",
     "title": "2 Storey Terrace House",
     "address": "No. 9, Lintang Kerian Putra 6, Taman Kerian Putra, 34200 Parit Buntar, Perak",
     "postcode": "34200",
@@ -69902,7 +71974,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4036",
+    "id": "4147",
     "title": "2 Storey Terrace House",
     "address": "Lorong BLM 5/2, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69919,7 +71991,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4037",
+    "id": "4148",
     "title": "Terrace House",
     "address": "Jalan Arowana 11, Taman Arowana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69936,7 +72008,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4038",
+    "id": "4149",
     "title": "2 Storey Terrace House",
     "address": "Lorong BLM 2/12, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69953,7 +72025,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4039",
+    "id": "4150",
     "title": "2 Storey Terrace House",
     "address": "No. 30, Lorong BLM 5/2, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69970,7 +72042,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4040",
+    "id": "4151",
     "title": "2 Storey Terrace House",
     "address": "No. 3, Lorong BLM 2/12, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -69987,7 +72059,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4041",
+    "id": "4152",
     "title": "Terrace House",
     "address": "No. 232, Lorong Emas 7, Taman Emas, 08100 Bedong, Kedah",
     "postcode": "08100",
@@ -70004,7 +72076,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4042",
+    "id": "4153",
     "title": "1 Storey Terrace House",
     "address": "No. 1466, Lorong Kenari 8/3A, Taman Kenari III, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -70021,7 +72093,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4043",
+    "id": "4154",
     "title": "1 Storey Semi Detached Cluster House",
     "address": "No. 135, Jalan Residen 2/1, Residen 2, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -70038,7 +72110,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4044",
+    "id": "4155",
     "title": "Apartment",
     "address": "Jalan Casa Klebang, Apartment Casa Klebang 2, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -70055,7 +72127,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4045",
+    "id": "4156",
     "title": "1 Storey Semi Detached House",
     "address": "No. 20, Jalan Belatuk, Taman Bersatu, 14300 Nibong Tebal, Penang",
     "postcode": "14300",
@@ -70072,7 +72144,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4046",
+    "id": "4157",
     "title": "2 Storey Terrace House",
     "address": "No. 5, Lorong Hijauan Hills 19, Hijauan Hills, 14120 Simpang Ampat, Penang",
     "postcode": "14120",
@@ -70089,7 +72161,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4047",
+    "id": "4158",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Presint 1/22, Darulaman Perdana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70106,7 +72178,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4048",
+    "id": "4159",
     "title": "1 Storey Terrace House",
     "address": "No. 243-A, Jalan Bukit Puteri 11/7, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70123,7 +72195,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4049",
+    "id": "4160",
     "title": "2 Storey Semi Detached House",
     "address": "No. 74, Jalan Desa Manjung 2, Taman Desa Manjung, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -70140,7 +72212,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4050",
+    "id": "4161",
     "title": "Flat",
     "address": "Unit No. 1B-3-1, Jalan Merbah, Desa Bayan, 11900 Bayan Lepas, Penang",
     "postcode": "11900",
@@ -70157,7 +72229,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4051",
+    "id": "4162",
     "title": "Apartment",
     "address": "Pangsapuri Pinang Laguna, Jalan Laguna 2, 13700 Perai, Penang",
     "postcode": "13700",
@@ -70174,7 +72246,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4052",
+    "id": "4163",
     "title": "Apartment",
     "address": "Unit No. 1150D-13-7, Jalan Teluk Kumbar, Saujana Heights Apartment, 11920 Bayan Lepas, Penang",
     "postcode": "11920",
@@ -70191,7 +72263,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4053",
+    "id": "4164",
     "title": "1 Storey Cluster House",
     "address": "Jalan Residen 7/7, Residen 7, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -70208,7 +72280,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4054",
+    "id": "4165",
     "title": "1 Storey Terrace House",
     "address": "Lorong Lagenda 72, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -70225,7 +72297,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4055",
+    "id": "4166",
     "title": "1 Storey Terrace House",
     "address": "Lorong Lagenda 41, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -70242,7 +72314,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4056",
+    "id": "4167",
     "title": "1 Storey Terrace House",
     "address": "Rumah Murah II, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -70259,7 +72331,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4057",
+    "id": "4168",
     "title": "3 Storey Terrace House",
     "address": "Jalan Seksyen 1/6, Bandar Barat, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -70276,7 +72348,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4058",
+    "id": "4169",
     "title": "Service Apartment",
     "address": "Block C, MH Unilodge, Kampar Siswa, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -70293,7 +72365,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4059",
+    "id": "4170",
     "title": "Terrace House",
     "address": "Taman Tapah Baru, 35000 Tapah, Perak",
     "postcode": "35000",
@@ -70310,7 +72382,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4060",
+    "id": "4171",
     "title": "Terrace House",
     "address": "Lorong Lagenda 41, Seksyen 3, Bandar Lagenda Teluk Intan, Teluk Intan, Perak",
     "postcode": "",
@@ -70327,7 +72399,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4061",
+    "id": "4172",
     "title": "2 Storey Terrace House",
     "address": "No. 664, Jalan PR1MA 15, PR1MA @ Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -70344,7 +72416,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4062",
+    "id": "4173",
     "title": "2 Storey Terrace House",
     "address": "Lorong BLM 3/5, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70361,7 +72433,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4063",
+    "id": "4174",
     "title": "2 Storey Terrace House",
     "address": "No. 60, Lorong BLM 3/5, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70378,7 +72450,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4064",
+    "id": "4175",
     "title": "1 Storey Semi Detached House",
     "address": "No. 36, Jalan Kenanga 9/4, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70395,7 +72467,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4065",
+    "id": "4176",
     "title": "1 Storey Semi Detached House",
     "address": "No. 208, Persiaran Sungai Buloh 10, Taman Sungai Buloh, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -70412,7 +72484,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4066",
+    "id": "4177",
     "title": "2 Storey Shop House",
     "address": "No. 182, Persiaran Komersial 10, Komersial Waterfront, 31100 Sungai Siput, Perak",
     "postcode": "31100",
@@ -70429,7 +72501,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4067",
+    "id": "4178",
     "title": "2.5 Storey Semi Detached House",
     "address": "No. 11, Solok Gertak Sanggul 1, Taman Sahabat, 11910 Bayan Lepas, Penang",
     "postcode": "11910",
@@ -70446,7 +72518,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4068",
+    "id": "4179",
     "title": "2 Storey Detached House",
     "address": "No. 17, Solok Kekabu 2, Taman Desa Jelita, 11960 Bayan Lepas, Penang",
     "postcode": "11960",
@@ -70463,7 +72535,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4069",
+    "id": "4180",
     "title": "Semi Detached House",
     "address": "Taman Maamor, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70480,7 +72552,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4070",
+    "id": "4181",
     "title": "2 Storey Semi Detached House",
     "address": "No. 3, Lintang Orkid, Taman Orkid, 34200 Parit Buntar, Perak",
     "postcode": "34200",
@@ -70497,7 +72569,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4071",
+    "id": "4182",
     "title": "1 Storey Terrace House",
     "address": "Lorong Lagenda 56, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -70514,7 +72586,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4072",
+    "id": "4183",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Rishah 3, Taman Rishah, 30100 Ipoh, Perak",
     "postcode": "30100",
@@ -70531,7 +72603,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4073",
+    "id": "4184",
     "title": "1 Storey Terrace House",
     "address": "Jalan Lagenda 17, Residensi Lagenda Tropika, 35350 Temoh, Perak",
     "postcode": "35350",
@@ -70548,7 +72620,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4074",
+    "id": "4185",
     "title": "1 Storey Terrace House",
     "address": "Lorong Selasih 2A/4, Taman Selasih, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -70565,7 +72637,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4075",
+    "id": "4186",
     "title": "1 Storey Terrace House",
     "address": "No. 143, Jalan Anggerik 2/6, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70582,7 +72654,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4076",
+    "id": "4187",
     "title": "1 Storey Terrace House",
     "address": "Jalan Damai 2/2, Taman Damai, 09400 Padang Serai, Kedah",
     "postcode": "09400",
@@ -70599,7 +72671,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4077",
+    "id": "4188",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bandar Puteri Jaya 1/18, Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70616,7 +72688,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4078",
+    "id": "4189",
     "title": "1.5 Storey Terrace House",
     "address": "No. 187, Jalan Mutiara BPJ 1, Mutiara Bandar Puteri Jaya, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -70633,7 +72705,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4079",
+    "id": "4190",
     "title": "2 Storey Cluster Terrace House",
     "address": "Jalan Meru Idaman 5, Taman Meru Idaman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -70650,7 +72722,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4080",
+    "id": "4191",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Jalan SM 2, Taman Saujana Megah, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -70667,7 +72739,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4081",
+    "id": "4192",
     "title": "2 Storey Shop Office",
     "address": "No. 2, Jalan Kebajikan 2, Off Gopeng, 31600 Gopeng, Perak",
     "postcode": "31600",
@@ -70684,7 +72756,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4082",
+    "id": "4193",
     "title": "1 Storey Shop",
     "address": "No. 15, Laluan Tronoh Universiti 36, Taman Tronoh Universiti, 31750 Tronoh, Perak",
     "postcode": "31750",
@@ -70701,7 +72773,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4083",
+    "id": "4194",
     "title": "Apartment",
     "address": "Unit No. B-5-1, Block B, Vista Perdana, Jalan Kampung Gajah, Taman Bagan Jermal, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -70718,7 +72790,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4084",
+    "id": "4195",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Persiaran Iskandar Perdana 35, Seksyen 6, Taman Iskandar Perdana, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -70735,7 +72807,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4085",
+    "id": "4196",
     "title": "2 Storey Shop Office",
     "address": "Jalan PP7, Bandar Universiti, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -70752,7 +72824,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4086",
+    "id": "4197",
     "title": "2 Storey Bungalow",
     "address": "No. 14, Sri Klebang C/7, Bandar Baru Sri Klebang, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -70769,7 +72841,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4087",
+    "id": "4198",
     "title": "1 Storey Terrace House",
     "address": "Jalan Sari 8, Taman Gerbang Siputeh Sari, 31650 Siputeh, Perak",
     "postcode": "31650",
@@ -70786,7 +72858,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4088",
+    "id": "4199",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Makmur 4, Taman Makmur, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -70803,7 +72875,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4089",
+    "id": "4200",
     "title": "Terrace House",
     "address": "Jalan 2, Taman Bidor Jaya, 35500 Bidor, Perak",
     "postcode": "35500",
@@ -70820,7 +72892,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4090",
+    "id": "4201",
     "title": "2 Storey Terrace House",
     "address": "Taman Pelangi, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -70837,7 +72909,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4091",
+    "id": "4202",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan SM 1D2/10, Fasa 1D2, Bandar Baru Seri Manjung, 32040 Seri Manjung, Perak",
     "postcode": "32040",
@@ -70854,7 +72926,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4092",
+    "id": "4203",
     "title": "1 Storey Terrace House",
     "address": "Dataran Setia 5, Taman Bemban Setia, 31000 Batu Gajah, Perak",
     "postcode": "31000",
@@ -70871,7 +72943,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4093",
+    "id": "4204",
     "title": "3 Storey Terrace House",
     "address": "No. 90, Lapangan Perdana 7, Panorama Lapangan Perdana, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -70888,7 +72960,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4094",
+    "id": "4205",
     "title": "1 Storey Terrace House",
     "address": "No. 279, Jalan Cempaka 12, Taman Cempaka, 09810 Selama, Kedah",
     "postcode": "09810",
@@ -70905,7 +72977,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4095",
+    "id": "4206",
     "title": "2 Storey Detached House",
     "address": "Persiaran Venice Sutera 8/1, Desa Manjung Raya, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -70922,7 +72994,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4096",
+    "id": "4207",
     "title": "2 Storey Terrace House",
     "address": "No. 60, Simpang Tiga Perumahan (Laluan Tai Chong 3), Taman Tai Chong, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -70939,7 +73011,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4097",
+    "id": "4208",
     "title": "Apartment",
     "address": "Jalan Pusat Perniagaan Falim, Residensi Prima Falim, 30200 Ipoh, Perak",
     "postcode": "30200",
@@ -70956,7 +73028,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4098",
+    "id": "4209",
     "title": "2 Storey Terrace House",
     "address": "No. 18, Jalan RPS 1, Residensi Pr1ma Segari, 32200 Lumut, Perak",
     "postcode": "32200",
@@ -70973,7 +73045,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4099",
+    "id": "4210",
     "title": "2 Storey Pre-war Shop House",
     "address": "No. 22, Jalan Mustapha Al Bakri, 30300 Ipoh, Perak",
     "postcode": "30300",
@@ -70990,7 +73062,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4100",
+    "id": "4211",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kota Kenari 3, Taman Kota Kenari, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -71007,7 +73079,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4101",
+    "id": "4212",
     "title": "2 Storey Terrace House",
     "address": "Lorong Astana 7/8, Bandar Seri Astana, 08000 Sungai Petani, Kedah",
     "postcode": "08000",
@@ -71024,7 +73096,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4102",
+    "id": "4213",
     "title": "1 Storey Detached House",
     "address": "No. 90, Taman Bunga Raya, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -71041,7 +73113,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4103",
+    "id": "4214",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 1/32, Residen 1, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -71058,7 +73130,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4104",
+    "id": "4215",
     "title": "Agricultural Land with Development Potential and Zoned for Residential Used",
     "address": "Kampung Serdang, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -71075,7 +73147,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4105",
+    "id": "4216",
     "title": "1 Storey Terrace House",
     "address": "Lorong Trong Bakti 12, Taman Trong Bakti, 34800 Trong, Perak",
     "postcode": "34800",
@@ -71092,7 +73164,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4106",
+    "id": "4217",
     "title": "2 Storey Semi Detached House",
     "address": "No. 2, Lorong Panglima 1, Taman Panglima, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -71109,7 +73181,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4107",
+    "id": "4218",
     "title": "2 Storey Terrace House With Extra Land",
     "address": "Jalan Tawas Impiana 2, Anjung Tawas Impiana, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -71126,7 +73198,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4108",
+    "id": "4219",
     "title": "1 Storey Terrace House",
     "address": "Taman Kemiri, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -71143,7 +73215,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4109",
+    "id": "4220",
     "title": "Terrace House",
     "address": "Lorong AD 17, Taman Aur Damai, 34000 Taiping, Perak",
     "postcode": "34000",
@@ -71160,7 +73232,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4110",
+    "id": "4221",
     "title": "1 Storey Terrace House",
     "address": "Jalan Residen 4/10, Residen 4, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -71177,7 +73249,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4111",
+    "id": "4222",
     "title": "1 Storey Terrace House",
     "address": "No. 1466, Jalan Residen 1/22, Bandar Baru Setia Awan Perdana, 32000 Sitiawan, Perak",
     "postcode": "32000",
@@ -71194,7 +73266,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4112",
+    "id": "4223",
     "title": "2 Storey Cluster Terrace House",
     "address": "Hala Meru Damai 11, Halaman Meru Damai, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -71211,7 +73283,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4113",
+    "id": "4224",
     "title": "1 Storey Terrace House",
     "address": "Persiaran Hulu Bercham 6, Bandar Baru Putra, 31400 Ipoh, Perak",
     "postcode": "31400",
@@ -71228,7 +73300,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4114",
+    "id": "4225",
     "title": "Terrace House",
     "address": "Jalan Tawas Baru 2, Taman Tasek Damai, 30010 Ipoh, Perak",
     "postcode": "30010",
@@ -71245,7 +73317,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4115",
+    "id": "4226",
     "title": "Condominium",
     "address": "Unit No. B-6-2, Kondominium Kelab Golf, Jalan Kelab Golf, 30350 Ipoh, Perak",
     "postcode": "30350",
@@ -71262,7 +73334,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4116",
+    "id": "4227",
     "title": "Flat",
     "address": "Unit No. 22B, Tingkat 2, Jalan Iskandar, Taman Pelangi, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -71279,7 +73351,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4117",
+    "id": "4228",
     "title": "2 Storey Terrace House",
     "address": "No.64, Jalan Degong, Taman Indah, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -71296,7 +73368,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4118",
+    "id": "4229",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Jalan Lahat Mines 11, Bandar Lahat Mines, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -71313,7 +73385,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4119",
+    "id": "4230",
     "title": "2 Storey Shop House",
     "address": "Unit No. 11 & 11A, Jalan PP 6, Bandar Universiti Seri Iskandar, 32610 Seri Iskandar, Perak",
     "postcode": "32610",
@@ -71330,7 +73402,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4120",
+    "id": "4231",
     "title": "2 Storey Detached House",
     "address": "Lorong Teknik, Batu 2, Jalan Sungai Korok, 05400 Alor Setar, Kedah",
     "postcode": "05400",
@@ -71347,7 +73419,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4121",
+    "id": "4232",
     "title": "Town House",
     "address": "Blok 1, Aras 3, Persiaran Residensi, Bandar Agacia (The Residence @ Kampar), 31910 Kampar, Perak",
     "postcode": "31910",
@@ -71364,7 +73436,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4122",
+    "id": "4233",
     "title": "1 Storey Terrace House",
     "address": "Jalan 2, Taman Bidor Jaya, 35500 Bidor, Perak",
     "postcode": "35500",
@@ -71381,7 +73453,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4123",
+    "id": "4234",
     "title": "Terrace House",
     "address": "Lorong 3, Taman Desa Bernam Indah, Fasa 2, 36400 Hutan Melintang, Perak",
     "postcode": "36400",
@@ -71398,7 +73470,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4124",
+    "id": "4235",
     "title": "Terrace House",
     "address": "Persiaran Tasik Saujana 16, Pinggiran Tasik Saujana, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -71415,7 +73487,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4125",
+    "id": "4236",
     "title": "Terrace House",
     "address": "Lorong Lagenda 79, Seksyen 3, Bandar Lagenda Teluk Intan, 36000 Teluk Intan, Perak",
     "postcode": "36000",
@@ -71432,7 +73504,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4126",
+    "id": "4237",
     "title": "Apartment",
     "address": "Unit No. B-2-27, Pangsapuri Desa Alpine, Persiaran Lagun Sunway, Bandar Sunway, 31150 Ulu Kinta, Perak",
     "postcode": "31150",
@@ -71449,7 +73521,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4127",
+    "id": "4238",
     "title": "Condominium",
     "address": "Unit No. 5-02-B, Block B, Kondominium Mutiara, Jalan Perda Barat, Bandar Perda, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -71466,7 +73538,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4128",
+    "id": "4239",
     "title": "1 Storey Semi Detached House",
     "address": "No. A 169, Jalan Bahtera 4, Taman Bahtera, 06600, Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -71483,7 +73555,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4129",
+    "id": "4240",
     "title": "3 Storey Terrace House",
     "address": "Jalan Putra Berlian 13A, Kampar Putra, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -71500,7 +73572,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4130",
+    "id": "4241",
     "title": "1 Storey Terrace House",
     "address": "Jalan Desa Jaya II, Taman Desa Jaya II, 34600 Kamunting, Perak",
     "postcode": "34600",
@@ -71517,7 +73589,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4131",
+    "id": "4242",
     "title": "1 Storey Terrace House",
     "address": "Lorong Cermai 8/3, Taman Putra Jaya, Off Jalan Tanjung Bendahara, 05300 Alor Setar, Kedah",
     "postcode": "05300",
@@ -71534,7 +73606,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4132",
+    "id": "4243",
     "title": "Flat",
     "address": "Jalan Bagan 21, Taman Bagan, 13400 Butterworth, Penang",
     "postcode": "13400",
@@ -71551,7 +73623,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4133",
+    "id": "4244",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Lorong Kijang Indah 1, Taman Kijang Indah, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -71568,7 +73640,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4134",
+    "id": "4245",
     "title": "1 Storey Terrace House",
     "address": "No. 31, Laluan Klebang Restu 6, Medan Klebang Restu, 31200 Chemor, Perak",
     "postcode": "31200",
@@ -71585,7 +73657,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4135",
+    "id": "4246",
     "title": "1 Storey Terrace House",
     "address": "Lorong Kemiri 3, Taman Kemiri, 31100 Sungai Siput (U), Perak",
     "postcode": "31100",
@@ -71602,7 +73674,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4136",
+    "id": "4247",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Lintasan Pegoh 4, Medan Pengkalan Mutiara, 31650 Ipoh, Perak",
     "postcode": "31650",
@@ -71619,7 +73691,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4137",
+    "id": "4248",
     "title": "2 Storey Terrace House",
     "address": "No. 82, Jalan Mahsuri 11, Taman Mahsuri Jaya, 31900 Kampar, Perak",
     "postcode": "31900",
@@ -71636,7 +73708,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4138",
+    "id": "4249",
     "title": "Flat",
     "address": "Unit No. 09-01, Block C, Pangsa Ria, Lebuh Kampung Benggali, 12200 Butterworth, Penang",
     "postcode": "12200",
@@ -71653,7 +73725,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4139",
+    "id": "4250",
     "title": "Flat",
     "address": "Unit No. 25-12-12, Taman Seri Damai, Lintang Batu Lanchang, 11600 Jelutong, Penang",
     "postcode": "11600",
@@ -71670,7 +73742,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4140",
+    "id": "4251",
     "title": "Condominium",
     "address": "Unit No. A-7-12A, Taman Casa Utopia, Lorong Sungai Dua Utama 34, 13800 Butterworth, Penang",
     "postcode": "13800",
@@ -71687,7 +73759,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4141",
+    "id": "4252",
     "title": "Condominium",
     "address": "Jalan Meru Idaman 1, Taman Meru Idaman, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -71704,7 +73776,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4142",
+    "id": "4253",
     "title": "3 Storey Shop Office with a mezzanine floor",
     "address": "No. 18, Laluan Sentral Intan, Pusat Komersial Sentral Intan, 36000, Teluk Intan, Perak",
     "postcode": "36000",
@@ -71721,7 +73793,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4143",
+    "id": "4254",
     "title": "2 Storey Terrace House",
     "address": "No. A-111, Jalan Restu 4, Taman Restu Fasa 5, Jalan Batas Paip, 06600 Kuala Kedah, Kedah",
     "postcode": "06600",
@@ -71738,7 +73810,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4144",
+    "id": "4255",
     "title": "1 Storey Terrace House",
     "address": "No. 36, Lorong Desa Kob 1/2, Taman Sungai Kob, 09700, Karangan, Kedah",
     "postcode": "09700",
@@ -71755,7 +73827,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4145",
+    "id": "4256",
     "title": "2 Storey Semi Detached House",
     "address": "No. 32, Lorong Jambu Madu 2, Taman Jambu Madu, 14000 Bukit Mertajam, Penang",
     "postcode": "14000",
@@ -71772,7 +73844,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4146",
+    "id": "4257",
     "title": "2 Storey Terrace House",
     "address": "No. A72, Fasa 2, Taman Selayang, Lebuhraya Sultanah Bahiyah, 05150 Alor Setar, Kedah",
     "postcode": "05150",
@@ -71789,7 +73861,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4147",
+    "id": "4258",
     "title": "1 Storey Terrace House",
     "address": "No. 290, Jalan Belimbing 4, Taman Belimbing, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -71806,7 +73878,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4148",
+    "id": "4259",
     "title": "1 Storey Terrace House",
     "address": "Jalan Belimbing 4, Taman Belimbing, 06000 Jitra, Kedah",
     "postcode": "06000",
@@ -71823,7 +73895,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4149",
+    "id": "4260",
     "title": "1 Storey Semi Detached House",
     "address": "No. 288, Lorong Seroja 7A, Taman Seroja, 09000 Kulim, Kedah",
     "postcode": "09000",
@@ -71840,7 +73912,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4150",
+    "id": "4261",
     "title": "2 Storey Terrace House",
     "address": "Laluan Lahat Sentosa 15, Taman Lahat Sentosa, 31500 Lahat, Perak",
     "postcode": "31500",
@@ -71857,7 +73929,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4151",
+    "id": "4262",
     "title": "2 Storey Detached House",
     "address": "Lot 362026, Lorong Jalapang 44/7, RRT Jelapang Tambahan, 30020 Ipoh, Perak",
     "postcode": "30020",
@@ -71874,7 +73946,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4152",
+    "id": "4263",
     "title": "2 Storey Terrace House",
     "address": "Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -71891,7 +73963,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4153",
+    "id": "4264",
     "title": "2 Storey Terrace House",
     "address": "Jalan Perwira Jaya 1, Taman Perwira Jaya, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -71908,7 +73980,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4154",
+    "id": "4265",
     "title": "2 Storey Terrace House",
     "address": "Jalan Semerbak 13, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -71925,7 +73997,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4155",
+    "id": "4266",
     "title": "2 Storey Shop House",
     "address": "Jalan Kencana 1A/26, Taman Pura Kencana, Sri Gading, 83300 Batu Pahat, Johor",
     "postcode": "83300",
@@ -71942,7 +74014,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4156",
+    "id": "4267",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Jalan Orkid 1, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -71959,7 +74031,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4157",
+    "id": "4268",
     "title": "2 Storey Terrace House",
     "address": "No. 11, Jalan Indah 30/5, Taman Bukit Indah, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -71976,7 +74048,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4158",
+    "id": "4269",
     "title": "1.5 Storey Terrace House",
     "address": "Jalan Denai 11, Taman Bukit Jaya, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -71993,7 +74065,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4159",
+    "id": "4270",
     "title": "Service Apartment",
     "address": "Menara D2, Pangsapuri Puncak, Kempas Utama, Jalan Kempas Utama 2/6, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -72010,7 +74082,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4160",
+    "id": "4271",
     "title": "2 Storey Shop House",
     "address": "Jalan Kencana 1A/26, Taman Pura Kencana, Sri Gading, 83300 Batu Pahat, Johor",
     "postcode": "83300",
@@ -72027,7 +74099,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4161",
+    "id": "4272",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bestari 54/2, Taman Bestari Indah, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -72044,7 +74116,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4162",
+    "id": "4273",
     "title": "Service Apartment",
     "address": "Blok 8, Prima Regency, Jalan Masai Baru, Taman Pulai Mutiara, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72061,7 +74133,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4163",
+    "id": "4274",
     "title": "2 Storey Shop House",
     "address": "No. 30, Jalan Kencana 1A/26, Taman Pura Kencana, Sri Gading, 83300 Batu Pahat, Johor",
     "postcode": "83300",
@@ -72078,7 +74150,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4164",
+    "id": "4275",
     "title": "2 Storey Terrace House",
     "address": "No. 19, Jalan Semerbak 13, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -72095,7 +74167,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4165",
+    "id": "4276",
     "title": "1 Storey Terrace House",
     "address": "No. 36, Jalan Bestari 54/2, Taman Bestari Indah, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -72112,7 +74184,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4166",
+    "id": "4277",
     "title": "2 Storey Terrace House",
     "address": "No. 11, Jalan Indah 30/5, Taman Bukit Indah 2, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -72129,7 +74201,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4167",
+    "id": "4278",
     "title": "1.5 Storey Terrace House",
     "address": "No. 6, Jalan Denai 11, Taman Bukit Jaya, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -72146,7 +74218,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4168",
+    "id": "4279",
     "title": "2 Storey Terrace House",
     "address": "No. 25, Jalan Delima 19, Taman Kota Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -72163,7 +74235,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4169",
+    "id": "4280",
     "title": "Apartment",
     "address": "Unit No.19-3A, Blok A, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72180,7 +74252,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4170",
+    "id": "4281",
     "title": "Apartment",
     "address": "Unit No. A02-11, Blok A, Jalan Tasek, Pangsapuri Sri Ilham, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72197,7 +74269,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4171",
+    "id": "4282",
     "title": "2 Storey Terrace House",
     "address": "No. 17, Jalan Saga 13, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -72214,7 +74286,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4172",
+    "id": "4283",
     "title": "2 Storey Shop Office",
     "address": "No. 10, Jalan Mangga 7, Taman Kota Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -72231,7 +74303,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4173",
+    "id": "4284",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Jalan Seri Impian 7/40, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -72248,7 +74320,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4174",
+    "id": "4285",
     "title": "2 Storey Terrace House",
     "address": "No. 8, Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -72265,7 +74337,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4175",
+    "id": "4286",
     "title": "2 Storey Terrace House",
     "address": "No. 24, Jalan Perwira Jaya 1, Taman Perwira Jaya, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -72282,7 +74354,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4176",
+    "id": "4287",
     "title": "2 Storey Terrace House",
     "address": "Jalan Orkid 1, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -72299,7 +74371,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4177",
+    "id": "4288",
     "title": "Service Apartment",
     "address": "Unit No. #32-07, Menara D2, Pangsapuri Puncak, Kempas Utama, Jalan Kempas Utama 2/6, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -72316,7 +74388,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4178",
+    "id": "4289",
     "title": "2 Storey Terrace House",
     "address": "Jalan Saga 13, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -72333,7 +74405,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4179",
+    "id": "4290",
     "title": "Service Apartment",
     "address": "Unit No. 05-07, Pangsapuri Lagenda Tasek, Taman Suria Muafakat, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -72350,7 +74422,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4180",
+    "id": "4291",
     "title": "1 Storey Terrace House",
     "address": "No. 44, Jalan Permas 5/15, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72367,7 +74439,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4181",
+    "id": "4292",
     "title": "2 Storey Cluster House",
     "address": "No. 27, Jalan Ekoflora 2/9, Taman Ekoflora, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -72384,7 +74456,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4182",
+    "id": "4293",
     "title": "2 Storey Terrace House",
     "address": "No. 16, Jalan Tenang 5, Taman Damai Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -72401,7 +74473,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4183",
+    "id": "4294",
     "title": "2 Storey Terrace House",
     "address": "No. 17, Jalan Kemboja 19, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -72418,7 +74490,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4184",
+    "id": "4295",
     "title": "Service Apartment",
     "address": "Unit No. T2-L08-08, Residensi Encorp, Persiaran Dato' Seri Amar Diraja, Pengkalan Puteri, 79000 Iskandar Puteri, Johor",
     "postcode": "79000",
@@ -72435,7 +74507,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4185",
+    "id": "4296",
     "title": "Service Apartment",
     "address": "Unit No. #16-11, Menara A, Residensi Masai, Jalan Masai Jaya 2, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72452,7 +74524,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4186",
+    "id": "4297",
     "title": "Service Apartment",
     "address": "Unit No. C-12-9, Almas Block C, Persiaran Laksamana, Puteri Harbour, 79000 Iskandar Puteri, Johor",
     "postcode": "79000",
@@ -72469,7 +74541,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4187",
+    "id": "4298",
     "title": "Service Apartment",
     "address": "Unit No. B-05-06, Blok B, Apartment Dwi Danga, Jalan Tengah, Kampung Sungai Danga, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -72486,7 +74558,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4188",
+    "id": "4299",
     "title": "Service Apartment",
     "address": "Unit No. B-06-07, Blok B, Apartment Dwi Danga, Jalan Tengah, Kampung Sungai Danga, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -72503,7 +74575,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4189",
+    "id": "4300",
     "title": "Service Apartment",
     "address": "Unit No. 21-14, Menara A, Residensi Mutiara Indah, Jalan Indah, Kawasan Perniagaan Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -72520,7 +74592,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4190",
+    "id": "4301",
     "title": "Service Apartment",
     "address": "Unit No. E28-07, Menara E, Residensi KSL Kangkar Tebrau (also known as KSL Residences 2), Jalan Kesum, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -72537,7 +74609,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4191",
+    "id": "4302",
     "title": "Service Apartment",
     "address": "Unit No. #23-03, Blok A, Kota Lindungan Hijau, Jalan Mersawa 16, Taman Cahaya Kota Puteri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72554,7 +74626,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4192",
+    "id": "4303",
     "title": "Duplex Condominium",
     "address": "Unit No. 3-17-05, Residensi Laman Medini, Persiaran Medini Utara 8, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -72571,7 +74643,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4193",
+    "id": "4304",
     "title": "Service Apartment",
     "address": "Unit No. 17-3A, Block C1, Pangsapuri Mayland Austin, Jalan Mutiara Emas 9/23, Taman Mount Austin, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -72588,7 +74660,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4194",
+    "id": "4305",
     "title": "Studio Service Apartment",
     "address": "Unit No. B-09-10, Inspira Bestari, Jalan Bestari 15/2, Taman Nusa Bestari, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -72605,7 +74677,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4195",
+    "id": "4306",
     "title": "Service Apartment",
     "address": "Unit No. 17-09, Menara A, Residensi Idaman Ria, Jalan Susur Idaman, Nusa Idaman, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -72622,7 +74694,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4196",
+    "id": "4307",
     "title": "Retail Lot",
     "address": "Unit No. GF-08, Meridian 2, Jalan Legoland, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -72639,7 +74711,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4197",
+    "id": "4308",
     "title": "Service Apartment",
     "address": "Unit No. B-31-08, Block B, Pangsapuri Midas Seri Alam, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -72656,7 +74728,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4198",
+    "id": "4309",
     "title": "Service Apartment",
     "address": "Unit No. #A-25-01, Blok A, Paragon Suites, No. 53A, Jalan Inderaputera, Kampung Stulang, 80300 Johor Bahru, Johor",
     "postcode": "80300",
@@ -72673,7 +74745,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4204",
+    "id": "4315",
     "title": "2 Storey Shop House",
     "address": "Jalan Hussien, Kota Kecil, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -72690,7 +74762,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4205",
+    "id": "4316",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Jalan Bestari 8/1, Taman Nusa Bestari, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -72707,7 +74779,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4206",
+    "id": "4317",
     "title": "2 Storey Terrace House",
     "address": "No. 7, Jalan Nusa Perintis 3/3, Taman Nusa Perintis, 79200 Iskandar Puteri, Johor",
     "postcode": "79200",
@@ -72724,7 +74796,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4207",
+    "id": "4318",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Bestari 47, Taman Mutiara Rini, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -72741,7 +74813,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4208",
+    "id": "4319",
     "title": "2 Storey Shop House",
     "address": "No. 6, Jalan Hussien, Kota Kecil, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -72758,7 +74830,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4209",
+    "id": "4320",
     "title": "1 Storey Terrace House",
     "address": "No. 54, Jalan Pulai Mesra 16, Bandar Baru Kangkar Pulai, 81300 Kangkar Pulai, Johor",
     "postcode": "81300",
@@ -72775,7 +74847,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4210",
+    "id": "4321",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bestari 8/1, Taman Nusa Bestari, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -72792,7 +74864,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4211",
+    "id": "4322",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Jalan Dahlia 13, Taman Dahlia, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -72809,7 +74881,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4212",
+    "id": "4323",
     "title": "1 Storey Terrace House",
     "address": "Premises No. 10454, Jalan Merbuk 9, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "10454",
@@ -72826,7 +74898,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4213",
+    "id": "4324",
     "title": "2 Storey Terrace House",
     "address": "No. 450, Jalan Impiana 14, Taman Impiana, Kelapa Sawit, Johor",
     "postcode": "",
@@ -72843,7 +74915,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4214",
+    "id": "4325",
     "title": "Service Apartment",
     "address": "Block D, Kip Villa Indah, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -72860,7 +74932,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4215",
+    "id": "4326",
     "title": "2 Storey Terrace House",
     "address": "Jalan Kemboja 7, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -72877,7 +74949,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4216",
+    "id": "4327",
     "title": "3 Storey Semi Detached Factory",
     "address": "No. 38, Jalan Pelepas 4/9, Taman Perindustrian Tanjung Pelepas, (i-Parc @ Tanjung Pelepas), 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -72894,7 +74966,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4217",
+    "id": "4328",
     "title": "1 Storey Terrace House",
     "address": "No. 23, Jalan Putera 9, Taman Putera Indah, 84000 Muar, Johor",
     "postcode": "84000",
@@ -72911,7 +74983,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4218",
+    "id": "4329",
     "title": "Service Apartment",
     "address": "Unit No. #B-10-05, Residensi Idaman, Jalan Idaman 9, Nusa Idaman, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -72928,7 +75000,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4219",
+    "id": "4330",
     "title": "2 Storey Terrace House",
     "address": "No. 98, Jalan Ekoflora 5/23, Taman Ekoflora, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -72945,7 +75017,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4220",
+    "id": "4331",
     "title": "Service Apartment",
     "address": "Unit No. 17-11, Block D, Kip Villa Indah, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -72962,7 +75034,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4221",
+    "id": "4332",
     "title": "2 Storey Terrace House",
     "address": "No. 11, Jalan Kemboja 7, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -72979,7 +75051,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4222",
+    "id": "4333",
     "title": "Service Apartment",
     "address": "Unit No. #20-09, Blok B, Pangsapuri Rimba Kota, Jalan Abdul Samad, Kampung Baru, 80100 Johor Bahru, Johor",
     "postcode": "80100",
@@ -72996,7 +75068,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4223",
+    "id": "4334",
     "title": "Town House (Upper Level)",
     "address": "No. 59-01, Jalan Adda 8/4, Taman Adda, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73013,7 +75085,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4224",
+    "id": "4335",
     "title": "Apartment",
     "address": "Unit No. C-4-124, Sri Putra Apartment, Jalan Meranti 7, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -73030,7 +75102,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4225",
+    "id": "4336",
     "title": "Service Apartment",
     "address": "Unit No. 02-11, Menara A, Residensi Permai, Jalan Mutiara 7, Taman Perindustrian Plentong, 81750 Masai, Johor",
     "postcode": "81750",
@@ -73047,7 +75119,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4226",
+    "id": "4337",
     "title": "1 Storey Terrace House",
     "address": "No. 56, Jalan Indah 28/6, Taman Bukit Indah, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -73064,7 +75136,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4227",
+    "id": "4338",
     "title": "Apartment",
     "address": "Unit No. #01-05, Blok 6, Jalan Desa Kempas 1, Taman Desa Kempas, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73081,7 +75153,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4228",
+    "id": "4339",
     "title": "Ground Floor Shop Lot",
     "address": "Unit No. #11, Block C, Pangsapuri Putra Mewah (Platino Avenue), Jalan Segenting, Taman Bukit Mewah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73098,7 +75170,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4229",
+    "id": "4340",
     "title": "Shop Lot",
     "address": "Unit No. #03-164, Kompleks Kapital, Jalan Tampoi, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73115,7 +75187,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4230",
+    "id": "4341",
     "title": "Service Apartment",
     "address": "Unit No. #21-11, Blok C, Residensi PR1MA Tebrau, Jalan Tebrau, Kampung Dato Sulaiman Menteri, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73132,7 +75204,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4231",
+    "id": "4342",
     "title": "Apartment",
     "address": "Unit No. 03-08, Block L, Taman Sri Setanggi, 80250 Johor Bahru, Johor",
     "postcode": "80250",
@@ -73149,7 +75221,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4232",
+    "id": "4343",
     "title": "2 Storey Terrace House",
     "address": "No. 450, Jalan Impiana 14, Taman Impiana, Kelapa Sawit, 81030 Kulai, Johor",
     "postcode": "81030",
@@ -73166,7 +75238,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4233",
+    "id": "4344",
     "title": "Service Apartment",
     "address": "Menara A, Residensi Permai, Jalan Mutiara 7, Taman Perindustrian Plentong, 81750 Masai, Johor",
     "postcode": "81750",
@@ -73183,7 +75255,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4234",
+    "id": "4345",
     "title": "Apartment",
     "address": "Unit No. 18-01, Blok D, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -73200,7 +75272,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4235",
+    "id": "4346",
     "title": "1 Storey Terrace House",
     "address": "No. 21, Jalan Cengal 3, Taman Desaru Utama, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -73217,7 +75289,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4236",
+    "id": "4347",
     "title": "Apartment",
     "address": "Unit No. C-02-08, Blok C, Apartment Botanika, Jalan Bayu Puteri 2, Taman Bayu Puteri, 80150 Johor Bahru, Johor",
     "postcode": "80150",
@@ -73234,7 +75306,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4237",
+    "id": "4348",
     "title": "Apartment",
     "address": "Unit No. B-11-5, Pangsapuri KSL Bukit Gemilang, Jalan Gemilang 5, Taman Bukit Gemilang, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -73251,7 +75323,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4238",
+    "id": "4349",
     "title": "2 Storey Terrace House",
     "address": "No. 68, Jalan Kelisa 3, Taman Scientex, 81700, Pasir Gudang, Johor",
     "postcode": "81700",
@@ -73268,7 +75340,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4239",
+    "id": "4350",
     "title": "Apartment",
     "address": "Unit No. #02-03, Block 13, Jalan Desa Kempas 1, Taman Desa Kempas, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73285,7 +75357,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4240",
+    "id": "4351",
     "title": "2 Storey Terrace House",
     "address": "No. 8, Jalan Setia Tropika 2/10, Taman Setia Tropika, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73302,7 +75374,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4241",
+    "id": "4352",
     "title": "Service Apartment",
     "address": "Unit No. 5-09, Block B, Pangsapuri Plaza Mentari, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor",
     "postcode": "80400",
@@ -73319,7 +75391,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4242",
+    "id": "4353",
     "title": "Service Apartment",
     "address": "Unit No. #23-13, Blok A, Residensi ARC, Jalan Sagu 36, Taman Daya, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73336,7 +75408,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4243",
+    "id": "4354",
     "title": "2 Storey Terrace House",
     "address": "No. 3, Jalan Mutiara Hijau 1, Taman Mutiara Hijau, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -73353,7 +75425,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4244",
+    "id": "4355",
     "title": "2 Storey Terrace House",
     "address": "Jalan Akasia 5, Taman Desaru Utama, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -73370,7 +75442,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4245",
+    "id": "4356",
     "title": "1 Storey Terrace House",
     "address": "Jalan Impiana Indah 4, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73387,7 +75459,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4246",
+    "id": "4357",
     "title": "2 Storey Terrace House",
     "address": "Jalan Seri Impian 3/18, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73404,7 +75476,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4247",
+    "id": "4358",
     "title": "1 Storey Terrace House",
     "address": "No. 25, Jalan Seroja 5, Taman Flora Heights, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -73421,7 +75493,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4248",
+    "id": "4359",
     "title": "2 Storey Cluster House",
     "address": "Jalan Sinaran 2/7, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -73438,7 +75510,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4249",
+    "id": "4360",
     "title": "Apartment",
     "address": "Blok A, Perumahan Aman Larkin, Jalan Tani, Kampung Aman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -73455,7 +75527,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4250",
+    "id": "4361",
     "title": "Land",
     "address": "Lot 3293, Junction Between Jalan Medoi/Jalan Tasik, Kampung Jawa, 85000 Segamat, Johor",
     "postcode": "85000",
@@ -73472,7 +75544,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4251",
+    "id": "4362",
     "title": "1 Storey Semi Detached House",
     "address": "No. 16, Taman Beting, Jalan Bakariah, 84000 Muar, Johor",
     "postcode": "84000",
@@ -73489,7 +75561,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4252",
+    "id": "4363",
     "title": "Town House",
     "address": "Blok A2, Nusavilla, Jalan Jati 11, Taman Nusa Bestari Jaya, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -73506,7 +75578,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4253",
+    "id": "4364",
     "title": "2 Storey Terrace House",
     "address": "No. 11, Jalan ME 53C, Taman Kluang Barat, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73523,7 +75595,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4254",
+    "id": "4365",
     "title": "Retail Unit",
     "address": "Unit No. A-01-01, DB Kompleks, Jalan Persiaran Afiat, Taman Kesihatan Afiat, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -73540,7 +75612,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4255",
+    "id": "4366",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Jalan Akasia 5, Taman Desaru Utama, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -73557,7 +75629,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4256",
+    "id": "4367",
     "title": "2 Storey Terrace House",
     "address": "No. 78, Jalan Impiana Indah 4, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73574,7 +75646,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4257",
+    "id": "4368",
     "title": "2 Storey Terrace House",
     "address": "No. 987, Jalan Seri Impian 3/18, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73591,7 +75663,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4258",
+    "id": "4369",
     "title": "Apartment",
     "address": "Unit No. 03-13, Blok A, Perumahan Aman Larkin, Jalan Tani, Kampung Aman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -73608,7 +75680,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4259",
+    "id": "4370",
     "title": "1 Storey Cluster House",
     "address": "No. 58, Jalan Sejati Utama, Taman Tasik Sejati, 85010 Segamat, Johor",
     "postcode": "85010",
@@ -73625,7 +75697,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4260",
+    "id": "4371",
     "title": "2 Storey Terrace House",
     "address": "No. 1157, Jalan Seri Impian 6/43, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73642,7 +75714,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4261",
+    "id": "4372",
     "title": "1 Storey Terrace House",
     "address": "No. 378, Jalan Seri Impian 3/10, Taman Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73659,7 +75731,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4262",
+    "id": "4373",
     "title": "1 Storey Terrace House",
     "address": "No. 125, Jalan Puteri 4/4, Bandar Baru Tangkak, 84900 Tangkak, Johor",
     "postcode": "84900",
@@ -73676,7 +75748,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4263",
+    "id": "4374",
     "title": "1 Storey Terrace House",
     "address": "No. 28, Jalan Biru 4, Taman Melati, 86600 Paloh, Johor",
     "postcode": "86600",
@@ -73693,7 +75765,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4264",
+    "id": "4375",
     "title": "Service Apartment",
     "address": "Unit No. #18-05, Menara D2, Pangsapuri Puncak Kempas Utama (D'Summit Residences), Jalan Kempas Utama 2/6, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -73710,7 +75782,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4265",
+    "id": "4376",
     "title": "Service Apartment",
     "address": "Unit No. 01-02, Block N, Larkin Residence 2, Jalan Dato Jaafar, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -73727,7 +75799,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4266",
+    "id": "4377",
     "title": "Service Apartment",
     "address": "Unit No. 02-13, Block B, Pangsapuri Kempas Indah, Jalan Kempas Indah, Taman Kempas Indah, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -73744,7 +75816,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4267",
+    "id": "4378",
     "title": "Service Apartment",
     "address": "Unit No. 19-17, Block A, Pangsapuri Kempas Indah, Jalan Kempas Indah, Taman Kempas Indah, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -73761,7 +75833,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4268",
+    "id": "4379",
     "title": "Service Apartment",
     "address": "Unit No. #13-06, Block B, Residensi KSL, Jalan Delima 3/2, Taman Delima, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73778,7 +75850,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4269",
+    "id": "4380",
     "title": "Service Apartment",
     "address": "Unit No. #12-05, Blok B, Residensi KSL, Jalan Delima 3/2, Taman Delima 1, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73795,7 +75867,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4270",
+    "id": "4381",
     "title": "Service Apartment",
     "address": "Unit No. 18-05, Block A, Pangsapuri Duta, Jalan Duta 6, Taman Nusa Duta, 79150 Iskandar Puteri, Johor",
     "postcode": "79150",
@@ -73812,7 +75884,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4271",
+    "id": "4382",
     "title": "Apartment",
     "address": "Unit No. #04-25, Blok A, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73829,7 +75901,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4272",
+    "id": "4383",
     "title": "2 Storey Terrace House",
     "address": "No. 42, Jalan Serai, Taman Sri Tengah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -73846,7 +75918,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4273",
+    "id": "4384",
     "title": "[4 min to Econsave Taman Daya] Service Apartment [8 min to AEON Mall Tebrau City & Lotus's Tebrau City]",
     "address": "Unit No. 13-09, Block B, Residensi KSL, Jalan Delima 3/2, Taman Delima 1, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73863,7 +75935,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4274",
+    "id": "4385",
     "title": "1 Storey Terrace House",
     "address": "No. 21, Jalan Maju 2, Taman Bakri Maju, Jalan Bakri, 84200 Muar, Johor",
     "postcode": "84200",
@@ -73880,7 +75952,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4275",
+    "id": "4386",
     "title": "Service Apartment",
     "address": "Unit No. 11-15, Block B, Laman Damai, Persiaran Aliff Harmoni Utama, Country Garden Sentral, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73897,7 +75969,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4276",
+    "id": "4387",
     "title": "Flat",
     "address": "Unit No. G-01-15, Blok G, Jalan Perdana 2/17B, Taman Bukit Perdana 2, 83000 Batu Pahat, Johor",
     "postcode": "83000",
@@ -73914,7 +75986,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4277",
+    "id": "4388",
     "title": "Service Apartment",
     "address": "Unit No. #12-16, Menara B, Residensi KSL Kangkar Tebrau (KSL Residences 2 @ Kangkar Tebrau), Jalan Kesum, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73931,7 +76003,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4278",
+    "id": "4389",
     "title": "2 Storey Terrace House",
     "address": "No. 52, Jalan Kedidi 2, Taman Scientex, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -73948,7 +76020,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4279",
+    "id": "4390",
     "title": "2 Storey Terrace House",
     "address": "No. 72, Jalan Ekoflora 5/3, Taman Ekoflora, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -73965,7 +76037,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4280",
+    "id": "4391",
     "title": "Condominium",
     "address": "Unit No, #31-06, Block B, Kondominium Mutiara, Jalan Larkin Perdana 2, Taman Larkin Perdana, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -73982,7 +76054,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4281",
+    "id": "4392",
     "title": "Apartment",
     "address": "Unit No. #10-01, Blok C, Apartment Seri Danga, Jalan Tengah, Kampung Sungai Danga, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -73999,7 +76071,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4282",
+    "id": "4393",
     "title": "Service Apartment",
     "address": "Unit No. A-04-03, Blok A, Apartment Dwi Danga, Jalan Tengah, Kampung Sungai Danga, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74016,7 +76088,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4283",
+    "id": "4394",
     "title": "Service Apartment",
     "address": "Unit No. 19-03, Pangsapuri Rinting Indah, Jalan Rinting, Taman Rinting Indah, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74033,7 +76105,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4284",
+    "id": "4395",
     "title": "Service Apartment",
     "address": "Unit No. A-10-08, Pangsapuri Permata Austin, Jalan Austin Perdana 1, Taman Austin Perdana, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74050,7 +76122,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4285",
+    "id": "4396",
     "title": "Service Apartment",
     "address": "Unit No. #10-14, Block B, Pangsapuri Putra Mewah (also known as The Platino Serviced Apartment), Jalan Segenting, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74067,7 +76139,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4286",
+    "id": "4397",
     "title": "Shop Lot",
     "address": "Unit No. #03-53, Kompleks Kapital, Jalan Tampoi, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74084,7 +76156,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4287",
+    "id": "4398",
     "title": "Apartment",
     "address": "Unit No. #29-06, Blok D, Kondominium Mutiara, Jalan Larkin Perdana 2, Taman Larkin Perdana, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -74101,7 +76173,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4288",
+    "id": "4399",
     "title": "Service Apartment",
     "address": "Unit No. #16-02, Menara B, Pangsapuri Palma, Jalan Palma Perak 1, Desa Palma, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74118,7 +76190,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4289",
+    "id": "4400",
     "title": "Apartment",
     "address": "Unit No. E-08-09, Block E, Pangsapuri Denai Nusantara, Persiaran Denai, Taman Denai Nusantara, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -74135,7 +76207,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4290",
+    "id": "4401",
     "title": "Apartment",
     "address": "Unit No. B-07-01, Block B, Pangsapuri Cendera 1, Jalan Pulai Mutiara Utama 4, Taman Pulai Mutiara 2, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -74152,7 +76224,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4291",
+    "id": "4402",
     "title": "Apartment",
     "address": "Unit No. C3-12, Apartment Rose Villa, Jalan Sri Putri 11/6, Taman Putri Kulai, 81000, Kulai, Johor",
     "postcode": "81000",
@@ -74169,7 +76241,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4292",
+    "id": "4403",
     "title": "Service Apartment",
     "address": "Unit No. #11-11, Block 1, Menara A, Residensi Idaman Ria, Jalan Susur Idaman, Taman Nusa Idaman, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -74186,7 +76258,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4293",
+    "id": "4404",
     "title": "Flat",
     "address": "Unit No. #01-10, Block E, Jalan Larkin Perdana 3, Larkin Perdana, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -74203,7 +76275,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4294",
+    "id": "4405",
     "title": "Apartment",
     "address": "Unit No. A-28-E6, One Medini, No. 2, Persiaran Utara 3, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -74220,7 +76292,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4295",
+    "id": "4406",
     "title": "Service Apartment [2 min walk to Mydin Mall - Taman Rinting; 8 min walk to Lotus's Seri Alam]",
     "address": "Unit No. #27-09, Pangsapuri Rinting Indah (KSL Avery Park), 81750 Masai, Johor",
     "postcode": "81750",
@@ -74237,7 +76309,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4296",
+    "id": "4407",
     "title": "Flat",
     "address": "Unit No. #02-12, Block 3, Jalan Desa Kempas 2, Taman Desa Kempas, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74254,7 +76326,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4297",
+    "id": "4408",
     "title": "2 Storey Terrace House",
     "address": "No. 23, Jalan Puncak Warisan 1/1, Puncak Warisan, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -74271,7 +76343,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4298",
+    "id": "4409",
     "title": "Service Apartment",
     "address": "Unit No. 17-03, Blok B, Laman Damai, Persiaran Aliff Harmoni Utama, Country Garden Sentral, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74288,7 +76360,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4299",
+    "id": "4410",
     "title": "Apartment",
     "address": "Unit No. E-09-03, Blok E, Residensi Prima Larkin, Jalan Larkin, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -74305,7 +76377,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4300",
+    "id": "4411",
     "title": "Apartment",
     "address": "Unit No. #G-11, Block C, Pangsapuri Permas Ville, Jalan Permas 3, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74322,7 +76394,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4301",
+    "id": "4412",
     "title": "Shop Apartment",
     "address": "Unit No. 01-15, Block B, Jalan Jelatang 2, Taman Cahaya Kota Putri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74339,7 +76411,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4302",
+    "id": "4413",
     "title": "Apartment",
     "address": "Unit No. 30-06, Block C, Residensi Pandan 3, Jalan Pandan RIa Utama, Pusat Perdagangan Pandan, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74356,7 +76428,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4303",
+    "id": "4414",
     "title": "Luxurious Apartment",
     "address": "Unit No. #10-11, Blok C, Apartment Botanika, Jalan Bayu Puteri 2, Taman Bayu Puteri, 80150 Johor Bahru, Johor",
     "postcode": "80150",
@@ -74373,7 +76445,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4304",
+    "id": "4415",
     "title": "1 Storey Bungalow House",
     "address": "No. 105, Jalan Sp 20, Taman Serom Perdana, 84900 Tangkak, Johor",
     "postcode": "84900",
@@ -74390,7 +76462,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4305",
+    "id": "4416",
     "title": "Service Apartment",
     "address": "Unit No. #24-09, Menara A, Pangsapuri Seri Permata (also known as One49 Residence), Jalan Kunyit, Taman Sri Amar, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74407,7 +76479,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4306",
+    "id": "4417",
     "title": "Service Apartment",
     "address": "Unit No. 15-11, Menara D, Residensi Idaman Ria, Jalan Susur Idaman, Nusa Idaman, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -74424,7 +76496,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4307",
+    "id": "4418",
     "title": "Service Apartment",
     "address": "Unit No. A1-21-03A, Blok A1, Pangsapuri Sierra Meridian, Taman Sierra Perdana, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74441,7 +76513,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4308",
+    "id": "4419",
     "title": "Serviced Apartment",
     "address": "Unit No. #18-14, Menara D, Residensi Masai, Jalan Masai Jaya 2, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74458,7 +76530,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4309",
+    "id": "4420",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Jalan Alam Sitrin 4, Bandar Seri Alam, 81750, Masai, Johor",
     "postcode": "81750",
@@ -74475,7 +76547,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4310",
+    "id": "4421",
     "title": "Service Apartment",
     "address": "Blok C, Kip Villa Indah, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74492,7 +76564,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4311",
+    "id": "4422",
     "title": "Service Apartment",
     "address": "Pangsapuri Permata Austin, Jalan Austin Perdana 1, Taman Austin Perdana, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74509,7 +76581,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4312",
+    "id": "4423",
     "title": "2 Storey Terrace House",
     "address": "Jalan Samping 1, Taman Bukit Jaya, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -74526,7 +76598,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4313",
+    "id": "4424",
     "title": "Service Apartment",
     "address": "Menara D2, Pangsapuri Puncak Kempas Utama, Jalan Kempas Utama 2/6, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -74543,7 +76615,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4314",
+    "id": "4425",
     "title": "Service Apartment",
     "address": "Aras 2, Pangsapuri Lagenda Tasek, Jalan Tun Abdul Razak Susur 6, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74560,7 +76632,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4315",
+    "id": "4426",
     "title": "2 Storey Terrace House",
     "address": "Jalan Pulai Mutiara 5/3, Taman Pulai Mutiara, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -74577,7 +76649,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4316",
+    "id": "4427",
     "title": "Apartment",
     "address": "Tingkat 2, Block J, Ria Apartment 2, Jalan Cenderai 19, Bandar Baru Kota Puteri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74594,7 +76666,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4317",
+    "id": "4428",
     "title": "1 Storey Terrace House",
     "address": "No. 28, Jalan Lading 33, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -74611,7 +76683,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4318",
+    "id": "4429",
     "title": "2 Storey Terrace House",
     "address": "No. 62, Jalan Sri Kluang 23, Taman Sri Kluang, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -74628,7 +76700,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4319",
+    "id": "4430",
     "title": "2 Storey Terrace House",
     "address": "No. 30, Jalan Tenteram 5,Taman Nusa Damai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -74645,7 +76717,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4320",
+    "id": "4431",
     "title": "Service Apartment",
     "address": "Unit No. 13-09, Blok C, Kip Villa Indah, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74662,7 +76734,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4321",
+    "id": "4432",
     "title": "Service Apartment",
     "address": "Unit No. A11-07, Pangsapuri Permata Austin, Jalan Austin Perdana 1, Taman Austin Perdana, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -74679,7 +76751,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4322",
+    "id": "4433",
     "title": "Service Apartment",
     "address": "Unit No. #24-03, Menara D2, Pangsapuri Puncak Kempas Utama, Jalan Kempas Utama 2/6, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -74696,7 +76768,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4323",
+    "id": "4434",
     "title": "Apartment",
     "address": "Unit No. #02-01, Tingkat 2, Block J, Ria Apartment 2, Jalan Cenderai 19, Bandar Baru Kota Puteri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74713,7 +76785,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4324",
+    "id": "4435",
     "title": "1 Storey Terrace House",
     "address": "No. 28, Jalan Lading 33, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -74730,7 +76802,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4325",
+    "id": "4436",
     "title": "3 Storey Cluster House",
     "address": "No. 18, Jalan Bukit Skudai 2, Taman Bukit Skudai, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -74747,7 +76819,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4326",
+    "id": "4437",
     "title": "Apartment",
     "address": "Unit No. 17-04 (On Site 17-3A), Block C, Pangsapuri Seri Mutiara, (also known as Seri Mutiara Apartments), Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74764,7 +76836,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4327",
+    "id": "4438",
     "title": "Service Apartment",
     "address": "Unit No. 02-06, Aras 2, Pangsapuri Lagenda Tasek, Jalan Tun Abdul Razak Susur 6, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -74781,7 +76853,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4328",
+    "id": "4439",
     "title": "2 Storey Terrace House",
     "address": "No. 46, Jalan Pulai Mutiara 5/3, Taman Pulai Mutiara, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -74798,7 +76870,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4329",
+    "id": "4440",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Jalan Samping 1, Taman Bukit Jaya, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -74815,7 +76887,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4330",
+    "id": "4441",
     "title": "2 Storey Terrace House",
     "address": "Jalan Sri Kluang 23, Taman Sri Kluang, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -74832,7 +76904,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4331",
+    "id": "4442",
     "title": "2 Storey Terrace House",
     "address": "Jalan Perjiranan 11/25, Bandar Dato' Onn, 81100, Johor Bahru, Johor",
     "postcode": "81100",
@@ -74849,7 +76921,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4332",
+    "id": "4443",
     "title": "Apartment",
     "address": "Unit No. E-04-03, Tingkat 4, Blok E, Pangsapuri Seri Alam, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750, Masai, Johor",
     "postcode": "81750",
@@ -74866,7 +76938,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4333",
+    "id": "4444",
     "title": "Condominium",
     "address": "Unit No. 08-07, Blok A, Pangsapuri Seri Alam, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -74883,7 +76955,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4334",
+    "id": "4445",
     "title": "2 Storey Terrace House",
     "address": "No. 5, Jalan Sejati 9, Taman Tasik Sejati, 85010 Buloh Kasap, Segamat, Johor",
     "postcode": "85010",
@@ -74900,7 +76972,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4335",
+    "id": "4446",
     "title": "2 Storey Cluster House",
     "address": "No. 5, Jalan Rambai 16, Taman Kota Masai, 81700, Pasir Gudang, Johor",
     "postcode": "81700",
@@ -74917,7 +76989,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4336",
+    "id": "4447",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Mustika, Kampung Melayu Majidee, 81100, Johor Bahru, Johor",
     "postcode": "81100",
@@ -74934,7 +77006,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4337",
+    "id": "4448",
     "title": "1 Storey Terrace House",
     "address": "No. 43, Jalan Pakis Tiga, Taman Sri Pulai, 81300, Skudai, Johor",
     "postcode": "81300",
@@ -74951,7 +77023,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4338",
+    "id": "4449",
     "title": "2 Storey Terrace House",
     "address": "No. 86, Jalan Indah Utama 1/2, Bandar Putra, 81000, Kulai, Johor",
     "postcode": "81000",
@@ -74968,7 +77040,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4339",
+    "id": "4450",
     "title": "2 Storey Cluster House",
     "address": "Jalan Rambai 16, Taman Kota Masai, 81700, Pasir Gudang, Johor",
     "postcode": "81700",
@@ -74985,7 +77057,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4340",
+    "id": "4451",
     "title": "Apartment",
     "address": "Unit No. E-04-03, Tingkat 4, Blok E, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750, Masai, Johor",
     "postcode": "81750",
@@ -75002,7 +77074,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4341",
+    "id": "4452",
     "title": "Condominium",
     "address": "Unit No. 08-07, Blok A, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75019,7 +77091,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4342",
+    "id": "4453",
     "title": "Medical Suites",
     "address": "Unit No. A-01-13 & A-02-13, Pejabat Perunding Perubatan Swasta, Jalan Persiaran Afiat, Taman Kesihatan Afiat, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -75036,7 +77108,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4343",
+    "id": "4454",
     "title": "2 Storey Terrace House",
     "address": "Jalan Kemboja 9, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -75053,7 +77125,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4344",
+    "id": "4455",
     "title": "1 Storey Terrace House",
     "address": "Jalan NB2 4/8, Taman Nusa Bestari 2, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -75070,7 +77142,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4345",
+    "id": "4456",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Impiana 10, Taman Impiana, Kelapa Sawit, 81030 Kulai, Johor",
     "postcode": "81030",
@@ -75087,7 +77159,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4346",
+    "id": "4457",
     "title": "Service Apartment",
     "address": "Aras 19, Pangsapuri Lagenda Tasek, Jalan Padi Makmur, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -75104,7 +77176,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4347",
+    "id": "4458",
     "title": "Terrace House",
     "address": "Jalan Kejayaan 2, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -75121,7 +77193,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4348",
+    "id": "4459",
     "title": "1 Storey Terrace House",
     "address": "No. 14, Jalan NB2 4/8, Taman Nusa Bestari 2, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -75138,7 +77210,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4349",
+    "id": "4460",
     "title": "Apartment",
     "address": "Unit No. A2-03-02, Pangsapuri Seri Mengkuang 2, Persiaran Juragan, Desa Paya Mengkuang, 81560 Gelang Patah, Johor",
     "postcode": "81560",
@@ -75155,7 +77227,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4350",
+    "id": "4461",
     "title": "2 Storey Terrace House",
     "address": "No. 1372, Jalan Scientex Jaya 26, Taman Scientex, 81400 Senai, Johor",
     "postcode": "81400",
@@ -75172,7 +77244,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4351",
+    "id": "4462",
     "title": "Service Apartment",
     "address": "Unit No. 10-17, Pangsapuri Oasis 1, Jalan Setia 12/7, Taman Setia Indah, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -75189,7 +77261,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4352",
+    "id": "4463",
     "title": "2 Storey Terrace House",
     "address": "No. 25, Jalan Seri Austin 1/27, Taman Seri Austin, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -75206,7 +77278,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4353",
+    "id": "4464",
     "title": "2 Storey Terrace House",
     "address": "No. 52, Jalan Tasek 7, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75223,7 +77295,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4354",
+    "id": "4465",
     "title": "Apartment",
     "address": "Block C, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75240,7 +77312,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4355",
+    "id": "4466",
     "title": "2 Storey Terrace House",
     "address": "Jalan Kemboja 7, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -75257,7 +77329,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4356",
+    "id": "4467",
     "title": "2 Storey Terrace House",
     "address": "No. 42, Jalan Kemboja 9, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -75274,7 +77346,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4357",
+    "id": "4468",
     "title": "2 Storey Semi Detached House",
     "address": "No. 284, Jalan Impiana 10, Taman Impiana, Kelapa Sawit, 81030 Kulai, Johor",
     "postcode": "81030",
@@ -75291,7 +77363,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4358",
+    "id": "4469",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bukit Indah 8, Taman Bukit Indah 2, Bukit Siput, 85020 Segamat, Johor",
     "postcode": "85020",
@@ -75308,7 +77380,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4359",
+    "id": "4470",
     "title": "Apartment",
     "address": "Unit No. A-30-02, Merak Kayangan, Persiaran Medini Utara 3, Bandar Medini Iskandar, 79000 Iskandar Puteri, Johor",
     "postcode": "79000",
@@ -75325,7 +77397,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4360",
+    "id": "4471",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Jalan Kejayaan 2, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -75342,7 +77414,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4361",
+    "id": "4472",
     "title": "2 Storey Terrace House",
     "address": "Jalan Seri Austin 1/27, Taman Seri Austin, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -75359,7 +77431,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4362",
+    "id": "4473",
     "title": "2 Storey Terrace House",
     "address": "No. 1, Jalan Kuini 7, Taman Kota Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -75376,7 +77448,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4363",
+    "id": "4474",
     "title": "2 Storey Terrace House",
     "address": "No. 9, Jalan Kemboja 7, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -75393,7 +77465,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4364",
+    "id": "4475",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Jalan Bukit Indah 8, Taman Bukit Indah 2, Bukit Siput, 85020 Segamat, Johor",
     "postcode": "85020",
@@ -75410,7 +77482,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4365",
+    "id": "4476",
     "title": "Apartment",
     "address": "Unit No. #01-03, Blok B, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -75427,7 +77499,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4366",
+    "id": "4477",
     "title": "2 Storey Terrace House",
     "address": "No. 31, Jalan Sutera Pulai 2/12, Taman Sutera Utama, 81300, Johor Bahru, Johor",
     "postcode": "81300",
@@ -75444,7 +77516,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4367",
+    "id": "4478",
     "title": "2 Storey Terrace House",
     "address": "Jalan Puncak Warisan 1/4,Taman Puncak Warisan, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -75461,7 +77533,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4368",
+    "id": "4479",
     "title": "2 Storey Terrace House",
     "address": "Jalan KM 2/2, Taman Kota Mas, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -75478,7 +77550,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4369",
+    "id": "4480",
     "title": "Terrace House",
     "address": "Jalan SS 5/5, Taman Sri Saujana, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -75495,7 +77567,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4370",
+    "id": "4481",
     "title": "2 Storey Terrace House",
     "address": "No. 24, Jalan KM 2/2, Taman Kota Mas, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -75512,7 +77584,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4371",
+    "id": "4482",
     "title": "Flat",
     "address": "Unit No. E-41, Tingkat 4, Blok E, Jalan Rumah Pangsa 5, Rumah Pangsa Kulai, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -75529,7 +77601,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4372",
+    "id": "4483",
     "title": "Shop Office",
     "address": "No. 6-03, Jalan Pandan Ria 5, Pusat Perdagangan Pandan, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -75546,7 +77618,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4373",
+    "id": "4484",
     "title": "Shop Office",
     "address": "Unit No. 8-03, Jalan Pandan Ria 5, Pusat Perdagangan Pandan, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -75563,7 +77635,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4374",
+    "id": "4485",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Jalan Puncak Warisan 1/4,Taman Puncak Warisan, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -75580,7 +77652,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4375",
+    "id": "4486",
     "title": "2 Storey Terrace House",
     "address": "No. 65, Jalan Murai 5, Taman Scientex, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -75597,7 +77669,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4376",
+    "id": "4487",
     "title": "Apartment",
     "address": "Block B, Pangsapuri Seri Mutiara (Seri Mutiara Apartment), Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75614,7 +77686,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4377",
+    "id": "4488",
     "title": "Service Apartment",
     "address": "Blok D, KIP Indah Villa, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -75631,7 +77703,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4378",
+    "id": "4489",
     "title": "Seri Bayan Apartment",
     "address": "Block A, Pangsapuri Seri Bayan, Jalan Bayan 11, Bandar Baru Kota Puteri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75648,7 +77720,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4379",
+    "id": "4490",
     "title": "Apartment",
     "address": "Unit No. 02-01, Block D, Bistari Impian Apartment, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -75665,7 +77737,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4380",
+    "id": "4491",
     "title": "2 Storey Terrace House",
     "address": "No. 15, Jalan Laman Setia 4/13, Taman Laman Setia, 81550 Johor Bahru, Johor",
     "postcode": "81550",
@@ -75682,7 +77754,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4381",
+    "id": "4492",
     "title": "Apartment",
     "address": "Unit No. 11-03, Blok B, Pangsapuri Seri Mutiara, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75699,7 +77771,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4382",
+    "id": "4493",
     "title": "1 Storey Terrace House",
     "address": "No. 46, Jalan Perak 6, Taman Sri Skudai, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -75716,7 +77788,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4383",
+    "id": "4494",
     "title": "Apartment",
     "address": "Unit No. E2-13-01, Jalan Indah 23/2, Taman Bukit Indah 2, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -75733,7 +77805,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4384",
+    "id": "4495",
     "title": "Service Apartment",
     "address": "Unit No. #28-11, Blok B, Pangsapuri Putra Mewah, Jalan Segenting, Taman Bukit Mewah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -75750,7 +77822,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4385",
+    "id": "4496",
     "title": "Seri Bayan Apartment",
     "address": "Unit No. 03-06, Block A, Pangsapuri Seri Bayan, Jalan Bayan 11, Bandar Baru Kota Puteri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75767,7 +77839,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4386",
+    "id": "4497",
     "title": "Service Apartment",
     "address": "Unit No. #06-11, Blok D, KIP Indah Villa, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -75784,7 +77856,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4387",
+    "id": "4498",
     "title": "Apartment",
     "address": "Unit No. 03-02, Block B, Pangsapuri Seri Mutiara (Seri Mutiara Apartment), Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75801,7 +77873,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4388",
+    "id": "4499",
     "title": "Apartment",
     "address": "Unit No. 02-10-15, Block C, Pangsapuri Pan Vista, Jalan Permas 7, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75818,7 +77890,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4389",
+    "id": "4500",
     "title": "3 Storey Terrace House",
     "address": "No. 4, Jalan Pulai Mutiara 11/6, Taman Pulai Mutiara 2, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -75835,7 +77907,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4390",
+    "id": "4501",
     "title": "2 Storey Terrace House",
     "address": "Jalan Laman Setia 4/13, Taman Laman Setia, 81550 Johor Bahru, Johor",
     "postcode": "81550",
@@ -75852,7 +77924,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4391",
+    "id": "4502",
     "title": "Apartment",
     "address": "Unit No. 11-03, Blok B, Pangsapuri Seri Mutiara, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75869,7 +77941,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4392",
+    "id": "4503",
     "title": "Apartment",
     "address": "Unit No. 8-3-8, Block Temenggong 8, Jalan Persiaran 3, Bandar Indahpura, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -75886,7 +77958,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4393",
+    "id": "4504",
     "title": "3 Storey Shop Office",
     "address": "No. 26, Jalan Eko Botani 2E, Taman Eko Botani 2, 79100 lskandar Puteri, Johor",
     "postcode": "79100",
@@ -75903,7 +77975,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4394",
+    "id": "4505",
     "title": "3 Storey Semi Detached House",
     "address": "No. 20, Jalan Kempas Utama 1/25, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -75920,7 +77992,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4395",
+    "id": "4506",
     "title": "Condominium",
     "address": "Unit No. 01-01, Block B, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -75937,7 +78009,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4396",
+    "id": "4507",
     "title": "1 Storey Terrace House",
     "address": "No. 33, Jalan Emas 27, Taman Sri Putri, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -75954,7 +78026,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4397",
+    "id": "4508",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Jalan 5/4, Taman Sri Kluang, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -75971,7 +78043,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4398",
+    "id": "4509",
     "title": "2 Storey Terrace House",
     "address": "No. 25, Jalan Hang Tuah 7/3, Taman Muhibbah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -75988,7 +78060,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4399",
+    "id": "4510",
     "title": "2 Storey Terrace House",
     "address": "No. 52, Jalan Putera Indah 12/18, Taman Putera Indah, 83010 Batu Pahat, Johor",
     "postcode": "83010",
@@ -76005,7 +78077,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4400",
+    "id": "4511",
     "title": "2 Storey Terrace House",
     "address": "No. 17, Jalan Tiong 8, Taman Scientex, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -76022,7 +78094,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4401",
+    "id": "4512",
     "title": "2 Storey Cluster House",
     "address": "Jalan Ekoflora 1/11, Taman Ekoflora, 81100 Johor Bharu, Johor",
     "postcode": "81100",
@@ -76039,7 +78111,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4402",
+    "id": "4513",
     "title": "2 Storey Terrace House",
     "address": "No. 1052, Jalan Seri Impian 6/42, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -76056,7 +78128,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4403",
+    "id": "4514",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Jalan Undan 1, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76073,7 +78145,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4404",
+    "id": "4515",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Jalan Bukit Impian 28/3, Taman Impian Emas, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -76090,7 +78162,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4405",
+    "id": "4516",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tiong 8, Taman Scientex, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -76107,7 +78179,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4406",
+    "id": "4517",
     "title": "2 Storey Terrace House",
     "address": "No. 34, Jalan Danga Sutera 6/3, Taman Danga Sutera, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -76124,7 +78196,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4407",
+    "id": "4518",
     "title": "2 Storey Terrace House",
     "address": "Jalan Undan 1, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76141,7 +78213,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4408",
+    "id": "4519",
     "title": "3 Storey Shop Office",
     "address": "No. 20, Jalan Pelepas 2/2, Taman Perindustrian Tanjung Pelepas, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -76158,7 +78230,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4409",
+    "id": "4520",
     "title": "2 Storey Cluster House",
     "address": "No. 32, Jalan Ekoflora 1/11, Taman Ekoflora, 81100 Johor Bharu, Johor",
     "postcode": "81100",
@@ -76175,7 +78247,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4410",
+    "id": "4521",
     "title": "2 Storey Terrace House",
     "address": "No. 58, Jalan Hang Tuah 3, Taman Skudai Baru, 81300, Skudai, Johor",
     "postcode": "81300",
@@ -76192,7 +78264,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4411",
+    "id": "4522",
     "title": "Apartment",
     "address": "Unit No. #11-03, Blok 1, Impian Senibong, Jalan Persiaran Senibong, Taman Bayu Senibong, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76209,7 +78281,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4412",
+    "id": "4523",
     "title": "Apartment",
     "address": "Unit No. 11-02, Block D, Pangsapuri Seri Mutiara (Seri Mutiara Apartments), Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76226,7 +78298,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4413",
+    "id": "4524",
     "title": "Service Apartment",
     "address": "Pangsapuri Lagenda Tasek, Jalan Padi Makmur, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76243,7 +78315,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4414",
+    "id": "4525",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Jalan Kejayaan 57, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -76260,7 +78332,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4415",
+    "id": "4526",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Jalan Eko Tropika 2/12, Taman Kota Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -76277,7 +78349,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4416",
+    "id": "4527",
     "title": "2 Storey Terrace House",
     "address": "No. 51, Jalan Putera Indah 12/18, Taman Putera Indah, 83010 Tongkang Pechah, Batu Pahat, Johor",
     "postcode": "83010",
@@ -76294,7 +78366,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4417",
+    "id": "4528",
     "title": "Service Apartment",
     "address": "Unit No. 07-02, Blok A, Pangsapuri Puncak Setia, Jalan Setia Tropika 1/21, Taman Setia Tropika, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76311,7 +78383,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4418",
+    "id": "4529",
     "title": "2 Storey Terrace House",
     "address": "No. 117, Jalan Sentral 19, Taman Nusa Sentral, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -76328,7 +78400,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4419",
+    "id": "4530",
     "title": "2 Storey Terrace House",
     "address": "No. 50, Jalan Permatang 24, Taman Desa Jaya, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -76345,7 +78417,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4420",
+    "id": "4531",
     "title": "2 Storey Terrace House",
     "address": "Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -76362,7 +78434,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4421",
+    "id": "4532",
     "title": "2 Storey Terrace House",
     "address": "Jalan Sentral 19, Taman Nusa Sentral, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -76379,7 +78451,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4422",
+    "id": "4533",
     "title": "2 Storey Terrace House",
     "address": "Jalan Pulai 7,Taman Desaru Utama, 81390 Penawar, Johor",
     "postcode": "81390",
@@ -76396,7 +78468,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4423",
+    "id": "4534",
     "title": "2 Storey Terrace House",
     "address": "Jalan Laman Citra 18, Laman Citra, 81500 Pontian, Johor",
     "postcode": "81500",
@@ -76413,7 +78485,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4424",
+    "id": "4535",
     "title": "3 Storey Terrace House",
     "address": "No. 61, Jalan Eko Botani 1/8, Taman Eko Botani, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -76430,7 +78502,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4425",
+    "id": "4536",
     "title": "1 Storey Terrace House",
     "address": "No. 129, Jalan Simbang, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76447,7 +78519,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4426",
+    "id": "4537",
     "title": "Service Apartment",
     "address": "Unit No. 04-05, Pangsapuri Lagenda Tasek, Jalan Padi Makmur, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76464,7 +78536,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4427",
+    "id": "4538",
     "title": "1 Storey Detached House",
     "address": "PTD 6566, Jalan S Delima Utama, Kampung Tersusun Seri Delima, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -76481,7 +78553,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4428",
+    "id": "4539",
     "title": "2 Storey Terrace House",
     "address": "No. 3, Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -76498,7 +78570,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4429",
+    "id": "4540",
     "title": "2 Storey Terrace House",
     "address": "No. 43, Jalan Pulai 7,Taman Desaru Utama, 81390 Penawar, Johor",
     "postcode": "81390",
@@ -76515,7 +78587,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4430",
+    "id": "4541",
     "title": "Agricultural Land",
     "address": "Lot 6004, Mukim Minyak Beku, 83000, Daerah Batu Pahat, Johor",
     "postcode": "83000",
@@ -76532,7 +78604,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4431",
+    "id": "4542",
     "title": "Agricultural Land",
     "address": "Lot 6003, Mukim Minyak Beku, 83000, Daerah Batu Pahat, Johor",
     "postcode": "83000",
@@ -76549,7 +78621,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4432",
+    "id": "4543",
     "title": "1 Storey Terrace House",
     "address": "No. 22, Jalan Setia 8/3, Taman Setia Indah, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -76566,7 +78638,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4433",
+    "id": "4544",
     "title": "1 Storey Terrace House",
     "address": "No. 36, Jalan Saujana Impian 3, Taman Saujana, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -76583,7 +78655,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4434",
+    "id": "4545",
     "title": "1 Storey Semi Detached House",
     "address": "No. 23, Jalan Pembangunan, Taman Penawar Utama, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -76600,7 +78672,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4435",
+    "id": "4546",
     "title": "2 Storey Terrace House",
     "address": "Jalan Mawar 17, Taman Mawar, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -76617,7 +78689,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4436",
+    "id": "4547",
     "title": "Apartment",
     "address": "Unit No. 20-03, Block C, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76634,7 +78706,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4437",
+    "id": "4548",
     "title": "Apartment",
     "address": "Unit No. 02-01, Blok G, Pangsapuri Seri Mutiara, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76651,7 +78723,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4438",
+    "id": "4549",
     "title": "Office Unit",
     "address": "Unit No 02-11, Aras 2, Wisma SP Setia, Jalan Indah 15, Taman Bukit Indah, 79100, Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -76668,7 +78740,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4439",
+    "id": "4550",
     "title": "Apartment",
     "address": "Unit No. B-2-14, Skudai Villa Apartment, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -76685,7 +78757,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4440",
+    "id": "4551",
     "title": "Service Apartment",
     "address": "Unit No. #08-02, Blok A, Residensi Seri Mega, Jalan Kempas 14, Taman Megah Ria, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76702,7 +78774,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4441",
+    "id": "4552",
     "title": "Apartment",
     "address": "Unit No. 02-04, Blok E, Pangsapuri Seri Mutiara, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76719,7 +78791,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4442",
+    "id": "4553",
     "title": "1 Storey Terrace House",
     "address": "No. 22, Jalan Setia 8/13, Taman Setia Indah, 81100, Johor Bahru, Johor",
     "postcode": "81100",
@@ -76736,7 +78808,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4443",
+    "id": "4554",
     "title": "2 Storey Terrace House",
     "address": "No. 90, Jalan Helang 8, Taman Scientex, 81750, Masai, Johor",
     "postcode": "81750",
@@ -76753,7 +78825,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4444",
+    "id": "4555",
     "title": "1 Storey Terrace House",
     "address": "Jalan Manis 22, Taman Manis, 81030 Kelapa Sawit, Kulai, Johor",
     "postcode": "81030",
@@ -76770,7 +78842,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4445",
+    "id": "4556",
     "title": "2 Storey Terrace House",
     "address": "Jalan Rimbun 2, Taman Serimbun, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -76787,7 +78859,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4446",
+    "id": "4557",
     "title": "Apartment",
     "address": "Blok B1, Impian Senibong, Jalan Persiaran Senibong, Taman Bayu Senibong, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76804,7 +78876,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4447",
+    "id": "4558",
     "title": "2 Storey Terrace House",
     "address": "No. 71, Jalan Wau Barat 5, Bandar Layangkasa, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -76821,7 +78893,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4448",
+    "id": "4559",
     "title": "1 Storey Terrace House",
     "address": "No. 137, Jalan Cendana 13, Taman Rinting, 81750 Masai, Johor",
     "postcode": "81750",
@@ -76838,7 +78910,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4449",
+    "id": "4560",
     "title": "Condominium",
     "address": "Jalan Sri Laguna 1, Bukit Laguna, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76855,7 +78927,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4450",
+    "id": "4561",
     "title": "Apartment",
     "address": "Block T1, Pangsapuri Molek Pine, Jalan Molek 1/27, Taman Molek, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -76872,7 +78944,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4451",
+    "id": "4562",
     "title": "1 Storey Terrace House",
     "address": "No. 120, Jalan Seri Impian 1/3, Taman Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -76889,7 +78961,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4452",
+    "id": "4563",
     "title": "3 Storey Shop House",
     "address": "No. 214 & 214A & 214B, Jalan Rugayah, Bandar Penggaram, 83000 Batu Pahat, Johor",
     "postcode": "83000",
@@ -76906,7 +78978,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4453",
+    "id": "4564",
     "title": "Condominium",
     "address": "Unit No. #05-05 (known as L-5-03A), Jalan Sri Laguna 1, Bukit Laguna, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -76923,7 +78995,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4454",
+    "id": "4565",
     "title": "Apartment",
     "address": "Unit No. #10-01, Block T1, Pangsapuri Molek Pine, Jalan Molek 1/27, Taman Molek, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -76940,7 +79012,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4455",
+    "id": "4566",
     "title": "1 Storey Terrace House",
     "address": "No. 439, Jalan Manis 22, Taman Manis, 81030 Kelapa Sawit, Kulai, Johor",
     "postcode": "81030",
@@ -76957,7 +79029,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4456",
+    "id": "4567",
     "title": "2 Storey Terrace House",
     "address": "No. 67, Jalan Rimbun 2, Taman Serimbun, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -76974,7 +79046,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4457",
+    "id": "4568",
     "title": "Service Apartment",
     "address": "Unit No. C-11-10, Villa Krystal, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -76991,7 +79063,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4458",
+    "id": "4569",
     "title": "Apartment",
     "address": "Unit No. 25-06, Block B, Seri Mutiara Apartment, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77008,7 +79080,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4459",
+    "id": "4570",
     "title": "2 Storey Terrace House",
     "address": "No. 57, Jalan 1/5, Taman Fajar 2, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -77025,7 +79097,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4460",
+    "id": "4571",
     "title": "2 Storey Terrace House",
     "address": "No. 1, Jalan Mewah Ria 5/2, Taman Bukit Mewah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -77042,7 +79114,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4461",
+    "id": "4572",
     "title": "Apartment",
     "address": "Unit No. #11-02, Blok B1, Impian Senibong, Jalan Persiaran Senibong, Taman Bayu Senibong, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77059,7 +79131,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4462",
+    "id": "4573",
     "title": "Apartment",
     "address": "Unit No. 05-06, Blok Geharu D, Jalan Geharu 11, Taman Rinting, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77076,7 +79148,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4463",
+    "id": "4574",
     "title": "2 Storey Terrace House",
     "address": "No. 18, Jalan Pinang 69, Taman Daya, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -77093,7 +79165,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4464",
+    "id": "4575",
     "title": "2 Storey Semi Detached House",
     "address": "No. 23, Jalan Danga Sutera 9/3, Taman Danga Sutera, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77110,7 +79182,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4465",
+    "id": "4576",
     "title": "Terrace House",
     "address": "Jalan Wau Barat 11, Bandar Layangkasa, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -77127,7 +79199,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4466",
+    "id": "4577",
     "title": "2 Storey Terrace House",
     "address": "No. 30, Jalan SS 4/4, Taman Sri Saujana, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -77144,7 +79216,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4467",
+    "id": "4578",
     "title": "1 Storey Terrace House",
     "address": "Jalan Rantai 1, Taman Kobena, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -77161,7 +79233,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4468",
+    "id": "4579",
     "title": "2 Storey Terrace House",
     "address": "No. 707, Jalan Scientex Jaya 15, Taman Scientex, 81400 Senai, Johor",
     "postcode": "81400",
@@ -77178,7 +79250,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4469",
+    "id": "4580",
     "title": "Service Apartment",
     "address": "Unit No. A-07-05, Villa Krystal, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -77195,7 +79267,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4470",
+    "id": "4581",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Jalan Hang Tuah 10, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77212,7 +79284,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4471",
+    "id": "4582",
     "title": "Service Apartment",
     "address": "Block 11A, Royal Strand, Persiaran Danga Perdana, Country Garden Danga Bay, 80200 Johor Bahru, Johor",
     "postcode": "80200",
@@ -77229,7 +79301,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4472",
+    "id": "4583",
     "title": "Condominium",
     "address": "Kondominium Selesa Puteri, Jalan Silat Gayong 4, Bandar Selesa Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77246,7 +79318,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4473",
+    "id": "4584",
     "title": "2 Storey Terrace House",
     "address": "Jalan Anggerik 9, Taman Johor Jaya, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -77263,7 +79335,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4474",
+    "id": "4585",
     "title": "Apartment",
     "address": "Unit No. B1-G1-8, Vista Seri Alam, Jalan Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77280,7 +79352,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4475",
+    "id": "4586",
     "title": "2 Storey Cluster House",
     "address": "Jalan Kempas Utama 1/45, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -77297,7 +79369,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4476",
+    "id": "4587",
     "title": "Apartment",
     "address": "Unit No. 05-15, Block A, Perumahan Aman Larkin, Jalan Tani, Kampung Aman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -77314,7 +79386,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4477",
+    "id": "4588",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Jalan Palas 12, Taman Teratai, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77331,7 +79403,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4478",
+    "id": "4589",
     "title": "Condominium",
     "address": "Unit No. Blok B-09-01, Jalan Kolam Air, Condominium Aloha, 80100 Johor Bahru, Johor",
     "postcode": "80100",
@@ -77348,7 +79420,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4479",
+    "id": "4590",
     "title": "2 Storey Terrace House",
     "address": "No. 37, Jalan Anggerik 2, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -77365,7 +79437,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4480",
+    "id": "4591",
     "title": "2 Storey Cluster House",
     "address": "No. 11, Jalan Kempas Utama 1/45, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -77382,7 +79454,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4481",
+    "id": "4592",
     "title": "Service Apartment",
     "address": "Unit No. C-13-8, Tingkat 13, Block C, Jalan Persiaran Nusa Perdana, Taman Nusa Perintis, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -77399,7 +79471,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4482",
+    "id": "4593",
     "title": "Service Apartment",
     "address": "Unit No. #14-02, Pangsapuri Oasis 1, Jalan Setia 12/7, Taman Setia Indah, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -77416,7 +79488,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4483",
+    "id": "4594",
     "title": "Apartment",
     "address": "Unit No. E-04-10, Skudai Villa, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77433,7 +79505,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4484",
+    "id": "4595",
     "title": "Service Apartment",
     "address": "Unit No. #22-08, Residensi Pandan, Jalan Pandan Ria 7, Pusat Perdagangan Pandan, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -77450,7 +79522,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4485",
+    "id": "4596",
     "title": "Service Apartment",
     "address": "Unit No. #09-06, Block 11A, Royal Strand, Persiaran Danga Perdana, Country Garden Danga Bay, 80200 Johor Bahru, Johor",
     "postcode": "80200",
@@ -77467,7 +79539,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4486",
+    "id": "4597",
     "title": "Service Apartment",
     "address": "Unit No. C-13-8, Tingkat 13, Block C, Nusa Perdana Service Apartment, Jalan Persiaran Nusa Perdana, Taman Nusa Perintis, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -77484,7 +79556,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4487",
+    "id": "4598",
     "title": "Condominium",
     "address": "Unit No. B4-10, Kondominium Selesa Puteri, Jalan Silat Gayong 4, Bandar Selesa Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77501,7 +79573,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4488",
+    "id": "4599",
     "title": "Apartment",
     "address": "Unit No. 05-09, Blok F, Jalan Simbang 17, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -77518,7 +79590,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4489",
+    "id": "4600",
     "title": "2 Storey Terrace House",
     "address": "No. 47, Jalan Silat Harimau 24, Bandar Selesa Jaya, 81300, Skudai, Johor",
     "postcode": "81300",
@@ -77535,7 +79607,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4490",
+    "id": "4601",
     "title": "Apartment",
     "address": "Pangsapuri Delima Larkin, Jalan Idaman 1, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -77552,7 +79624,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4491",
+    "id": "4602",
     "title": "Town House",
     "address": "Pangsapuri Sri Awana, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77569,7 +79641,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4492",
+    "id": "4603",
     "title": "Apartment",
     "address": "Pangsapuri Seri Mengkuang 2 (also known as The Pines Residences), Desa Paya Mengkuang, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -77586,7 +79658,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4493",
+    "id": "4604",
     "title": "1.5 Storey Terrace House",
     "address": "Jalan Hang Tuah 38, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77603,7 +79675,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4494",
+    "id": "4605",
     "title": "Apartment",
     "address": "Blok B, Pangsapuri Permas Ville, Jalan Permas 3, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77620,7 +79692,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4495",
+    "id": "4606",
     "title": "Apartment",
     "address": "Unit No. 17-06, Block B, Pangsapuri Seri Mutiara, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77637,7 +79709,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4496",
+    "id": "4607",
     "title": "2 Storey Terrace House",
     "address": "No. 28, Jalan Surai 44, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77654,7 +79726,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4497",
+    "id": "4608",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Jalan Penyiaran 23, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77671,7 +79743,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4498",
+    "id": "4609",
     "title": "2 Storey Terrace House",
     "address": "No. 15, Jalan Bestari 7/2, Taman Bestari Indah 1, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -77688,7 +79760,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4499",
+    "id": "4610",
     "title": "2 Storey Cluster House",
     "address": "Jalan Adda 5/19, Taman Adda Heights, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -77705,7 +79777,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4500",
+    "id": "4611",
     "title": "2 Storey Terrace House",
     "address": "Jalan Surai 44, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77722,7 +79794,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4501",
+    "id": "4612",
     "title": "1 Storey Terrace House",
     "address": "No. 127, Jalan Sri Putri 1/5, Taman Putri Kulai, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -77739,7 +79811,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4502",
+    "id": "4613",
     "title": "Apartment",
     "address": "Unit No. #04-09, Pangsapuri Delima Larkin, Jalan Idaman 1, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -77756,7 +79828,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4503",
+    "id": "4614",
     "title": "Apartment",
     "address": "Unit No. J-04-12, Pangsapuri Sri Awana, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77773,7 +79845,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4504",
+    "id": "4615",
     "title": "Apartment",
     "address": "Unit No. B3-02-19, Pangsapuri Seri Mengkuang 2 (also known as The Pines Residences), 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -77790,7 +79862,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4505",
+    "id": "4616",
     "title": "1.5 Storey Terrace House",
     "address": "No. 50, Jalan Hang Tuah 38, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -77807,7 +79879,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4506",
+    "id": "4617",
     "title": "Apartment",
     "address": "Unit No. #20-06, Blok B, Pangsapuri Permas Ville, Jalan Permas 3, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77824,7 +79896,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4507",
+    "id": "4618",
     "title": "2 Storey Terrace House",
     "address": "Jalan Suria 44, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -77841,7 +79913,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4508",
+    "id": "4619",
     "title": "2 Storey Cluster House",
     "address": "No. 20, Jalan Adda 5/19, Taman Adda Heights, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -77858,7 +79930,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4509",
+    "id": "4620",
     "title": "2 Storey Terrace House",
     "address": "No. 8569, Jalan Sri Putri 10/12, Taman Putri Kulai, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -77875,7 +79947,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4510",
+    "id": "4621",
     "title": "2 Storey Terrace House",
     "address": "No. 4, Jalan Nusaria 5/11, Taman Nusantara, 79200 Iskandar Puteri, Johor",
     "postcode": "79200",
@@ -77892,7 +79964,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4511",
+    "id": "4622",
     "title": "2 Storey Semi Detached House",
     "address": "No. 2, Jalan Bantuan, Kampung Melayu Majidee, 81100, Johor Bahru, Johor",
     "postcode": "81100",
@@ -77909,7 +79981,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4512",
+    "id": "4623",
     "title": "Apartment",
     "address": "Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -77926,7 +79998,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4513",
+    "id": "4624",
     "title": "2 Storey Terrace House",
     "address": "No. 33, Jalan Kedidi 1, Taman Scientex, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -77943,7 +80015,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4514",
+    "id": "4625",
     "title": "1 Storey Semi Detached House",
     "address": "No. 77, Jalan Sayang 7, Taman Sayang 2, 84400 Sungai Mati, Johor",
     "postcode": "84400",
@@ -77960,7 +80032,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4515",
+    "id": "4626",
     "title": "Apartment",
     "address": "Pangsapuri Seri Mengkuang 2 (also known as The Pines Residences), 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -77977,7 +80049,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4516",
+    "id": "4627",
     "title": "1 Storey Terrace House",
     "address": "No. 60, Jalan Setia 4, Taman Setia, 84400 Sungai Mati, Tangkak, Johor",
     "postcode": "84400",
@@ -77994,7 +80066,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4517",
+    "id": "4628",
     "title": "2 Storey Terrace House",
     "address": "Jalan Perjiranan 15/18, Bandar Dato Onn, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78011,7 +80083,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4518",
+    "id": "4629",
     "title": "1 Storey Terrace House",
     "address": "Jalan Delima 32, Taman Delima 3, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78028,7 +80100,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4519",
+    "id": "4630",
     "title": "2 Storey Terrace House",
     "address": "Jalan Pulai Duta 3/2, Taman Pulai Duta, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -78045,7 +80117,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4520",
+    "id": "4631",
     "title": "2 Storey Cluster House",
     "address": "Jalan Adda 2/2, Taman Adda (Yellow Horizon), 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78062,7 +80134,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4521",
+    "id": "4632",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Jalan Sinar Emas 4, Taman Sinar Emas, 85300 Labis, Johor",
     "postcode": "85300",
@@ -78079,7 +80151,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4522",
+    "id": "4633",
     "title": "2 Storey Terrace House",
     "address": "No. 15, Jalan Melati 6, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -78096,7 +80168,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4523",
+    "id": "4634",
     "title": "Apartment",
     "address": "Skudai Villa, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -78113,7 +80185,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4524",
+    "id": "4635",
     "title": "Apartment",
     "address": "Blok B, Pangsapuri Permas Ville, Jalan Permas 3, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -78130,7 +80202,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4525",
+    "id": "4636",
     "title": "Apartment",
     "address": "Unit No. A-4-4, Skudai Villa, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -78147,7 +80219,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4526",
+    "id": "4637",
     "title": "2 Storey Semi Detached House",
     "address": "No. 4, Jalan Mersawa 15, Taman Cahaya Kota Puteri, 81750 Masai, Johor",
     "postcode": "81750",
@@ -78164,7 +80236,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4527",
+    "id": "4638",
     "title": "1 Storey Terrace House",
     "address": "No. 14901, Jalan Bangau 4, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "14901",
@@ -78181,7 +80253,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4528",
+    "id": "4639",
     "title": "2 Storey Terrace House",
     "address": "Jalan Perjiranan 15/18, Bandar Dato Onn, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78198,7 +80270,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4529",
+    "id": "4640",
     "title": "1 Storey Terrace House",
     "address": "Jalan Delima 32, Taman Delima 3, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78215,7 +80287,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4530",
+    "id": "4641",
     "title": "2 Storey Terrace House",
     "address": "Jalan Pulai Duta 3/2, Taman Pulai Duta, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -78232,7 +80304,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4531",
+    "id": "4642",
     "title": "2 Storey Cluster House",
     "address": "Jalan Adda 2/2, Taman Adda (Yellow Horizon), 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78249,7 +80321,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4532",
+    "id": "4643",
     "title": "2 Storey Terrace House",
     "address": "No. 715, Jalan Pulai Jaya 31, Bandar Pulai Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -78266,7 +80338,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4533",
+    "id": "4644",
     "title": "2 Storey Terrace House",
     "address": "No. 25, Jalan SS 5/5, Taman Sri Saujana, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -78283,7 +80355,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4534",
+    "id": "4645",
     "title": "1 Storey Terrace House",
     "address": "No. 4, Jalan Perubatan 24, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -78300,7 +80372,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4535",
+    "id": "4646",
     "title": "2 Storey Terrace House",
     "address": "Jalan Sri Kluang 27, Taman Sri Kluang, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78317,7 +80389,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4536",
+    "id": "4647",
     "title": "1.5 Storey Terrace House",
     "address": "No. 58, Jalan Belibis 19, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -78334,7 +80406,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4537",
+    "id": "4648",
     "title": "Apartment",
     "address": "Unit No. 02-05, Block A, Pangsapuri Sri Wangi, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200, Johor Bahru, Johor",
     "postcode": "81200",
@@ -78351,7 +80423,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4538",
+    "id": "4649",
     "title": "Apartment",
     "address": "Blok B, Pangsapuri Permas Ville, Jalan Permas 3, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -78368,7 +80440,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4539",
+    "id": "4650",
     "title": "2 Storey Cluster House",
     "address": "No. 36, Jalan Adda 2/2, Taman Adda (Yellow Horizon), 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78385,7 +80457,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4540",
+    "id": "4651",
     "title": "Terrace House",
     "address": "Jalan Bayan 2, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -78402,7 +80474,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4541",
+    "id": "4652",
     "title": "Apartment",
     "address": "Unit No. #21-11, Blok B, Pangsapuri Permas Ville, Jalan Permas 3, Bandar Baru Permas Jaya, 81750 Masai, Johor",
     "postcode": "81750",
@@ -78419,7 +80491,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4542",
+    "id": "4653",
     "title": "2 Storey Terrace House",
     "address": "No. 26, Jalan Perjiranan 15/18, Bandar Dato Onn, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78436,7 +80508,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4543",
+    "id": "4654",
     "title": "2 Storey Terrace House",
     "address": "No. 11, Jalan Pulai Duta 3/2, Taman Pulai Duta, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -78453,7 +80525,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4544",
+    "id": "4655",
     "title": "1 Storey Terrace House",
     "address": "No. 541, Jalan Bayan 2, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -78470,7 +80542,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4545",
+    "id": "4656",
     "title": "Service Apartment",
     "address": "Unit No. #09-01, Menara A, Pangsapuri Palma (also known as Centra Residences), Jalan Palma Perak 1, Desa Palma, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78487,7 +80559,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4546",
+    "id": "4657",
     "title": "3 Storey Shop Office",
     "address": "No. 10, Jalan Jati 1, Taman Nusa Bestari Jaya, 79150 Iskandar Puteri, Johor",
     "postcode": "79150",
@@ -78504,7 +80576,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4547",
+    "id": "4658",
     "title": "Apartment",
     "address": "Unit No. 02-05, Block A, Pangsapuri Sri Wangi, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -78521,7 +80593,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4548",
+    "id": "4659",
     "title": "Service Apartment",
     "address": "Pangsapuri Lagenda Tasek, Jalan Padi Makmur, Taman Suria Muafakat, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -78538,7 +80610,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4549",
+    "id": "4660",
     "title": "1 Storey Terrace House",
     "address": "No. 25, Jalan Pulai Emas 2/1, Taman Pulai Emas, 81300, Kangar Pulai, Johor",
     "postcode": "81300",
@@ -78555,7 +80627,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4550",
+    "id": "4661",
     "title": "Apartment",
     "address": "Residensi Pandan, Jalan Pandan Ria 7, Pusat Perdagangan Pandan, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -78572,7 +80644,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4551",
+    "id": "4662",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Jalan Bintang Emas 10/1, Taman Bintang Emas, 84300 Bukit Pasir, Muar, Johor",
     "postcode": "84300",
@@ -78589,7 +80661,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4552",
+    "id": "4663",
     "title": "1 Storey Terrace House",
     "address": "Jalan Selayang 13, Taman Pasir Putih, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -78606,7 +80678,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4553",
+    "id": "4664",
     "title": "1 Storey Semi Detached House",
     "address": "No. 10, Jalan 1, Taman Dato Amar Diraja, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78623,7 +80695,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4554",
+    "id": "4665",
     "title": "2 Storey Terrace House",
     "address": "No. 7-4, Jalan Murni 2, Taman Temiang Murni, Jalan Kim Kee, 84000 Muar, Johor",
     "postcode": "84000",
@@ -78640,7 +80712,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4555",
+    "id": "4666",
     "title": "2 Storey Terrace House",
     "address": "No. 23A, Jalan Kemuning 1, Taman Perling, 85300 Labis, Johor",
     "postcode": "85300",
@@ -78657,7 +80729,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4556",
+    "id": "4667",
     "title": "2 Storey Terrace House",
     "address": "No. 28, Jalan Kelapa Sawit, Taman Soga, 83000 Batu Pahat, Johor",
     "postcode": "83000",
@@ -78674,7 +80746,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4557",
+    "id": "4668",
     "title": "1 Storey Terrace House",
     "address": "No. 11, Jalan Limau 3, Taman Bintang, 86400 Parit Raja, Johor",
     "postcode": "86400",
@@ -78691,7 +80763,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4558",
+    "id": "4669",
     "title": "2 Storey Terrace House",
     "address": "No. 50, Jalan Indah 7/10, Taman Bukit Indah, 79100, Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -78708,7 +80780,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4559",
+    "id": "4670",
     "title": "2 Storey Terrace House",
     "address": "No. 5, Jalan Sulaiman Ninam Shah 3, Taman Tun Sulaiman Ninam Shah, Jalan Junid, 84000 Muar, Johor",
     "postcode": "84000",
@@ -78725,7 +80797,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4560",
+    "id": "4671",
     "title": "1 Storey Detached House",
     "address": "No. 7, Jalan Cheng Poh, 85300, Labis, Johor",
     "postcode": "85300",
@@ -78742,7 +80814,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4561",
+    "id": "4672",
     "title": "Apartment",
     "address": "Blok P, Taman Seri Setanggi, 80250 Johor Bahru, Johor",
     "postcode": "80250",
@@ -78759,7 +80831,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4562",
+    "id": "4673",
     "title": "Apartment",
     "address": "Blok B, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -78776,7 +80848,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4563",
+    "id": "4674",
     "title": "Service Apartment",
     "address": "Unit No. 21-08, Block A, Pangsapuri Kempas Indah, Jalan Kempas Indah, Taman Kempas Indah, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -78793,7 +80865,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4564",
+    "id": "4675",
     "title": "2 Storey Terrace House",
     "address": "No. 195, Jalan Scientex Jaya 8, Taman Scientex, 81400 Senai, Johor",
     "postcode": "81400",
@@ -78810,7 +80882,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4565",
+    "id": "4676",
     "title": "Apartment",
     "address": "Unit No. 02-05, Blok P, Taman Seri Setanggi, 80250 Johor Bahru, Johor",
     "postcode": "80250",
@@ -78827,7 +80899,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4566",
+    "id": "4677",
     "title": "1 Storey Terrace House",
     "address": "No. 122, Jalan Seri Impian 7/47, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78844,7 +80916,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4567",
+    "id": "4678",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Jalan Bukit Kempas 4/8, Taman Bukit Kempas, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -78861,7 +80933,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4568",
+    "id": "4679",
     "title": "3 Storey Terrace House",
     "address": "No. 1, Jalan Kempas Utama 1/9, Taman Kempas Utama, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -78878,7 +80950,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4569",
+    "id": "4680",
     "title": "1 Storey Terrace House",
     "address": "No. 32, Jalan Saujana Desa 2, Taman Saujana, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78895,7 +80967,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4570",
+    "id": "4681",
     "title": "2 Storey Cluster House",
     "address": "No. 31, Jalan Mutiara Bestari 22, Taman Mutiara Bestari, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -78912,7 +80984,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4571",
+    "id": "4682",
     "title": "Apartment",
     "address": "Unit No. G1-4, Block 13A, Vista Seri Alam, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -78929,7 +81001,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4572",
+    "id": "4683",
     "title": "2 Storey Terrace House",
     "address": "No. 37, Jalan PI 7/4, Taman Pulai Indah, 81110 Johor Bahru, Johor",
     "postcode": "81110",
@@ -78946,7 +81018,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4573",
+    "id": "4684",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Jalan Dedaru 16, Taman Megah Ria, 81750 Masai, Johor",
     "postcode": "81750",
@@ -78963,7 +81035,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4574",
+    "id": "4685",
     "title": "2 Storey Terrace House",
     "address": "No. 56, Jalan Indah 2/4, Taman Kluang Indah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -78980,7 +81052,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4575",
+    "id": "4686",
     "title": "Apartment",
     "address": "Unit No. #08-11, Blok B, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -78997,7 +81069,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4576",
+    "id": "4687",
     "title": "2 Storey Terrace House",
     "address": "No. 23, Jalan Bayu 7/8, Taman Nusa Bayu, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -79014,7 +81086,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4577",
+    "id": "4688",
     "title": "1 Storey Terrace House",
     "address": "No. 17, Jalan Kemajuan 15, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79031,7 +81103,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4578",
+    "id": "4689",
     "title": "2 Storey Terrace House",
     "address": "No. 14, Jalan Lembah 58, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -79048,7 +81120,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4579",
+    "id": "4690",
     "title": "Service Apartment",
     "address": "Unit No. #03-03, Blok B, Pangsapuri Setia Tropika, Taman Setia Tropika, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -79065,7 +81137,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4580",
+    "id": "4691",
     "title": "2 Storey Terrace House",
     "address": "No. 13, Jalan Melati 8, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -79082,7 +81154,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4581",
+    "id": "4692",
     "title": "2 Storey Terrace House",
     "address": "Jalan PI 6/1, Taman Pulai Indah, 81110 Johor Bahru, Johor",
     "postcode": "81110",
@@ -79099,7 +81171,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4582",
+    "id": "4693",
     "title": "Service Apartment",
     "address": "Residensi Pandan, Jalan Pandan Ria 7, Pusat Perdagangan Pandan, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -79116,7 +81188,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4583",
+    "id": "4694",
     "title": "1.5 Storey Terrace House",
     "address": "No. 202, Jalan Rawa 1, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -79133,7 +81205,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4584",
+    "id": "4695",
     "title": "Service Apartment",
     "address": "Block A, Pangsapuri Meridian Medini, Jalan Legoland, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -79150,7 +81222,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4585",
+    "id": "4696",
     "title": "Service Apartment",
     "address": "Unit No. #13-03, Blok B, Residensi Seri Mega, Jalan Kempas 14, Taman Megah Ria, 81750 Masai, Johor",
     "postcode": "81750",
@@ -79167,7 +81239,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4586",
+    "id": "4697",
     "title": "Flat",
     "address": "Unit No. B-05-05, Jalan Impian Emas 25, Taman Impian Ehsan, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79184,7 +81256,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4587",
+    "id": "4698",
     "title": "2 Storey Terrace House",
     "address": "No. 24, Jalan Kemboja 8, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -79201,7 +81273,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4588",
+    "id": "4699",
     "title": "1 Storey Terrace House",
     "address": "No. 41, Jalan Panti, Taman Johor, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -79218,7 +81290,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4589",
+    "id": "4700",
     "title": "1 Storey Terrace House",
     "address": "No.846, Jalan Senai Utama 4/3, Taman Senai Utama, 81400 Senai, Johor",
     "postcode": "81400",
@@ -79235,7 +81307,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4590",
+    "id": "4701",
     "title": "1 Storey Terrace House",
     "address": "No. 49, Jalan Nangka, Taman Kota Jaya, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -79252,7 +81324,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4591",
+    "id": "4702",
     "title": "1 Storey Terrace House",
     "address": "No. 86, Jalan Berjasa 3, Taman Timur, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -79269,7 +81341,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4592",
+    "id": "4703",
     "title": "2 Storey Terrace House",
     "address": "No. 57, Jalan Pulasan 29, Taman Kota Masai, 81700, Pasir Gudang, Johor",
     "postcode": "81700",
@@ -79286,7 +81358,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4593",
+    "id": "4704",
     "title": "Apartment",
     "address": "Unit No. #11-14, Pangsapuri Epik, Jalan Suria Muafakat Utama, Taman Suria Muafakat, 81200, Johor Bahru, Johor",
     "postcode": "81200",
@@ -79303,7 +81375,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4594",
+    "id": "4705",
     "title": "Apartment",
     "address": "Unit No. 04-06, Block A2, Jalan Idaman Utama, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -79320,7 +81392,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4595",
+    "id": "4706",
     "title": "Apartment",
     "address": "Blok B2, Pangsapuri Jentayu, Jalan Pulai Harmoni 3, Bandar Baru Kangkar Pulai, 81110 Kangkar Pulai, Johor",
     "postcode": "81110",
@@ -79337,7 +81409,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4596",
+    "id": "4707",
     "title": "1 Storey Terrace House",
     "address": "Jalan Nangka, Taman Kota Jaya, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -79354,7 +81426,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4597",
+    "id": "4708",
     "title": "Apartment",
     "address": "Unit No. C-31-03, Blok C, Pangsapuri Meridian Medini, Jalan Legoland, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -79371,7 +81443,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4598",
+    "id": "4709",
     "title": "Apartment",
     "address": "Unit No. #06-12, Block 1, Idaman Senibong, Jalan Persiaran Senibong, Taman Bayu Senibong, 81750, Masai, Johor",
     "postcode": "81750",
@@ -79388,7 +81460,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4599",
+    "id": "4710",
     "title": "2 Storey Terrace House",
     "address": "Jalan Nusaria 6/6, Taman Nusantara, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -79405,7 +81477,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4600",
+    "id": "4711",
     "title": "2 Storey Terrace House",
     "address": "Jalan Intan 5, Taman Cahaya Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -79422,7 +81494,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4601",
+    "id": "4712",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bunga Dedap, Taman Aman, 81400 Senai, Johor",
     "postcode": "81400",
@@ -79439,7 +81511,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4602",
+    "id": "4713",
     "title": "1 Storey Terrace House",
     "address": "No. 2447, Jalan Belian 2, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -79456,7 +81528,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4603",
+    "id": "4714",
     "title": "[Freehold] 1 Storey Terrace House",
     "address": "No. 75, Jalan Penyiaran 26, Taman Universiti, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79473,7 +81545,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4604",
+    "id": "4715",
     "title": "Apartment",
     "address": "Unit No. #02-08, Pangsapuri Adamai, Lorong 2C, Jalan Abdul Samad, 80100 Johor Bahru, Johor",
     "postcode": "80100",
@@ -79490,7 +81562,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4605",
+    "id": "4716",
     "title": "Terrace House",
     "address": "Jalan Raja Udang 3, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -79507,7 +81579,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4606",
+    "id": "4717",
     "title": "1 Storey Terrace Shop",
     "address": "No. 107, Jalan Pengerang, Kampung Baru Sungai Rengit, 81600 Pengerang, Johor",
     "postcode": "81600",
@@ -79524,7 +81596,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4607",
+    "id": "4718",
     "title": "1 Storey Terrace House",
     "address": "No. 63, Jalan Tasik Indah 7/5, Taman Tasik Indah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -79541,7 +81613,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4608",
+    "id": "4719",
     "title": "Flat",
     "address": "Unit No. F-02-05, Block F, Pangsapuri Sri Intan, Jalan Tasek, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -79558,7 +81630,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4609",
+    "id": "4720",
     "title": "Town House",
     "address": "No. 6, Block A, Laman Impian Emas Satu, Taman Impian Emas, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79575,7 +81647,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4610",
+    "id": "4721",
     "title": "2 Storey Terrace House",
     "address": "No. 42, Jalan Nusaria 6/17, Taman Nusantara, 79200 Iskandar Puteri, Johor",
     "postcode": "79200",
@@ -79592,7 +81664,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4611",
+    "id": "4722",
     "title": "2 Storey Terrace House",
     "address": "Jalan Ledang 22, Taman Bukit Tiram, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -79609,7 +81681,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4612",
+    "id": "4723",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Jalan Sierra Perdana 2/2, Taman Sierra Perdana, 81750 Masai, Johor",
     "postcode": "81750",
@@ -79626,7 +81698,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4613",
+    "id": "4724",
     "title": "2 Storey Shop Office",
     "address": "No. 30, Jalan Saujana Perdana 2, Taman Saujana, 86000, Kluang, Johor",
     "postcode": "86000",
@@ -79643,7 +81715,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4614",
+    "id": "4725",
     "title": "2 Storey Terrace House",
     "address": "No. 19, Jalan 14/3, Taman Sri Kluang, 86000, Kluang, Johor",
     "postcode": "86000",
@@ -79660,7 +81732,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4615",
+    "id": "4726",
     "title": "2 Storey Terrace House",
     "address": "No. 1278, Jalan Pulai Jaya 42, Bandar Pulai Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79677,7 +81749,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4616",
+    "id": "4727",
     "title": "Apartment",
     "address": "Blok M, Pangsapuri Lily & Jasmine, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -79694,7 +81766,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4617",
+    "id": "4728",
     "title": "Shop Unit",
     "address": "Kompleks Perniagaan Medan Kota, Jalan Yusof / Jalan Tambatan, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -79711,7 +81783,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4618",
+    "id": "4729",
     "title": "Service Apartment",
     "address": "Unit No. #18-10, Blok B, Pangsapuri Suriamas, Jalan Serantau, Taman Dato Onn, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -79728,7 +81800,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4619",
+    "id": "4730",
     "title": "2 Storey Terrace House",
     "address": "No. 13, Jalan Nusaria 6/6, Taman Nusantara, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -79745,7 +81817,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4620",
+    "id": "4731",
     "title": "2 Storey Terrace House",
     "address": "No. 16, Jalan Intan 5, Taman Cahaya Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -79762,7 +81834,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4621",
+    "id": "4732",
     "title": "Condominium",
     "address": "Block C, Pangsapuri Seri Mutiara, Jalan Persiran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -79779,7 +81851,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4622",
+    "id": "4733",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Jalan Santalia 4, Taman Flora Heights, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -79796,7 +81868,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4623",
+    "id": "4734",
     "title": "Apartment",
     "address": "Block A, Pangsapuri Ria, Jalan Utama 1, Taman D'Utama, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -79813,7 +81885,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4624",
+    "id": "4735",
     "title": "2 Storey Terrace House",
     "address": "Jalan Nusaria 5/13, Taman Nusantara, 81550 Iskandar Puteri, Johor",
     "postcode": "81550",
@@ -79830,7 +81902,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4625",
+    "id": "4736",
     "title": "Terrace House",
     "address": "Jalan Gemilang 6, Taman Seri Gemilang, 84000, Johor",
     "postcode": "84000",
@@ -79847,7 +81919,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4626",
+    "id": "4737",
     "title": "2 Storey Terrace House",
     "address": "No. 37, Jalan Hang Tuah 20, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79864,7 +81936,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4627",
+    "id": "4738",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Molek 2/17, Taman Molek, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -79881,7 +81953,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4628",
+    "id": "4739",
     "title": "Apartment",
     "address": "Unit No. F-03A-02, Blok F, Jalan Dato Jaafar, Apartment Larkin Residence, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -79898,7 +81970,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4629",
+    "id": "4740",
     "title": "1 Storey Terrace House",
     "address": "Jalan Hang Jebat 4, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -79915,7 +81987,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4630",
+    "id": "4741",
     "title": "2 Storey Terrace House",
     "address": "No. 112, Jalan Tasik Indah 5/1, Taman Tasik Indah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -79932,7 +82004,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4631",
+    "id": "4742",
     "title": "Apartment",
     "address": "Unit No. E-09-02, Nusa Heights Apartment, Jalan Gelang Patah, Taman Nusa Puncak, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -79949,7 +82021,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4632",
+    "id": "4743",
     "title": "2 Storey Terrace House",
     "address": "No. 79, Jalan Pulasan 16, Taman Kota Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -79966,7 +82038,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4633",
+    "id": "4744",
     "title": "Apartment",
     "address": "Unit No. #11-05, Blok Menara D, Pangsapuri Sri Impian, Jalan Larkin Perdana 1, Larkin Perdana, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -79983,7 +82055,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4634",
+    "id": "4745",
     "title": "2 Storey Terrace House",
     "address": "No. 234, Jalan Seri Impian 6/12, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -80000,7 +82072,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4635",
+    "id": "4746",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Jalan Sierra Perdana 1/6, Taman Sierra Perdana, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80017,7 +82089,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4636",
+    "id": "4747",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Jalan Tasik Indah 6/8, Taman Tasik Indah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -80034,7 +82106,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4637",
+    "id": "4748",
     "title": "2 Storey Terrace House",
     "address": "No. 60, Jalan Penaga 4, Taman Pulai Hijauan, 81100, Kangkar Pulai, Johor",
     "postcode": "81100",
@@ -80051,7 +82123,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4638",
+    "id": "4749",
     "title": "2 Storey Terrace House",
     "address": "Jalan Lagenda 32, Taman Lagenda Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -80068,7 +82140,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4639",
+    "id": "4750",
     "title": "Apartment",
     "address": "Blok E, Pangsapuri Lily & Jasmine, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80085,7 +82157,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4640",
+    "id": "4751",
     "title": "2 Storey Terrace House",
     "address": "Jalan Scientex 16, Taman Scientex, Kelapa Sawit, 81030 Kulai, Johor",
     "postcode": "81030",
@@ -80102,7 +82174,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4641",
+    "id": "4752",
     "title": "2 Storey Terrace House",
     "address": "No. 1337, Jalan Scientex 25, Taman Scientex, Kelapa Sawit, 81030 Kulai, Johor",
     "postcode": "81030",
@@ -80119,7 +82191,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4642",
+    "id": "4753",
     "title": "2 Storey Terrace House",
     "address": "Jalan Puteri 1/9, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -80136,7 +82208,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4643",
+    "id": "4754",
     "title": "1 Storey Terrace House",
     "address": "No. 5, Jalan Santalia 4, Taman Flora Height, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80153,7 +82225,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4644",
+    "id": "4755",
     "title": "Apartment",
     "address": "Unit No. K-4-02, Block K, Pangsapuri Lily & Jasmine, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80170,7 +82242,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4645",
+    "id": "4756",
     "title": "Apartment",
     "address": "Unit No. F-4-8, Skudai Villa, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -80187,7 +82259,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4646",
+    "id": "4757",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Jalan Melur 1/5, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80204,7 +82276,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4647",
+    "id": "4758",
     "title": "Apartment",
     "address": "Unit No. #16-02, Tingkat 16, Blok E, Dwi Mahkota Condominium, Jalan Susur 1/1, Persiaran Tanjung, Taman Bukit Alif, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80221,7 +82293,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4648",
+    "id": "4759",
     "title": "1 Storey Terrace House",
     "address": "Jalan Tiong 12, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -80238,7 +82310,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4649",
+    "id": "4760",
     "title": "2 Storey Terrace House",
     "address": "No. 20, Jalan Makmur 20, Taman Damai Jaya, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80255,7 +82327,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4650",
+    "id": "4761",
     "title": "2 Storey Terrace House",
     "address": "No. 6, Jalan Bayan 34, Taman Megah Ria, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80272,7 +82344,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4651",
+    "id": "4762",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Jalan Glenmarie 1/9, Glenmarie Johor, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -80289,7 +82361,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4652",
+    "id": "4763",
     "title": "1 Storey Terrace House",
     "address": "Jalan Bangau 13, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -80306,7 +82378,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4653",
+    "id": "4764",
     "title": "2 Storey Terrace House",
     "address": "Jalan Melati 10, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -80323,7 +82395,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4654",
+    "id": "4765",
     "title": "Service Apartment",
     "address": "Block A, Pangsapuri Meridian Medini, Jalan Legoland, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "postcode": "79250",
@@ -80340,7 +82412,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4655",
+    "id": "4766",
     "title": "2 Storey Terrace House",
     "address": "No. 6, Jalan Ceria 11, Taman Nusa Damai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80357,7 +82429,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4656",
+    "id": "4767",
     "title": "1 Storey Terrace House",
     "address": "No. 26, Jalan Molek 2/19, Taman Molek, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -80374,7 +82446,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4657",
+    "id": "4768",
     "title": "2 Storey Terrace House",
     "address": "Jalan Pulai Duta 3/5, Taman Pulai Duta, 81300 Johor Bahru, Johor",
     "postcode": "81300",
@@ -80391,7 +82463,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4658",
+    "id": "4769",
     "title": "Flat",
     "address": "Unit No. 03-34, Blok A, Jalan Camar 14, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80408,7 +82480,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4659",
+    "id": "4770",
     "title": "Flat",
     "address": "Unit No. #13-15, Block A, Pangsa Puteri, Jalan Bayu Puteri 1/2, Taman Bayu Puteri, 80050 Johor Bahru, Johor",
     "postcode": "80050",
@@ -80425,7 +82497,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4660",
+    "id": "4771",
     "title": "Terrace House",
     "address": "Jalan Harmoni 9, Taman Nusa Damai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80442,7 +82514,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4661",
+    "id": "4772",
     "title": "2 Storey Terrace House",
     "address": "No. 102, Jalan Cermai 16, Taman Kota Masai, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80459,7 +82531,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4662",
+    "id": "4773",
     "title": "2 Storey Terrace House",
     "address": "No. 58, Jalan Wau Barat 4, Bandar Layangkasa, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80476,7 +82548,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4663",
+    "id": "4774",
     "title": "2 Storey Terrace House",
     "address": "No. 43, Jalan Puncak Warisan 2/1, Taman Puncak Warisan, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -80493,7 +82565,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4664",
+    "id": "4775",
     "title": "2 Storey Terrace House",
     "address": "No. 155, Jalan Kemboja 1, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80510,7 +82582,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4665",
+    "id": "4776",
     "title": "2 Storey Terrace House",
     "address": "No. 20, Jalan Pulasan 5, Taman Pulai Hijauan, 81110 Johor Bahru, Johor",
     "postcode": "81110",
@@ -80527,7 +82599,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4666",
+    "id": "4777",
     "title": "Terrace House",
     "address": "No. 24, Jalan Dahlia, Parit Raja, 86400 Batu Pahat, Johor",
     "postcode": "86400",
@@ -80544,7 +82616,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4667",
+    "id": "4778",
     "title": "Apartment",
     "address": "Blok A, Pangsapuri Pulai View, Jalan Skudai, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80561,7 +82633,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4668",
+    "id": "4779",
     "title": "1 Storey Bungalow",
     "address": "No. 65, Jalan Seri Impian 5/1, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -80578,7 +82650,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4669",
+    "id": "4780",
     "title": "1 Storey Terrace House",
     "address": "No. 22, Jalan Padi Mahsuri 6/1, Bandar Baru Uda, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80595,7 +82667,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4670",
+    "id": "4781",
     "title": "Apartment",
     "address": "Unit No. 05-09, Blok B, Pangsapuri Mutiara Idaman, Jalan Idaman Utama, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -80612,7 +82684,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4671",
+    "id": "4782",
     "title": "Apartment",
     "address": "Unit No. A-01-03, Pangsapuri Sri Awana, Jalan Silat Lincah, Bandar Selesa Jaya, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -80629,7 +82701,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4672",
+    "id": "4783",
     "title": "Condominium",
     "address": "Unit No. 01-02, Block C, Pangsapuri Seri Mutiara, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80646,7 +82718,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4673",
+    "id": "4784",
     "title": "2 Storey Terrace House",
     "address": "No. 174, Jalan Scientex Jaya 8, Taman Scientex, 81400 Senai, Johor",
     "postcode": "81400",
@@ -80663,7 +82735,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4674",
+    "id": "4785",
     "title": "Condominium",
     "address": "Unit No. 10-01, Block C, Pangsapuri Seri Mutiara, Persiaran Seri Alam, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80680,7 +82752,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4675",
+    "id": "4786",
     "title": "2 Storey Terrace House",
     "address": "No. 41, Jalan Hang Tuah 4/4, Taman Muhibbah, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -80697,7 +82769,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4676",
+    "id": "4787",
     "title": "1 Storey Terrace House",
     "address": "No. 17, Jalan Canggung 12, Taman Pasir Putih, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80714,7 +82786,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4677",
+    "id": "4788",
     "title": "Service Apartment",
     "address": "Unit No. 16-06, Blok A, Pangsapuri Larkin Idaman, Jalan Idaman 1, Taman Larkin Idaman, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -80731,7 +82803,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4678",
+    "id": "4789",
     "title": "2 Storey Terrace Shop",
     "address": "No. 3J, Jalan Abdullah, 81900 Kota Tinggi, Johor",
     "postcode": "81900",
@@ -80748,7 +82820,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4679",
+    "id": "4790",
     "title": "2 Storey Terrace House",
     "address": "No. 22, Jalan Dian 1, Taman Munsyi Ibrahim, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80765,7 +82837,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4680",
+    "id": "4791",
     "title": "Apartment",
     "address": "Unit No. 03-17, Block B, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80782,7 +82854,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4681",
+    "id": "4792",
     "title": "Terrace House",
     "address": "Jalan Ikhtiari 1, Taman Ikhtiari, 84900 Tangkak, Johor",
     "postcode": "84900",
@@ -80799,7 +82871,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4682",
+    "id": "4793",
     "title": "Service Apartment",
     "address": "Blok 8B, Amberside, Persiaran Danga Perdana, Country Garden Danga Bay, 80200 Johor Bahru, Johor",
     "postcode": "80200",
@@ -80816,7 +82888,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4683",
+    "id": "4794",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tiram 1/24, Bandar Tiram, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -80833,7 +82905,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4684",
+    "id": "4795",
     "title": "Apartment",
     "address": "Unit No. 05-02, Block A, Pangsapuri Sri Kenari, Jalan Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -80850,7 +82922,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4685",
+    "id": "4796",
     "title": "Condominium",
     "address": "Unit No. 21-05, Block A, Pangsapuri Seri Mutiara, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80867,7 +82939,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4686",
+    "id": "4797",
     "title": "2 Storey Terrace House",
     "address": "No. 8, Jalan Perjiranan 12, Bandar Dato Onn, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -80884,7 +82956,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4687",
+    "id": "4798",
     "title": "1 Storey Terrace House",
     "address": "No. 65, Jalan Bintang Utama 2, Taman Bintang Utama, 81400 Senai, Johor",
     "postcode": "81400",
@@ -80901,7 +82973,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4688",
+    "id": "4799",
     "title": "2 Storey Terrace House",
     "address": "No. 23, Jalan Tasek 3, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80918,7 +82990,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4689",
+    "id": "4800",
     "title": "2 Storey Terrace House",
     "address": "No. 16, Jalan Kemboja 17, Bandar Bestari Perdana, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -80935,7 +83007,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4690",
+    "id": "4801",
     "title": "1 Storey Terrace House",
     "address": "No. 4, Jalan Saujana Bistari 9, Taman Saujana, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -80952,7 +83024,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4691",
+    "id": "4802",
     "title": "Apartment",
     "address": "Blok A, Jalan Dato Jaafar, Apartment Larkin Residence, 80350 Johor Bahru, Johor",
     "postcode": "80350",
@@ -80969,7 +83041,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4692",
+    "id": "4803",
     "title": "Apartment",
     "address": "Blok A, Pangsapuri Seri Mutiara, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -80986,7 +83058,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4693",
+    "id": "4804",
     "title": "2 Storey Cluster House",
     "address": "Jalan Mewah Utama 1/2, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -81003,7 +83075,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4694",
+    "id": "4805",
     "title": "1 Storey Terrace House",
     "address": "No. 132, Jalan Seri Impian 7/47, Bandar Seri Impian, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -81020,7 +83092,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4695",
+    "id": "4806",
     "title": "Apartment",
     "address": "Unit No. 08-02, Blok B, Pangsapuri Sri Akasia, Jalan Persisiran Titiwangsa Utama, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -81037,7 +83109,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4696",
+    "id": "4807",
     "title": "1 Storey Terrace House",
     "address": "No. 68, Jalan PI 7/9, Taman Pulai Indah, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -81054,7 +83126,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4697",
+    "id": "4808",
     "title": "2 Storey Terrace House",
     "address": "No. 9549, Jalan Kasawari 2, Bandar Putra, 81000 Kulai, Johor",
     "postcode": "81000",
@@ -81071,7 +83143,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4698",
+    "id": "4809",
     "title": "Service Apartment",
     "address": "Blok C, KIP Villa Indah, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -81088,7 +83160,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4699",
+    "id": "4810",
     "title": "1 Storey Terrace House",
     "address": "No. 57, Jalan Melor 5, Rumah Murah Ulu Tiram, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -81105,7 +83177,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4700",
+    "id": "4811",
     "title": "1 Storey Terrace House",
     "address": "No. 256, Jalan Puteri 4/2, Bandar Baru Tangkak, 84900 Tangkak, Johor",
     "postcode": "84900",
@@ -81122,7 +83194,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4701",
+    "id": "4812",
     "title": "1 Storey Terrace House",
     "address": "No. 75, Jalan Bestari 45/2, Taman Bestari Indah 1, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -81139,7 +83211,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4702",
+    "id": "4813",
     "title": "Service Apartment",
     "address": "Unit No. C-14-01, Blok C, Nusa Perdana Service Apartment, Jalan Persiaran Nusa Perdana, Taman Nusa Perintis, 81550 Gelang Patah, Johor",
     "postcode": "81550",
@@ -81156,7 +83228,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4703",
+    "id": "4814",
     "title": "2 Storey Terrace House",
     "address": "No. 50, Jalan Aliff Harmoni 6/4, Taman Damansara Aliff, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -81173,7 +83245,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4704",
+    "id": "4815",
     "title": "2 Storey Terrace House",
     "address": "Jalan Idaman 8/3, Taman Nusa Idaman, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -81190,7 +83262,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4705",
+    "id": "4816",
     "title": "2 Storey Terrace House",
     "address": "No. 50, Jalan Pulai Mutiara 1/12, Taman Pulai Mutiara, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -81207,7 +83279,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4706",
+    "id": "4817",
     "title": "1 Storey Terrace House",
     "address": "No. 26, Jalan Lembing 12, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -81224,7 +83296,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4707",
+    "id": "4818",
     "title": "1 Storey Terrace House",
     "address": "No. 11, Jalan Impian Ria 15, Taman Impian Jaya, 81400 Senai, Johor",
     "postcode": "81400",
@@ -81241,7 +83313,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4708",
+    "id": "4819",
     "title": "Apartment",
     "address": "Unit No. 04-07, Block B, Jalan Suria 47, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -81258,7 +83330,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4709",
+    "id": "4820",
     "title": "2 Storey Terrace House",
     "address": "No. 8, Jalan Banang 3, Taman Bukit Tiram, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -81275,7 +83347,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4710",
+    "id": "4821",
     "title": "2 Storey Terrace House",
     "address": "No. 23., Jalan Desa 9/4, Taman Desa, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -81292,7 +83364,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4711",
+    "id": "4822",
     "title": "Condominium",
     "address": "Laguna Heights, Jalan Sri Laguna 1, Bukit Laguna, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -81309,7 +83381,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4712",
+    "id": "4823",
     "title": "2 Storey Terrace House",
     "address": "No. 45, Jalan Pulai 7, Taman Desaru Utama, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -81326,7 +83398,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4713",
+    "id": "4824",
     "title": "Apartment",
     "address": "Skudai Villa Apartment, Jalan Aman, Taman Skudai Baru, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -81343,7 +83415,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4714",
+    "id": "4825",
     "title": "Terrace House",
     "address": "Jalan Saujana Desa 3, Taman Saujana, 86000 Kluang, Johor",
     "postcode": "86000",
@@ -81360,7 +83432,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4715",
+    "id": "4826",
     "title": "Terrace House",
     "address": "Taman Bukit Siput, Segamat, Johor",
     "postcode": "",
@@ -81377,7 +83449,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4716",
+    "id": "4827",
     "title": "1 Storey Terrace House",
     "address": "Jalan NB2 8/4, Taman Nusa Bestari 2, 79150 Iskandar Puteri, Johor",
     "postcode": "79150",
@@ -81394,7 +83466,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4717",
+    "id": "4828",
     "title": "1 Storey Terrace House",
     "address": "Jalan PI 7/7, Taman Pulai Indah, 81110 Johor Bahru, Johor",
     "postcode": "81110",
@@ -81411,7 +83483,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4718",
+    "id": "4829",
     "title": "Service Apartment",
     "address": "Blok A, Pangsapuri Jentayu, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -81428,7 +83500,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4719",
+    "id": "4830",
     "title": "2 Storey Terrace House",
     "address": "Jalan Utama 3, Taman Mutiara Rini, 81300 Skudai, Johor",
     "postcode": "81300",
@@ -81445,7 +83517,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4720",
+    "id": "4831",
     "title": "2 Storey Detached House",
     "address": "Jalan Tanjong Puteri 2, Tanjong Puteri Resort, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -81462,7 +83534,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4721",
+    "id": "4832",
     "title": "Service Apartment",
     "address": "Blok A, Residensi Seri Mega, Jalan Kempas 14, Taman Megah Ria, 81750 Masai, Johor",
     "postcode": "81750",
@@ -81479,7 +83551,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4722",
+    "id": "4833",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bestari 8/1, Taman Nusa Bestari, 79100 Iskandar Puteri, Johor",
     "postcode": "79100",
@@ -81496,7 +83568,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4723",
+    "id": "4834",
     "title": "2 Storey Terrace House",
     "address": "Jalan Camar 11, Taman Scientex, 81700 Pasir Gudang, Johor",
     "postcode": "81700",
@@ -81513,7 +83585,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4724",
+    "id": "4835",
     "title": "2 Storey Terrace House",
     "address": "Jalan Perjiranan 15/8, Bandar Dato' Onn, 81100 Johor Bahru, Johor",
     "postcode": "81100",
@@ -81530,7 +83602,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4725",
+    "id": "4836",
     "title": "2 Storey Terrace House",
     "address": "Jalan Kemboja 9, Taman Sri Penawar, 81930 Bandar Penawar, Johor",
     "postcode": "81930",
@@ -81547,7 +83619,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4726",
+    "id": "4837",
     "title": "Terrace House",
     "address": "Jalan Alam Sitrin 14, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -81564,7 +83636,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4727",
+    "id": "4838",
     "title": "Apartment",
     "address": "Blok B, Pangsapuri Seri Mutiara, Bandar Seri Alam, 81750 Masai, Johor",
     "postcode": "81750",
@@ -81581,7 +83653,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4728",
+    "id": "4839",
     "title": "Apartment",
     "address": "Block Y, Jalan Cantik 7, Taman Pelangi Indah, 81800 Ulu Tiram, Johor",
     "postcode": "81800",
@@ -81598,7 +83670,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4729",
+    "id": "4840",
     "title": "Flat",
     "address": "Block B, Jalan Camar 14, Taman Perling, 81200 Johor Bahru, Johor",
     "postcode": "81200",
@@ -81615,7 +83687,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4730",
+    "id": "4841",
     "title": "Beverly Hills Apartment",
     "address": "First Floor, Block M, Beverly Hills Apartments, Phase 2, 89500 Penampang, Sabah",
     "postcode": "89500",
@@ -81632,7 +83704,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4731",
+    "id": "4842",
     "title": "2 Storey Semi Detached House",
     "address": "Titled Lot No. 6, Lorong Kandawai, Taman Kandavai, 89500 Penampang, Sabah",
     "postcode": "89500",
@@ -81649,7 +83721,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4732",
+    "id": "4843",
     "title": "1 Storey Terrace Dwelling House",
     "address": "Lot 6358, Lorong Murni 1B-2B, Desa Murni, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -81666,7 +83738,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4733",
+    "id": "4844",
     "title": "1 Storey Terrace Dwelling House",
     "address": "Lorong Murni 1B-2B, Desa Murni, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -81683,7 +83755,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4734",
+    "id": "4845",
     "title": "Service Apartment",
     "address": "Unit No. 2-3A-11 (DBKK No. T2-10-11), JQ Central, Coastal Highway, Off Jalan Tun Fuad Stephens, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -81700,7 +83772,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4735",
+    "id": "4846",
     "title": "Apartment",
     "address": "Lot No. 4 (DBKK/House No. M-2F-4), Block M, 2nd Floor, Lorong Apartment Angkasa 11, Apartment Angkasa Phase 2, Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -81717,7 +83789,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4736",
+    "id": "4847",
     "title": "Beverly Hills Apartment",
     "address": "Unit No. M11-1, First Floor, Block M, Beverly Hills Apartments, Phase 2, 89500 Penampang, Sabah",
     "postcode": "89500",
@@ -81734,7 +83806,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4737",
+    "id": "4848",
     "title": "Apartment",
     "address": "Lot No. 4 (DBKK/House No. M-2F-4), Block M, 2nd Floor, Unit No. 4, Kampung Darau Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -81751,7 +83823,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4738",
+    "id": "4849",
     "title": "1 Storey Terrace House",
     "address": "No. 216 (Lot 12149), Lorong 2D2, RPR Stutong, Off Jalan Stampin Baru, 93350 Kuching, Sarawak",
     "postcode": "12149",
@@ -81768,7 +83840,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4739",
+    "id": "4850",
     "title": "Flat",
     "address": "Lot No. 03 (Unit No. B10-4-3), Block 10, Fourth Floor, Taman Telipok Ria, Phase 2, Mile 16, Off Jalan Tuaran, 88450 Tuaran, Sabah",
     "postcode": "88450",
@@ -81785,7 +83857,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4740",
+    "id": "4851",
     "title": "Apartment",
     "address": "Lot No. 3 (B6-GF-03), Block 6, Ground Floor, Taman Telipok Ria Phase 1, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -81802,7 +83874,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4741",
+    "id": "4852",
     "title": "1 Storey Terrace House",
     "address": "Lorong 2D2, RPR Stutong, Off Jalan Stampin Baru, 93350 Kuching, Sarawak",
     "postcode": "93350",
@@ -81819,7 +83891,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4742",
+    "id": "4853",
     "title": "1 Storey Terrace House",
     "address": "Lot C61-6, Block C61, Taman Khazanah Indah, Jalan Tengah Nipah, 91100 Lahad Datu, Sabah",
     "postcode": "91100",
@@ -81836,7 +83908,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4743",
+    "id": "4854",
     "title": "1 Storey Terrace House",
     "address": "Lot C15-3 (House No. 324), Block C15, Taman Apas Permai, KM 23, Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -81853,7 +83925,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4744",
+    "id": "4855",
     "title": "Apartment",
     "address": "Unit No. H-1-10, Block H, Level 1, Type C, E Residence @ Telipok Phase 2A, Off Jalan Tuaran, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -81870,7 +83942,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4745",
+    "id": "4856",
     "title": "Apartment",
     "address": "Lot No. 9 (11-2-10), 1st Floor, Block B211, Seri Maju Apartment, Off Jalan Sepangar, Kuala Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -81887,7 +83959,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4746",
+    "id": "4857",
     "title": "Studio Apartment",
     "address": "Lot No. 26 (DBKK No. D-5-26), Block D, 5th Floor, Taman Nelly Phase 8D, Off Jalan Nountun, Kolombong, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -81904,7 +83976,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4747",
+    "id": "4858",
     "title": "Retail Unit",
     "address": "Unit No. S-628, Second Floor, 1Borneo Hypermall, Jalan UMS (previously known as Jalan Sulaman), 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -81921,7 +83993,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4748",
+    "id": "4859",
     "title": "Apartment",
     "address": "Lot No B-GF-4, Ground Floor, Block B, Maju Jaya Apartment, Putatan, 89500 Putatan, Sabah",
     "postcode": "89500",
@@ -81938,7 +84010,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4749",
+    "id": "4860",
     "title": "1 Storey Terrace House",
     "address": "Block C61, Taman Khazanah Indah, Jalan Tengah Nipah, 91100 Lahad Datu, Sabah",
     "postcode": "91100",
@@ -81955,7 +84027,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4750",
+    "id": "4861",
     "title": "Apartment",
     "address": "Unit No. C-2-3A, Block C, 2nd Floor, Type B, E Residence @ Telipok Phase 1, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -81972,7 +84044,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4751",
+    "id": "4862",
     "title": "2 Storey Terrace House",
     "address": "Lot 300, Lorong Astana Heights 16, Jalan Lalang, Off Mile 1.5, Jalan Utara, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -81989,7 +84061,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4752",
+    "id": "4863",
     "title": "Apartment",
     "address": "Lot No. L-2F-6, Block L, 2nd Floor, Apartment Angkasa Phase 2, Kampung Darau, Rampayan, Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82006,7 +84078,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4753",
+    "id": "4864",
     "title": "Apartment",
     "address": "Unit No. E7-1 (DBKK No. E-1-7), Lorong Kondo Apartment University 5, First Floor, Block E, University Condo Apartment, Off Jalan UMS, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82023,7 +84095,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4754",
+    "id": "4865",
     "title": "2 Storey Terrace House",
     "address": "Lot 1923 (House No. 542), Bandar Sri Indah, Phase 5I, Off KM 16, Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82040,7 +84112,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4755",
+    "id": "4866",
     "title": "Condominium",
     "address": "Lot No. D-G-3A, Ground Floor, Block D, Taman Kondominium Palma, Kinarut Phase 1, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -82057,7 +84129,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4756",
+    "id": "4867",
     "title": "Apartment",
     "address": "Unit No. I-3-6, Block I, Level 3, Type B, E Residence @ Telipok Phase 2A, Off Jalan Tuaran, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -82074,7 +84146,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4757",
+    "id": "4868",
     "title": "2 Storey Terrace House",
     "address": "House No. 62 (Lot No. 147), Lorong Cerah 9, Taman Cerah, Phase 4B, Jalan Tuaran Bypass, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82091,7 +84163,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4758",
+    "id": "4869",
     "title": "1 Storey Semi Detached House",
     "address": "TB 19517 (Lot No. 473), Bandar Sri Indah Phase 5G, Indah Regency II, Mile 10, Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "19517",
@@ -82108,7 +84180,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4759",
+    "id": "4870",
     "title": "Apartment",
     "address": "Lot No. L-4F-8, Block L, 4th Floor, Apartment Angkasa Phase 2, Kampung Darau, Rampayan, Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82125,7 +84197,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4760",
+    "id": "4871",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 107, Block 3, Taman Harmony Villa, Phase 1, Off Jalan Bingkor Bypass, 89000 Keningau, Sabah",
     "postcode": "89000",
@@ -82142,7 +84214,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4761",
+    "id": "4872",
     "title": "Apartment",
     "address": "Unit No. C19 (DBKK No. 4-2-19), Block LG, Second Floor, Seraya Apartment, Lorong Putera Jaya 11F, Putera Jaya, Off KM 21, Jalan Tuaran, Telipok, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82159,7 +84231,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4762",
+    "id": "4873",
     "title": "Apartment",
     "address": "Unit No. E2-3 (DBKK No. E-3-2), Third Floor, Block E, Lorong Kondo Apartment University 6, University Condo Apartment, Jalan UMS, 89200 Kota Kinabalu, Sabah",
     "postcode": "89200",
@@ -82176,7 +84248,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4763",
+    "id": "4874",
     "title": "2 Storey Semi Detached House",
     "address": "Title Lot B25 (MDLD 10585), Taman Palm Heights Phase 4, Jalan Dam, 91100 Lahad Datu, Sabah",
     "postcode": "10585",
@@ -82193,7 +84265,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4764",
+    "id": "4875",
     "title": "Apartment",
     "address": "Unit No. B11, Block LC, 1st Floor, Taman Ketiau, 88200 Putatan, Sabah",
     "postcode": "88200",
@@ -82210,7 +84282,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4765",
+    "id": "4876",
     "title": "2 Storey Terrace House",
     "address": "Lot 1063 (TB 18215), Bandar Sri Indah, Phase 5B, Off KM 16, Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "18215",
@@ -82227,7 +84299,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4766",
+    "id": "4877",
     "title": "Apartment",
     "address": "Lot No. T-2F-1, Block T, Second Floor, Lorong Tuaran Impian 18, Apartment Tuaran Impian Fasa 2A, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -82244,7 +84316,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4767",
+    "id": "4878",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 203 (DBKK House No. 10), Lorong Cerah 10, Taman Cerah, Phase 5A, Type B1, Menggatal, Off Jalan Tuaran Bypass, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82261,7 +84333,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4768",
+    "id": "4879",
     "title": "Apartment",
     "address": "Lot No. 5 (MDP No. C5-1), Block C, First Floor, Taman Lembah Shantung, Off Jalan Penampang Lama, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -82278,7 +84350,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4769",
+    "id": "4880",
     "title": "2 Storey Terrace House",
     "address": "TB 435, Lot No. 1816, Bandar Sri Indah Phase 5I, KM 16 (Mile 10), Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82295,7 +84367,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4770",
+    "id": "4881",
     "title": "Apartment",
     "address": "Unit No. 7, Block A, Level 17, Type E(M), PR1MA @ Borneo Cove, Buli Sim-Sim Road, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -82312,7 +84384,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4771",
+    "id": "4882",
     "title": "Apartment",
     "address": "Lot No. F5-3, Block F, Third Floor, Type E, Delta Heights Phase 1, Off Jalan Duta Bundusan, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -82329,7 +84401,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4772",
+    "id": "4883",
     "title": "2 Storey Semi Detached House",
     "address": "Lot 45, Palm Heights, Phase 4, Jalan Dam, 91100 Lahad Datu, Sabah",
     "postcode": "91100",
@@ -82346,7 +84418,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4773",
+    "id": "4884",
     "title": "2 Storey Semi Detached House",
     "address": "Lot No. 210, Bandar Sri Perdana, Phase 4A, Jalan Silam, 91100 Lahad Datu, Sabah",
     "postcode": "91100",
@@ -82363,7 +84435,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4774",
+    "id": "4885",
     "title": "Terrace House",
     "address": "TB 278 (Lot 1659), Bandar Sri Indah, Phase 5H, KM 16 (Mile 10), Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82380,7 +84452,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4775",
+    "id": "4886",
     "title": "2 Storey Terrace House",
     "address": "TB 274 (Lot 1655), Bandar Sri Indah Phase 5H, KM16 (Mile 10), Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82397,7 +84469,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4776",
+    "id": "4887",
     "title": "2 Storey Terrace House",
     "address": "Lot No 358 (House No 47), Lorong Rimba 1, Taman Rimba Phase 1, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82414,7 +84486,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4777",
+    "id": "4888",
     "title": "2 Storey Terrace House",
     "address": "No. 362 (House No. 39), Lorong Rimba 1, Taman Rimba, Phase 1, Menggatal, Off KM 20, Jalan Tuaran, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82431,7 +84503,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4778",
+    "id": "4889",
     "title": "2 Storey Terrace House",
     "address": "No. 292 (House No. 33), Lorong Cerah 12, Taman Cerah, Jalan Tuaran Bypass, Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82448,7 +84520,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4779",
+    "id": "4890",
     "title": "Condominium",
     "address": "Unit No. B-10-2, Block B, Level 10, Type B, The Peak Soho, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -82465,7 +84537,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4780",
+    "id": "4891",
     "title": "Condominium",
     "address": "Unit No. B-2-14, (also known as B314), Block B, Level 3 & 4, Grace Garden, Sembulan, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -82482,7 +84554,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4781",
+    "id": "4892",
     "title": "Shop Office",
     "address": "Lot No. 2 (DBKK No. 1B-0-2), Ground Floor, Block 1B, Phase 1A, Alam Puteri (Princess Heights), Jalan Sepanggar, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82499,7 +84571,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4782",
+    "id": "4893",
     "title": "Condominium",
     "address": "Unit No. 20-1, Level 20, Skyvue Residece @ Kobusak, Off Jalan Pintas Penampang, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -82516,7 +84588,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4783",
+    "id": "4894",
     "title": "Apartment",
     "address": "Unit No. 2A8-2, Second Floor, Block 2A, Melinsung Summer Bay Resort Apartment, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -82533,7 +84605,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4784",
+    "id": "4895",
     "title": "2 Storey Terrace House",
     "address": "Lot A114, Block 205, Taman Mawar, Phase 7, Sibuga Road, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -82550,7 +84622,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4785",
+    "id": "4896",
     "title": "Condominium",
     "address": "Lot No A2-09-06, Block A2, Level 9, Type A1, Astana Heights, Phase 5C-Kingfisher Sandakan, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -82567,7 +84639,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4786",
+    "id": "4897",
     "title": "Apartment",
     "address": "Lot No. B-04-10, Block B, Level 04, Apartment Villa Sri Indah (also known as South Ville Apartments), Phase 1, Bandar Sri Indah, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82584,7 +84656,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4787",
+    "id": "4898",
     "title": "Apartment",
     "address": "Unit No. E-02-15, Block E, Level 02, Apartment Villa Sri Indah, (Also known as South Ville Apartments), Phase 2, Bandar Sri Indah, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82601,7 +84673,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4788",
+    "id": "4899",
     "title": "Apartment",
     "address": "Unit No. F-03-09 (Parcel 09), Block F, Level 03, Apartment Villa Sri Indah Phase 2, Bandar Sri Indah, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82618,7 +84690,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4789",
+    "id": "4900",
     "title": "Apartment",
     "address": "Parcel No. 8 (Lot No. G-04-08), Block G, Level 4, Apartment Villa Sri Indah, Phase 2, Type A, KM 16 (Mile 10), 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82635,7 +84707,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4790",
+    "id": "4901",
     "title": "2 Storey Shop House",
     "address": "Unit No. 1A-A11, Ground & First Floor, First Palm City Centre (Phase 1), 91100 Lahad Datu, Sabah",
     "postcode": "91100",
@@ -82652,7 +84724,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4791",
+    "id": "4902",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 115, Taman Vila Intan, Off Jalan Kelanahan, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -82669,7 +84741,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4792",
+    "id": "4903",
     "title": "Apartment",
     "address": "Lot No. C-3-0, Block C, Level Ground, Taman Lumat Saujana, Kampung Lumat, 89807 Beaufort, Sabah",
     "postcode": "89807",
@@ -82686,7 +84758,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4793",
+    "id": "4904",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 105, Taman Legenda, Jalan Bolong, Kampung Dungang, Lorong Legenda 3, 89208 Tuaran, Sabah",
     "postcode": "89208",
@@ -82703,7 +84775,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4794",
+    "id": "4905",
     "title": "University Condo Apartment 2",
     "address": "Unit No. O-0-1, Tingkat Bawah, Blok O, University Condo Apartment 2, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -82720,7 +84792,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4795",
+    "id": "4906",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 2, Lorong Intan 1, Taman Vila Intan, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -82737,7 +84809,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4796",
+    "id": "4907",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 98, Taman Sawit Phase 2A, Jalan Apas Balung, Tawau, Sabah",
     "postcode": "",
@@ -82754,7 +84826,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4797",
+    "id": "4908",
     "title": "Condominium",
     "address": "Unit No. 3K-4-11, Block 3K, Tingkat 4, University Utama Condominium Fasa 6, Jalan Kayu Madang, 88450 Telipok, Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -82771,7 +84843,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4798",
+    "id": "4909",
     "title": "1 Storey Terrace House",
     "address": "Lot 269, Palm Villa 8, Off Jalan Lambir, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -82788,7 +84860,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4799",
+    "id": "4910",
     "title": "1 Storey Terrace House",
     "address": "Lot 7032, Lorong Jati 7, Taman Desa Senadin (Phase 5), 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -82805,7 +84877,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4800",
+    "id": "4911",
     "title": "1 Storey Terrace House",
     "address": "Lot 12107, Lorong Mujong 1, Taman Jelita 16, 98000 Miri, Sarawak",
     "postcode": "12107",
@@ -82822,7 +84894,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4801",
+    "id": "4912",
     "title": "2 Storey Semi Detached House",
     "address": "Lot 12576, Jalan Katibas, Taman Jelita 13, 98000 Miri, Sarawak",
     "postcode": "12576",
@@ -82839,7 +84911,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4802",
+    "id": "4913",
     "title": "1 Storey Terrace House",
     "address": "No. 885, Lorong Samarindah 4B3, Taman Samarindah (Phase 2), Jalan Samarindah, Off Jalan Datuk Muhammad Musa, 94300 Kota Samarahan, Sarawak",
     "postcode": "94300",
@@ -82856,7 +84928,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4803",
+    "id": "4914",
     "title": "3 Storey Shop House",
     "address": "Sublot 34 (Survey Lot 7665), Central City Phase 9, Off Kuching-Kota Samarahan Expressway, 94300 Kota Samarahan, Sarawak",
     "postcode": "94300",
@@ -82873,7 +84945,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4804",
+    "id": "4915",
     "title": "Apartment",
     "address": "Unit No. A13-02-02 (Unit No. 2), First Floor, Block A13, RPR Matang Malihah III (Taman Malihah Jaya), Lorong 7, Off Jalan Belatok, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -82890,7 +84962,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4805",
+    "id": "4916",
     "title": "University Condo Apartment 2",
     "address": "Unit No. O-G-1, Tingkat Bawah, Blok O, University Condo Apartment 2, 88000 Kota Kinabalu, Sabah",
     "postcode": "88000",
@@ -82907,7 +84979,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4806",
+    "id": "4917",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 98, Taman Sawit Phase 2, Jalan Apas Balung, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -82924,7 +84996,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4807",
+    "id": "4918",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 8, Block A, Taman Naparan Ria, 89857 Sipitang, Sabah",
     "postcode": "89857",
@@ -82941,7 +85013,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4808",
+    "id": "4919",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 115, Taman Vila Intan, Off Jalan Kelanahan, Kampung Kelanahan 89600 Papar, Sabah",
     "postcode": "89600",
@@ -82958,7 +85030,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4809",
+    "id": "4920",
     "title": "Apartment",
     "address": "Lot No. D-3-13A, Level 3, Block D, Residensi Seri Akasia, 89208 Tuaran, Sabah",
     "postcode": "89208",
@@ -82975,7 +85047,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4810",
+    "id": "4921",
     "title": "Apartment",
     "address": "Unit No. 3, Level 9 (Eight Floor), The Wharf Commercial and Services Apartment, Jalan Marina Utama, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -82992,7 +85064,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4811",
+    "id": "4922",
     "title": "Condominium",
     "address": "Unit No. 1E2, Ground and First Floors, Block E, Village Grove Condominium, Lorong BDC F, Off Jalan Stutong, 93350 Kuching, Sarawak",
     "postcode": "93350",
@@ -83009,7 +85081,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4812",
+    "id": "4923",
     "title": "1 Storey Terrace House",
     "address": "No. Lot 1182, off Jalan Kidurong, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -83026,7 +85098,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4813",
+    "id": "4924",
     "title": "2 Storey Terrace House",
     "address": "Lot A181C, Block 9, Taman Indah Jaya, Mile 4, North Road, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -83043,7 +85115,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4814",
+    "id": "4925",
     "title": "Apartment",
     "address": "Unit No. 3-2, 2nd Floor, Block A, Taman Union, Phase 2, 88200 Putatan, Sabah",
     "postcode": "88200",
@@ -83060,7 +85132,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4815",
+    "id": "4926",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Beverly Hills Garden, Jalan Tun Hussein Onn, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -83077,7 +85149,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4816",
+    "id": "4927",
     "title": "Apartment",
     "address": "3rd Floor, Block A, Melinsung Summer Bay Resort Apartment, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -83094,7 +85166,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4817",
+    "id": "4928",
     "title": "1 Storey Terrace Dwelling House",
     "address": "Lot 4979, Lorong 6, Jalan Dato Permaisuri 1A, RPR Tudan, Bandar Permyjaya, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -83111,7 +85183,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4818",
+    "id": "4929",
     "title": "Commercial Retail Lot",
     "address": "Unit No. S-31, Second Floor, KK City Waterfront Development Kota Kinabalu, 88000 Kota Kinabalu, Sabah",
     "postcode": "88000",
@@ -83128,7 +85200,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4819",
+    "id": "4930",
     "title": "Apartment [5 min walking distance to Bataras Superstore Telipok Ria]",
     "address": "Unit NO. B4-4F-14, Block B4, Tingkat 4, Taman Telipok Ria Fasa 1, Off Jalan Tuaran Bypass, Tuaran, Sabah",
     "postcode": "",
@@ -83145,7 +85217,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4820",
+    "id": "4931",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 257, Taman Aman Suria, Kampung Pengalat Besar, Papar, Sabah",
     "postcode": "",
@@ -83162,7 +85234,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4821",
+    "id": "4932",
     "title": "Arcade Shop",
     "address": "Lot F-33, 1st Floor, Eastern Plaza Shopping Mall, KM 1.6, Jalan Kuhara, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -83179,7 +85251,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4822",
+    "id": "4933",
     "title": "[Near by Universiti Teknologi MARA Sabah Branch] Apartment [Within short drive to Kota Kinabalu Polytechnic ]",
     "address": "Lot No. E-3-2, Blok E, Tingkat 2, Taman Bukit Putramas, Jalan Boronuon Telipok, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -83196,7 +85268,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4823",
+    "id": "4934",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 83, Lorong Perwira 4, Taman Perwira Biah, 89000 Keningau, Sabah",
     "postcode": "89000",
@@ -83213,7 +85285,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4824",
+    "id": "4935",
     "title": "Apartment",
     "address": "Unit No. C-0-09, University Utama Condominium Fasa 1, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -83230,7 +85302,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4825",
+    "id": "4936",
     "title": "[Surrounded by a variety of shops] Condominium [9 min to CKS Supermarket (Telipok)]",
     "address": "Unit No. 2W-4-10, Fourth Floor, Block 2W, Type B3A, University Utama Condominium Phase 3, Jalan Kayu Madang, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83247,7 +85319,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4826",
+    "id": "4937",
     "title": "Apartment",
     "address": "Unit No. 2W-3-9, Block 2W, Tingkat 3, University Utama Condominium Fasa 3, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -83264,7 +85336,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4827",
+    "id": "4938",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 94, Block 3, Taman Indah Ria, Fasa 1, Tuaran, Sabah",
     "postcode": "",
@@ -83281,7 +85353,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4828",
+    "id": "4939",
     "title": "Apartment",
     "address": "Unit No. U16-3 (Lot 16), Tingkat 3, Block U, Fasa B, Melinsung Summer Bay Apartment, Kinarut, Papar, Sabah",
     "postcode": "",
@@ -83298,7 +85370,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4829",
+    "id": "4940",
     "title": "Apartment",
     "address": "Unit No. V-3-3, Block V, Tingkat 3, University Utama Condominium Fasa 2, Jalan Norowot, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83315,7 +85387,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4830",
+    "id": "4941",
     "title": "Condominium",
     "address": "Lot No. C-27-02, Level 27, Block C, Kingfisher Inanam Condominium, Phase 2, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83332,7 +85404,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4831",
+    "id": "4942",
     "title": "2 Storey Terrace House",
     "address": "No. 36, Block No. 9, Taman Limbai Ria, Phase 2, Kampung Tambalang, 89209 Tuaran, Sabah",
     "postcode": "89209",
@@ -83349,7 +85421,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4832",
+    "id": "4943",
     "title": "Shop / Office",
     "address": "Unit No. 25, 1st Floor, Building No. E, KK Times Square, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -83366,7 +85438,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4833",
+    "id": "4944",
     "title": "Shop / Office",
     "address": "Unit No. 25, 2nd Floor, Building No. E, KK Times Square, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -83383,7 +85455,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4834",
+    "id": "4945",
     "title": "Shop / Office",
     "address": "Unit No. 25, 3rd Floor, Building No. E, KK Times Square, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -83400,7 +85472,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4835",
+    "id": "4946",
     "title": "Shop / Office",
     "address": "Unit No. 25, Level 3A, Building No. E, KK Times Square, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -83417,7 +85489,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4836",
+    "id": "4947",
     "title": "Shop / Office",
     "address": "Unit No. 25, Level 5, Building No. E, KK Times Square, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -83434,7 +85506,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4837",
+    "id": "4948",
     "title": "Shop / Office",
     "address": "Unit No. 25, Ground Floor, Building No. E, KK Times Square, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -83451,7 +85523,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4838",
+    "id": "4949",
     "title": "Apartment",
     "address": "Lot No. B-GF-12, Block B, Ground Floor, Residensi Seri Akasia, 89150 Tuaran, Sabah",
     "postcode": "89150",
@@ -83468,7 +85540,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4839",
+    "id": "4950",
     "title": "Retail Lot",
     "address": "Unit No. G-648, Ground Floor, One Borneo, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -83485,7 +85557,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4840",
+    "id": "4951",
     "title": "Apartment",
     "address": "Lot No. E-5-5, Block Emerald, Level 5, Alam Pesona Putatan Phase 1, 89500 Putatan, Sabah",
     "postcode": "89500",
@@ -83502,7 +85574,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4841",
+    "id": "4952",
     "title": "[ROI >5%] Apartment [ Easy access via Jalan Penempatan & Jalan Likas]",
     "address": "Lot No. E-1-7 (DBKK No. 1-7), Level 1 (1st Floor), Jesselton View, Hilltop, Off Jalan Penempatan, 88300 Kota Kinabalu, Sabah",
     "postcode": "88300",
@@ -83519,7 +85591,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4842",
+    "id": "4953",
     "title": "Apartment",
     "address": "Lot No. E-3-10 (DBKK No. 3-10), Level 3 (3rd Floor), Jesselton View, Hilltop, Off Jalan Penempatan, 88300 Kota Kinabalu, Sabah",
     "postcode": "88300",
@@ -83536,7 +85608,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4843",
+    "id": "4954",
     "title": "Apartment",
     "address": "Lot No. E-3A-10 (DBKK No. 3A-10), Level 3A (4th Floor), Jesselton View, Hilltop, Off Jalan Penempatan, 88300 Kota Kinabalu, Sabah",
     "postcode": "88300",
@@ -83553,7 +85625,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4844",
+    "id": "4955",
     "title": "[Walking distance to 1Borneo Hypermall & North Borneo University College] Residential Unit [4 min to University Malaysia Sabah]",
     "address": "Lot No. A-03A-16, 3Ath Floor, 1 Borneo Tower A, Jalan UMS (Previously known as Jalan Sulaman), 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83570,7 +85642,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4845",
+    "id": "4956",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 20, Lorong Perwira 1, Taman Perwira Biah, Keningau, Sabah",
     "postcode": "",
@@ -83587,7 +85659,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4846",
+    "id": "4957",
     "title": "Condominium",
     "address": "Unit No. B-31-09, Jesselton Twin Towers, Jalan Bersatu, Damai, 88300, Kota Kinabalu, Sabah",
     "postcode": "88300",
@@ -83604,7 +85676,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4847",
+    "id": "4958",
     "title": "Condominium",
     "address": "Unit No. 03A-09-10, Blok 03A, Tingkat 9, Lot No. 10, V21 Residence Fasa 1, Peringkat 1, 88460 Kota Kinabalu, Sabah",
     "postcode": "88460",
@@ -83621,7 +85693,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4848",
+    "id": "4959",
     "title": "Apartment",
     "address": "Unit No. A 9-1 (DBKK No. A-1-9), Block A, First Floor, University Condo Apartments 1, Jalan UMS, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83638,7 +85710,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4849",
+    "id": "4960",
     "title": "1 Storey Terrace House",
     "address": "No. 12 (Lot No. 6 (2-A-06)), Block 1, Lorong Inanam Laut 1, Phase 1, Taman Inanam Laut, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83655,7 +85727,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4850",
+    "id": "4961",
     "title": "Apartment",
     "address": "Lot No. AC/M/G/11 (on site as M-G-11), Block M, Ground Floor, Residensi Acacia Phase 3, Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83672,7 +85744,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4851",
+    "id": "4962",
     "title": "3-Storey intermediate walk-up Apartment (Type - Double Loaded Intermediate Lot)",
     "address": "House/Lot No. 49, Block F, Taman Spring Field Phase 1, Jalan Lintas Labuh, Mile 8, Jalan Lintas Labuk, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -83689,7 +85761,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4852",
+    "id": "4963",
     "title": "1 Storey Terrace House",
     "address": "Lot. B6-7 (TB 74), Taman Apas Permai, Mile 12, Jalan Apas, Tawau, Sabah",
     "postcode": "",
@@ -83706,7 +85778,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4853",
+    "id": "4964",
     "title": "Apartment",
     "address": "Unit No. A-11-9, Benoni Gardens Apartment, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -83723,7 +85795,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4854",
+    "id": "4965",
     "title": "Apartment",
     "address": "Unit No. 4, Ground Floor, Block B, Southsea Pearl Residences, 87000 Labuan, Sabah",
     "postcode": "87000",
@@ -83740,7 +85812,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4855",
+    "id": "4966",
     "title": "Apartment",
     "address": "Unit No. D05-1, Block D, Level 1, Taman Wangsa Apartment, Phase 1, Club House, Kampung Boronuan, Jalan Boronuan, 89200 Telipok, Tuaran, Sabah",
     "postcode": "89200",
@@ -83757,7 +85829,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4856",
+    "id": "4967",
     "title": "Apartment",
     "address": "Unit No. U13-3, 3rd Floor, Block U, Melinsung Summer Bay Resort Apartment, Phase A, 896000 Papar, Sabah",
     "postcode": "",
@@ -83774,7 +85846,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4857",
+    "id": "4968",
     "title": "Apartment",
     "address": "Unit No. R-5-2, Tingkat 2, Blok R, Melinsung Summer Bay Resort Apartment, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -83791,7 +85863,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4858",
+    "id": "4969",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 16, Blok 3, Taman Perwira, Jalan Ranggu, 91008 Tawau, Sabah",
     "postcode": "91008",
@@ -83808,7 +85880,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4859",
+    "id": "4970",
     "title": "Apartment",
     "address": "Lot No. 4 (B4-4F-04), Block 4, 4th Floor, Taman Telipok Ria, Phase 1, Mile 11, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -83825,7 +85897,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4860",
+    "id": "4971",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 81, Taman Perwira Biah, 89000 Keningau, Sabah",
     "postcode": "89000",
@@ -83842,7 +85914,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4861",
+    "id": "4972",
     "title": "Apartment",
     "address": "Unit No. A14-1, Tingkat 1, Block A, Melinsung Summer Bay Resort Apartments, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -83859,7 +85931,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4862",
+    "id": "4973",
     "title": "Apartment",
     "address": "Unit No. M3-2, Tingkat 2, Block M, Phase A, Melinsung Summer Bay Resort Apartment, Kinarut, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -83876,7 +85948,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4863",
+    "id": "4974",
     "title": "Condominium",
     "address": "Unit No. N-3-5, Third Floor, Block N (Type C1), University Utama Condominium Phase 1, Jalan Kayu Madang, Off Jalan Tuaran, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -83893,7 +85965,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4864",
+    "id": "4975",
     "title": "Apartment",
     "address": "Lot No. U-0-19, Ground Floor, Block U, University Utama Condominium Phase 2, Jalan Kayu Madang, Telipok, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -83910,7 +85982,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4865",
+    "id": "4976",
     "title": "Apartment",
     "address": "Lot No. U-2-17, 2nd Floor, Blok U, University Utama Condominium Fasa 2, Jalan Kayu Madang, 88450 Telipok, Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83927,7 +85999,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4866",
+    "id": "4977",
     "title": "Apartment",
     "address": "Unit No. 2E-3-5, Third Floor, Block 2E, University Utama Condominium, Phase 2, Jalan Kayu Madang, Off Jalan Tuaran, Telipok, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83944,7 +86016,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4867",
+    "id": "4978",
     "title": "Apartment",
     "address": "Unit No. 2E-0-17, Tingkat Bawah, Block 2E, University Utama Condominium Fasa 2, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -83961,7 +86033,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4868",
+    "id": "4979",
     "title": "Apartment",
     "address": "Unit No. 2T-3-5, Block 2T, 3rd Floor, University Utama Condominium Fasa 3, 88000 Kota Kinabalu, Sabah",
     "postcode": "88000",
@@ -83978,7 +86050,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4869",
+    "id": "4980",
     "title": "Apartment",
     "address": "Unit No. 3P-4-9, Block 3P, Tingkat 4, University Utama Condominium Fasa 5, Jalan Kayu Madang, 88450 Telipok, Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -83995,7 +86067,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4870",
+    "id": "4981",
     "title": "Apartment",
     "address": "Unit No. 3G-3-9, Tingkat 3, Blok 3G, University Utama Condominium Fasa 6, Jalan Norowot, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84012,7 +86084,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4871",
+    "id": "4982",
     "title": "Apartment",
     "address": "Lot No. 3I, 3rd Floor, Lot 9, University Utama Condominium Fasa 6, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84029,7 +86101,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4872",
+    "id": "4983",
     "title": "Apartment",
     "address": "Unit No. 3G-2-7, University Utama Condominium Fasa 6, Jalan Tuaran Lama, Telipok, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84046,7 +86118,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4873",
+    "id": "4984",
     "title": "Apartment",
     "address": "Lot No. B1-4F-16, Tingkat 4, Block B1, Taman Telipok Ria Phase 1, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84063,7 +86135,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4874",
+    "id": "4985",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 132, Lorong Legenda 2, Jalan Bolong, Taman Legenda, Kampung Dungang, 89208 Tuaran, Sabah",
     "postcode": "89208",
@@ -84080,7 +86152,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4875",
+    "id": "4986",
     "title": "Apartment",
     "address": "Lot No. E-0-11, Block E, Ground Floor, University Utama Condominium Phase 1, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84097,7 +86169,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4876",
+    "id": "4987",
     "title": "Apartment",
     "address": "Unit No. 2R-03, Tingkat Bawah, Block 2R, University Utama Condominium, Fasa 3, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84114,7 +86186,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4877",
+    "id": "4988",
     "title": "Apartment",
     "address": "Unit No. 3A-0-3, Tingkat Bawah, Block 3A, University Utama Condominium Fasa 6, Jalan Kayu Madang, 88450 Telipok, Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84131,7 +86203,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4878",
+    "id": "4989",
     "title": "Apartment",
     "address": "Unit No. C-11-2, Tingkat 2, Block C, Taman Lumat Saujana, Kampung Lumat, 89807 Beaufort, Sabah",
     "postcode": "89807",
@@ -84148,7 +86220,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4879",
+    "id": "4990",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 409 (House No. 55), Type 1, Taman Wawasan Phase IIIB, 89808 Beaufort, Sabah",
     "postcode": "89808",
@@ -84165,7 +86237,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4880",
+    "id": "4991",
     "title": "3 Storey Terrace Shop House",
     "address": "Lot 3937, Parkcity Commerce Square, Jalan Tun Ahmad Zaidi, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -84182,7 +86254,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4881",
+    "id": "4992",
     "title": "1 Storey Terrace House",
     "address": "Lot 3185, Lorong Indah 4A-2A, Desa Indah 3, Bandar Baru Permyjaya, Tudan, 98100 Miri, Sarawak",
     "postcode": "98100",
@@ -84199,7 +86271,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4882",
+    "id": "4993",
     "title": "2 Storey Terrace Dwelling House",
     "address": "Lot 9433, Lorong Perkasa 7B/1, Curtin Water, Desa Senadin, Off Jalan Lutong-Kuala Baram, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -84216,7 +86288,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4883",
+    "id": "4994",
     "title": "2 Storey Terrace House",
     "address": "Lot 963, Lorong 7D, Taman Duranda Emas, Off Jalan Kuching - Serian, 94200 Siburan, Sarawak",
     "postcode": "94200",
@@ -84233,7 +86305,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4884",
+    "id": "4995",
     "title": "Apartment",
     "address": "Unit No. U13-3, 3rd Floor, Block U, Melinsung Summer Bay Resort Apartment, Phase A, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -84250,7 +86322,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4885",
+    "id": "4996",
     "title": "Apartment",
     "address": "Lot No. U-0-19, Ground Floor, Block U, University Utama Condominium Phase 2, Jalan Kayu Madang, Telipok, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -84267,7 +86339,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4886",
+    "id": "4997",
     "title": "Apartment",
     "address": "Unit No. N-3-5, Third Floor, Block N (Type C1), University Utama Condominium Phase 1, Jalan Kayu Madang, Off Jalan Tuaran, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -84284,7 +86356,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4887",
+    "id": "4998",
     "title": "Apartment",
     "address": "No. 3I-3-0, 3rd Floor, Lot 9, University Utama Condominium Fasa 6, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84301,7 +86373,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4888",
+    "id": "4999",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 94, Block 3, Taman Indah Ria, Fasa 1, Tuaran, Sabah",
     "postcode": "",
@@ -84318,7 +86390,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4889",
+    "id": "5000",
     "title": "[6 min to Pekan Kinarut & SK Pekan Kinarut] Apartment [7 min to Kinarut Railway Station]",
     "address": "Unit No. 4-6-2, Block 4, Level 6, PR1MA @ Kinarut South, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -84335,7 +86407,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4890",
+    "id": "5001",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 20, Lorong Perwira 1, Taman Perwira Biah, Keningau, Sabah",
     "postcode": "",
@@ -84352,7 +86424,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4891",
+    "id": "5002",
     "title": "Apartment",
     "address": "Unit No. 2R-0-3, Tingkat Bawah, Block 2R, University Utama Condominium, Fasa 3, Jalan Kayu Madang, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84369,7 +86441,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4892",
+    "id": "5003",
     "title": "[3 min to BSI Lake Garden] Apartment [6 min to GentingMas Mall Bandar Sri Indah]",
     "address": "Lot No. 16 (Lot No. G-03-16), Level 03, Block G, Apartment Villa Sri Indah (also known as South Ville Apartment), Phase 2, Type B, KM 16 (Mile 10), Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -84386,7 +86458,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4893",
+    "id": "5004",
     "title": "Apartment",
     "address": "Lot No. AC/M/G/11 (on site as M-G-11), Lorong Residensi Acacia 13A, Residensi Acacia, Jalan Residensi Acacia, Off Jalan Mansiang, Menggatal, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84403,7 +86475,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4894",
+    "id": "5005",
     "title": "3 Storey Shop Office",
     "address": "Unit No. A6, (DBKK Nos. A-G-6, A-1-6, A-2-6), Ground, First & Second Floor, Block A, Taipan 28, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84420,7 +86492,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4895",
+    "id": "5006",
     "title": "3 Storey Shop Office",
     "address": "Unit No. A7 (DBKK Nos. A-G-7, A-1-7, A-2-7), Ground, First & Second Floor, Block A, Taipan 28, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84437,7 +86509,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4896",
+    "id": "5007",
     "title": "1 Storey Terrace House",
     "address": "Lot. B6-7 (TB 74), Taman Apas Permai, Mile 12, Jalan Apas, 91000, Tawau, Sabah",
     "postcode": "91000",
@@ -84454,7 +86526,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4897",
+    "id": "5008",
     "title": "Apartment",
     "address": "Unit No. 4, Ground Floor, Block B, Southsea Pearl Residences, Jalan OKK Daud, 87000, Labuan, Sabah",
     "postcode": "87000",
@@ -84471,7 +86543,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4898",
+    "id": "5009",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 107, Block No. 8, Taman Riang Ria, Phase 2, Kampung Termenong/Termunong, 89150 Tuaran, Sabah",
     "postcode": "89150",
@@ -84488,7 +86560,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4899",
+    "id": "5010",
     "title": "Apartment",
     "address": "Lot 8 (No. C-15-8), Block C, Level 15, Residensi PR1MA Borneo Cove, Batu 1 1/2, Jalan Buli Sim-Sim, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -84505,7 +86577,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4900",
+    "id": "5011",
     "title": "Apartment",
     "address": "Unit No. 10 (A-3F-10), Block A, Third Floor, Lot No. 10, Vista Seri Melalin, Mengkabong, Tuaran, Sabah",
     "postcode": "",
@@ -84522,7 +86594,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4901",
+    "id": "5012",
     "title": "Apartment",
     "address": "Lot No. 11 (MDP No. C3-2-11), 2nd Floor, Block C-3, Taman Penampang 2Q, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -84539,7 +86611,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4902",
+    "id": "5013",
     "title": "Apartment",
     "address": "Lot 8, Block 8, 3rd Floor, Taman Mawar Low Cost Apartment, Off Mile 7, Sibuga Road, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -84556,7 +86628,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4903",
+    "id": "5014",
     "title": "Apartment",
     "address": "Lot No. 10 (MDP No. L-4F-10), Block L, ourth Floor, Vista Minintod, Penampang, Off Jalan Duta Bundusan, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -84573,7 +86645,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4904",
+    "id": "5015",
     "title": "Apartment",
     "address": "Lot No. L-7F-4, Block L, Seventh Floor, Apartment Angkasa, Phase 2, Kampung Darau, Rampayan, Menggatal, Off Jalan Tuaran Bypass, 88450 Kota Kinabalu, Sabah",
     "postcode": "88450",
@@ -84590,7 +86662,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4905",
+    "id": "5016",
     "title": "Condominium",
     "address": "Lot No. A-8-5 (House No. A-7-5), Level 8, Block A, Kondominium Kristal, Off Jalan Kepayan, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -84607,7 +86679,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4906",
+    "id": "5017",
     "title": "Apartment",
     "address": "Unit No. D13-2, Second Floor, Block D, Melinsung Summer Bay Resort Apartments, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -84624,7 +86696,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4907",
+    "id": "5018",
     "title": "Retail Unit",
     "address": "Unit No. B-43, Level Basement, Jesselton Mall, Jesselton Residences, Jalan Haji Saman, 88000 Kota Kinabalu, Sabah",
     "postcode": "88000",
@@ -84641,7 +86713,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4908",
+    "id": "5019",
     "title": "1 Storey Terrace House",
     "address": "Lot 36, Taman Alamanda, Jalan Ranggu, Some 19 KMS By Road To The North-East Of Tawau Town, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -84658,7 +86730,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4909",
+    "id": "5020",
     "title": "[Strategic Location] Retail Unit [10 min to CityONE Megamall & Kuching International Airport]",
     "address": "Parcel No. 14665-2-5, Within Storey Level No. 2, One TJ ICT Shopping Complex, Lot 14665, Jalan Stutong, 93250 Kuching, Sarawak",
     "postcode": "14665",
@@ -84675,7 +86747,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4910",
+    "id": "5021",
     "title": "Apartment",
     "address": "Parcel No. E-1-8, Level 1, Block E, The Tropics, Lorong Song 4C4, Jalan Song, 93350 Kuching, Sarawak",
     "postcode": "93350",
@@ -84692,7 +86764,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4911",
+    "id": "5022",
     "title": "Apartment",
     "address": "Parcel No. E-1-6, Level 1, Block E, The Tropics, Lorong Song 4C4, Jalan Song, 93350 Kuching, Sarawak",
     "postcode": "93350",
@@ -84709,7 +86781,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4912",
+    "id": "5023",
     "title": "Flat",
     "address": "Parcel No. 1336-3-23 (Unit No. 1307), Second Floor (Level 3), Block I, RPR Taman Sepakat Jaya, Off Jalan Demak Laut, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -84726,7 +86798,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4913",
+    "id": "5024",
     "title": "3 Storey Terrace Shop House",
     "address": "Lot 3937, Parkcity Commerce Square, Jalan Tun Ahmad Zaidi, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -84743,7 +86815,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4914",
+    "id": "5025",
     "title": "Flat",
     "address": "Parcel No. 4-03-01 (D301), Second Floor (Level 3), Block 4(D), RPR Taman Sri Harmoni (RPR Matang Batu 8), Off 8th Mile, Jalan Matang, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -84760,7 +86832,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4915",
+    "id": "5026",
     "title": "Apartment",
     "address": "Parcel No. B12-02-05, First Floor, Block B12, Lorong 6H, RPR Matang Malihah II, off Jalan Belatok/Jalan Matang-Batu Kawa, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -84777,7 +86849,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4916",
+    "id": "5027",
     "title": "1 Storey Terrace House",
     "address": "Lot 6553, Lorong Bestari 6E, Summer Villa (Phase 3), Off Jalan Datuk Mohd Musa, 94300 Kata Samarahan, Sarawak",
     "postcode": "94300",
@@ -84794,7 +86866,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4917",
+    "id": "5028",
     "title": "2 Storey Terrace Dwelling House",
     "address": "No. 126, Beverly Hill Estate, Jalan Tun Hussein Onn, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -84811,7 +86883,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4918",
+    "id": "5029",
     "title": "2 Storey Terrace House",
     "address": "No. 2D, Lorong Lanang Barat 20F5, Off Jalan Lanang Barat, 96000 Sibu, Sarawak",
     "postcode": "96000",
@@ -84828,7 +86900,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4919",
+    "id": "5030",
     "title": "Apartment",
     "address": "Unit No. C-4-18, Level 4, Block C, The Glen, Lorong Arang 15C, Off Jalan Arang, 93250 Kuching, Sarawak",
     "postcode": "93250",
@@ -84845,7 +86917,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4920",
+    "id": "5031",
     "title": "1 Storey Terrace House",
     "address": "Lot 2504, Lorong Demak Sepakat Jaya 2B, Pine Villa Garden, Off Jalan Bako, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -84862,7 +86934,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4921",
+    "id": "5032",
     "title": "1 Storey Terrace House",
     "address": "Lot 1651, Lorong Sealine 1E/2, Regent Park, Off Jalan Lutong-Kuala Baram, 98100 Lutong, Miri, Sarawak",
     "postcode": "98100",
@@ -84879,7 +86951,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4922",
+    "id": "5033",
     "title": "2 Storey Semi Detached House",
     "address": "No. 602 (Lot 10838), Lorong Hup Kee 10, Indah Heights, Off Jalan Datuk Bandar Mustapha, 93350 Kuching, Sarawak",
     "postcode": "10838",
@@ -84896,7 +86968,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4923",
+    "id": "5034",
     "title": "Apartment",
     "address": "Unit No. B5-03-17, Level 3, Block B5, Sienna Residence @ Matang, off 5th Mile Jalan Matang, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -84913,7 +86985,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4924",
+    "id": "5035",
     "title": "3 Storey Terrace Shop House",
     "address": "Lot 3935, Parkcity Commerce Square, Jalan Tun Ahmad Zaidi, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -84930,7 +87002,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4925",
+    "id": "5036",
     "title": "Apartment",
     "address": "Lot No. B1-4F-16, Tingkat 4, Block B1, Taman Telipok Ria, 88450 Telipok, Sabah",
     "postcode": "88450",
@@ -84947,7 +87019,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4926",
+    "id": "5037",
     "title": "Apartment",
     "address": "Lot No. 3I-3-9, Blok 3I, Tingkat 3, University Utama Condominium Fasa 6, Telipok, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -84964,7 +87036,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4927",
+    "id": "5038",
     "title": "Apartment",
     "address": "Unit No. B-07-3F (Lot 7), 3rd Floor, Block B, Indah Jaya Court, Mile 4, North Road, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -84981,7 +87053,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4928",
+    "id": "5039",
     "title": "Apartment",
     "address": "Unit No. 10 (A-3F-10), Block A, Third Floor, Lot No. 10, Vista Seri Melalin, Tuaran, Jalan Kompleks JKR Tuaran, 89208 Tuaran, Sabah",
     "postcode": "89208",
@@ -84998,7 +87070,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4929",
+    "id": "5040",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 48, Taman Vila Akasia, Kampung Bolong Baru, 89200 Tuaran, Sabah",
     "postcode": "89200",
@@ -85015,7 +87087,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4930",
+    "id": "5041",
     "title": "Service Apartment",
     "address": "Lot No. B-2-31, Block B, Second Floor, Type C1-B, The Residences Sutera Avenue, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -85032,7 +87104,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4931",
+    "id": "5042",
     "title": "Apartment",
     "address": "Lot No. E-3-10, Block E, Level 3, Type B1, PR1MA @ Menggatal, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -85049,7 +87121,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4932",
+    "id": "5043",
     "title": "2 Storey Terrace House",
     "address": "Lot A181C, Block 9, Lorong Indah 6, Taman Indah Jaya, Mile 4, North Road, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -85066,7 +87138,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4933",
+    "id": "5044",
     "title": "Apartment",
     "address": "Unit No. A9-3, 3rd Floor, Block A, Melinsung Summer Bay Resort Apartment, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -85083,7 +87155,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4934",
+    "id": "5045",
     "title": "Apartment",
     "address": "Lot No. 10 (MDP No. L-4F-10), Block L, Fourth Floor, Vista Minintod, Penampang, Off Jalan Duta Bundusan, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -85100,7 +87172,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4935",
+    "id": "5046",
     "title": "Condominium",
     "address": "Lot No. A-8-5 (House No. A-7-5), Level 8, Block A, Kondominium Kristal, Off Jalan Kepayan, 88200 Kota Kinabalu, Sabah",
     "postcode": "88200",
@@ -85117,7 +87189,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4936",
+    "id": "5047",
     "title": "Retail Unit",
     "address": "Unit No. B-43, Level Basement, Jesselton Mall, Jesselton Residences, Jalan Haji Saman, 88300 Kota Kinabalu, Sabah",
     "postcode": "88300",
@@ -85134,7 +87206,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4937",
+    "id": "5048",
     "title": "Condominium",
     "address": "Lot No. B-3-3, Block B, Level 3, Type B, Taman Puncak Luyang Phase 3 Condominium, off Jalan Kolam, Luyang, 88300 Kota Kinabalu, Sabah",
     "postcode": "88300",
@@ -85151,7 +87223,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4938",
+    "id": "5049",
     "title": "Land",
     "address": "NT 213146368, Kampung Sangai, Sabah",
     "postcode": "",
@@ -85168,7 +87240,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4939",
+    "id": "5050",
     "title": "2 Storey Shop Office",
     "address": "Lot No. 24, Papar Commercial Centre, 89600 Papar, Sabah",
     "postcode": "89600",
@@ -85185,7 +87257,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4940",
+    "id": "5051",
     "title": "Apartment",
     "address": "Unit No. U3-1, 1st Floor, Block U, Beverly Hills Phase 3, Off Jalan Bundunsan, 88300 Penampang, Sabah",
     "postcode": "88300",
@@ -85202,7 +87274,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4941",
+    "id": "5052",
     "title": "Retail Lot",
     "address": "Lot No. GL-2 (DBKK No. B-G-5), Block B, Ground Level, Riverson Walk, The Riverson, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -85219,7 +87291,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4942",
+    "id": "5053",
     "title": "Retail Lot",
     "address": "Lot No. GL-42 (DBKK No. B-G-45), Block B, Ground Level, Riverson Walk, The Riverson, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -85236,7 +87308,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4943",
+    "id": "5054",
     "title": "Retail Lot",
     "address": "Lot No. GL-43 (DBKK No. B-G-46), Block B, Ground Level, Riverson Walk, The Riverson, 88100 Kota Kinabalu, Sabah",
     "postcode": "88100",
@@ -85253,7 +87325,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4944",
+    "id": "5055",
     "title": "Commercial Suite Unit",
     "address": "Unit No. 18-06, Type A2, 18th Floor, Bay Suites, Jalan Istiadat, Off Jalan Tun Fuad Stephens, Teluk Likas, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -85270,7 +87342,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4945",
+    "id": "5056",
     "title": "2 Storey Semi Detached House",
     "address": "Titled Lot No. 134 (TB 13208), Bandar Sri Indah, Phase 1, KM 16 (Mile 10), Jalan Apas, 91000 Tawau, Sabah",
     "postcode": "13208",
@@ -85287,7 +87359,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4946",
+    "id": "5057",
     "title": "Shop",
     "address": "Lot No. G-37, Ground Floor, Eastern Plaza Shopping Mall, KM 1.6, Jalan Kuhara, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -85304,7 +87376,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4947",
+    "id": "5058",
     "title": "Shop",
     "address": "Lot No. G-38, Ground Floor, Eastern Plaza Shopping Mall, KM 1.6, Jalan Kuhara, 91000 Tawau, Sabah",
     "postcode": "91000",
@@ -85321,7 +87393,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4948",
+    "id": "5059",
     "title": "Commercial Unit",
     "address": "Lot No. F-1-1, Block F, Bandar Letat Jaya, Jalan Lintas Utara, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -85338,7 +87410,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4949",
+    "id": "5060",
     "title": "Shop Lot",
     "address": "Unit No. 21, Ground Floor, Megalong Commercial Complex, 89500 Penampang, Sabah",
     "postcode": "89500",
@@ -85355,7 +87427,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4950",
+    "id": "5061",
     "title": "Shop Lot",
     "address": "Unit No. 22, Ground Floor, Megalong Commercial Complex, 89500 Penampang, Sabah",
     "postcode": "89500",
@@ -85372,7 +87444,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4951",
+    "id": "5062",
     "title": "Shop Lot",
     "address": "Unit No. 23, Ground Floor, Megalong Commercial Complex, 89500 Penampang, Sabah",
     "postcode": "89500",
@@ -85389,7 +87461,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4952",
+    "id": "5063",
     "title": "Town House",
     "address": "Unit No. 6.2, Upper Unit, Block S, Wassion Avenue, Off Kuching-Samarahan Exppressway, 94200 Siburan, Kuching, Sarawak",
     "postcode": "94200",
@@ -85406,7 +87478,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4953",
+    "id": "5064",
     "title": "Apartment",
     "address": "Unit No. S-11-12, Level 11, South Wing, Metrocity Square, Off Jalan Matang, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -85423,7 +87495,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4954",
+    "id": "5065",
     "title": "1 Storey Semi Detached House",
     "address": "Lot 8168, Lorong Cahya Maju 9, Bandar Baru Samariang, Jalan Sultan Tengah, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -85440,7 +87512,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4955",
+    "id": "5066",
     "title": "4 Storey Shop House",
     "address": "Lot 3266, Off Jalan Tun Ahmad Zaidi Adruce, 93250 Kuching, Sarawak",
     "postcode": "93250",
@@ -85457,7 +87529,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4956",
+    "id": "5067",
     "title": "1 Storey Terrace House",
     "address": "Lot 5658, Lorong Suria 1-7, Taman Suria, Off Jalan Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak",
     "postcode": "94300",
@@ -85474,7 +87546,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4957",
+    "id": "5068",
     "title": "Apartment",
     "address": "Unit No. LC-C12 (Unit No. C12), Storey No. 2, Block No. LC, Taman Ketiau, Kampung Tombovo, 88200 Putatan, Sabah",
     "postcode": "88200",
@@ -85491,7 +87563,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4958",
+    "id": "5069",
     "title": "Smart Office Hip Office",
     "address": "Lot No. Rs-P10-15 (DBKK No. Rs-B1-9-15), Block B, 10th Level, Riverson SOHO, 88000, Kota Kinabalu, Sabah",
     "postcode": "88000",
@@ -85508,7 +87580,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4959",
+    "id": "5070",
     "title": "Apartment",
     "address": "Unit No. 2 (B-3F-2), Block B, 3rd Floor, Vista Seri Kiranau off Jalan Inobong, Penampang, Sabah",
     "postcode": "",
@@ -85525,7 +87597,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4960",
+    "id": "5071",
     "title": "Condominium",
     "address": "Lot No. D-13A-03A, Type A, Block D, Level 13A, Jalan Ketiau Tombovo, Kingfisher Putatan, Condominium, Phase 2B, Putatan, 88200 Kota Kinabalu, Sabah",
     "postcode": "88200",
@@ -85542,7 +87614,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4961",
+    "id": "5072",
     "title": "Condominium",
     "address": "Lot No. A-3-13A, Third Floor, Block A, University Prime Condominium, Off Jalan UMS, Kota Kinabalu, Sabah",
     "postcode": "",
@@ -85559,7 +87631,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4962",
+    "id": "5073",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 360, Stage II, Block 27, Taman Kimanis Jaya Phase II A, Kimanis, Papar, Sabah",
     "postcode": "",
@@ -85576,7 +87648,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4963",
+    "id": "5074",
     "title": "2 Storey Terrace House",
     "address": "Lot. 2135, Jalan Palma 4, Taman Permaisuri Indah, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85593,7 +87665,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4964",
+    "id": "5075",
     "title": "1 Storey Detached House",
     "address": "Lot 5310, Lorong Desa Pujut 1H/1, Desa Pujut 2, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85610,7 +87682,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4965",
+    "id": "5076",
     "title": "Terrace House",
     "address": "Lorong 1, Off Jalan Kuching Timur 3, Taman Tunku, Off Jalan Miri-Bintulu, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85627,7 +87699,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4966",
+    "id": "5077",
     "title": "1 Storey Detached House",
     "address": "Lorong Desa Pujut 1H/1, Desa Pujut 2, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85644,7 +87716,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4967",
+    "id": "5078",
     "title": "1 Storey Detached House",
     "address": "Lot 1245, Jalan Biri 3, Pujut 1D, Off Jalan Pujut-Lutong, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85661,7 +87733,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4968",
+    "id": "5079",
     "title": "2 Storey Terrace House",
     "address": "No. 85 (Survey Lot 1993), Lorong 3, Tabuan Tranquility Phase 2, Jalan Tabuan Tranquility, 93350 Kuching, Sarawak",
     "postcode": "93350",
@@ -85678,7 +87750,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4969",
+    "id": "5080",
     "title": "1 Storey Terrace House",
     "address": "Lot 2101, Lambir Land District, 3rd Mile, Riam Road, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85695,7 +87767,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4970",
+    "id": "5081",
     "title": "1.5 Storey Office Lot",
     "address": "Block 3, Muara Tebas Land District, Sarawak",
     "postcode": "",
@@ -85712,7 +87784,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4971",
+    "id": "5082",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 2034B, Block 179, Lorong Ramin 4, Taman Mawar, Phase 6A/6B, Off Mile 7, Jalan Sibuga, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -85729,7 +87801,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4972",
+    "id": "5083",
     "title": "2 Storey Terrace House",
     "address": "No. 1E, Lorong Tebu 2A2, Sibu, Sarawak",
     "postcode": "",
@@ -85746,7 +87818,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4973",
+    "id": "5084",
     "title": "Flat",
     "address": "Third Floor, Block B, Kam Jai Yen Medium Rise Housing Project, Jalan Aman, Off Jalan Utara, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -85763,7 +87835,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4974",
+    "id": "5085",
     "title": "Flat",
     "address": "Lot C3, Third Floor, Block B, Kam Jai Yen Medium Rise Housing Project, Jalan Aman, Off Jalan Utara, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -85780,7 +87852,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4975",
+    "id": "5086",
     "title": "1 Storey Semi Detached House",
     "address": "Lot 9845, Jalan Embun, Taman Rba, Lutong - Kuala Baram Road, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85797,7 +87869,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4976",
+    "id": "5087",
     "title": "2 Storey Terrace Dwelling House",
     "address": "Lot 7697, Lorong Desa Pujut 1F/5, Desa Pujut 2, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85814,7 +87886,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4977",
+    "id": "5088",
     "title": "1 Storey Terrace House",
     "address": "Lot No. 10 (CL 045340734), Taman Ria, Kampung Tambalang, 89150 Tuaran, Sabah",
     "postcode": "89150",
@@ -85831,7 +87903,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4978",
+    "id": "5089",
     "title": "1 Storey Detached House",
     "address": "No. 35 (Lot 806), Off Jalan Sebuku, Taman Dayu, 94000 Bau, Sarawak",
     "postcode": "94000",
@@ -85848,7 +87920,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4979",
+    "id": "5090",
     "title": "Terrace House",
     "address": "Tapah Residences, Off 22nd Mile, Jalan Kuching-Serian, 94200 Serian, Sarawak",
     "postcode": "94200",
@@ -85865,7 +87937,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4980",
+    "id": "5091",
     "title": "1 Storey Detached House",
     "address": "Off Jalan Sebuku, Taman Dayu, 94000 Bau, Sarawak",
     "postcode": "94000",
@@ -85882,7 +87954,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4981",
+    "id": "5092",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Lorong 7, Off Jalan Kuching Timur 3, Taman Tunku, Off Jalan Miri-Bintulu, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85899,7 +87971,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4982",
+    "id": "5093",
     "title": "1 Storey Terrace House",
     "address": "Lot 1499, Lorong Tasik 1A, Vista Perdana, Bandar Baru Pemyjaya, Tudan, 98100 Miri, Sarawak",
     "postcode": "98100",
@@ -85916,7 +87988,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4983",
+    "id": "5094",
     "title": "1 Storey Terrace House",
     "address": "Lot 3501, Lorong Desa Senadin 2C-10, Desa Senadin, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -85933,7 +88005,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4984",
+    "id": "5095",
     "title": "2 Storey Detached House",
     "address": "Lot. 87, Sri Taman, Off KM 5.8, Jalan Utara, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -85950,7 +88022,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4985",
+    "id": "5096",
     "title": "2 Storey Terrace House",
     "address": "No. 4H, Lorong Rantau Panjang Jaya, Sibu, Sarawak",
     "postcode": "",
@@ -85967,7 +88039,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4986",
+    "id": "5097",
     "title": "Dwelling House",
     "address": "Lot 2084, Jalan Engkalat, Block 5, Seduan Land District, Sibu, Sarawak",
     "postcode": "",
@@ -85984,7 +88056,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4987",
+    "id": "5098",
     "title": "Apartment",
     "address": "Lot No. 7 (Unit No. B9-3-7), Block 9, Third Floor, Taman Telipok Ria, Phase 2, Mile 16, Off Jalan Tuaran, 88450 Tuaran, Sabah",
     "postcode": "88450",
@@ -86001,7 +88073,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4988",
+    "id": "5099",
     "title": "2 Storey Semi Detached House",
     "address": "Bandar Sri Perdana, Phase 2, Km 4.5, Silam Road, Lahad Datu, Sabah",
     "postcode": "",
@@ -86018,7 +88090,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4989",
+    "id": "5100",
     "title": "2 Storey Terrace Shop House",
     "address": "Lot 560, Sepupok Bazaar, Off Jalan Sungai Saeh, 98200 Batu Niah, Sarawak",
     "postcode": "98200",
@@ -86035,7 +88107,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4990",
+    "id": "5101",
     "title": "Retail Lot",
     "address": "Parcel No. 90-4-23, Storey No. 4 (3rd Floor), Wisma Saberkas, Jalan Tun Haji Openg / Jalan Green, 93000 Kuching, Sarawak",
     "postcode": "93000",
@@ -86052,7 +88124,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4991",
+    "id": "5102",
     "title": "Flat",
     "address": "Unit No. B10-4F-07 (Lot No. 07), Block 10, Fourth Floor, Taman Telipok Ria, Phase 2, Mile 16, Off Jalan Tuaran, 88450 Tuaran, Sabah",
     "postcode": "88450",
@@ -86069,7 +88141,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4992",
+    "id": "5103",
     "title": "2 Storey Terrace Dwelling House",
     "address": "No. 1F, Lorong Apollo 8, 96000 Sibu, Sarawak",
     "postcode": "96000",
@@ -86086,7 +88158,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4993",
+    "id": "5104",
     "title": "2 Storey Terrace House",
     "address": "No. 838-B, Taman Bintulu, Tanjong Batu Road, 97000 Bintulu, Sarawak",
     "postcode": "97000",
@@ -86103,7 +88175,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4994",
+    "id": "5105",
     "title": "Terrace House",
     "address": "Lorong RTM 7, Off Jalan Old Oya & Jalan Sibu Ulu Oya, 96000 Sibu, Sarawak",
     "postcode": "96000",
@@ -86120,7 +88192,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4995",
+    "id": "5106",
     "title": "2 Storey Terrace House",
     "address": "Lorong Jade Villa 2B, Jade Villa, Off Jalan Tunku Abdul Rahman, 96000 Sibu, Sarawak",
     "postcode": "96000",
@@ -86137,7 +88209,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4996",
+    "id": "5107",
     "title": "Terrace House",
     "address": "Lorong 20, off Jalan Kuching Timur 3, Taman Tunku, Off Jalan Miri-Bintulu, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -86154,7 +88226,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4997",
+    "id": "5108",
     "title": "1 Storey Terrace House",
     "address": "Lorong 2-4A, Off Jalan Dato Permaisuri 2, RPR Permyjaya, Bandar Baru Permyjaya, Tudan, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -86171,7 +88243,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4998",
+    "id": "5109",
     "title": "Terrace House",
     "address": "Lorong 3, Kampung Haji Baki, Off Jalan Batu Kitang, 93250 Kuching, Sarawak",
     "postcode": "93250",
@@ -86188,7 +88260,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "4999",
+    "id": "5110",
     "title": "Terrace House",
     "address": "Lorong Desa Wira 11, Taman Desa Wira, Off Jalan Batu Kawa, 93250 Kuching, Sarawak",
     "postcode": "93250",
@@ -86205,7 +88277,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5000",
+    "id": "5111",
     "title": "Terrace House",
     "address": "BDC Lorong A1, Taman BDC, Off Jalan Stutong, 93350 Kuching, Sarawak",
     "postcode": "93350",
@@ -86222,7 +88294,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5001",
+    "id": "5112",
     "title": "1 Storey Terrace Dwelling House",
     "address": "Lot 3498, Lorong Desa Senadin 2C-10, Desa Senadin, Off Jalan Lutong-Kuala Baram, 98000 Miri, Sarawak",
     "postcode": "98000",
@@ -86239,7 +88311,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5002",
+    "id": "5113",
     "title": "2 Storey Terrace House",
     "address": "Lot No. 1575, Block 106, Taman Mawar Phase 3, Off KM 8.2, Jalan Utara, 90000 Sandakan, Sabah",
     "postcode": "90000",
@@ -86256,7 +88328,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5003",
+    "id": "5114",
     "title": "Apartment",
     "address": "Unit No. 3B, Storey No. 3, Sejinjang Tower, Santubong Suites, Jalan Sultan Tengah, 93050 Kuching, Sarawak",
     "postcode": "93050",
@@ -86273,7 +88345,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5004",
+    "id": "5115",
     "title": "1 Storey Terrace House",
     "address": "No. 57 (Lot 4449), Lorong Desa Permai 5, Taman Desa Permai, Off Jalan Datuk Mohd. Musa, 94300 Kota Samarahan, Sarawak",
     "postcode": "94300",
@@ -86290,7 +88362,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5005",
+    "id": "5116",
     "title": "Apartment",
     "address": "Unit No. D2, Block MF, 3rd Floor, Nuri Apartment, Taman Ketiau, Putatan, Sabah",
     "postcode": "",
@@ -86307,7 +88379,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5006",
+    "id": "5117",
     "title": "2 Storey Detached House",
     "address": "Lot No. 1, Taman Bunga Raya, Off Jalan Putatan, 88200 Putatan, Sabah",
     "postcode": "88200",
@@ -86324,7 +88396,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5007",
+    "id": "5118",
     "title": "2.5 Storey Terrace House",
     "address": "Lot 8 (M8), Blok M, Lorong Kenari 5, Taman Likas Jaya, Likas, Off Jalan Tuaran, 88400 Kota Kinabalu, Sabah",
     "postcode": "88400",
@@ -86341,7 +88413,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5008",
+    "id": "5119",
     "title": "2 Storey Semi Detached House",
     "address": "Lorong Permai Jaya 1, Taman Soon Hup, Off Jalan Sibu Ulu Oya, 96000 Sibu, Sarawak",
     "postcode": "96000",
@@ -86358,7 +88430,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5009",
+    "id": "5120",
     "title": "2 Storey Semi Detached House",
     "address": "No. 52A, Lorong Permai Jaya 1, Taman Soon Hup, Off Jalan Sibu Ulu Oya, 96000 Sibu, Sarawak",
     "postcode": "96000",
@@ -86375,7 +88447,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5010",
+    "id": "5121",
     "title": "Office",
     "address": "Unit No. B-56-2, Lorong Tun Ismail 6, Sri Dagangan, 25000 Kuantan, Pahang",
     "postcode": "25000",
@@ -86392,7 +88464,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5011",
+    "id": "5122",
     "title": "1 Storey Terrace House",
     "address": "No. 74, Jalan Tas 40, Perumahan Tas, 25150, Kuantan, Pahang",
     "postcode": "25150",
@@ -86409,7 +88481,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5012",
+    "id": "5123",
     "title": "Apartment",
     "address": "Unit No. B-L5-11, Jalan IM 9/2, Indera Mahkota 9, Valley Suite Apartment, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -86426,7 +88498,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5013",
+    "id": "5124",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Lorong Pandan Damai 1/11, Taman Pandan Damai 1, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86443,7 +88515,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5014",
+    "id": "5125",
     "title": "1 Storey Terrace House",
     "address": "No. 1, Lorong Pinggiran Putra 4/41, Pinggiran Putra 4, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -86460,7 +88532,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5015",
+    "id": "5126",
     "title": "1 Storey Semi Detached House",
     "address": "No. 67, Jalan KS 3/2, Kotasas, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86477,7 +88549,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5016",
+    "id": "5127",
     "title": "1 Storey Terrace House",
     "address": "Lorong IM 8/5, Taman Desa Samudera, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86494,7 +88566,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5017",
+    "id": "5128",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan KS 3/2, Kotasas, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86511,7 +88583,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5018",
+    "id": "5129",
     "title": "2 Storey Terrace House",
     "address": "Lorong Emas 14, Taman Emas, 27200 Kuala Lipis, Pahang",
     "postcode": "27200",
@@ -86528,7 +88600,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5019",
+    "id": "5130",
     "title": "2 Storey Semi Detached House",
     "address": "No. 8, Lorong IM 10/26, Taman Bukit Istana, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86545,7 +88617,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5020",
+    "id": "5131",
     "title": "1 Storey Terrace House",
     "address": "No. 74, Jalan Tas 40, Perumahan Tas, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86562,7 +88634,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5021",
+    "id": "5132",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Lorong IM 8/5,Desa Samudera, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86579,7 +88651,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5022",
+    "id": "5133",
     "title": "1 Storey Terrace House",
     "address": "No. 51, Lorong Pandan Indah 1/2, Perumahan Pandan Indah, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86596,7 +88668,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5023",
+    "id": "5134",
     "title": "Terrace House",
     "address": "No. 27, Lorong B.K.P 24, Perumahan Bandar Kuantan Putri, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -86613,7 +88685,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5024",
+    "id": "5135",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Lorong Permatang Badak Aman 23, Perumahan Permatang Badak Aman, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86630,7 +88702,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5025",
+    "id": "5136",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Lorong Permatang Badak Perdana 121, Perumahan Permatang Badak Perdana, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86647,7 +88719,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5026",
+    "id": "5137",
     "title": "1 Storey Terrace House",
     "address": "No. 18, Lorong S.D.S 13, Perumahan Seri Damai Sejahtera, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86664,7 +88736,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5027",
+    "id": "5138",
     "title": "1 Storey Terrace House",
     "address": "No. 28, Lorong S.D.S 14, Perumahan Seri Damai Sejahtera, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86681,7 +88753,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5028",
+    "id": "5139",
     "title": "2 Storey Terrace House",
     "address": "No. 5, Lorong IM 2/86, Indera Mahkota 2, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86698,7 +88770,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5029",
+    "id": "5140",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Tanjong Kerayong 6, Taman Tanjong Kerayong, 28400, Mentakab, Pahang",
     "postcode": "28400",
@@ -86715,7 +88787,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5030",
+    "id": "5141",
     "title": "Terrace House",
     "address": "No. 34, Lorong IPJ 12, Perumahan Makmur Inderapura Jaya, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86732,7 +88804,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5031",
+    "id": "5142",
     "title": "Land",
     "address": "Lot 140058, Lorong Anak Air 4, 26060, Kuantan, Pahang",
     "postcode": "26060",
@@ -86749,7 +88821,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5032",
+    "id": "5143",
     "title": "1 Storey Terrace House",
     "address": "No 15, Lorong Jaya Gading 2/2, Jaya Gading, 26070, Kuantan, Pahang",
     "postcode": "26070",
@@ -86766,7 +88838,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5033",
+    "id": "5144",
     "title": "1 Storey Terrace House",
     "address": "Jalan Tas 40, Perumahan Tas, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86783,7 +88855,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5034",
+    "id": "5145",
     "title": "1 Storey Terrace House",
     "address": "No 15, Lorong Jaya Gading 2/2, Jaya Gading, 26070 Kuantan, Pahang",
     "postcode": "26070",
@@ -86800,7 +88872,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5035",
+    "id": "5146",
     "title": "1 Storey Semi Detached House",
     "address": "No. 43, Lorong Gambang Jaya 2/6, Perumahan Makmur Gambang Jaya 2, 26300 Kuantan, Pahang",
     "postcode": "26300",
@@ -86817,7 +88889,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5036",
+    "id": "5147",
     "title": "1 Storey Terrace House",
     "address": "No. 3, Lorong Kempadang Damai 7, Taman Kempadang Damai, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -86834,7 +88906,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5037",
+    "id": "5148",
     "title": "Terrace House",
     "address": "Lorong Pandan Aman 1/21, Perumahan Pandan Aman, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86851,7 +88923,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5038",
+    "id": "5149",
     "title": "Semi Detached House",
     "address": "Jalan IM 10/7, Bukit Istana, Kuantan, Pahang",
     "postcode": "",
@@ -86868,7 +88940,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5039",
+    "id": "5150",
     "title": "Terrace House",
     "address": "Lorong Seri Setali 13, Taman Cahaya Timur, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -86885,7 +88957,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5040",
+    "id": "5151",
     "title": "Terrace House",
     "address": "Lorong Pelindung 100, Jalan Beserah, Taman Pelindung, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -86902,7 +88974,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5041",
+    "id": "5152",
     "title": "Terrace House",
     "address": "Lorong Permatang Badak Perdana 112, Perumahan Permatang Badak Perdana, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86919,7 +88991,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5042",
+    "id": "5153",
     "title": "Terrace House",
     "address": "Lorong Kempadang Perdana 23, Perumahan Kempadang Perdana, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -86936,7 +89008,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5043",
+    "id": "5154",
     "title": "1 Storey Terrace House",
     "address": "Lorong Permatang Badak Jaya 3, Perumahan Permatang Badak Jaya, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -86953,7 +89025,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5044",
+    "id": "5155",
     "title": "1 Storey Semi Detached House",
     "address": "Lorong Sungai Ular Jaya 10, Sungai Ular Jaya, 26080 Kuantan, Pahang",
     "postcode": "26080",
@@ -86970,7 +89042,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5045",
+    "id": "5156",
     "title": "1 Storey Terrace House",
     "address": "Lorong Bukit Setongkol Maju 44, Perkampungan Bukit Setongkol Jaya, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -86987,7 +89059,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5046",
+    "id": "5157",
     "title": "2 Storey Detached House",
     "address": "Lorong Bukit Pelindung 1, Taman Merdeka, Jalan Tengku Muhammad, 25050 Kuantan, Pahang",
     "postcode": "25050",
@@ -87004,7 +89076,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5047",
+    "id": "5158",
     "title": "1 Storey Semi Detached House",
     "address": "No. 16, Lorong Sungai Ular Jaya 10, Sungai Ular Jaya, 26080 Kuantan, Pahang",
     "postcode": "26080",
@@ -87021,7 +89093,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5048",
+    "id": "5159",
     "title": "2 Storey Detached House",
     "address": "No. A-1479, Lorong Bukit Pelindung 1, Taman Merdeka, Jalan Tengku Muhammad, 25050 Kuantan, Pahang",
     "postcode": "25050",
@@ -87038,7 +89110,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5049",
+    "id": "5160",
     "title": "Terrace House",
     "address": "No. 50, Lorong Seri Setali 13, Taman Cahaya Timur, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -87055,7 +89127,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5050",
+    "id": "5161",
     "title": "1 Storey Terrace House",
     "address": "No. 80, Lorong Permatang Badak Jaya 3, Perumahan Permatang Badak Jaya, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -87072,7 +89144,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5051",
+    "id": "5162",
     "title": "1 Storey Terrace House",
     "address": "No. 78, Lorong Permatang Badak Jaya 3, Perumahan Permatang Badak Jaya, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -87089,7 +89161,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5052",
+    "id": "5163",
     "title": "1 Storey Terrace House",
     "address": "No. 15, Lorong Ibol Jaya 2, Taman Ibol Jaya, 27000 Jerantut, Pahang",
     "postcode": "27000",
@@ -87106,7 +89178,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5053",
+    "id": "5164",
     "title": "1 Storey Terrace House",
     "address": "No. 1, Lorong Penor Makmur 1/26, Perumahan Penor Makmur 1, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -87123,7 +89195,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5054",
+    "id": "5165",
     "title": "Apartment",
     "address": "No. TA-5-23, Timur Bay @ Balok, Jalan Kuantan - Kemaman, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -87140,7 +89212,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5055",
+    "id": "5166",
     "title": "1 Storey Terrace House",
     "address": "Jalan Chengal 2, Taman Chengal, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -87157,7 +89229,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5056",
+    "id": "5167",
     "title": "Service Apartment",
     "address": "Unit No. TB-12-23, 12th Floor, Block B, Jalan Kuantan-Kemaman, Timur Bay Seafront Residence, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -87174,7 +89246,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5057",
+    "id": "5168",
     "title": "1 Storey Terrace House",
     "address": "No. 8, Jalan Chengal 2, Taman Chengal, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -87191,7 +89263,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5058",
+    "id": "5169",
     "title": "Shop Lot",
     "address": "Unit No. F80, First Floor, Kuantan Parade, Jalan Haji Abdul Rahman, 25000 Kuantan, Pahang",
     "postcode": "25000",
@@ -87208,7 +89280,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5059",
+    "id": "5170",
     "title": "1 Storey Terrace House",
     "address": "No. 39, Lorong Gambang Jaya 2, Taman Rakyat Gambang, 26300 Kuantan, Pahang",
     "postcode": "26300",
@@ -87225,7 +89297,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5060",
+    "id": "5171",
     "title": "Terrace House",
     "address": "No. 19, Jalan Tualang Indah 2, Taman Tualang Indah, 28400 Mentakab, Pahang",
     "postcode": "28400",
@@ -87242,7 +89314,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5061",
+    "id": "5172",
     "title": "1 Storey Terrace House",
     "address": "No. 14, Lorong Penor Makmur 1/36, Perumahan Penor Makmur, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -87259,7 +89331,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5062",
+    "id": "5173",
     "title": "1 Storey Terrace House",
     "address": "No. 526, Lorong Intan 7, Taman Peramu Jaya 3, 26600 Pekan, Pahang",
     "postcode": "26600",
@@ -87276,7 +89348,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5063",
+    "id": "5174",
     "title": "2 Storey Terrace House",
     "address": "No. 2, Lorong Pinggiran Putra 3/123, Pinggiran Putra 3, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -87293,7 +89365,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5064",
+    "id": "5175",
     "title": "Apartment",
     "address": "Lot No. S3-3A-10, Caribbean Bay Resort, Jalan Bukit Gambang Resort City Utama, Bukit Gambang Resort City, 26300 Kuantan, Pahang",
     "postcode": "26300",
@@ -87310,7 +89382,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5065",
+    "id": "5176",
     "title": "1 Storey Semi Detached House",
     "address": "No. 23, Lorong Gambang Damai 1/4, Perumahan Gambang Damai 1, 26300 Kuantan, Pahang",
     "postcode": "26300",
@@ -87327,7 +89399,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5066",
+    "id": "5177",
     "title": "1 Storey Terrace House",
     "address": "No. 30, Lorong Peramu Sejahtera 2, Taman Peramu Sejahtera, 26600 Pekan, Pahang",
     "postcode": "26600",
@@ -87344,7 +89416,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5067",
+    "id": "5178",
     "title": "Office Unit",
     "address": "No. 18-G, 18th Floor, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -87361,7 +89433,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5068",
+    "id": "5179",
     "title": "Office Unit",
     "address": "No. 18-H, 18th Floor, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -87378,7 +89450,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5069",
+    "id": "5180",
     "title": "Office Unit",
     "address": "No. 18-J, 18th Floor, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -87395,7 +89467,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5070",
+    "id": "5181",
     "title": "2 Storey Terrace House",
     "address": "No. 20, Lorong Pinggiran Putra 3/103, Pinggiran Putra 3, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -87412,7 +89484,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5071",
+    "id": "5182",
     "title": "Service Apartment",
     "address": "Unit No. E2-06-09 (Hotel Room No. 20602), Jalan ION D'Elemen 1, ION D'elemen, 69000 Genting Highlands, Pahang",
     "postcode": "20602",
@@ -87429,7 +89501,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5072",
+    "id": "5183",
     "title": "Service Apartment",
     "address": "Unit No. M3-40-03A, Grand Ion Majestic, Jalan Grand Ion Majestic, 69000 Genting Highlands, Pahang",
     "postcode": "69000",
@@ -87446,7 +89518,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5073",
+    "id": "5184",
     "title": "Service Apartment",
     "address": "Unit No. E2-17-03 (Room No. 21708), Jalan ION D'Elemen 1, ION D'elemen, 69000 Genting Highlands, Pahang",
     "postcode": "21708",
@@ -87463,7 +89535,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5074",
+    "id": "5185",
     "title": "1 Storey Terrace House",
     "address": "No.8, Jalan KS 9/12 Kota Sultan Ahmad Shah, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -87480,7 +89552,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5075",
+    "id": "5186",
     "title": "1 Storey Terrace House",
     "address": "No. 34, Lorong Sri Tanjung Selangor 2, Taman Sri Tanjung Selangor, 26600 Pekan, Pahang",
     "postcode": "26600",
@@ -87497,7 +89569,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5076",
+    "id": "5187",
     "title": "Office Unit",
     "address": "Unit No. 18-C, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -87514,7 +89586,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5077",
+    "id": "5188",
     "title": "[Strategically positioned within Kuantan's central business district] Office Unit [Opposite East Coast Mall]",
     "address": "Unit No. 19-G, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -87531,7 +89603,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5078",
+    "id": "5189",
     "title": "Office Lot",
     "address": "Lot 2-B, Level 2, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -87548,7 +89620,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5079",
+    "id": "5190",
     "title": "2 Storey Terrace House",
     "address": "Lorong PSJ Damansara 4, Bandar Damansara, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -87565,7 +89637,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5080",
+    "id": "5191",
     "title": "2 Storey Terrace House",
     "address": "No. 9, Lorong PSJ Damansara 4, Bandar Damansara, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -87582,7 +89654,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5081",
+    "id": "5192",
     "title": "1 Storey Terrace House",
     "address": "No. 25, Jalan Saga Indah 1/1, Taman Saga Indah, 28400 Mentakab, Pahang",
     "postcode": "28400",
@@ -87599,7 +89671,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5082",
+    "id": "5193",
     "title": "1 Storey Detached House",
     "address": "No. 54, Jalan Qudrat, Rantau Perintis, 26400 Bandar Tun Abdul Razak Jengka, Pahang",
     "postcode": "26400",
@@ -87616,7 +89688,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5083",
+    "id": "5194",
     "title": "1 Storey Terrace House",
     "address": "No. 6, Jalan Pamah Kasih Indah 1, Taman Pamah Kasih Indah, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -87633,7 +89705,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5084",
+    "id": "5195",
     "title": "Semi Detached House",
     "address": "Jalan Emas 3, Taman Emas, 27200 Kuala Lipis, Pahang",
     "postcode": "27200",
@@ -87650,7 +89722,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5085",
+    "id": "5196",
     "title": "2 Storey Semi Detached House",
     "address": "No. 26, Jalan Emas 3, Taman Emas, 27200 Kuala Lipis, Pahang",
     "postcode": "27200",
@@ -87667,7 +89739,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5086",
+    "id": "5197",
     "title": "1 Storey Semi Detached House",
     "address": "No. 5, Lorong Kempadang Jaya 12, Perumahan Kempadang Jaya, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -87684,7 +89756,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5087",
+    "id": "5198",
     "title": "Apartment",
     "address": "Unit No. F7-07H, Tingkat 7, Amber Court, Jalan Ion D'elemen, 69000 Genting Highlands, Pahang",
     "postcode": "69000",
@@ -87701,7 +89773,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5088",
+    "id": "5199",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kampung Alur Ladang, Kampung Alur Ladang, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -87718,7 +89790,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5089",
+    "id": "5200",
     "title": "Agricultural Land",
     "address": "Lot 810, Mukim Dong, Daerah Raub, Pahang",
     "postcode": "",
@@ -87735,7 +89807,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5090",
+    "id": "5201",
     "title": "3.5 Storey Semi Detached House",
     "address": "Lorong Semambu Baru 76, Perumahan Semambu Baru @ Andorra Peak, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -87752,7 +89824,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5091",
+    "id": "5202",
     "title": "2 Storey Detached House",
     "address": "Lorong IM 13/3, Indera Mahkota 13, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -87769,7 +89841,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5092",
+    "id": "5203",
     "title": "2.5 Storey Shop Office",
     "address": "No. 49, Jalan BDJS 5, Blok Dagangan Jengka Sejahtera, 26400 Bandar Pusat Jengka, Pahang",
     "postcode": "26400",
@@ -87786,7 +89858,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5093",
+    "id": "5204",
     "title": "Agricultural Land",
     "address": "Lot 810, GM 1246, Mukim of Dong, District of Raub, Pahang",
     "postcode": "",
@@ -87803,7 +89875,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5094",
+    "id": "5205",
     "title": "1 Storey Terrace House",
     "address": "No. 67, Lorong Balok Baru 12, Perumahan Balok Baru, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -87820,7 +89892,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5095",
+    "id": "5206",
     "title": "3 Storey Terrace Shop Office",
     "address": "No. 8, Taman Bistari, 27600 Raub, Pahang",
     "postcode": "27600",
@@ -87837,7 +89909,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5096",
+    "id": "5207",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Lorong Gemilang 1, Taman Gemilang 1, 27000 Jerantut, Pahang",
     "postcode": "27000",
@@ -87854,7 +89926,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5097",
+    "id": "5208",
     "title": "2 Storey Detached House",
     "address": "No. 29, Lorong IM 13/3, Indera Mahkota 13, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -87871,7 +89943,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5098",
+    "id": "5209",
     "title": "1 Storey Semi Detached House",
     "address": "No. 183, Lorong Jambu 11, Taman Jambu Delima, 26600 Pekan, Pahang",
     "postcode": "26600",
@@ -87888,7 +89960,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5099",
+    "id": "5210",
     "title": "1 Storey Terrace House",
     "address": "No. 2, Lorong Bukit Setongkol Maju 45, Bukit Setongkol, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -87905,7 +89977,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5100",
+    "id": "5211",
     "title": "1 Storey Terrace House",
     "address": "No. 21, Lorong Pandan Aman 1/20, Perumahan Pandan Aman 1, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -87922,7 +89994,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5101",
+    "id": "5212",
     "title": "1 Storey Semi Detached House",
     "address": "No. 19, Taman Sepakat Jaya, 26800 Kuala Rompin, Pahang",
     "postcode": "26800",
@@ -87939,7 +90011,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5102",
+    "id": "5213",
     "title": "2 Storey Terrace House",
     "address": "No. A-6074, Lorong Seri Kuantan 58, Perkampungan Seri Kuantan, 25250 Kuantan, Pahang",
     "postcode": "25250",
@@ -87956,7 +90028,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5103",
+    "id": "5214",
     "title": "Terrace House",
     "address": "No. 67, Jalan IS 2, Perkampungan Indera Sempurna, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -87973,7 +90045,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5104",
+    "id": "5215",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Lorong Bandar Putra 3/12, Perumahan Bandar Putra, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -87990,7 +90062,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5105",
+    "id": "5216",
     "title": "2 Storey Terrace House",
     "address": "No. 83A, Lorong Unijaya 6, Taman Unijaya, 27600 Raub, Pahang",
     "postcode": "27600",
@@ -88007,7 +90079,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5106",
+    "id": "5217",
     "title": "1 Storey Terrace House",
     "address": "No. 9, Lorong Kampung Padang Jaya 3, Perumahan Kampung Padang Jaya, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -88024,7 +90096,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5107",
+    "id": "5218",
     "title": "1 Storey Terrace House",
     "address": "No. 44, Lorong Balok Baru 2, Perumahan Balok Baru, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88041,7 +90113,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5108",
+    "id": "5219",
     "title": "Terrace House",
     "address": "No. 41, Lorong Dato' Abdul Rashid Salleh 1, Taman Dato' Rashid, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88058,7 +90130,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5109",
+    "id": "5220",
     "title": "1 Storey Terrace House",
     "address": "No. 16, Jalan Mawar Indah 4, Taman Mawar Indah, 28300 Triang, Pahang",
     "postcode": "28300",
@@ -88075,7 +90147,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5110",
+    "id": "5221",
     "title": "1 Storey Terrace House",
     "address": "No. 77, Jalan Kampung Alur Ladang, Kampung Alur Ladang, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88092,7 +90164,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5111",
+    "id": "5222",
     "title": "3.5 Storey Semi Detached House",
     "address": "No. 6, Lorong Semambu Baru 76, Perumahan Semambu Baru @ Andorra Peak, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -88109,7 +90181,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5112",
+    "id": "5223",
     "title": "2 Storey Terrace House",
     "address": "Lorong Seri Kuantan 58, Perkampungan Seri Kuantan, 25250 Kuantan, Pahang",
     "postcode": "25250",
@@ -88126,7 +90198,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5113",
+    "id": "5224",
     "title": "1 Storey Terrace House",
     "address": "No. 42, Lorong Kerayong Makmur 14, Taman Kerayong Makmur, 28200 Bandar Bera, Pahang",
     "postcode": "28200",
@@ -88143,7 +90215,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5114",
+    "id": "5225",
     "title": "1 Storey Terrace House",
     "address": "No. T300, Jalan Inderapura 11, Taman Inderapura, 27000 Jerantut, Pahang",
     "postcode": "27000",
@@ -88160,7 +90232,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5115",
+    "id": "5226",
     "title": "1 Storey Terrace House",
     "address": "No. 273, Jalan Harmoni 12, Taman Harmoni, 28700 Bentong, Pahang",
     "postcode": "28700",
@@ -88177,7 +90249,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5116",
+    "id": "5227",
     "title": "2 Storey Semi Detached House",
     "address": "No. 27, Jalan Pinggiran Tasik 1, Taman Pinggiran Tasik, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -88194,7 +90266,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5117",
+    "id": "5228",
     "title": "1 Storey Terrace House",
     "address": "No. 28, Lorong Seri Mahkota Damai 2/3, Perumahan Mahkota Aman 2, 26070 Kuantan, Pahang",
     "postcode": "26070",
@@ -88211,7 +90283,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5118",
+    "id": "5229",
     "title": "Terrace House",
     "address": "No. 10, Lorong Sungai Karang Damai 14, Perkampungan Sungai Karang Damai, Taman PSJ, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88228,7 +90300,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5119",
+    "id": "5230",
     "title": "Terrace House",
     "address": "No. 34, Lorong Pinggiran Putra 4/62, Pinggiran Putra 4, 26060 Kuantan, Pahang",
     "postcode": "26060",
@@ -88245,7 +90317,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5120",
+    "id": "5231",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Lorong Seri Mahkota Permai 13, Perumahan Seri Mahkota Permai, 26070 Kuantan, Pahang",
     "postcode": "26070",
@@ -88262,7 +90334,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5121",
+    "id": "5232",
     "title": "Semi Detached House",
     "address": "No. 2, Lorong IS 72, Perumahan Indera Sempurna, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88279,7 +90351,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5122",
+    "id": "5233",
     "title": "Agricultural Land",
     "address": "Lot 2980, Jalan Kuala Lipis-Merapoh- Sungai Koyan, Kechor Tui, 27200 Kuala Lipis, Pahang",
     "postcode": "27200",
@@ -88296,7 +90368,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5123",
+    "id": "5234",
     "title": "Agricultural Land",
     "address": "Lot 2979, Jalan Kuala Lipis-Merapoh-Sungai Koyan, Kechor Tui, 27200 Kuala Lipis, Pahang",
     "postcode": "27200",
@@ -88313,7 +90385,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5124",
+    "id": "5235",
     "title": "1 Storey Semi Detached House",
     "address": "No. 8, Jalan Seri Belengu 2/2, Taman Seri Belengu, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -88330,7 +90402,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5125",
+    "id": "5236",
     "title": "1 Storey Detached House",
     "address": "No. 100, Kampung Cheroh, 27620 Raub, Pahang",
     "postcode": "27620",
@@ -88347,7 +90419,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5126",
+    "id": "5237",
     "title": "1 Storey Terrace House",
     "address": "No. 21, Lorong Seri Mahkota 35, Taman Seri Mahkota, (Dahulu Dikenali Taman Putra), Jalan Gambang, 26070 Kuantan, Pahang",
     "postcode": "26070",
@@ -88364,7 +90436,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5127",
+    "id": "5238",
     "title": "2 Storey Terrace House",
     "address": "No. 18, Jalan Wawasan Maju 6, Taman Wawasan 2, 26820 Tanjung Gemok, Pahang",
     "postcode": "26820",
@@ -88381,7 +90453,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5128",
+    "id": "5239",
     "title": "2 Storey Terrace House",
     "address": "No. 51, Jalan Tas 6, Taman Tas, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88398,7 +90470,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5129",
+    "id": "5240",
     "title": "Studio Apartment",
     "address": "Unit No. B-L5-35, IM 9/2, Indera Mahkota 9, Valley Suite Apartment, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -88415,7 +90487,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5130",
+    "id": "5241",
     "title": "2 Storey Shop House",
     "address": "No. 40, Jalan Utama, Bandar Baru, 26800 Kuala Rompin, Pahang",
     "postcode": "26800",
@@ -88432,7 +90504,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5131",
+    "id": "5242",
     "title": "2 Storey Terrace House",
     "address": "No. 26, Jalan Mawar Indah 8, Taman Mawar Indah, 28300 Triang, Pahang",
     "postcode": "28300",
@@ -88449,7 +90521,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5132",
+    "id": "5243",
     "title": "1 Storey Detached House",
     "address": "No. 26, Lorong Kempadang Perdana 6, Kempadang Perdana, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88466,7 +90538,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5133",
+    "id": "5244",
     "title": "2 Storey Shop Office",
     "address": "Unit No. A-121, Lorong IM 16/1, Indera Mahkota 16, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -88483,7 +90555,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5134",
+    "id": "5245",
     "title": "1 Storey Terrace House",
     "address": "No. 21, Taman Seri Mahkota, (Dahulu Dikenali Taman Putra), Jalan Gambang, 26070 Kuantan, Pahang",
     "postcode": "26070",
@@ -88500,7 +90572,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5135",
+    "id": "5246",
     "title": "Shop Lot",
     "address": "Parcel 1-81, 1st Floor, Berjaya Megamall, Jalan Tun Ismail, 25000 Kuantan, Pahang",
     "postcode": "25000",
@@ -88517,7 +90589,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5136",
+    "id": "5247",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Lorong IS 87, Perkampungan Indera Sempurna, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88534,7 +90606,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5137",
+    "id": "5248",
     "title": "1 Storey Detached House",
     "address": "No. 27, Lorong BDK 1/23, Bandar Damansara, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88551,7 +90623,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5138",
+    "id": "5249",
     "title": "2 Storey Shop Office",
     "address": "Unit No. A-139, Jalan Lapangan Terbang, Perkampungan Pandan Aman 1, 26070 Kuantan, Pahang",
     "postcode": "26070",
@@ -88568,7 +90640,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5139",
+    "id": "5250",
     "title": "Bungalow",
     "address": "No. A 3526, Perumahan Tok Sira, 25050 Kuantan, Pahang",
     "postcode": "25050",
@@ -88585,7 +90657,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5140",
+    "id": "5251",
     "title": "1 Storey Terrace House",
     "address": "No. 29, Lorong Chengal Lempong Baru 1, Taman Balok Jaya 2, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88602,7 +90674,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5141",
+    "id": "5252",
     "title": "Bungalow",
     "address": "No. A3592, Lorong Tok Sira 19, Perumahan Tok Sira, 25050 Kuantan, Pahang",
     "postcode": "25050",
@@ -88619,7 +90691,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5142",
+    "id": "5253",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Lorong Seri Damai Baru 21,Perumahan Seri Damai Baru, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88636,7 +90708,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5143",
+    "id": "5254",
     "title": "2 Storey Terrace House",
     "address": "No. 12, Lorong Batu Hitam 1, Taman Batu Hitam, 26100 Beserah, Pahang",
     "postcode": "26100",
@@ -88653,7 +90725,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5144",
+    "id": "5255",
     "title": "2 Storey Terrace House",
     "address": "Jalan Setia 4, Taman Setia, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -88670,7 +90742,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5145",
+    "id": "5256",
     "title": "Office Unit",
     "address": "No. 18-G, 18th Floor, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -88687,7 +90759,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5146",
+    "id": "5257",
     "title": "Office Unit",
     "address": "No. 18-H, 18th Floor, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -88704,7 +90776,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5147",
+    "id": "5258",
     "title": "Office Unit",
     "address": "No. 18-J, 18th Floor, Menara Zenith, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -88721,7 +90793,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5148",
+    "id": "5259",
     "title": "Semi Detached House",
     "address": "No. 27, Jalan Pinggiran Tasik 1, Taman Pinggiran Tasik, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -88738,7 +90810,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5149",
+    "id": "5260",
     "title": "2 Storey Terrace House",
     "address": "Jalan Pine 3, Taman Pine, 27000 Jerantut, Pahang",
     "postcode": "27000",
@@ -88755,7 +90827,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5150",
+    "id": "5261",
     "title": "1 Storey Terrace House",
     "address": "Lorong DI 3, Taman Desa Indah, 27000 Jerantut, Pahang",
     "postcode": "27000",
@@ -88772,7 +90844,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5151",
+    "id": "5262",
     "title": "1 Storey Terrace House",
     "address": "No. 51, Lorong Seri Inderapura 36, Taman Seri Inderapura, KM 15, Off Jalan Kuantan-Pekan, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88789,7 +90861,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5152",
+    "id": "5263",
     "title": "2.5 Storey Semi Detached House",
     "address": "Lorong Pelindung 77, Jalan Tengku Muhammad, Taman Pelindung, 25050 Kuantan, Pahang",
     "postcode": "25050",
@@ -88806,7 +90878,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5153",
+    "id": "5264",
     "title": "Studio Apartment",
     "address": "Jalan IM 9/2, Indera Mahkota 9, Valley Suite Apartment, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -88823,7 +90895,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5154",
+    "id": "5265",
     "title": "Studio Apartment",
     "address": "Unit No. B-L5-18, Valley Suite Apartment, Jalan IM 9/2, Bandar Indera Mahkota, 25200, Kuantan, Pahang",
     "postcode": "25200",
@@ -88840,7 +90912,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5155",
+    "id": "5266",
     "title": "1 Storey Terrace House",
     "address": "Lorong Shahzan IM 14, Taman Shahzan, Indera Mahkota, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -88857,7 +90929,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5156",
+    "id": "5267",
     "title": "1 Storey Semi Detached House",
     "address": "No. 16, Lorong Pelindung Jaya 9, Perumahan Pelindung Jaya, 26100 Kuantan, Pahang",
     "postcode": "26100",
@@ -88874,7 +90946,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5157",
+    "id": "5268",
     "title": "1 Storey Semi Detached House",
     "address": "Lorong Cherating Perdana 8, Perumahan Cherating Perdana, 26080 Kuantan, Pahang",
     "postcode": "26080",
@@ -88891,7 +90963,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5158",
+    "id": "5269",
     "title": "4 Storey Terrace Shop Office",
     "address": "Lot No. 46, Seksyen 22, Off Jalan Teluk Sisek, 25050 Kuantan, Pahang",
     "postcode": "25050",
@@ -88908,7 +90980,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5159",
+    "id": "5270",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan TJ 6/14, Taman Temerloh Jaya, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -88925,7 +90997,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5160",
+    "id": "5271",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Bahagia 34, Bahagia Residence, 28000 Temerloh, Pahang",
     "postcode": "28000",
@@ -88942,7 +91014,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5161",
+    "id": "5272",
     "title": "1 Storey Terrace House",
     "address": "Jalan Wijaya 2, Taman Wijaya, 28600 Karak, Pahang",
     "postcode": "28600",
@@ -88959,7 +91031,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5162",
+    "id": "5273",
     "title": "1 Storey Detached House",
     "address": "Lorong Berjaya Permai 8, Sungai Soi, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -88976,7 +91048,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5163",
+    "id": "5274",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Lorong Pelindung 98, Taman Seri Pelindung 1, Jalan Beserah, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -88993,7 +91065,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5164",
+    "id": "5275",
     "title": "1 Storey Semi Detached House",
     "address": "No. 26, Lorong IS 12, Perumahan Indera Sempurna, Kuantan, Pahang",
     "postcode": "",
@@ -89010,7 +91082,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5165",
+    "id": "5276",
     "title": "1 Storey Semi Detached House",
     "address": "No. 26, Lorong IS 12, Perkampungan Indera Sempurna, Jalan Kuantan-Pekan, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -89027,7 +91099,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5166",
+    "id": "5277",
     "title": "1 Storey Terrace House",
     "address": "Lorong Seri Setali 17, Taman Setali, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -89044,7 +91116,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5167",
+    "id": "5278",
     "title": "1 Storey Terrace House",
     "address": "No. 10, Lorong Pelindung 98, Taman Pelindung 2, Jalan Beserah, 25300 Kuantan, Pahang",
     "postcode": "25300",
@@ -89061,7 +91133,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5168",
+    "id": "5279",
     "title": "Apartment",
     "address": "Pangsapuri Aster, Ringlet, 39200 Cameron Highlands, Pahang",
     "postcode": "39200",
@@ -89078,7 +91150,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5169",
+    "id": "5280",
     "title": "1 Storey Terrace House",
     "address": "Jalan Melur Impian 6, Taman Melur Impian, 28300 Triang, Pahang",
     "postcode": "28300",
@@ -89095,7 +91167,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5170",
+    "id": "5281",
     "title": "1 Storey Terrace House",
     "address": "No. 4, Lorong IS 46, Indera Sempurna, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -89112,7 +91184,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5171",
+    "id": "5282",
     "title": "2 Storey Semi Detached House",
     "address": "No. 53, Lorong IM 10/15, Bukit Istana, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -89129,7 +91201,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5172",
+    "id": "5283",
     "title": "Semi Detached House",
     "address": "No. 8, Jalan Jerna Indah 3, Taman Jerna Indah, 28200 Bandar Bera, Pahang",
     "postcode": "28200",
@@ -89146,7 +91218,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5173",
+    "id": "5284",
     "title": "1 Storey Semi Detached House",
     "address": "No. 373, Taman Sepekan Jaya, 26600 Pekan, Pahang",
     "postcode": "26600",
@@ -89163,7 +91235,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5174",
+    "id": "5285",
     "title": "Shop Lot",
     "address": "Jalan SSP 3, Sang Setia Park, 28400, Pahang",
     "postcode": "28400",
@@ -89180,7 +91252,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5175",
+    "id": "5286",
     "title": "Shop Lot",
     "address": "Jalan SSP 1/1, Sang Setia Park, 28400 Mentakab, Pahang",
     "postcode": "28400",
@@ -89197,7 +91269,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5176",
+    "id": "5287",
     "title": "2 Storey Terrace House",
     "address": "No. 3, Lorong IP 2, Taman Impian Permai, 27000 Jerantut, Pahang",
     "postcode": "27000",
@@ -89214,7 +91286,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5177",
+    "id": "5288",
     "title": "1 Storey Terrace House",
     "address": "Lorong Pandan Perdana 6/5, Perumahan Pandan Perdana, 25150 Kuantan, Pahang",
     "postcode": "25150",
@@ -89231,7 +91303,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5178",
+    "id": "5289",
     "title": "2 Storey Terrace House",
     "address": "No. 27, Lorong Seri Teruntum 108, Taman Sri Teruntum, Kuantan, Pahang",
     "postcode": "",
@@ -89248,7 +91320,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5179",
+    "id": "5290",
     "title": "1 Storey Terrace House",
     "address": "No. 20, Lorong Sekilau 62, Taman Mahawangsa, Jalan Haji Ahmad, 25200 Kuantan, Pahang",
     "postcode": "25200",
@@ -89265,7 +91337,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5180",
+    "id": "5291",
     "title": "Retail Lot",
     "address": "Unit No. G-069, Terminal Pahlawan De'Hatten Square, Jalan Merdeka, Bandar Hilir, 75000, Melaka",
     "postcode": "75000",
@@ -89282,7 +91354,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5181",
+    "id": "5292",
     "title": "Business Suite",
     "address": "Unit No. A-8-5, 8th Floor, Block A, Jalan PKAK 1, Pusat Komersial Ayer Keroh, 75450 Hang Tuah Jaya, Bukit Katil, Melaka",
     "postcode": "75450",
@@ -89299,7 +91371,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5182",
+    "id": "5293",
     "title": "Commercial Unit",
     "address": "Unit No. L6-014, 6th Floor, Elements Mall @ Hatten City, Jalan Melaka Raya 23, Taman Melaka Raya, 75000, Melaka",
     "postcode": "75000",
@@ -89316,7 +91388,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5183",
+    "id": "5294",
     "title": "Service Suite",
     "address": "Unit No. C-32-10, Level No. 32, Block C, Hatten Suites @ Hatten City, Taman Melaka Raya, 75000, Melaka",
     "postcode": "75000",
@@ -89333,7 +91405,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5184",
+    "id": "5295",
     "title": "Service Apartment",
     "address": "Unit No. D-08-33A, Pangsapuri Gadong Harmoni @ Ambience Residence, Jalan Pulau Gadong, 75200, Melaka",
     "postcode": "75200",
@@ -89350,7 +91422,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5185",
+    "id": "5296",
     "title": "Service Apartment",
     "address": "Unit No. B-37-03, 37th Floor, Tower B, Pangsapuri Atlantis Kota Syahbandar, Jalan KSB 11A, Kota Syahbandar, 75200, Melaka",
     "postcode": "75200",
@@ -89367,7 +91439,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5186",
+    "id": "5297",
     "title": "Service Suite",
     "address": "Unit No. C-32-11, Level No. 32, Block C, Hatten Suites @ Hatten City, Taman Melaka Raya, 75000, Melaka",
     "postcode": "75000",
@@ -89384,7 +91456,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5187",
+    "id": "5298",
     "title": "Service Suite",
     "address": "Unit No. SR-15-06 (Room 1811), The Straits Hotel & Suites, Jalan Melaka Raya 2, Taman Melaka Raya, 75000, Melaka",
     "postcode": "75000",
@@ -89401,7 +91473,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5188",
+    "id": "5299",
     "title": "Retail Lot",
     "address": "Unit No. L4-030, 4th Floor, Elements Mall @ Hatten City, Jalan Melaka Raya 23, Taman Melaka Raya, 75000, Melaka",
     "postcode": "75000",
@@ -89418,7 +91490,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5189",
+    "id": "5300",
     "title": "Business Suite",
     "address": "Unit No. E-7-4, 7th Floor, Block E, Jalan PKAK 2, Pusat Komersial Ayer Keroh, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -89435,7 +91507,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5191",
+    "id": "5302",
     "title": "Shop",
     "address": "Unit No. 18, Ground Floor, Block A, Jalan Baiduri 14, Taman Pulau Melaka, 75000, Melaka",
     "postcode": "75000",
@@ -89452,7 +91524,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5192",
+    "id": "5303",
     "title": "Shop",
     "address": "Unit No. 22A, Ground Floor, Block D, Jalan Baiduri 13, Taman Pulau Melaka, 75000, Melaka",
     "postcode": "75000",
@@ -89469,7 +91541,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5193",
+    "id": "5304",
     "title": "Shop",
     "address": "Unit No. 20, Ground Floor, Block A, Jalan Baiduri 14, Taman Pulau Melaka, 75000, Melaka",
     "postcode": "75000",
@@ -89486,7 +91558,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5194",
+    "id": "5305",
     "title": "Shop",
     "address": "Unit No. 6, Ground Floor, Block A, Jalan Baiduri 14, Taman Pulau Melaka, 75000, Melaka",
     "postcode": "75000",
@@ -89503,7 +91575,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5195",
+    "id": "5306",
     "title": "Service Apartment",
     "address": "Unit No. B-13A-10, Menara B, Pangsapuri Gadong Harmoni @ Ambience Residence, Jalan Pulau Gadong, 75200, Melaka",
     "postcode": "75200",
@@ -89520,7 +91592,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5197",
+    "id": "5308",
     "title": "2 Storey Terrace House",
     "address": "No. 19, Jalan OZ 2, Taman Ozana Impian, 75450 Bukit Katil, Melaka",
     "postcode": "75450",
@@ -89537,7 +91609,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5198",
+    "id": "5309",
     "title": "Apartment",
     "address": "Tahiti Villa, Jalan Wakaf Utama, Bayou Lagoon Park Resort, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -89554,7 +91626,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5199",
+    "id": "5310",
     "title": "1 Storey Semi Detached House",
     "address": "Taman Makmur, 77300 Merlimau, Melaka",
     "postcode": "77300",
@@ -89571,7 +91643,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5200",
+    "id": "5311",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Pinggiran Kuala Ina 2, Taman Pinggiran Kuala Ina, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -89588,7 +91660,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5201",
+    "id": "5312",
     "title": "Terrace House",
     "address": "Jalan SJM P1/3, Taman Scientex Jasin Mutiara Fasa 1A1, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -89605,7 +91677,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5202",
+    "id": "5313",
     "title": "Detached House",
     "address": "Jalan Gagah 3, Taman Bukit Terendak, Sungai Udang, 76300, Melaka",
     "postcode": "76300",
@@ -89622,7 +91694,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5203",
+    "id": "5314",
     "title": "Shop-Office",
     "address": "Unit No. 19-2, Jalan BU 3, Taman Bachang Utama, 75350, Melaka",
     "postcode": "75350",
@@ -89639,7 +91711,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5204",
+    "id": "5315",
     "title": "1 Storey Semi Detached House",
     "address": "No. J-4618, Taman Makmur, 77300 Merlimau, Melaka",
     "postcode": "77300",
@@ -89656,7 +91728,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5205",
+    "id": "5316",
     "title": "1 Storey Semi Detached House",
     "address": "No. PS 178, Jalan Pinggiran Kuala Ina 2, Taman Pinggiran Kuala Ina, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -89673,7 +91745,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5206",
+    "id": "5317",
     "title": "2 Storey Bungalow House",
     "address": "No. 11, Jalan Vista Kirana 5, Taman Vista Kirana, 75450 Hang Tuah Jaya, Bukit Katil, Melaka",
     "postcode": "75450",
@@ -89690,7 +91762,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5207",
+    "id": "5318",
     "title": "1 Storey Bungalow",
     "address": "No. 18, Jalan Gagah 3, Taman Bukit Terendak, 76300 Sungai Udang, Melaka",
     "postcode": "76300",
@@ -89707,7 +91779,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5208",
+    "id": "5319",
     "title": "1 Storey Terrace House",
     "address": "No. J 5765, Jalan Mawar, Taman Maju, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -89724,7 +91796,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5209",
+    "id": "5320",
     "title": "Condominium",
     "address": "Unit No. 10-03A, Kondominium Siantan Puri, Kampung Lapan, 75200, Melaka",
     "postcode": "75200",
@@ -89741,7 +91813,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5210",
+    "id": "5321",
     "title": "1 Storey Terrace House",
     "address": "No. 19, Jalan KI 4, Taman Krubong Indah, 75260 Krubong, Melaka",
     "postcode": "75260",
@@ -89758,7 +91830,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5211",
+    "id": "5322",
     "title": "1 Storey Semi Detached House",
     "address": "No. 12 (PT 19047), Jalan TMU 19D, Taman Tanjong Minyak Utama, 75260, Melaka",
     "postcode": "19047",
@@ -89775,7 +91847,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5212",
+    "id": "5323",
     "title": "Service Apartment",
     "address": "Unit No. A-05-33A, Block A, Pangsapuri Gadong Harmoni @ Ambience Harmoni, Jalan Pulau Gadong, 75200, Melaka",
     "postcode": "75200",
@@ -89792,7 +91864,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5213",
+    "id": "5324",
     "title": "Service Apartment",
     "address": "Pangsapuri Gadong Harmoni @ Ambience Residence, Jalan Pulau Gadong, 75200, Melaka",
     "postcode": "75200",
@@ -89809,7 +91881,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5214",
+    "id": "5325",
     "title": "Service Apartment",
     "address": "Unit No. B-29-03, 29th Floor, Block B, Kondominium Kota Syahbandar (Atlantis Residences), Jalan KSB 11A, 75200, Melaka",
     "postcode": "75200",
@@ -89826,7 +91898,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5215",
+    "id": "5326",
     "title": "Service Apartment",
     "address": "Unit No. B-10-11, Tahiti Villa, Bayou Lagoon Park Resort, Jalan Wakaf Utama, Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -89843,7 +91915,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5216",
+    "id": "5327",
     "title": "Service Apartment",
     "address": "Unit No. D-11-10, The Apple, Jalan Haji Bachee Bukit Cina, 75100, Melaka",
     "postcode": "75100",
@@ -89860,7 +91932,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5217",
+    "id": "5328",
     "title": "Service Apartment",
     "address": "Unit No. B-31-01, Storey No. 31, Tower B, Kondominium Kota Syahbandar, Kota Syahbandar, 75200, Melaka",
     "postcode": "75200",
@@ -89877,7 +91949,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5218",
+    "id": "5329",
     "title": "[Positioned at the epicentre of Melaka's] Service Apartment [7 min to the vibrant Jonker Walk]",
     "address": "Unit No. A-32-13, 32th Floor, Residensi Mutiara Bali, Kota Syahbandar, 75200, Melaka",
     "postcode": "75200",
@@ -89894,7 +91966,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5220",
+    "id": "5331",
     "title": "Apartment",
     "address": "Unit No. JC 7582 (B-T5-12), Pangsapuri Bandar Jasin Bestari Seksyen 3, 77200 Bemban, Melaka",
     "postcode": "77200",
@@ -89911,7 +91983,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5221",
+    "id": "5332",
     "title": "Apartment",
     "address": "Unit No. T4-10-5, Jalan PR1MA PM1, PR1MA Pokok Mangga, 75250, Melaka",
     "postcode": "75250",
@@ -89928,7 +92000,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5222",
+    "id": "5333",
     "title": "1 Storey Terrace House",
     "address": "No. J 5765, Jalan Mawar, Taman Maju Fasa I & II, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -89945,7 +92017,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5224",
+    "id": "5335",
     "title": "Terrace House",
     "address": "No. 120, Jalan Jasa Merdeka 2, Taman Dato Tamby Chik Karim, 75350 Batu Berendam, Melaka",
     "postcode": "75350",
@@ -89962,7 +92034,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5225",
+    "id": "5336",
     "title": "Service Apartment",
     "address": "Unit No. D-8-2, Block D, Puncak Muzaffar (also known as The Heights Residence), Ayer Keroh, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -89979,7 +92051,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5226",
+    "id": "5337",
     "title": "Business Suite [Next to Malacca International Trade Centre (MITC Melaka)]",
     "address": "Unit No. D-5-9, Fifth Floor, Block D, Jalan PKAK 2, Pusat Komersial Ayer Keroh, Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -89996,7 +92068,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5227",
+    "id": "5338",
     "title": "[Close to Mahkota Parade & Dataran Pahlawan] Service Apartment [Short drive to A Famosa & Melaka Waterfront]",
     "address": "Unit No. A-14-06, 14th Floor, Pangsapuri Atlantis Kota Syahbandar, Jalan KSB 11A, 75200, Melaka",
     "postcode": "75200",
@@ -90013,7 +92085,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5228",
+    "id": "5339",
     "title": "Retail Lot",
     "address": "Unit No. G-E01, Ground Floor, Hatten City, 75000, Melaka",
     "postcode": "75000",
@@ -90030,7 +92102,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5229",
+    "id": "5340",
     "title": "Retail Lot",
     "address": "Unit No. G-004, Ground Floor, Hatten City, 75000, Melaka",
     "postcode": "75000",
@@ -90047,7 +92119,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5230",
+    "id": "5341",
     "title": "Retail Lot",
     "address": "Unit No. G-009A, Ground Floor, Hatten City, 75000, Melaka",
     "postcode": "75000",
@@ -90064,7 +92136,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5231",
+    "id": "5342",
     "title": "Retail Lot",
     "address": "Unit No. G-011, Ground Floor, Hatten City, 75000, Melaka",
     "postcode": "75000",
@@ -90081,7 +92153,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5232",
+    "id": "5343",
     "title": "[8 min to AEON Mall Bandaraya Melaka] Service Apartment [10 min to Melaka Hospital]",
     "address": "Unit No. 11-09-1A (A-11-09), Residensi Kenanga Impian @ The Quartz, Jalan Kenanga 3/8, 75200, Melaka",
     "postcode": "75200",
@@ -90098,7 +92170,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5233",
+    "id": "5344",
     "title": "Service Apartment",
     "address": "Unit No. 35-13, 35th Floor, Pangsapuri Amber Cove, Jalan KSB-Impression 3, Impression City @ Kota Syahbandar, 75200, Melaka",
     "postcode": "75200",
@@ -90115,7 +92187,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5234",
+    "id": "5345",
     "title": "Apartment",
     "address": "Unit No. T2-9-3, 9th Floor, Tower 2, PR1MA @ Pokok Mangga, 75250, Melaka",
     "postcode": "75250",
@@ -90132,7 +92204,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5235",
+    "id": "5346",
     "title": "1 Storey Terrace House",
     "address": "JC 7123, Jalan BJB Seksyen 5/1, Bandar Jasin Bestari, Seksyen 5, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -90149,7 +92221,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5236",
+    "id": "5347",
     "title": "Apartment",
     "address": "Unit No. JC 7552 (B-T3-21), Pangsapuri Jasin Bestari, Seksyen 3, 77200 Bemban, Melaka",
     "postcode": "77200",
@@ -90166,7 +92238,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5237",
+    "id": "5348",
     "title": "Shop Lot",
     "address": "Unit No. C-2-2, Jalan PKAK 1, Pusat Komersial Ayer Keroh, 75450 Hang Tuah Jaya, Bukit Katil, Melaka",
     "postcode": "75450",
@@ -90183,7 +92255,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5238",
+    "id": "5349",
     "title": "Business Suite unit with mezzanine floor",
     "address": "Unit No. A-7-6, Jalan PKAK 1, Pusat Komersial Ayer Keroh, 75450 Hang Tuah Jaya, Bukit Katil, Melaka",
     "postcode": "75450",
@@ -90200,7 +92272,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5239",
+    "id": "5350",
     "title": "Service Apartment",
     "address": "Unit No. B-22-02A, Jalan KSB 11A, Kondominium Kota Syahbandar, 75200, Melaka",
     "postcode": "75200",
@@ -90217,7 +92289,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5240",
+    "id": "5351",
     "title": "Service Apartment",
     "address": "Unit No. C-26-02, 26th Floor, Tower C, Pangsapuri Atlantis Kota Syahbandar, Jalan KSB 11A, Kota Syahbandar, 75200, Melaka",
     "postcode": "75200",
@@ -90234,7 +92306,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5241",
+    "id": "5352",
     "title": "Apartment",
     "address": "Unit No. C-05-13, 5th Floor, Block C, Residensi Seri Serindit, Jalan Taman Bandaraya, 75400, Melaka",
     "postcode": "75400",
@@ -90251,7 +92323,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5242",
+    "id": "5353",
     "title": "Flat",
     "address": "No. M11/2/145, Jalan Nuri Botani 6, Taman Nuri Botani, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -90268,7 +92340,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5243",
+    "id": "5354",
     "title": "[8 min to AEON Mall Bandaraya Melaka] Service Apartment [10 min to Melaka Hospital]",
     "address": "Unit No. A-11-09, Residensi Kenanga Impian @ The Quartz, Jalan Kenanga 3/8, 75200, Melaka",
     "postcode": "75200",
@@ -90285,7 +92357,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5244",
+    "id": "5355",
     "title": "Service Apartment",
     "address": "Unit No. A-16-10, Tower A, Imperio Residence @ Hatten City, 75000 Bandar Hilir, Melaka",
     "postcode": "75000",
@@ -90302,7 +92374,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5245",
+    "id": "5356",
     "title": "Service Apartment",
     "address": "Unit No. A-15-21, Imperio Residence @ Melaka Raya, Jalan Syed Abdul Aziz, 75000, Melaka",
     "postcode": "75000",
@@ -90319,7 +92391,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5246",
+    "id": "5357",
     "title": "Commercial Retail Unit",
     "address": "Unit No. F2-013A, Hatten @ Melaka Raya, Jalan Syed Abdul Aziz, 75000, Melaka",
     "postcode": "75000",
@@ -90336,7 +92408,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5247",
+    "id": "5358",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Lorong 1, Jalan RI 1, Taman Rambai Idaman, 75250 Bukit Rambai, Melaka",
     "postcode": "75250",
@@ -90353,7 +92425,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5248",
+    "id": "5359",
     "title": "Terrace House",
     "address": "Jalan Awan Biru 1, Taman Awan Biru, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -90370,7 +92442,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5249",
+    "id": "5360",
     "title": "2 Storey Semi Detached House",
     "address": "No. 9, Jalan PJ 9, Taman Pengkalan Jaya, Ayer Molek, 75450, Melaka",
     "postcode": "75450",
@@ -90387,7 +92459,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5250",
+    "id": "5361",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan RU 13, Taman Rambai Utama, 75300 Bukit Rambai, Melaka",
     "postcode": "75300",
@@ -90404,7 +92476,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5251",
+    "id": "5362",
     "title": "1 Storey Bungalow",
     "address": "No. 3, Jalan BKI 9A, Taman Bukit Katil Indah, 75450 Bukit Katil, Melaka",
     "postcode": "75450",
@@ -90421,7 +92493,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5252",
+    "id": "5363",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Jalan BKD 50, Taman Bukit Katil Damai, Hang Tuah Jaya, 75450 Bukit Katil, Melaka",
     "postcode": "75450",
@@ -90438,7 +92510,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5253",
+    "id": "5364",
     "title": "2 Storey Terrace House",
     "address": "No. 18, Jalan Rambai Indah 2, Taman Rambai Indah, 75250 Bukit Rambai, Melaka",
     "postcode": "75250",
@@ -90455,7 +92527,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5254",
+    "id": "5365",
     "title": "1 Storey Semi Detached House",
     "address": "No. 11, Jalan RU 13, Taman Rambai Utama, 75300 Bukit Rambai, Melaka",
     "postcode": "75300",
@@ -90472,7 +92544,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5255",
+    "id": "5366",
     "title": "Condominium",
     "address": "Unit No. C10-8, Jalan CM 1, Kondominium Cheng Heights, Taman Cheng Mutiara, 75250, Melaka",
     "postcode": "75250",
@@ -90489,7 +92561,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5256",
+    "id": "5367",
     "title": "2 Storey Terrace House",
     "address": "No. 32, Jalan BKD 50, Taman Bukit Katil Damai, Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -90506,7 +92578,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5257",
+    "id": "5368",
     "title": "Service Apartment",
     "address": "Unit No. E-13-03, 13th Floor, Block E, Pangsapuri Gadong Harmoni @ Ambience Residence, Jalan Pulau Gadong, 75200, Melaka",
     "postcode": "75200",
@@ -90523,7 +92595,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5258",
+    "id": "5369",
     "title": "1 Storey Terrace House",
     "address": "No. 56, Jalan KJ 47, Taman Krubong Jaya, 75260 Krubong, Melaka",
     "postcode": "75260",
@@ -90540,7 +92612,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5259",
+    "id": "5370",
     "title": "Apartment",
     "address": "Unit No. B-11-7, Tahiti Villa, Jalan Wakaf Utama, Bayou Lagoon Park Resort, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -90557,7 +92629,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5260",
+    "id": "5371",
     "title": "1 Storey Terrace House",
     "address": "No. 5, Jalan SB 11, Taman Seri Bertam, 76450, Melaka",
     "postcode": "76450",
@@ -90574,7 +92646,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5261",
+    "id": "5372",
     "title": "1 Storey Terrace House",
     "address": "No. 70, Jalan Impiana Delima 2, Taman Impiana Kesang, 77000 Ayer Panas, Hang Tuah Jaya, Melaka",
     "postcode": "77000",
@@ -90591,7 +92663,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5262",
+    "id": "5373",
     "title": "Apartment",
     "address": "Unit No. C1-1, Rumah Pangsa Taman Kesidang, Seksyen 2, Jalan Kesidang 2/11, 75200 Kampung Lapan, Melaka",
     "postcode": "75200",
@@ -90608,7 +92680,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5263",
+    "id": "5374",
     "title": "1 Storey Terrace House",
     "address": "No. 16, Jalan TMJ 25, Taman Tanjung Minyak Jaya, Tanjung Minyak, 75260, Melaka",
     "postcode": "75260",
@@ -90625,7 +92697,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5264",
+    "id": "5375",
     "title": "1 Storey Terrace House",
     "address": "No. KS 843, Jalan Kuala Permai 14, Taman Kuala Permai, 78200 Kuala Sungai Baru, Melaka",
     "postcode": "78200",
@@ -90642,7 +92714,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5265",
+    "id": "5376",
     "title": "1 Storey Terrace House",
     "address": "SI 216, Jalan Seruling Jaya 10, Taman Seruling Jaya, 78300 Masjid Tanah, Melaka",
     "postcode": "78300",
@@ -90659,7 +92731,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5266",
+    "id": "5377",
     "title": "1 Storey Terrace House",
     "address": "No. SI 50, Jalan Seruling Jaya 3, Taman Seruling Jaya, 78300 Masjid Tanah, Melaka",
     "postcode": "78300",
@@ -90676,7 +92748,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5267",
+    "id": "5378",
     "title": "2 Storey Terrace House",
     "address": "No. 35, Jalan KU 2, Taman Krubong Utama, 75250, Melaka",
     "postcode": "75250",
@@ -90693,7 +92765,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5268",
+    "id": "5379",
     "title": "1 Storey Terrace House",
     "address": "No. JB 9002, Jalan Muhibbah 8B, Taman Muhibbah Fasa 11, 77300 Merlimau, Melaka",
     "postcode": "77300",
@@ -90710,7 +92782,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5269",
+    "id": "5380",
     "title": "1 Storey Terrace House",
     "address": "RM 1371, Jalan Rembia Perkasa 2, Taman Rembia Perkasa, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -90727,7 +92799,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5270",
+    "id": "5381",
     "title": "1 Storey Semi Detached House",
     "address": "BB270, Jalan Belimbing Setia 2, Taman Belimbing Setia, 76100, Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -90744,7 +92816,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5271",
+    "id": "5382",
     "title": "1 Storey Terrace House",
     "address": "No. SI 1553, Jalan Seri Gamelan 13, Taman Seri Gamelan, 78200 Kuala Sungai Baru, Melaka",
     "postcode": "78200",
@@ -90761,7 +92833,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5272",
+    "id": "5383",
     "title": "1 Storey Terrace House",
     "address": "No. KL 55, Jalan Kelisa 4, Taman Kelisa, 78200 Kuala Sungai Baru, Melaka",
     "postcode": "78200",
@@ -90778,7 +92850,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5273",
+    "id": "5384",
     "title": "1 Storey Terrace House",
     "address": "No. 18, Jalan Tembusu 10, Taman Merdeka, 75350 Batu Berendam, Melaka",
     "postcode": "75350",
@@ -90795,7 +92867,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5274",
+    "id": "5385",
     "title": "2 Storey Terrace House",
     "address": "No. 38, Jalan TP 17A, Taman Terendak Permai, 76300 Sungai Udang, Melaka",
     "postcode": "76300",
@@ -90812,7 +92884,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5275",
+    "id": "5386",
     "title": "1 Storey Terrace House",
     "address": "No. 1, Jalan SD 2/26, Taman Seri Duyong, Seksyen 2, 75460 Duyong, Melaka",
     "postcode": "75460",
@@ -90829,7 +92901,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5276",
+    "id": "5387",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Jalan BR 5, Taman Bukit Rambai, 75250, Melaka",
     "postcode": "75250",
@@ -90846,7 +92918,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5277",
+    "id": "5388",
     "title": "2 Storey Terrace House",
     "address": "JD 1756, Jalan SJM P1/3, Taman Scientex Jasin Mutiara Fasa 1A1, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -90863,7 +92935,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5278",
+    "id": "5389",
     "title": "1 Storey Terrace House",
     "address": "No. 18, Jalan Tembusu 10, Taman Merdeka, 75350 Hang Tuah Jaya, Batu Berendam, Melaka",
     "postcode": "75350",
@@ -90880,7 +92952,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5279",
+    "id": "5390",
     "title": "Terrace House",
     "address": "Taman Panglima Pak 1, 77300 Merlimau, Melaka",
     "postcode": "77300",
@@ -90897,7 +92969,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5280",
+    "id": "5391",
     "title": "1 Storey Terrace House",
     "address": "No. 4, Jalan SI 39/1, Taman Saujana Indah, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -90914,7 +92986,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5281",
+    "id": "5392",
     "title": "1 Storey Terrace House",
     "address": "No. 16, Jalan MJ 14, Taman Merdeka Jaya, Batu Berendam, 75350 Hang Tuah Jaya, Melaka",
     "postcode": "75350",
@@ -90931,7 +93003,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5282",
+    "id": "5393",
     "title": "1 Storey Terrace House",
     "address": "JD 1225, Jalan Mayang Lestari 11, Taman Mayang Lestari Fasa 3, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -90948,7 +93020,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5283",
+    "id": "5394",
     "title": "Terrace House",
     "address": "No. 9, Jalan RI 2, Taman Rambai Idaman, 75260 Bukit Rambai, Melaka",
     "postcode": "75260",
@@ -90965,7 +93037,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5284",
+    "id": "5395",
     "title": "Terrace House",
     "address": "No. 31, Jalan SB 9, Taman Seri Bertam, 76450, Melaka",
     "postcode": "76450",
@@ -90982,7 +93054,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5285",
+    "id": "5396",
     "title": "Terrace House",
     "address": "SI 544, Jalan Seruling Jaya 11, Taman Seruling Jaya, 78300, Masjid Tanah, Melaka",
     "postcode": "78300",
@@ -90999,7 +93071,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5286",
+    "id": "5397",
     "title": "Freehold 1 Storey Terrace House, Intermediate",
     "address": "Jalan Nyalas Baru 6, Taman Nyalas Baru, Nyalas, 77100 Jasin, Melaka",
     "postcode": "77100",
@@ -91016,7 +93088,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5287",
+    "id": "5398",
     "title": "2 Storey Terrace House",
     "address": "No. 37, Jalan Sejahtera 5, Taman Bukit Tambun Perdana 2, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91033,7 +93105,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5288",
+    "id": "5399",
     "title": "Condominium",
     "address": "Unit No. A-20-03, Tingkat 20, Block A, Casa Lago Condominium (Kondominium Melaka Raya), Jalan Syed Abdul Aziz, Taman Melaka Raya, 75000, Melaka",
     "postcode": "75000",
@@ -91050,7 +93122,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5289",
+    "id": "5400",
     "title": "1 Storey Terrace House",
     "address": "No. 7, Jalan TPP 2, Taman Tambak Paya Permai, 75460 Ayer Molek, Melaka",
     "postcode": "75460",
@@ -91067,7 +93139,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5290",
+    "id": "5401",
     "title": "2 Storey Cluster House",
     "address": "DT 547, Jalan Nuri 32, Taman Nuri Fasa 3, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91084,7 +93156,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5291",
+    "id": "5402",
     "title": "1 Storey Semi Detached House",
     "address": "No. 8, Jalan PTI 4, Taman Padang Temu Indah, Padang Temu, 75050, Melaka",
     "postcode": "75050",
@@ -91101,7 +93173,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5292",
+    "id": "5403",
     "title": "1 Storey Terrace House",
     "address": "No. JB 1854, Jalan Nyalas Baru 6, Taman Nyalas Baru, Nyalas, 77100 Asahan, Melaka",
     "postcode": "77100",
@@ -91118,7 +93190,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5293",
+    "id": "5404",
     "title": "Flat",
     "address": "Unit No. A2-16, 2nd Floor, Block A, Rumah Pangsa Kesidang, Seksyen 2, Jalan Kesidang 2/11, Kampung Lapan, 75200, Melaka",
     "postcode": "75200",
@@ -91135,7 +93207,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5294",
+    "id": "5405",
     "title": "2 Storey Terrace House",
     "address": "No. MP 1165, Jalan Melaka Perdana 9, Taman Melaka Perdana, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -91152,7 +93224,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5295",
+    "id": "5406",
     "title": "1 Storey Terrace House",
     "address": "No. 55, Jalan M43, Taman Merdeka (Jalan Merdeka), 75350 Batu Berendam, Melaka",
     "postcode": "75350",
@@ -91169,7 +93241,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5296",
+    "id": "5407",
     "title": "Flat",
     "address": "2nd Floor, Block A, Rumah Pangsa Kesidang, Seksyen 2, Jalan Kesidang 2/11, Kampung Lapan, 75200, Melaka",
     "postcode": "75200",
@@ -91186,7 +93258,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5297",
+    "id": "5408",
     "title": "Apartment",
     "address": "Unit No. B-4-12, Blok B, 4th Floor, Pangsapuri Peringgit Indah, Jalan Peringgit, 75400, Melaka",
     "postcode": "75400",
@@ -91203,7 +93275,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5299",
+    "id": "5410",
     "title": "2 Storey Terrace House",
     "address": "SU 1398, Jalan Masjid Tanah Ria 10, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka",
     "postcode": "78300",
@@ -91220,7 +93292,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5300",
+    "id": "5411",
     "title": "1 Storey Terrace House",
     "address": "No. 14, Jalan Jati 20C, Taman Jati, Batu Berendam, Hang Tuah Jaya, 75350 Melaka Tengah, Melaka",
     "postcode": "75350",
@@ -91237,7 +93309,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5301",
+    "id": "5412",
     "title": "2.5 Storey Terrace House",
     "address": "No. 35, Jalan OR 6, Taman Ozana Residen, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -91254,7 +93326,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5302",
+    "id": "5413",
     "title": "2 Storey Terrace House",
     "address": "Jalan Tasik Permai Utama, Taman Tasik Permai, 77400 Sungai Rambai, Melaka",
     "postcode": "77400",
@@ -91271,7 +93343,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5303",
+    "id": "5414",
     "title": "Apartment",
     "address": "Block Mawar 3, Jalan Murni 2, Rumah Pangsa Taman Malim Jaya, 75250, Melaka",
     "postcode": "75250",
@@ -91288,7 +93360,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5304",
+    "id": "5415",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Jalan Anjung Tulip 9, Taman Anjung Gapam, 77200 Ayer Panas, Melaka",
     "postcode": "77200",
@@ -91305,7 +93377,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5305",
+    "id": "5416",
     "title": "1 Storey Terrace House",
     "address": "No. 12, Jalan Kompang 4, Taman Bertam Heights, 76450, Melaka",
     "postcode": "76450",
@@ -91322,7 +93394,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5306",
+    "id": "5417",
     "title": "2 Storey Terrace Shop Office",
     "address": "Nos. GD 164 & 164-1, Jalan Seri Manggis Fasa 2 Utama, Taman Seri Manggis Fasa 2, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -91339,7 +93411,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5307",
+    "id": "5418",
     "title": "1 Storey Terrace House",
     "address": "Taman Rim Baru, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -91356,7 +93428,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5308",
+    "id": "5419",
     "title": "1 Storey Terrace House",
     "address": "Jalan Kompang 4, Taman Bertam Heights, 76450, Melaka",
     "postcode": "76450",
@@ -91373,7 +93445,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5309",
+    "id": "5420",
     "title": "Terrace House",
     "address": "Jalan Bukit Tambun Perdana 41, Taman Bukit Tambun Perdana, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91390,7 +93462,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5311",
+    "id": "5422",
     "title": "2 Storey Terrace House",
     "address": "No. 1, Jalan Pahlawan 6A, Taman Pahlawan, Sungai Udang, 76300, Melaka",
     "postcode": "76300",
@@ -91407,7 +93479,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5312",
+    "id": "5423",
     "title": "Flat",
     "address": "Unit No. D5-6, Rumah Pangsa Taman Anika, Lorong Pandan, Melaka",
     "postcode": "",
@@ -91424,7 +93496,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5313",
+    "id": "5424",
     "title": "Terrace House",
     "address": "Jalan Belimbing Harmoni 9, Taman Belimbing Harmoni, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91441,7 +93513,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5314",
+    "id": "5425",
     "title": "2 Storey Terrace House",
     "address": "Jalan Angkasa Nuri 23, Taman Angkasa Nuri, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91458,7 +93530,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5315",
+    "id": "5426",
     "title": "1 Storey Terrace House",
     "address": "Jalan Tilapia 8, Taman Tiang Dua Bestari, 75460, Melaka",
     "postcode": "75460",
@@ -91475,7 +93547,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5316",
+    "id": "5427",
     "title": "2 Storey Terrace House",
     "address": "Jalan KJ 19, Taman Krubong Jaya, 75200 Krubong, Melaka",
     "postcode": "75200",
@@ -91492,7 +93564,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5317",
+    "id": "5428",
     "title": "1 Storey Terrace House",
     "address": "Jalan Rembia Perkasa 6, Taman Rembia Perkasa, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -91509,7 +93581,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5318",
+    "id": "5429",
     "title": "2 Storey Terrace House",
     "address": "BB 326, Jalan Belimbing Harmoni 9, Taman Belimbing Harmoni, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91526,7 +93598,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5319",
+    "id": "5430",
     "title": "1 Storey Terrace House",
     "address": "Jalan Selasih, Taman Seri Bayu Fasa 1, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -91543,7 +93615,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5320",
+    "id": "5431",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bukit Tambun Perdana 34, Taman Bukit Tambun Perdana, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91560,7 +93632,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5321",
+    "id": "5432",
     "title": "2 Storey Terrace House",
     "address": "Jalan SB 2, Taman Seri Bertam, 76450 Tanjong Minyak, Melaka",
     "postcode": "76450",
@@ -91577,7 +93649,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5322",
+    "id": "5433",
     "title": "2 Storey Cluster House",
     "address": "KM 97, Jalan Kasa Heights 21, Taman Kasa Heights, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -91594,7 +93666,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5323",
+    "id": "5434",
     "title": "2 Storey Terrace House",
     "address": "Jalan BSJ P1/4, Bandar Scientex Jasin Presint 1 (Fasa 1A2), 77300 Merlimau, Melaka",
     "postcode": "77300",
@@ -91611,7 +93683,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5324",
+    "id": "5435",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan TP 17A, Taman Terendak Permai, 76300 Sungai Udang, Melaka",
     "postcode": "76300",
@@ -91628,7 +93700,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5325",
+    "id": "5436",
     "title": "1 Storey Cluster House",
     "address": "Jalan Desa Bertam 29, Taman Desa Bertam, 76450, Melaka",
     "postcode": "76450",
@@ -91645,7 +93717,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5326",
+    "id": "5437",
     "title": "2 Storey Terrace House",
     "address": "No. 9, Jalan Bayan 3A, Taman Bukit Katil, 75450, Melaka",
     "postcode": "75450",
@@ -91662,7 +93734,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5327",
+    "id": "5438",
     "title": "1 Storey Terrace House",
     "address": "No. 42, Jalan KJ 49, Taman Krubong Jaya, 75260, Krubong, Melaka",
     "postcode": "75260",
@@ -91679,7 +93751,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5328",
+    "id": "5439",
     "title": "2 Storey Terrace House",
     "address": "No. 50, Jalan BKD 51, Taman Bukit Katil Damai 2, Bukit Katil, 75450 Hang Tuah Jaya, Melaka",
     "postcode": "75450",
@@ -91696,7 +93768,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5329",
+    "id": "5440",
     "title": "1 Storey Terrace House",
     "address": "Jalan SM 3, Taman Seri Manggis, 78000 Alor Gajah, Melaka",
     "postcode": "78000",
@@ -91713,7 +93785,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5330",
+    "id": "5441",
     "title": "Service Apartment",
     "address": "Unit No. T1-36-03, Pinggiran @ Sungai Melaka, 75100, Melaka",
     "postcode": "75100",
@@ -91730,7 +93802,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5331",
+    "id": "5442",
     "title": "2 Storey Terrace House",
     "address": "Jalan Bukit Tambun Perdana 27, Taman Bukit Tambun Perdana, 76100 Durian Tunggal, Melaka",
     "postcode": "76100",
@@ -91747,7 +93819,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5333",
+    "id": "5444",
     "title": "Terrace House",
     "address": "Lorong 1, Jalan TP 7B, Taman Terendak Permai, 76300 Sungai Udang, Melaka",
     "postcode": "76300",
@@ -91764,7 +93836,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5334",
+    "id": "5445",
     "title": "1 Storey Terrace House",
     "address": "No. JA 1716, Jalan Panglima Pak 6, Taman Panglima Pak II, 77300 Merlimau, , Melaka",
     "postcode": "77300",
@@ -91781,7 +93853,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5335",
+    "id": "5446",
     "title": "1 Storey Terrace House",
     "address": "No. 25, Jalan Impiana Delima 3, Taman Impiana Kesang, Kesang Pajak, 77000 Jasin, Melaka",
     "postcode": "77000",
@@ -91798,7 +93870,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5336",
+    "id": "5447",
     "title": "1 Storey Terrace House",
     "address": "Jalan Tilapia 8, Taman Tiang Dua Bestari, 75460, Melaka",
     "postcode": "75460",
@@ -91815,7 +93887,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5337",
+    "id": "5448",
     "title": "2 Storey Terrace House",
     "address": "Jalan Angkasa Nuri 20, Taman Angkasa Nuri, Durian Tunggal, 76100 Hang Tuah Jaya, Melaka",
     "postcode": "76100",
@@ -91832,7 +93904,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5338",
+    "id": "5449",
     "title": "1 Storey Terrace House",
     "address": "Jalan AMJ 2, Taman Ayer Molek, Bukit Lintang, 75460, Melaka",
     "postcode": "75460",
@@ -91849,7 +93921,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5340",
+    "id": "5451",
     "title": "1 Storey Terrace House",
     "address": "No. 13, Jalan BKD 21, Taman Bukit Katil Damai 2, 75450 Air Keroh, Melaka",
     "postcode": "75450",
@@ -91866,7 +93938,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5341",
+    "id": "5452",
     "title": "Agricultural Land erected with 2 Storey Detached House",
     "address": "Premises No. JB 4850, Jalan Melaka-Muar, Kampung Sebatu, 77400 Sungai Rambai, Melaka",
     "postcode": "77400",
@@ -91883,7 +93955,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5342",
+    "id": "5453",
     "title": "1 Storey Terrace House",
     "address": "KS 919, Jalan Kuala Permai 11, Taman Kuala Permai, 78200, Kuala Sungai Baru, Melaka",
     "postcode": "78200",
@@ -91900,7 +93972,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5344",
+    "id": "5455",
     "title": "1.5 Storey Semi Detached House",
     "address": "Lot 1485, Pendek, Cabang Empat Salor, Jalan Pasir Mas Salor, 15100 Kota Bharu, Kelantan",
     "postcode": "15100",
@@ -91917,7 +93989,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5345",
+    "id": "5456",
     "title": "1.5 Storey Semi Detached House",
     "address": "Pendek, Cabang Empat Salor, Jalan Pasir Mas Salor, 15100 Kota Bharu, Kelantan",
     "postcode": "15100",
@@ -91934,7 +94006,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5346",
+    "id": "5457",
     "title": "2 Storey Semi Detached House",
     "address": "PT. 1526, Lorong Taqwa, Kampung Huda, Jalan Sultan Yahya Petra, 15200 Kota Bharu, Kelantan",
     "postcode": "15200",
@@ -91951,7 +94023,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5347",
+    "id": "5458",
     "title": "2 Storey Semi Detached House",
     "address": "PT. 1525, Lorong Taqwa, Kampung Huda, Jalan Sultan Yahya Petra, 15200 Kota Bharu, Kelantan",
     "postcode": "15200",
@@ -91968,7 +94040,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5348",
+    "id": "5459",
     "title": "Land",
     "address": "Lot 3621 & Lot 3622 & Lot 3623, Batang Merbau, Kampung Batu 6, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -91985,7 +94057,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5349",
+    "id": "5460",
     "title": "2 Storey Detached House",
     "address": "Lot 1230, Teratak Desa, Kampong Kubang Kacang, 15200 Kota Bharu, Kelantan",
     "postcode": "15200",
@@ -92002,7 +94074,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5350",
+    "id": "5461",
     "title": "Land",
     "address": "Lot 6486 & 6485 & 6488, Kampung Sat, Maka, Kelantan",
     "postcode": "",
@@ -92019,7 +94091,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5351",
+    "id": "5462",
     "title": "Land",
     "address": "PT 8237 & 8239 & 8240 & 8241 & 8242, Kampung Tandak Ketam, Pasir Genda, Kelantan",
     "postcode": "",
@@ -92036,7 +94108,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5352",
+    "id": "5463",
     "title": "Land",
     "address": "PT 1710 (HSM 148), Kampung Lubok Rotan Tawar, Tanah Merah, Kelantan",
     "postcode": "",
@@ -92053,7 +94125,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5353",
+    "id": "5464",
     "title": "Land",
     "address": "Lot 2223 (GM 1585), Kampung Cenderong Tinggi, Mukim Tanah Merah, Kelantan",
     "postcode": "",
@@ -92070,7 +94142,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5354",
+    "id": "5465",
     "title": "Retail Unit",
     "address": "No. A1-16, Tingkat Satu, Kompleks Bazar Abdul Rahman Bin Auf, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -92087,7 +94159,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5355",
+    "id": "5466",
     "title": "Commercial Unit",
     "address": "Unit No. 104, Tingkat 1, Kompleks Bazar Abdul Rahman Bin Auf, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -92104,7 +94176,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5356",
+    "id": "5467",
     "title": "Retail Lot",
     "address": "No. A1-64, Tingkat Satu, Kompleks Bazar Abdul Rahman Bin Auf, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -92121,7 +94193,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5357",
+    "id": "5468",
     "title": "A Parcel of Ground and Mezzanine Floor of Kompleks Yakin",
     "address": "Ground & Mezzanine Floor, Kompleks Yakin, Jalan Gajah Mati, 15000 Kota Bharu, Kelantan",
     "postcode": "15000",
@@ -92138,7 +94210,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5358",
+    "id": "5469",
     "title": "Shop Lot",
     "address": "Unit No. 4-11, Kompleks Kota Sri Mutiara, Jalan Sultan Yahya Petra, 15200 Kota Bharu, Kelantan",
     "postcode": "15200",
@@ -92155,7 +94227,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5359",
+    "id": "5470",
     "title": "Shop Lot",
     "address": "No. 21, Tingkat 1, Kompleks Bazar Abdul Rahman Bin Auf, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -92172,7 +94244,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5360",
+    "id": "5471",
     "title": "Retail Unit",
     "address": "Bazar Unit No. A0-10, Ground Floor, Kompleks Bazar Abdul Rahman Bin Auf, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -92189,7 +94261,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5361",
+    "id": "5472",
     "title": "[8 min to Mydin Wholesale Hypermarket] Condominium [10 min to Billion Mart (Tanjung Chat)]",
     "address": "Unit No. A-6-E, Impiana Condovilla, Kampung Telok Jalan Raja Perempuan Zainab II, 15200 Kota Bharu, Kelantan",
     "postcode": "15200",
@@ -92206,7 +94278,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5362",
+    "id": "5473",
     "title": "Apartment",
     "address": "Unit No. 10-13A, Residensi 19 @ Sri Cemerlang, Jalan Sri Cemerlang 11/27, 15300 Kota Bharu, Kelantan",
     "postcode": "15300",
@@ -92223,7 +94295,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5363",
+    "id": "5474",
     "title": "3 Storey Terrace Industrial Building",
     "address": "PT 3930 (Lot 17205), Krai Eco Park, 18000 Kuala Krai, Kelantan",
     "postcode": "17205",
@@ -92240,7 +94312,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5364",
+    "id": "5475",
     "title": "3 Storey Detached House",
     "address": "Lot 36 (Post Box 56), Kampung Batu Jong, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -92257,7 +94329,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5365",
+    "id": "5476",
     "title": "1 Storey Bungalow House",
     "address": "Lot 2253, Hutan Rebana, 18500 Machang, Kelantan",
     "postcode": "18500",
@@ -92274,7 +94346,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5366",
+    "id": "5477",
     "title": "Agricultural Land",
     "address": "Lot 603 & 622, Kampung Alor Piar, Mukim Lubok Tembesu, 16090 Bachok, Kelantan",
     "postcode": "16090",
@@ -92291,7 +94363,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5367",
+    "id": "5478",
     "title": "2 Storey Semi Detached House",
     "address": "Lot 2807, Jalan Merpati, Taman Guru, Kampung Pintu Geng, 15100 Kota Bharu, Kelantan",
     "postcode": "15100",
@@ -92308,7 +94380,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5368",
+    "id": "5479",
     "title": "Bungalow House",
     "address": "PT. 6033, Mukim Jeli, Kampung Sungai Lancang, 17600 Jeli, Kelantan",
     "postcode": "17600",
@@ -92325,7 +94397,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5369",
+    "id": "5480",
     "title": "1 Storey Detached House",
     "address": "Lot 4380, Desa Kweng, Taman Megan Utama, 18500 Machang, Kelantan",
     "postcode": "18500",
@@ -92342,7 +94414,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5370",
+    "id": "5481",
     "title": "2.5 Storey Bungalow House",
     "address": "Lot No. 739, Lorong KP, Jalan Raja Perempuan Zainab II, Panji, 16150 Kota Bharu, Kelantan",
     "postcode": "16150",
@@ -92359,7 +94431,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5371",
+    "id": "5482",
     "title": "1 Storey Detached House",
     "address": "PT 243, Jalan Pantai Sabak, Kampung Tebing Tinggi, 16100 Kota Bharu, Kelantan",
     "postcode": "16100",
@@ -92376,7 +94448,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5372",
+    "id": "5483",
     "title": "Vacant Residential Land",
     "address": "Lot 1261, Taman Wira, 17200, Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -92393,7 +94465,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5373",
+    "id": "5484",
     "title": "1 Storey Terrace House",
     "address": "Taman D'Bali, Semerak, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -92410,7 +94482,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5374",
+    "id": "5485",
     "title": "1 Storey Terrace House",
     "address": "PT 2945, Jalan Gemersik 9, Taman Sri Bayu, Jubakar Pantai, 16200 Tumpat, Kelantan",
     "postcode": "16200",
@@ -92427,7 +94499,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5375",
+    "id": "5486",
     "title": "Terrace House",
     "address": "PT 3143, Jalan Gemersik 14, Taman Sri Bayu, Jubakar Pantai, 16200 Tumpat, Kelantan",
     "postcode": "16200",
@@ -92444,7 +94516,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5376",
+    "id": "5487",
     "title": "1 Storey Terrace House",
     "address": "PT 10498, Jalan Wira 3A, Desa Wirajaya Gual Periok, 17010 Pasir Mas, Kelantan",
     "postcode": "10498",
@@ -92461,7 +94533,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5377",
+    "id": "5488",
     "title": "1 Storey Terrace House",
     "address": "PT. 2509, Jalan Permai 12, Taman Sri Bayu, Kampung Jubakar Pantai, 16200 Tumpat, Kelantan",
     "postcode": "16200",
@@ -92478,7 +94550,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5378",
+    "id": "5489",
     "title": "Terrace House",
     "address": "PT 3039, Jalan Gemersik 4, Taman Sri Bayu, Kampung Jubakar Pantai, 16200 Tumpat, Kelantan",
     "postcode": "16200",
@@ -92495,7 +94567,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5379",
+    "id": "5490",
     "title": "Shop Lot",
     "address": "PT 1864, Jalan Damai, Taman Sri Bayu, 16200 Tumpat, Kelantan",
     "postcode": "16200",
@@ -92512,7 +94584,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5380",
+    "id": "5491",
     "title": "1 Storey Detached House",
     "address": "PT 9528 (Lot 11624), Perumahan Lubok Agor, Kampung Bukit Batu, 17500 Tanah Merah, Kelantan",
     "postcode": "11624",
@@ -92529,7 +94601,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5381",
+    "id": "5492",
     "title": "1 Storey Terrace House",
     "address": "PT 3988, Taman Desa Asyraf, 17070 Pasir Mas, Kelantan",
     "postcode": "17070",
@@ -92546,7 +94618,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5382",
+    "id": "5493",
     "title": "1 Storey Terrace House",
     "address": "PT. 4924, Taman D'Bali, Semerak, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -92563,7 +94635,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5383",
+    "id": "5494",
     "title": "Terrace House",
     "address": "Lot 14322 (PT 3066), Taman Jintan Firdaus, Kampung Setek Kok Lanas, 16450 Kota Bharu, Kelantan",
     "postcode": "14322",
@@ -92580,7 +94652,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5384",
+    "id": "5495",
     "title": "Terrace House",
     "address": "Lot 6772 (PT 8134), Taman Sri Impian, Telong, 16400 Bachok, Kelantan",
     "postcode": "16400",
@@ -92597,7 +94669,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5385",
+    "id": "5496",
     "title": "Agricultural Land",
     "address": "Lot 612, Kampung Sabak, Daerah Sering, Mukim Sabak, 16450, Kota Bharu, Kelantan",
     "postcode": "16450",
@@ -92614,7 +94686,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5386",
+    "id": "5497",
     "title": "Bungalow",
     "address": "Lot 1212, Baitul Asma', Semerak, 16700 Pasir Puteh, Kelantan",
     "postcode": "16700",
@@ -92631,7 +94703,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5387",
+    "id": "5498",
     "title": "Terrace House",
     "address": "PT 2536, Taman RG Dahlia, Jalan Jedok, Kg Batu 7, Batang Merbau, 17500, Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -92648,7 +94720,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5388",
+    "id": "5499",
     "title": "Terrace House",
     "address": "No. 14 (PT 15584), Jalan Pasir Mas-Rantau Panjang, 17070 Pasir Mas, Kelantan",
     "postcode": "15584",
@@ -92665,7 +94737,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5389",
+    "id": "5500",
     "title": "Agricultural Land",
     "address": "Lot 1818, Kampung Chekai, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -92682,7 +94754,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5390",
+    "id": "5501",
     "title": "1 Storey Detached House",
     "address": "PT 109, Pulau Gajah, Kampung Tanjung Kuala, 16100 Kota Bharu, Kelantan",
     "postcode": "16100",
@@ -92699,7 +94771,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5391",
+    "id": "5502",
     "title": "Agricultural Land",
     "address": "Lot 612, Kampung Sabak, Daerah Sering, Mukim Sabak, 16450 Kota Bharu, Kelantan",
     "postcode": "16450",
@@ -92716,7 +94788,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5392",
+    "id": "5503",
     "title": "Terrace House",
     "address": "PT 2536, Taman RG Dahlia, Jalan Jedok, Kampung Batu 7, Batang Merbau, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -92733,7 +94805,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5393",
+    "id": "5504",
     "title": "Agricultural Land",
     "address": "Lot 400, Kampung Chekai, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -92750,7 +94822,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5394",
+    "id": "5505",
     "title": "Bungalow House",
     "address": "PT. 927, Kampung Patek, 16010 Kota Bharu, Kelantan",
     "postcode": "16010",
@@ -92767,7 +94839,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5395",
+    "id": "5506",
     "title": "Agricultural Land",
     "address": "Lot 1621, Kampung Elong, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -92784,7 +94856,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5396",
+    "id": "5507",
     "title": "Terrace House",
     "address": "PT 6907 (PT 7724 & Lot 8469), Taman SL Permata, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -92801,7 +94873,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5397",
+    "id": "5508",
     "title": "1 Storey Terrace House",
     "address": "No. 256, Perumahan Bukit Sireh, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -92818,7 +94890,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5398",
+    "id": "5509",
     "title": "4 Storey Shop House",
     "address": "Lot 197 (S22/5169-Q/1), Wisma Lagenda, Jalan Kuala Krai, Seksyen 22, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -92835,7 +94907,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5399",
+    "id": "5510",
     "title": "3 Storey Shop Office",
     "address": "Taman KK Height, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -92852,7 +94924,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5400",
+    "id": "5511",
     "title": "1 Storey Bungalow House",
     "address": "Kampung Chetok, 16450 Kota Bharu, Kelantan",
     "postcode": "16450",
@@ -92869,7 +94941,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5401",
+    "id": "5512",
     "title": "3 Storey Shop Office",
     "address": "Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -92886,7 +94958,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5402",
+    "id": "5513",
     "title": "1 Storey Terrace House",
     "address": "Bandar Sri Aman, Pulai Chondong, 16600 Machang, Kelantan",
     "postcode": "16600",
@@ -92903,7 +94975,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5403",
+    "id": "5514",
     "title": "2 Storey Bungalow House",
     "address": "Kampung Bendang Ketok, 1Morak, Palekbang, 16250 Tumpat, Kelantan",
     "postcode": "16250",
@@ -92920,7 +94992,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5404",
+    "id": "5515",
     "title": "2 Storey Shop Office",
     "address": "Jalan Klinik, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -92937,7 +95009,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5405",
+    "id": "5516",
     "title": "3 Storey Shop House",
     "address": "PT. 730, Pasar Awam Bersepadu, Wakaf Che Yeh, 15100 Kota Bharu, Kelantan",
     "postcode": "15100",
@@ -92954,7 +95026,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5406",
+    "id": "5517",
     "title": "3 Storey Shop Office",
     "address": "PT 8109, Taman KK Height, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -92971,7 +95043,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5407",
+    "id": "5518",
     "title": "1 Storey Bungalow House",
     "address": "Lot 1327, Kampung Chetok, 16450 Kota Bharu, Kelantan",
     "postcode": "16450",
@@ -92988,7 +95060,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5408",
+    "id": "5519",
     "title": "3 Storey Shop Office",
     "address": "No. S64 (PT 1063), Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -93005,7 +95077,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5409",
+    "id": "5520",
     "title": "1 Storey Terrace House",
     "address": "Lot PT (B) 459, Bandar Sri Aman, Pulai Chondong, 16600 Machang, Kelantan",
     "postcode": "16600",
@@ -93022,7 +95094,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5410",
+    "id": "5521",
     "title": "2 Storey Bungalow House",
     "address": "Lot. 1594, Kampung Bendang Ketok, 1Morak, Palekbang, 16250 Tumpat, Kelantan",
     "postcode": "16250",
@@ -93039,7 +95111,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5411",
+    "id": "5522",
     "title": "2 Storey Shop Office",
     "address": "PT. 285, Jalan Klinik, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93056,7 +95128,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5412",
+    "id": "5523",
     "title": "Terrace House",
     "address": "Lot 10011 (PT 748), Taman Redha, Kampung Merbau Chondong, 16600 Pulai Chondong, Machang, Kelantan",
     "postcode": "10011",
@@ -93073,7 +95145,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5413",
+    "id": "5524",
     "title": "Terrace House",
     "address": "Lot 1578 (PT 1748), Taman Arif Kok Lanas, 16450 Kota Bharu, Kelantan",
     "postcode": "16450",
@@ -93090,7 +95162,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5414",
+    "id": "5525",
     "title": "Terrace House",
     "address": "PT 3415, Taman Permai, Lalang Luas, Labok, 18500 Machang, Kelantan",
     "postcode": "18500",
@@ -93107,7 +95179,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5415",
+    "id": "5526",
     "title": "Land",
     "address": "Lot 3733 (PT 2686), Kampung Hutan Kuing, Taman Kuing Indah, 18500 Machang, Kelantan",
     "postcode": "18500",
@@ -93124,7 +95196,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5416",
+    "id": "5527",
     "title": "Terrace House",
     "address": "Lot 20664 (PT 13828), Taman SL Alor Pasir, Kampung Alor Pasir, 17500 Tanah Merah, Kelantan",
     "postcode": "20664",
@@ -93141,7 +95213,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5417",
+    "id": "5528",
     "title": "1 Storey Terrace House",
     "address": "PT 10754, Taman Desa Wirajaya, 17010 Pasir Mas, Kelantan",
     "postcode": "10754",
@@ -93158,7 +95230,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5418",
+    "id": "5529",
     "title": "1 Storey Terrace House",
     "address": "PT 10963, Jalan Wira 9B, Taman Desa Wirajaya, 17010 Pasir Mas, Kelantan",
     "postcode": "10963",
@@ -93175,7 +95247,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5419",
+    "id": "5530",
     "title": "1 Storey Terrace House",
     "address": "PT 10304, Desa Wirajaya Gual Periok, 17010 Pasir Mas, Kelantan",
     "postcode": "10304",
@@ -93192,7 +95264,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5420",
+    "id": "5531",
     "title": "Shop Lot",
     "address": "PT 230 & PT 231, Bandar Kechil, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -93209,7 +95281,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5421",
+    "id": "5532",
     "title": "1 Storey Terrace House",
     "address": "PT 10443, Mukim Apam, 17000 Pasir Mas, Kelantan",
     "postcode": "10443",
@@ -93226,7 +95298,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5422",
+    "id": "5533",
     "title": "1 Storey Terrace House",
     "address": "PT 10513, Desa Wirajaya Gual Periok, 17010 Pasir Mas, Kelantan",
     "postcode": "10513",
@@ -93243,7 +95315,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5423",
+    "id": "5534",
     "title": "Terrace House",
     "address": "Lot 3733 (PT 2686), Kampung Hutan Kuing, Taman Kuin Indah, 18500 Machang, Kelantan",
     "postcode": "18500",
@@ -93260,7 +95332,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5424",
+    "id": "5535",
     "title": "1 Storey Terrace House",
     "address": "PT 10305, Desa Wirajaya Gual Periok, 17010 Pasir Mas, Kelantan",
     "postcode": "10305",
@@ -93277,7 +95349,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5425",
+    "id": "5536",
     "title": "2 Storey Terrace House",
     "address": "PT 6001, Taman Barakah, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93294,7 +95366,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5426",
+    "id": "5537",
     "title": "Terrace Plot",
     "address": "Lot 3321, Telekong, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -93311,7 +95383,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5427",
+    "id": "5538",
     "title": "Land",
     "address": "Lot 2447 & 2448 & 2449, Jalan Kampung Pisang Menggala, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -93328,7 +95400,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5428",
+    "id": "5539",
     "title": "Bungalow",
     "address": "PT 125, Jalan Meranti, Kampung Kubang Bemban, 17000 Pasir Mas, Kelantan",
     "postcode": "17000",
@@ -93345,7 +95417,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5429",
+    "id": "5540",
     "title": "1 Storey Terrace House",
     "address": "PT 10764, Jalan Wira 2B, Taman Desa Wirajaya, 17010 Pasir Mas, Kelantan",
     "postcode": "10764",
@@ -93362,7 +95434,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5430",
+    "id": "5541",
     "title": "Agricultural Land",
     "address": "Lot 405, Kampung Belahat, 17600 Jeli, Kelantan",
     "postcode": "17600",
@@ -93379,7 +95451,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5431",
+    "id": "5542",
     "title": "1 Storey Terrace House",
     "address": "PT 800, Perumahan Taman Bakti Gual Tinggi, 17200 Rantau Panjang, Kelantan",
     "postcode": "17200",
@@ -93396,7 +95468,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5432",
+    "id": "5543",
     "title": "2 Storey Terrace House",
     "address": "Taman Hidayah Harmoni, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93413,7 +95485,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5433",
+    "id": "5544",
     "title": "2 Storey Terrace House",
     "address": "Lot 503 (PT 345), Taman Hidayah Harmoni, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93430,7 +95502,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5434",
+    "id": "5545",
     "title": "4 Storey Shop House",
     "address": "Lot 197 (S22/5169-Q/1), Wisma Lagenda, Jalan Kuala Krai, Seksyen 22, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -93447,7 +95519,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5435",
+    "id": "5546",
     "title": "1 Storey Bungalow",
     "address": "Lot No. 1905, Taman Banggu Jati, Kampung Kedai Baru, 16150 Kota Bharu, Kelantan",
     "postcode": "16150",
@@ -93464,7 +95536,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5436",
+    "id": "5547",
     "title": "3 Storey Shop Office",
     "address": "Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -93481,7 +95553,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5437",
+    "id": "5548",
     "title": "2 Storey Shop House",
     "address": "Taman Cherang Jaya, 16210 Chabang Empat, Tumpat, Kelantan",
     "postcode": "16210",
@@ -93498,7 +95570,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5438",
+    "id": "5549",
     "title": "1 Storey Terrace House",
     "address": "Kampung Pusu 40, Jalan Cherang Hangus,17070 Pasir Mas, Kelantan",
     "postcode": "17070",
@@ -93515,7 +95587,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5439",
+    "id": "5550",
     "title": "3 Storey Shop Office",
     "address": "S26/PT 768, Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -93532,7 +95604,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5440",
+    "id": "5551",
     "title": "2 Storey Shop House",
     "address": "PT. 100 & PT. 102, Taman Cherang Jaya, 16210 Chabang Empat, Tumpat, Kelantan",
     "postcode": "16210",
@@ -93549,7 +95621,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5441",
+    "id": "5552",
     "title": "1 Storey Detached House",
     "address": "PT 982, Kampung Jambu Merah, Melor, 16400 Kota Bharu, Kelantan",
     "postcode": "16400",
@@ -93566,7 +95638,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5442",
+    "id": "5553",
     "title": "1 Storey Terrace House",
     "address": "Lot 567, Jalan Alor Pasir, Taman Maka Utama, 17000 Pasir Mas, Kelantan",
     "postcode": "17000",
@@ -93583,7 +95655,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5443",
+    "id": "5554",
     "title": "1 Storey Terrace House",
     "address": "Lot 567, Taman Maka Utama, Kampung Jakar, 17000 Pasir Mas, Kelantan",
     "postcode": "17000",
@@ -93600,7 +95672,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5444",
+    "id": "5555",
     "title": "2 Storey Semi Detached House",
     "address": "Kampung Padang Rokma, 16250 Wakaf Bharu, Kelantan",
     "postcode": "16250",
@@ -93617,7 +95689,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5445",
+    "id": "5556",
     "title": "2 Storey Terrace Shop Office",
     "address": "PT 9319 (Lot 7363), Bandar Baru, 18300 Gua Musang, Kelantan",
     "postcode": "18300",
@@ -93634,7 +95706,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5446",
+    "id": "5557",
     "title": "4 Storey Terrace Shop Office",
     "address": "Lot 2431, Jalan Besar Guchil, Belakang PKT, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -93651,7 +95723,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5447",
+    "id": "5558",
     "title": "2 Storey Semi Detached House",
     "address": "PT. 414, Kampung Padang Rokma, 16250 Wakaf Bharu, Kelantan",
     "postcode": "16250",
@@ -93668,7 +95740,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5448",
+    "id": "5559",
     "title": "Vacant Residential Land",
     "address": "PT 329, Kampung Kubang Batang, 16210 Tumpat, Kelantan",
     "postcode": "16210",
@@ -93685,7 +95757,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5449",
+    "id": "5560",
     "title": "2 Storey Detached House",
     "address": "PT 4887, Taman Kota Harmoni, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93702,7 +95774,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5450",
+    "id": "5561",
     "title": "Terrace House",
     "address": "Lot 4524, Taman Sri Mesa Binajaya, Jalan Batu Karang, 17000 Pasir Mas, Kelantan",
     "postcode": "17000",
@@ -93719,7 +95791,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5451",
+    "id": "5562",
     "title": "Land",
     "address": "Lot 3117 (PT 1871), Batang Merbau, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93736,7 +95808,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5452",
+    "id": "5563",
     "title": "2 Storey Bungalow House",
     "address": "Lot 1680, Jalan Sek Saniah, Kampung Padang Siam, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -93753,7 +95825,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5453",
+    "id": "5564",
     "title": "Vacant Land",
     "address": "GM 1297 (Lot 1109), Kampung Palekbang, 16040 Tumpat, Kelantan",
     "postcode": "16040",
@@ -93770,7 +95842,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5454",
+    "id": "5565",
     "title": "2 Storey Semi Detached House",
     "address": "PT 4787 (Lot 18295), Kampung Limbat, Pasir Tumboh, 16150 Kota Bharu, Kelantan",
     "postcode": "18295",
@@ -93787,7 +95859,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5455",
+    "id": "5566",
     "title": "2 Storey Detached House",
     "address": "Lot No. 2084, Jalan Kubang Kerian-Bachok (Federal Route 211), 16150 Kota Bharu, Kelantan",
     "postcode": "16150",
@@ -93804,7 +95876,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5456",
+    "id": "5567",
     "title": "2 Storey Semi Detached Factory",
     "address": "PT 1208, Jalan Kubang Kacang, Kampung Tiong, Kubang Kacang, 16010 Kota Bharu, Kelantan",
     "postcode": "16010",
@@ -93821,7 +95893,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5457",
+    "id": "5568",
     "title": "Land",
     "address": "Lot 4820 - 4833 (15 Lot), Taman Jaza Perdana, Jalan Jaza Perdana, 17500 Tanah Merah, Kelantan",
     "postcode": "17500",
@@ -93838,7 +95910,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5458",
+    "id": "5569",
     "title": "1.5 Storey Detached House",
     "address": "PT 1481, Sri Kenangan, Kampung Mesira, Depan Tapak Kilang Bata, Morak, 16250 Tumpat, Kelantan",
     "postcode": "16250",
@@ -93855,7 +95927,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5459",
+    "id": "5570",
     "title": "3 Storey Shop House",
     "address": "Lot 1707, Taman Kuala Krai, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -93872,7 +95944,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5460",
+    "id": "5571",
     "title": "2 Storey Shop House",
     "address": "Lot 1706, Taman Kuala Krai, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -93889,7 +95961,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5461",
+    "id": "5572",
     "title": "3 Storey Shop House",
     "address": "Lot 17201, Krai Eco Park, 18000 Kuala Krai, Kelantan",
     "postcode": "17201",
@@ -93906,7 +95978,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5462",
+    "id": "5573",
     "title": "3 Storey Shop House",
     "address": "Krai Eco Park, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -93923,7 +95995,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5463",
+    "id": "5574",
     "title": "3 Storey Shop House",
     "address": "Lot 17202, Krai Eco Park, 18000 Kuala Krai, Kelantan",
     "postcode": "17202",
@@ -93940,7 +96012,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5464",
+    "id": "5575",
     "title": "3 Storey Shop House",
     "address": "Lot 17203, Krai Eco Park, 18000 Kuala Krai, Kelantan",
     "postcode": "17203",
@@ -93957,7 +96029,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5465",
+    "id": "5576",
     "title": "2 Storey Semi Detached House",
     "address": "Lot 13739, Kampung Padang Kerian, Daerah Sering Seksyen 73, 16150 Kota Bharu, Kelantan",
     "postcode": "13739",
@@ -93974,7 +96046,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5466",
+    "id": "5577",
     "title": "Agricultural Land",
     "address": "Lot No. 2249, Mukim Gading Galoh, 18500 Machang, Kelantan",
     "postcode": "18500",
@@ -93991,7 +96063,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5467",
+    "id": "5578",
     "title": "3 Storey Shop House",
     "address": "Lot 17204, Krai Eco Park, 18000 Kuala Krai, Kelantan",
     "postcode": "17204",
@@ -94008,7 +96080,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5468",
+    "id": "5579",
     "title": "2.5 Storey Detached House",
     "address": "PT 379, Kampung Padang Rokma, 16250 Wakaf Bharu, Kelantan",
     "postcode": "16250",
@@ -94025,7 +96097,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5469",
+    "id": "5580",
     "title": "Freehold Residential Land built upon with 4 Units of 2 Storey Shop House",
     "address": "Lot No. 544 (A & B & C & D), Taman Sri Mahang, 16450 Ketereh, Kelantan",
     "postcode": "16450",
@@ -94042,7 +96114,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5470",
+    "id": "5581",
     "title": "Shop Lot",
     "address": "Block 6, Pusat Perniagaan Dataran Rakyat, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
     "postcode": "16010",
@@ -94059,7 +96131,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5471",
+    "id": "5582",
     "title": "3 Storey Permanent Building (Bird Nesting)",
     "address": "Kampung Padang Bongor, Jalan Hospital, 15200 Kota Bharu, Kelantan",
     "postcode": "15200",
@@ -94076,7 +96148,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5472",
+    "id": "5583",
     "title": "3 Storey Shop Office",
     "address": "Kawasan Pasar Borong Wakaf Che Yeh, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan",
     "postcode": "15050",
@@ -94093,7 +96165,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5473",
+    "id": "5584",
     "title": "Shop Lot",
     "address": "Pusat Perniagaan Dataran Rakyat, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
     "postcode": "16010",
@@ -94110,7 +96182,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5474",
+    "id": "5585",
     "title": "1 Storey Terrace House",
     "address": "Taman Binjai Kerak, Kampung Kerak Hulu, Batu 11, 16450 Ketereh, Kelantan",
     "postcode": "16450",
@@ -94127,7 +96199,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5475",
+    "id": "5586",
     "title": "2 Storey Detached House",
     "address": "PT. 855 & PT. 920, Kampung Padang Rokma, Taman Alam Jaya Fasa II, 16250 Tumpat, Kelantan",
     "postcode": "16250",
@@ -94144,7 +96216,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5476",
+    "id": "5587",
     "title": "1 Storey Bungalow",
     "address": "PT 7026, Kampung Kepas, Taman Sri Megah, 17000 Pasir Mas, Kelantan",
     "postcode": "17000",
@@ -94161,7 +96233,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5477",
+    "id": "5588",
     "title": "1 Storey Detached House",
     "address": "PT 12998, Taman Anjung Jelatok, Kampung Jelatok, Jalan Pasir Mas, 17500 Tanah Merah, Kelantan",
     "postcode": "12998",
@@ -94178,7 +96250,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5478",
+    "id": "5589",
     "title": "3 Storey Shop Office",
     "address": "Kawasan Pasar Borong Wakaf Che Yeh, Jalan Wakaf Che Yeh, 15100 Kota Bharu, Kelantan",
     "postcode": "15100",
@@ -94195,7 +96267,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5479",
+    "id": "5590",
     "title": "2 Storey Semi Detached House",
     "address": "PT 997, Kampung Terbak, Taman Indah, 16200 Tumpat, Kelantan",
     "postcode": "16200",
@@ -94212,7 +96284,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5480",
+    "id": "5591",
     "title": "4 Storey Terrace Shop Office",
     "address": "PT 5452, Lorong Hajah Nik Mariam, 18000 Kuala Krai, Kelantan",
     "postcode": "18000",
@@ -94229,7 +96301,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5481",
+    "id": "5592",
     "title": "2 Storey Detached House",
     "address": "PT 604, Belakang Sekolah Kebangsaan Othman Talib 2, Tendong, 17030 Pasir Mas, Kelantan",
     "postcode": "17030",
@@ -94246,7 +96318,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5482",
+    "id": "5593",
     "title": "Multipurpose Hall with an extension of Bird Nesting",
     "address": "Lorong 2, Dato' Haji Ibrahim, Kampung Kedondong, 16150 Kota Bharu, Kelantan",
     "postcode": "16150",
@@ -94263,7 +96335,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5483",
+    "id": "5594",
     "title": "1 Storey Detached House",
     "address": "Taman Hafizah, Semerak, 16700 Pasir Puteh, Kelantan",
     "postcode": "16700",
@@ -94280,7 +96352,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5484",
+    "id": "5595",
     "title": "A Development Land together with a Unit of 1.5 Storey Shop House & 2 Units of 2 Storey Shop House",
     "address": "Kampung Gaal, 16800 Pasir Puteh, Kelantan",
     "postcode": "16800",
@@ -94297,7 +96369,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5485",
+    "id": "5596",
     "title": "2 Storey Shop Office",
     "address": "PT 1158, Jalan Pengkalan Chepa, Taman Bendahara, 16100 Kota Bharu, Kelantan",
     "postcode": "16100",
@@ -94314,7 +96386,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5486",
+    "id": "5597",
     "title": "Semi Detached House",
     "address": "Jalan Rengas, Taman Bukit Kuang, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94331,7 +96403,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5487",
+    "id": "5598",
     "title": "Semi Detached House",
     "address": "Jalan Rengas, Taman Bukit Kuang, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94348,7 +96420,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5488",
+    "id": "5599",
     "title": "Detached House",
     "address": "Jalan Mak Chili, Kampung Mak Chili Atas, 24000 Chukai, Terengganu",
     "postcode": "24000",
@@ -94365,7 +96437,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5489",
+    "id": "5600",
     "title": "1 Storey Terrace House",
     "address": "Jalan BI A/12, Taman Banggol Indah, Paya Berenjut, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94382,7 +96454,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5490",
+    "id": "5601",
     "title": "1 Storey Detached House",
     "address": "Kampung Bukit Anak Dara, Kijal, 24100 Kemaman, Terengganu",
     "postcode": "24100",
@@ -94399,7 +96471,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5491",
+    "id": "5602",
     "title": "1 Storey Detached House",
     "address": "Lot 7377, Kampung Bukit Anak Dara, Kijal, 24100 Kemaman, Terengganu",
     "postcode": "24100",
@@ -94416,7 +96488,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5492",
+    "id": "5603",
     "title": "2.5 Storey Detached House",
     "address": "Lot 4763, Batu Rakit, Kampung Lingai, 21600 Kuala Nerus, Terengganu",
     "postcode": "21600",
@@ -94433,7 +96505,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5493",
+    "id": "5604",
     "title": "1 Storey Terrace House",
     "address": "No. 14, Taman Kuala Berang, 21700 Kuala Berang, Terengganu",
     "postcode": "21700",
@@ -94450,7 +96522,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5494",
+    "id": "5605",
     "title": "Terrace House",
     "address": "Lorong Aman Binjai BTK 1/1, Taman Aman Binjai, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94467,7 +96539,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5495",
+    "id": "5606",
     "title": "1 Storey Terrace House",
     "address": "Jalan APPS 2/5A, Taman Alam Perdana, Pasir Semut, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94484,7 +96556,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5496",
+    "id": "5607",
     "title": "1 Storey Terrace House",
     "address": "PT 8166, Taman SL Wira Perdana, 22010 Pekan Jabi, Besut, Terengganu",
     "postcode": "22010",
@@ -94501,7 +96573,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5497",
+    "id": "5608",
     "title": "1 Storey Terrace House",
     "address": "PT 2874, Jalan Padang Landak, Taman Selasih, 22000 Jerteh, Terengganu",
     "postcode": "22000",
@@ -94518,7 +96590,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5498",
+    "id": "5609",
     "title": "Land",
     "address": "Lot 1083, Mukim Hulu Paka, Bandar Al Muktafi Billah Shah, 23400 Dungun, Terengganu",
     "postcode": "23400",
@@ -94535,7 +96607,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5499",
+    "id": "5610",
     "title": "Semi Detached House",
     "address": "PT 5407, Taman Binjai Dahlia, Kampung Tempurung, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94552,7 +96624,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5500",
+    "id": "5611",
     "title": "1 Storey Bungalow",
     "address": "Lot 12855, Kampung Kota Manir, 21200 Kuala Terengganu, Terengganu",
     "postcode": "12855",
@@ -94569,7 +96641,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5501",
+    "id": "5612",
     "title": "2 Storey Terrace House",
     "address": "No. 61412, Jalan KP 6, Taman Koperasi Perdana, 24000 Kemaman, Terengganu",
     "postcode": "61412",
@@ -94586,7 +96658,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5502",
+    "id": "5613",
     "title": "Detached House",
     "address": "PT. 20053, Jalan Mak Chili, Kampung Mak Chili Atas, 24000 Chukai, Terengganu",
     "postcode": "20053",
@@ -94603,7 +96675,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5503",
+    "id": "5614",
     "title": "1 Storey Semi Detached House",
     "address": "PT 7442, Lorong Geliga Indah 5, Taman Geliga Indah, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94620,7 +96692,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5504",
+    "id": "5615",
     "title": "2 Storey Terrace House",
     "address": "PT 5976, Taman Sri Mekar, Kampung Tok Kapur, Binjai, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94637,7 +96709,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5505",
+    "id": "5616",
     "title": "1 Storey Terrace House",
     "address": "No. 1825, Jalan Tempurung, Perumahan Taman Mawar 2, 24000 Chukai, Terengganu",
     "postcode": "24000",
@@ -94654,7 +96726,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5506",
+    "id": "5617",
     "title": "2 Storey Terrace House",
     "address": "Taman Geliga Besar, Jalan Kemaman-Kuantan, 24000 Cukai, Terengganu",
     "postcode": "24000",
@@ -94671,7 +96743,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5507",
+    "id": "5618",
     "title": "Semi Detached House",
     "address": "Perumahan Rayhar Sentosa, Taman Jaya Nilam, 24000, Terengganu",
     "postcode": "24000",
@@ -94688,7 +96760,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5508",
+    "id": "5619",
     "title": "Semi Detached House",
     "address": "PT 8187, Jalan Besar, Kampung Cacar Baru, 23100 Kuala Dungun, Terengganu",
     "postcode": "23100",
@@ -94705,7 +96777,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5509",
+    "id": "5620",
     "title": "Flat",
     "address": "Unit No. JB 407, Pangsapuri Jasmin B, Taman Sri Kolam, Jalan Sultan Sulaiman, 20000 Kuala Terengganu, Terengganu",
     "postcode": "20000",
@@ -94722,7 +96794,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5510",
+    "id": "5621",
     "title": "1 Storey Terrace House",
     "address": "Jalan Tempurong, Bandar Baru Bukit Mentok, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94739,7 +96811,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5511",
+    "id": "5622",
     "title": "2 Storey Semi Detached House",
     "address": "Lot 11352, Alur Limbat, Taman Seri Binjai, Fasa III, 21400 Marang, Terengganu",
     "postcode": "11352",
@@ -94756,7 +96828,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5512",
+    "id": "5623",
     "title": "1 Storey Terrace House",
     "address": "No. 8767, Jalan Tempurong, Bandar Baru Bukit Mentok, 24000 Chukai, Terengganu",
     "postcode": "24000",
@@ -94773,7 +96845,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5513",
+    "id": "5624",
     "title": "Industrial Plot",
     "address": "Lot 614, Bukit Setokol, Kawasan Perindustrian Bukit Setokol, Teluk Kalung, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94790,7 +96862,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5514",
+    "id": "5625",
     "title": "Vacant Detached Plot",
     "address": "Lot 89 (GM 10), Mukim Cenering, 21080 Kuala Terengganu, Terengganu",
     "postcode": "21080",
@@ -94807,7 +96879,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5515",
+    "id": "5626",
     "title": "1 Storey Semi Detached House",
     "address": "PT. 19317, Kampung Bukit Guntong, Binjai Rendah, 21400 Marang, Terengganu",
     "postcode": "19317",
@@ -94824,7 +96896,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5516",
+    "id": "5627",
     "title": "Vacant Detached Plot",
     "address": "Lot 89 (GM 10), Pantai Pandak, Mukim Cenering, 21080 Kuala Terengganu, Terengganu",
     "postcode": "21080",
@@ -94841,7 +96913,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5517",
+    "id": "5628",
     "title": "Terrace House",
     "address": "MBKT PT. 1808P, Taman Alamanda 3, Jalan Pusara, 20400 Kuala Terengganu, Terengganu",
     "postcode": "20400",
@@ -94858,7 +96930,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5518",
+    "id": "5629",
     "title": "2 Storey Terrace House",
     "address": "PT. 28777, Taman Desa Solehah, Kampung Padang Air, 21060 Kuala Nerus, Terengganu",
     "postcode": "28777",
@@ -94875,7 +96947,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5519",
+    "id": "5630",
     "title": "2 Storey Semi Detached House",
     "address": "Susur Damansara 1, Damansara Kertih, 24300 Kertih, Terengganu",
     "postcode": "24300",
@@ -94892,7 +96964,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5520",
+    "id": "5631",
     "title": "1 Storey Semi Detached House",
     "address": "No. 3217, Lorong Permai 13, Taman Desa Permai 2, Bukit Kuang, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -94909,7 +96981,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5521",
+    "id": "5632",
     "title": "1 Storey Terrace House",
     "address": "No. 26, Rumah Murah Kilat, Kuala Dungun, 23000 Dungun, Terengganu",
     "postcode": "23000",
@@ -94926,7 +96998,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5522",
+    "id": "5633",
     "title": "2 Storey Shop Office",
     "address": "PT 10360, Batu 2, Jalan Air Putih, 24000 Kemaman, Terengganu",
     "postcode": "10360",
@@ -94943,7 +97015,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5523",
+    "id": "5634",
     "title": "1 Storey Bungalow",
     "address": "Lot 60768, Kampung Bukit Kolam, Jalan Jerangau, Ajil, 21800 Hulu Terengganu, Terengganu",
     "postcode": "60768",
@@ -94960,7 +97032,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5524",
+    "id": "5635",
     "title": "1 Storey Bungalow House",
     "address": "Lot 5850, Taman Perumahan Perkaya, Pulau Kerengga, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -94977,7 +97049,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5525",
+    "id": "5636",
     "title": "Resort",
     "address": "Lot 4111, Alur Tuman, Mukim Pulau Kerengga, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -94994,7 +97066,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5526",
+    "id": "5637",
     "title": "1 Storey Terrace House",
     "address": "No. 2126, Taman Anggerik, Jalan Melati, Kampung Baru Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95011,7 +97083,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5527",
+    "id": "5638",
     "title": "Detached House Plot",
     "address": "Lot 3565, Seberang Baroh, Cabang Tiga, 21000 Kuala Terengganu, Terengganu",
     "postcode": "21000",
@@ -95028,7 +97100,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5528",
+    "id": "5639",
     "title": "Land",
     "address": "Lot 60591 (PT 1542), Perumahan Kubang Parit Perdana Kubang Parit, 20050 Kuala Terengganu, Terengganu",
     "postcode": "60591",
@@ -95045,7 +97117,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5529",
+    "id": "5640",
     "title": "Terrace House",
     "address": "Taman Jerteh Indah, 22000 Jerteh, Terengganu",
     "postcode": "22000",
@@ -95062,7 +97134,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5530",
+    "id": "5641",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Kenanga, Sura Tengah, 23000 Dungun, Terengganu",
     "postcode": "23000",
@@ -95079,7 +97151,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5531",
+    "id": "5642",
     "title": "1 Storey Semi Detached House",
     "address": "Lot PT 24764P, Taman Nerus, Gong Badak, 21300 Kuala Nerus, Terengganu",
     "postcode": "21300",
@@ -95096,7 +97168,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5532",
+    "id": "5643",
     "title": "1 Storey Semi Detached House",
     "address": "Lot 92330, Taman Mutiara, Kampung Durian Guling, 21040 Marang, Terengganu",
     "postcode": "92330",
@@ -95113,7 +97185,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5533",
+    "id": "5644",
     "title": "Industrial Premises",
     "address": "PT. 8212, Jalan KPTK Utama, Kawasan Perindustrian Teluk Kalong, Teluk Kalong, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95130,7 +97202,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5534",
+    "id": "5645",
     "title": "Vacant Land",
     "address": "Lot 2057, Kampung Kertih, Mukim Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95147,7 +97219,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5535",
+    "id": "5646",
     "title": "Vacant Land",
     "address": "Lot 2056, Kampung Kertih, Mukim Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95164,7 +97236,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5536",
+    "id": "5647",
     "title": "Vacant Land",
     "address": "Lot 2053, Kampung Kertih, Mukim Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95181,7 +97253,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5537",
+    "id": "5648",
     "title": "Vacant Land",
     "address": "Lot 2058, Kampung Kertih, Mukim Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95198,7 +97270,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5538",
+    "id": "5649",
     "title": "Vacant Land",
     "address": "Lot 2054, Kampung Kertih, Mukim Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95215,7 +97287,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5539",
+    "id": "5650",
     "title": "Vacant Land",
     "address": "Lot 2055, Kampung Kertih, Mukim Kertih, 24300 Kemaman, Terengganu",
     "postcode": "24300",
@@ -95232,7 +97304,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5540",
+    "id": "5651",
     "title": "1 Storey Terrace House",
     "address": "No. 45, Lorong Ketapang 3, Taman Desa Darul Iman, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95249,7 +97321,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5541",
+    "id": "5652",
     "title": "1 Storey Semi Detached House",
     "address": "Lot 1920, Taman Desa Setia, Kampung Atas Tol, 21070 Kuala Terengganu, Terengganu",
     "postcode": "21070",
@@ -95266,7 +97338,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5542",
+    "id": "5653",
     "title": "1 Storey Semi Detached House",
     "address": "Jalan Belakang Sekolah SMTIZ, 23000 Dungun, Terengganu",
     "postcode": "23000",
@@ -95283,7 +97355,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5543",
+    "id": "5654",
     "title": "2 Storey Terrace House",
     "address": "PT 39946, Taman Cobe 1, Kampung Batin, 21300 Kuala Nerus, Terengganu",
     "postcode": "39946",
@@ -95300,7 +97372,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5544",
+    "id": "5655",
     "title": "1 Storey Bungalow House",
     "address": "Kampung Binjai Rendah, 21400 Marang, Terengganu",
     "postcode": "21400",
@@ -95317,7 +97389,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5545",
+    "id": "5656",
     "title": "1 Storey Detached House",
     "address": "Lot 3941, Taman Kurnia Jaya, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -95334,7 +97406,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5546",
+    "id": "5657",
     "title": "1 Storey Semi Detached House",
     "address": "Lot 17661, Kampung Tebing Tembah, 23100 Paka, Dungun, Terengganu",
     "postcode": "17661",
@@ -95351,7 +97423,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5547",
+    "id": "5658",
     "title": "Agricultural Land",
     "address": "Lot 316, Gaung, Lubuk Kawah, 22000 Besut, Terengganu",
     "postcode": "22000",
@@ -95368,7 +97440,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5548",
+    "id": "5659",
     "title": "2 Storey Terrace House",
     "address": "Jalan Taman Permai, Kampung Bukit Gasing, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -95385,7 +97457,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5549",
+    "id": "5660",
     "title": "2 Storey Detached House",
     "address": "Lot 895, Kampung Bharu Geliga Besar, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95402,7 +97474,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5550",
+    "id": "5661",
     "title": "3 Storey Shop Office",
     "address": "MBKT-5132, Off Jalan Sultan Sulaiman, 20000 Kuala Terengganu, Terengganu",
     "postcode": "20000",
@@ -95419,7 +97491,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5551",
+    "id": "5662",
     "title": "Land",
     "address": "Lot 7356, Bukit Gasing, Pulau Kerengga, 21600 Marang, Terengganu",
     "postcode": "21600",
@@ -95436,7 +97508,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5552",
+    "id": "5663",
     "title": "Land",
     "address": "Lot 10217, Batu Star, Hulu Nerus, 21500 Setiu, Terengganu",
     "postcode": "10217",
@@ -95453,7 +97525,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5553",
+    "id": "5664",
     "title": "1 Storey Detached House",
     "address": "Kampung Gong Pak Jin, Batu Rakit, 21020 Kuala Nerus, Terengganu",
     "postcode": "21020",
@@ -95470,7 +97542,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5554",
+    "id": "5665",
     "title": "1 Storey Detached House",
     "address": "Lot PT. 29540, Kampung Gong Pak Jin, Batu Rakit, 21020 Kuala Nerus, Terengganu",
     "postcode": "29540",
@@ -95487,7 +97559,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5555",
+    "id": "5666",
     "title": "2 Storey Terrace House",
     "address": "No. 6009, Jalan BTK 2/7, Perumahan Sri Mekar, Taman Binjai Tok Kapor 2, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95504,7 +97576,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5556",
+    "id": "5667",
     "title": "1 Storey Bungalow",
     "address": "Lot 7452, Kampung Amer, Mukim Kampung Raja, 22200 Besut, Terengganu",
     "postcode": "22200",
@@ -95521,7 +97593,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5557",
+    "id": "5668",
     "title": "1 Storey Detached House",
     "address": "Lot 7807, Kampung Sungai Siput, Ajil, 21800 Hulu Terengganu, Terengganu",
     "postcode": "21800",
@@ -95538,7 +97610,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5558",
+    "id": "5669",
     "title": "1.5 Storey Terrace House",
     "address": "No. 37, Jalan Paka Perdana 2, Jalan Klinik Kampung Gemia, 23100 Paka, Terengganu",
     "postcode": "23100",
@@ -95555,7 +97627,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5559",
+    "id": "5670",
     "title": "2 Storey Terrace House",
     "address": "No. 2719, Taman Desa MPKT, Mukim Chendering, 21080 Kuala Terengganu, Terengganu",
     "postcode": "21080",
@@ -95572,7 +97644,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5560",
+    "id": "5671",
     "title": "1 Storey Semi Detached House",
     "address": "Taman Sri Serada, Kampung Banggol Kemang, 20050 Kuala Terengganu, Terengganu",
     "postcode": "20050",
@@ -95589,7 +97661,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5561",
+    "id": "5672",
     "title": "2 Storey Terrace House",
     "address": "No. 381, Jalan Gong Badak, Taman Perumahan Gong Badak, 21300 Kuala Nerus, Terengganu",
     "postcode": "21300",
@@ -95606,7 +97678,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5562",
+    "id": "5673",
     "title": "Shop Office",
     "address": "Jalan Putra A/4, Taman Bandar Putra, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95623,7 +97695,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5563",
+    "id": "5674",
     "title": "1 Storey Terrace House",
     "address": "PT 5892, Jalan Batu Tumbuh, Kampung Gong Kepas Dalam, Taman Al Iman, 22200 Besut, Terengganu",
     "postcode": "22200",
@@ -95640,7 +97712,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5564",
+    "id": "5675",
     "title": "1 Storey Semi Detached House",
     "address": "PT 8128, Lorong Ketapang 2E, Taman Permai Indah 5, Kampung Bukit Kuang, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95657,7 +97729,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5565",
+    "id": "5676",
     "title": "Detached House",
     "address": "Bandar Baru Bukit Mentok, 24000 Kemaman, Terengganu",
     "postcode": "24000",
@@ -95674,7 +97746,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5566",
+    "id": "5677",
     "title": "Detached House",
     "address": "Lot 3079, Jalan Nuri, Kampung Meraga Beris, Kijal, 24100 Kemaman, Terengganu",
     "postcode": "24100",
@@ -95691,7 +97763,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5567",
+    "id": "5678",
     "title": "Detached House",
     "address": "Lot 3080, Jalan Nuri, Kampung Meraga Beris, Kijal, 24100 Kemaman, Terengganu",
     "postcode": "24100",
@@ -95708,7 +97780,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5568",
+    "id": "5679",
     "title": "2 Storey Semi Detached House",
     "address": "Jalan Chabang, Taman Kertih Dahlia 4-1, Kampung Chabang, 24300 Kertih, Terengganu",
     "postcode": "24300",
@@ -95725,7 +97797,7 @@ export const PROPERTIES: Property[] = [
     ]
   },
   {
-    "id": "5569",
+    "id": "5680",
     "title": "1 Storey Factory",
     "address": "Lot 9639, Jalan Kemaman-Dungun, WHS Global Engineering, 24000 Kemaman, Terengganu",
     "postcode": "24000",
